@@ -33,7 +33,7 @@ articlesPaths = [
        ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Messi',
         base + '/Messi'),
         ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Painting/',
-        base + '/Fauvism'),
+        base + '/Painting'),
          ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Architecture/art deco/',
           base + '/Art Deco'),
           ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/USA/California/LA',
