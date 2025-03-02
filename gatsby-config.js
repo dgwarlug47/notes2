@@ -87,7 +87,7 @@ module.exports = {
               })
             },
             query: `{
-              allMarkdownRemark(sort: {frontmatter: {date: DESC}}) {
+              allMarkdownRemark(sort: {frontmatter: {order: DESC}}) {
                 nodes {
                   excerpt
                   html

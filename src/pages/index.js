@@ -77,7 +77,7 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: { frontmatter: { date: DESC } }) {
+    allMarkdownRemark(sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]) {
       nodes {
         excerpt
         fields {
