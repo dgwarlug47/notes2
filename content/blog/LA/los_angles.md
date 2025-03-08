@@ -11,7 +11,7 @@ I personally really like the name, probably my favourite name in all cities of t
 
 Los Angeles county has multiple cities
 - Malibu
-- Los Angeles 
+- Los Angeles
 - Beverly Hills
 - Manhattan Beach
 

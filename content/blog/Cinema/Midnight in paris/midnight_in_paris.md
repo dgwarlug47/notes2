@@ -5,7 +5,7 @@ order: 4
 --- 
 
 ![alt text](image-1.png)
- 
+
 What can I say, Woody just hits differently. When I first watched this movie, I liked it, but I couldn't understand
 why it is a 3.5 Roger Ebert stars. I mean the movie barely has an actual plot, the conflict is just a passatempo, every
 thing in the movie doesn't feel very important. But as time progressed, I understood more and more about why this movie

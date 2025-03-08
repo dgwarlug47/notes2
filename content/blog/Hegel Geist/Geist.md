@@ -10,10 +10,10 @@ order: 3
 3. Geist goals
 
 # Geist definition
- 
+
 ![alt text](image.png)
 
-What is Geist 
+What is Geist
 - Geist is a central concept in Hegel's philosophy. According to most interpretations, the Weltgeist ("world spirit") is not an actual object or a transcendent, godlike thing, but a means of philosophizing about history
 - - For a long time I didn't understand that
 - Weltgeist is effected in history through the mediation of various Volksgeister ("national spirits")

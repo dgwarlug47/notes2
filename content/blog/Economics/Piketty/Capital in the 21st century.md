@@ -20,7 +20,7 @@ Central thesis
 - Capital as % of national income = Income of capital / National income = r * Capital_{n-1} / g*GDP_{n-1}. We can see that r/g is the acceleration of the inequality. The main point is that the numerator increases in an r rate, and the denominator increases as a g. Therefore if we have r > g, the tendency is for a higher percentage of the national income to be destined to capital, which in theory is concentrated among few
 - https://www.khanacademy.org/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/piketty-spreadsheet-1
 
- 
+
 # Graphs
 
 ![alt text](<Inncome inequality in US.png>)

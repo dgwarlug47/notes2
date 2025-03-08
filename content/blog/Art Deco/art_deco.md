@@ -5,7 +5,7 @@ order: 4
 
 # When people ask me about it
 
-1. Impact 
+1. Impact
 2. Representation
 3. Shapes, colors, materials
 

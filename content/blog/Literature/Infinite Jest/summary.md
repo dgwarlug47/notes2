@@ -5,7 +5,7 @@ order: 2
 
 <img src ="image.png" width=300/>
 
-# When people ask me about it 
+# When people ask me about it
 
 ## Style
 

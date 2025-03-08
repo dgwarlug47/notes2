@@ -1,29 +1,38 @@
+---
+title: Literature/Infinite Jest characters
+order: 2
+---
+
 # Family
 
-## Hal
+## Hal Incandenza
 
-![alt text](image-1.png)
+![alt text](image-7.png)
+
+Personal
+- It's weird how I connect with DFW as a person through Hal Incandenza. 99.999% of people have no interest of accumulating all knowledge of mankind, all of these people don't have a Hal Incandenza inside themselves, and it's crazy that DFW also has a "Hal's urge" in him, and he wrote a book about it, and the main revelation even though it's highly tempting to become Hal, it's not worth it all KKKKKKKKKK. But of couse I exagerated everyone has some degree of Hal in themselves
 
 Autism
-- In the very first chapter we can see how autistic he really is, by the fact that he display/shows infinite knowledge.
+- In the very first chapter we can see how autistic he really is, by the fact that he display/shows infinite knowledge, I love the fact that he has summarized all of the dictionary
+- This guy is crazy, he must be autistic or at least he over rationalizes everything, here is a quote from the book: “A coisa toda foi de pesadelo. Eu simplesmente não conseguia sacar o que o cara queria. Eu fui lá e devorei a seção de luto da biblioteca da Copley Square. Não em disco. Livros mesmo. Eu li a Kübler-Ross, o Hinton. Gramei com o Kastenbaum e Kastenbaum. Eu li coisas como Sete escolhas: Dando os passos para uma vida nova depois de perder uma pessoa amada, 84 que eram 352 páginas de babação total. Eu voltei e exibi os sintomas clássicos da negação, barganha, raiva, mais denegação ainda, depressão. Eu listei as minhas sete escolhas clássicas e vacilei plausivelmente entre e em meio a elas. Eu ofereci dados etimológicos da palavra aceitação que voltavam no inglês até Wyclif e no limite até o francês languedocien do século XIV. E o terapeuta de luto nadinha"
+- "as suas estatisticas de erros nao forcados parecem um erro decimal"
+- "Três adversários diferentes nos últimos meses tiveram que receber oxigênio nos tempos de descanso"
 
 Tennis
 - ele com 17 anos eh considerado o quarto melhor tenista do mundo
 
 Addiction
-- Like most young people genetically hard-wired for a secret drug problem, Hal Incandenza also has severe compulsion-issues around nicotine and sugar.
+- Like most young people genetically hard-wired for a secret drug problem, Hal Incandenza also has severe compulsion-issues around nicotine and sugar
 
 Post modern philosophy
-- Can all knowlege be reduced to a formal language, if that's true then a good candidate to achieve all knoweldge would be someone that has memorirzed all of the english dictionary
-- - Wittgenstein said "The limits of my language mean the limits of my world", therefore if you have full understanding of the limits of language you could in theory understand everything we could possibly understand the world.
+- Can all knowlege be reduced to a formal language?, If that's true then a good candidate to achieve all knoweldge would be someone that has memorirzed all of the english dictionary
+- - Wittgenstein said "The limits of my language mean the limits of my world", therefore if you have full understanding of the limits of language you could in theory understand everything we could possibly understand the world
 - - The epistemology of the middle age is that something was true or not based on argument of authority, as humanity moved forward we passed through renassaince and englightment, and we started to shift our knowledge to be more grounded through reasoning, which in some ways are just more formal methods of establishing truth. If we keep moving forward in this direction, the end would be us creating a set of axioms about reality through language, and all of the questions about reality could be resolved through applying the rule of this language, basically we would do to reality what Betrand Russel did to Math.
-- Even though he has a good score on all of the englightment values, he is lacking what makes us human, which deeply shows a big problem with modern society is the fact that rationality is distanting us from our own humanity.
+- Even though he has a good score on all of the englightment values, he is lacking what makes us human, which deeply shows a big problem with modern society is the fact that rationality is distanting us from our own humanity
+- This dialogues with OK Computer because it's an album that takes a lot of western music and replaces humanity in their songs by rationality
 
 Sadness
-- Imagine playing tennis to a guy that is fucking your Mom, that is so like unique and weird and angry, it's just such a wide range of emotions
-
-- This guy is crazy, he must be autistic or at least he over rationalizes everything: “A coisa toda foi de pesadelo. Eu simplesmente não conseguia sacar o que o cara queria. Eu fui lá e devorei a seção de luto da biblioteca da Copley Square. Não em disco. Livros mesmo. Eu li a Kübler-Ross, o Hinton. Gramei com o Kastenbaum e Kastenbaum. Eu li coisas como Sete escolhas: Dando os passos para uma vida nova depois de perder uma pessoa amada, 84 que eram 352 páginas de babação total. Eu voltei e exibi os sintomas clássicos da negação, barganha, raiva, mais denegação ainda, depressão. Eu listei as minhas sete escolhas clássicas e vacilei plausivelmente entre e em meio a elas. Eu ofereci dados etimológicos da palavra aceitação que voltavam no inglês até Wyclif e no limite até o francês languedocien do século XIV. E o terapeuta de luto nadinha
-- as suas estatisticas de erros nao forcados parecem um erro decimal, this combines a lot with. Três adversários diferentes nos últimos meses tiveram que receber oxigênio nos tempos de descanso.
+- Imagine playing tennis to a guy that is fucking your Mom, that is so like unique, weird and angry, it's just such a wide range of emotions
 
 ## Mario
 Deficienty
@@ -82,7 +91,7 @@ Axioms
 - James was a tall and awkward alcoholic, yet still managed to marry Avril
 - He escapes from multiple failures in life, such as his wife infidelity, tennis failure by producing movies in cartridges
 - He is another flash in the pan of this book, a man that had a groomy alduthood for the lack of success and purpose
-- PhD in opticla physics
+- PhD in optical physics
 
 Death
 - Changes the microwave to work with the door open
@@ -162,12 +171,13 @@ forthcoming.
 
 ## Gately
 
-![alt text](<../don gately.png>)
+![alt text](<don gately.png>)
 
 Anthithesis of Hal
 - Hal is smart, Gately is dum
 - - Gately couldn't follow career in football, because he couldn't get a D in English
 - Whenever Gately is ascending his mental state, Hal is descending
+- Hal has every possible reason to be happy, whereas Don has every possible reaosn to be unhappy
 
 Work
 - [VERY SIMILAR TO MANCHESTER BY THE SEA] There's human waste in the showers on a daily

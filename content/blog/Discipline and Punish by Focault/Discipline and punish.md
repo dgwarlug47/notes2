@@ -8,7 +8,7 @@ order: 3
 
 
 # When people ask me about it
- 
+
 Main idea 1: Changes in government/society can be understand by the change in forms of discipline and punishment
 
 Main idea 2: The new main axiom of government/society is effeciency (which revolves around the idea that foucault has that knowledge is power)

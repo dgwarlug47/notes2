@@ -7,7 +7,7 @@ order: 2
 
 # When people ask me about it
 
-Crime and Punishment 
+Crime and Punishment
 - What is a crime?
 - - The modern relativism is applied into crime
 - - The old lady raskolnikov killed was annoying. Is it that bad that he has killed her?

@@ -59,7 +59,9 @@ articlesPaths = [
                    ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/USA/California/SF',
                     base + 'Urban Geography/SF'),
                     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/Canada/Toronto',
-                     base + 'Urban Geography/Toronto')
+                     base + 'Urban Geography/Toronto'),
+                     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Italy/(1321) Divine Comedy/Inferno',
+                      base + 'Literature/Inferno')
 ]
 
 for articlePath in articlesPaths:

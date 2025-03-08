@@ -12,14 +12,16 @@ https://www.theguardian.com/music/2020/jan/23/radioheads-40-greatest-songs-ranke
 # OK Computer
 
 https://www.youtube.com/watch?v=nYYMIYWEdwQ
- 
+
 
 What is it about
 - Thom Yorke had anxiety and depression while he was producing OK COMPUTER, the album has a lot to do with his personal struggles
 - This album is about a criticism of late capitalism and its relationship to technology
 - At the time it launched, it sounded like it had dropped from a another planet
 - It is very prophetic
-- I love this album because it's musical version of brave new world
+- I love this album because it dialogues with 'Brave new world', 'Infinite Jest'
+- The title OK Computer is taken from the 1978 radio series Hitchhiker's Guide to the Galaxy, in which the character Zaphod Beeblebrox speaks the phrase "Okay, computer, I want full manual control now."
+
 
 ## Rolling stone
 
@@ -37,6 +39,7 @@ Basics
 - People and their loss of their individuality
 - Progressive rock
 - https://www.youtube.com/watch?v=TGmh_6Yf5GI
+- Its title and lyrics are a reference to Marvin the Paranoid Android
 
 Comparison with bohemian rapsody
 - In some ways this song is the opposite of bohemian rapsody. Whatever happens in bohemian rapsody, the same is translated to paranoid android by replacing the human by the machine. For example, instead of talking about us being angry about what we have done, it's about us being angry about the system. It's about the human being transformed in the supporting actor
@@ -44,6 +47,9 @@ Comparison with bohemian rapsody
 - The reduction of the human being to a paranoid android
 
 ### Section one (Revolt)
+
+Prelude
+- In bohemians rapsody this is the stage of confession, which is in some ways symmetrical to revolt
 
 Desperate to find some solace in a world of mass 
 
@@ -62,6 +68,7 @@ What's that? (I may be paranoid, but not an android)
 
 
 ### Section two (Rage)
+
 
 When I am king
 
@@ -152,7 +159,7 @@ God loves his children, yeah
 
 ## Karma Police
 
-![alt text](image-1.png)
+![alt text ](image-5.png)
 
 ### Prelude
 
@@ -166,6 +173,7 @@ Thom Yorke quote
 Karma police, arrest this man
 
 He talks in maths, he buzzes like a fridge
+- The use of rationality to use evil
 
 He's like a detuned radio
 
@@ -216,11 +224,12 @@ I lost myself, I lost myself
 Phew, for a minute there
 
 I lost myself, I lost myself
-- For me this sentence is ambiguous, is he happy because those that deserved finally got their punishment, or did he loose his self in the sense that this punishment never really happened, and it was a just a dream
+- For me this sentence is ambiguous, and that's the mystery and suspense of the track, is he happy because those that deserved finally got their punishment? or did he loose his self in the sense that this punishment never really happened, and it was all just a dream
 
 ## No surprises
 
-![alt text](image-3.png)
+![alt text](image-4.png)
+- The feels a bit like the last level hell in Dante's Aligheri Inferno, the cocito because it's so cold in there
 
 ### Prelude
 
@@ -229,6 +238,10 @@ It's a reference to "Wouldn't it be nice" by the Beach Boys, but it is a very sm
 - it's a more montone version, as if the joy of life and the unpredictability of life has been removed
 - Wouldn't it be nice is a very old song, which kind of makes us very nostalgic, in a way that oh my god, back then we life was good
 - Wouldn't it be nice is a lot about a possible future, about surprises, about what good things could happen, whereas no surprises is about our loss of our humanity
+- It's interesting the contrast of band's name: beach boys versus radiohead, and wouldn't it be nice vs no surprises, it's all a reference between the contrast between rationality and humanity
+- For me this song feels a bit like what happens after paranoid android, because in paranoid android there is a revolt, a rebellion, but here they have already given up
+
+
 
 ### Lyrics
 
@@ -272,6 +285,7 @@ Such a pretty house
 
 And such a pretty garden
 - We have everyhing materially but we don't have our own humanity which is something much more important
+- This reminds me a lot of Hal Incandenza from Infinite Jest, because he has everything single thing materially to he happy but he isn't
 
 No alarms and no surprises (get me out of here)
 
@@ -279,6 +293,54 @@ No alarms and no surprises (get me out of here)
 
 No alarms and no surprises, please (get me out of here)
 - "get me out of here" is a silent scream of despair
+
+## Electioneering
+
+I will stop
+
+I will stop at nothing
+
+Say the right things
+
+When electioneering
+
+I trust I can rely on your vote
+
+When I go forwards, you go backwards
+- KKKKKKKKKKKK, class struggle
+
+And somewhere we will meet
+- It's funny because it makes no sense, but that's the joke, what they argue makes no sense beyond rhethoric
+
+When I go forwards, you go backwards
+
+And somewhere we will meet
+
+Ha, ha, ha
+
+Riot shields
+
+
+Voodoo economics
+
+It's life, it's life
+- Capitalist realism
+- Manufacturing consent from Chomsky
+
+It's just business
+
+Cattle prods and the I.M.F
+- KKKKKKKKKKKKKKKKKKKK
+
+I trust I can rely on your vote
+
+When I go forwards, you go backwards
+
+And somewhere we will meet
+
+When I go forwards, you go backwards
+
+And somewhere we will meet
 
 # Appearances
 

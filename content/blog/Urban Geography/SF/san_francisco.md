@@ -7,9 +7,9 @@ order: 3
 
 ![alt text](image-2.png)
 
-# Russian hill 
+# Russian hill
 
-Lombard street 
+Lombard street
 
 ![alt text](image-3.png)
 

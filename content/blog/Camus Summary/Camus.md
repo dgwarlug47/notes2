@@ -5,7 +5,7 @@ order: 3
 
 ![alt text](image.png)
 
-# Personal 
+# Personal
 
 Camus was born in Algeria in 1913. His father was killed a year later in WWI, and Camus was brought up by this mother in extreme poverty.
 

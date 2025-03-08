@@ -7,9 +7,9 @@ order: 3
 DISCLAIMER: THIS IS CONSIDERED PSEUDOSCIENCE
 
 
-# Components 
+# Components
 
-E,I - External vs Internal 
+E,I - External vs Internal
 
 S,N - Sensors, Intuitives (racionalist vs empricist)
 
