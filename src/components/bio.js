@@ -8,7 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import profilePic from "../images/profile-pic.jpg"
+import profilePic from "../images/idol.jpg"
 
 const Bio = () => {
   const data = useStaticQuery(graphql`
