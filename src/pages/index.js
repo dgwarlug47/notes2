@@ -77,7 +77,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]) {
+    allMarkdownRemark(
+        limit: 30
+        sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]
+        filter: { frontmatter: { title: { ne: null } } } ) {
       nodes {
         excerpt
         fields {
