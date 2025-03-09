@@ -1,6 +1,7 @@
 ---
 title: Painting/Expressionism
 order: 5
+description: Very nice
 
 ---
 

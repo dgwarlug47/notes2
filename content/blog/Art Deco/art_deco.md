@@ -1,6 +1,7 @@
 ---
 title: Architecture/Art Deco
 order: 4
+description: Life is good
 ---
 
 # When people ask me about it

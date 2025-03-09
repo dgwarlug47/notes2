@@ -2,7 +2,7 @@
 
 title: Painting/Fauvism
 order: 5
-
+description: Very nice as well
 ---
 
 # History

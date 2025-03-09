@@ -1,6 +1,7 @@
 ---
 title: Philosophy/Kierkegaard
 order: 3
+description: My favourite existentialist philosopher
 ---
 
 # When people ask me about it

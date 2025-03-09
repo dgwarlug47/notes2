@@ -1,6 +1,7 @@
 ---
 title: Psychology/MBTI
 order: 3
+description: My favourite pseudo science
 ---
 
 

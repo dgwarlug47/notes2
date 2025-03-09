@@ -1,6 +1,7 @@
 ---
 title: Painting/Impressionism
 order: 5
+description: Amazing
 ---
 
 Impressionists were pioneers of modern art

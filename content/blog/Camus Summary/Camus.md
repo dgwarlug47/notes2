@@ -1,6 +1,7 @@
 ---
 title: Philosophy/Camus
 order: 3
+description: The one that got me into philosophy
 ---
 
 ![alt text](image.png)

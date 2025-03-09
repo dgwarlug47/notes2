@@ -1,6 +1,7 @@
 --- 
 title: Urban Geography/LA
 order: 3
+description: The best city for virtual tourism (in North America)
 ---
 
 # Prelude

@@ -1,6 +1,7 @@
 --- 
 title: Literature/Inferno
 order: 2
+description: My favourite book of the middle ages
 --- 
 
 # When people as me about it

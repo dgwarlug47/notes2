@@ -1,6 +1,7 @@
 ---
 title: Philosophy/Geist by Hegel
 order: 3
+description: My favourite backyardigans
 ---
 
 # When people ask me about it

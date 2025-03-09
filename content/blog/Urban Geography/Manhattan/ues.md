@@ -1,6 +1,7 @@
 ---
 title: Urban Geography/Upper East Side
 order: 3
+description: My favourite place on Earth
 ---
 
 ![alt text](image-9.png)

@@ -33,12 +33,12 @@
     "Noto Color Emoji";
   --fontFamily-serif: "Merriweather", "Georgia", Cambria, "Times New Roman",
     Times, serif;
-  --font-body: var(--fontFamily-serif);
-  --font-heading: var(--fontFamily-sans);
+  --font-body: 'MyFont';
+  --font-heading: 'MyFont';
   --fontWeight-normal: 400;
   --fontWeight-bold: 700;
   --fontWeight-black: 900;
-  --fontSize-root: 16px;
+  --fontSize-root: 20px;
   --lineHeight-none: 1;
   --lineHeight-tight: 1.1;
   --lineHeight-normal: 1.5;
@@ -61,6 +61,13 @@
 }
 
 /* HTML elements */
+
+@font-face {
+  font-family: 'MyFont';
+  src: url('../Windsor Light Regular/Windsor Light Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 *,
 :after,
@@ -165,7 +172,9 @@ p {
   padding: var(--spacing-0);
 }
 
-ul,
+ulol {
+  margin-left: var(--spacing-20);
+}
 ol {
   margin-left: var(--spacing-0);
   margin-right: var(--spacing-0);

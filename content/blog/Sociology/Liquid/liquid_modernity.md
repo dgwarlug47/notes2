@@ -1,6 +1,7 @@
 ---
 title: Socioloy/Liquid Modernity
 order: 6
+description: KKKKKKKKKKKKKKKKKK
 ---
 
 ![alt text](image.png)

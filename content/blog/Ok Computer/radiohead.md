@@ -1,6 +1,7 @@
 ---
 title: Music/OK COMPUTER
 order: 3
+description: The best albumg of my favourite band (The Beatles don't count)
 ---
 
 ![alt text](image.png)

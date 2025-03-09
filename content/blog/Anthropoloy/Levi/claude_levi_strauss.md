@@ -1,6 +1,7 @@
 ---
-title: Anthropoloy/Claude Lévi-Strauss
+title: Anthropology/Claude Lévi-Strauss
 order: 6
+description: Legend
 ---
 
 
