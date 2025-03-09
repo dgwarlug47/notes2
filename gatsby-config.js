@@ -5,7 +5,7 @@
  */
 
 /**
- * @type {import('gatsby').GatsbyConfig}
+ * @type {import('gatsby').GatsbyConfig} 
  */
 module.exports = {
   siteMetadata: {
