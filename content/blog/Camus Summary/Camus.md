@@ -8,18 +8,16 @@ description: The one that got me into philosophy
 
 # Personal
 
-Camus was born in Algeria in 1913. His father was killed a year later in WWI, and Camus was brought up by this mother in extreme poverty.
-
-He won the nobel prize
-
-He joined the Communist party in 1935
-
-He died at age of 46, having discarded attain ticket to acept a lift back to Paris with a friend, which exemplifies the absurdity of life
-- Isn't it ironic that he died in a very absurd way, and he himself is absurdist
+1. Camus was born in Algeria in 1913. His father was killed a year later in WWI, and Camus was brought up by this mother in extreme poverty.
+2. He won the nobel prize of literature
+3. He joined the Communist party in 1935
+4. He died at age of 46, having discarded a train ticket to acept a lift back to Paris with a friend, which exemplifies the absurdity of life
+- [MYTAKE] KKKKKKKKKKKKK, what a perfect way for the founderm of absurdism to die. It's incredibly ironic that he died in a such a very absurd way
 
 # The BIG question
 
-There is one truly philosophical problem of philosophy: which is the problem of whether to suicide or not
+There is one truly philosophical problem of philosophy: Whether to suicide or not
+- [MYTAKE] The reason why this is such a relevenat philosphical quesion is because before you attempt to answer any other question such as what is right or wrong, you have to choose to stay alive
 
 There are three answers for this problem:
 
@@ -32,6 +30,9 @@ There are three answers for this problem:
 - 99.99999999999999999% of people choose this option, including myself
 3) Absurdism
 - In embracing the absurd (the lack of meaning in the world, even when we are constantly looking for meaning), we constantly try to find value, or subjective meaning in life, even when there isn't an objective meaning, which is absurd, that's why it's called embracing the absurd
+
+Why I love Camus
+- [MYTAKE] I think many philsophers such as Sartre are full of bullshit, because they kinda pretend that the fact that the word has no objective meaning is just something irrelevant, and that having a subjective meaning to our lives is good enough. This is ridiculous in my opinion. Obviously subjective meanings to our lives are useless since it's just random shit we made up. Camus at least gives the proper importance of the despair of life with no objactive meaning
 
 ## Myth of sysiphus
 
