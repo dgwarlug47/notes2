@@ -1,6 +1,6 @@
 ---
 title: History/Fall of the Roman Republic
-order: 5
+order: 6
 ---
 
 # Alea jacta est

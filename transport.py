@@ -75,7 +75,9 @@ articlesPaths = [
                              ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/Anthropology',
                               base + 'Anthropoloy/Levi'),
                                 ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/Sociology/Zygmunt Bauman',
-                                 base + 'Sociology/Liquid')
+                                 base + 'Sociology/Liquid'),
+                                 ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Germany/(1924) The Magic Mountain',
+                                  base + 'Lterature/Magic mountain')
 ]       
 
 for articlePath in articlesPaths:

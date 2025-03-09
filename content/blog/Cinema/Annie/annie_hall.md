@@ -84,6 +84,28 @@ of times, and will continue to be the same years from now, it doesn't
 matter how many books we read or how many Chat GPTs are launched, 
 we will "always need the eggs"
 
+![alt text](1.png)
+
+![alt text](2.png)
+
+![alt text](4.png)
+
+![alt text](5.png)
+
+![alt text](6.png)
+
+![alt text](7.png)
+
+![alt text](9.jpeg)
+
+![alt text](10.jpg)
+
+![alt text](11.jpg)
+
+![alt text](12.jpeg)
+
+![alt text](13.jpg)
+
 # Roger ebert
 
 "Annie Hall" is a movie about a man who is always looking for the loopholes in perfection. Who can turn everything into a joke, and wishes he couldn't.
