@@ -79,7 +79,9 @@ articlesPaths = [
                                  ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Germany/(1924) The Magic Mountain',
                                   base + 'Lterature/Magic mountain'),
                                   ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Documents/Growth/Gym/Fat/Cooking',
-                                   base + 'Groceries/March 2025')
+                                   base + 'Groceries/March 2025'),
+                                   ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Formal Sciences/Mathematics/Logic/(1891) About an elementary question of the theory of diversity - Cantor',
+                                    base + 'Mathemathics/Cantor')
 ]       
 
 for articlePath in articlesPaths:
