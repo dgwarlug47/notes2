@@ -1,5 +1,5 @@
 ---
-title: Anthropoloy/Levi Strauss
+title: Anthropoloy/Claude Lévi-Strauss
 order: 6
 ---
 
@@ -17,10 +17,6 @@ Sad Tropics
 - Globalization
 - Better understand our own ethnicity
 
-# Background
-
-Belgium
-
 # Structuralism
 
 Definition
@@ -31,7 +27,6 @@ Argument in favour of structuralism
 - - A pergunta do porque? Poderia ser pelo horror ou por experiencia de que isso causa doencas geneticas.
 - - Para o Levi Strauss, se o pai mantivesse relacoes sexuais com a filha, isso nao seria optimo dentro de uma perspectiva material, porque se a filha casa com outro homem, eh como se estivesse acontencendo uma troca entre dois homens, que benefeciam o pai.
 
-![alt text](image-1.png)
 
 Another argument for structuralism
 - Santa Claus and Katchina
@@ -39,6 +34,7 @@ Another argument for structuralism
 - - Kachinas: Through ceremonies and rituals, Kachinas teach moral lessons, cultural values, and proper behavior to community members, especially children.
 - - same myth that come from both the same social structure that there is a division between mature and imature people, and how to teach the immature people how to behave correctly
 
+![alt text](image-1.png)
 
 # Sad tropics
 
