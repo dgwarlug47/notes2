@@ -1,19 +1,15 @@
----
-title: Grocery Plan
-order: 30
----
 
 # Plan
 
-<img src="breakfast.png" alt="drawing" width="200"/>
+![alt text](<New Breakfast.png>)
 
-<img src="Lunch.png" alt="drawing" width="200"/>
+![alt text](<New Lunch.png>)
 
-<img src="Before Dinner.png" alt="drawing" width="200"/>
+![alt text](<New Before Dinner.png>)
 
-<img src="Dinner.png" alt="drawing" width="200"/>
+![alt text](<New Dinner.png>)
 
-<img src="After dinner.png" alt="drawing" width="200"/>
+![alt text](<New After Dinner.png>)
 
 # Main
 
