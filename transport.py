@@ -83,7 +83,9 @@ articlesPaths = [
                                    ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Mathematics/Logic/(1891) About an elementary question of the theory of diversity - Cantor',
                                     base + 'Mathemathics/Cantor'),
                                     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza',
-                                     base + 'Cinema/Licorice Pizza')
+                                     base + 'Cinema/Licorice Pizza'),
+                                     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/World cup',
+                                      base + 'World cup/Football')
 ]       
 
 for articlePath in articlesPaths:
