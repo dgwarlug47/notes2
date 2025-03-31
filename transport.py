@@ -77,11 +77,13 @@ articlesPaths = [
                                 ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/Sociology/Zygmunt Bauman',
                                  base + 'Sociology/Liquid'),
                                  ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Germany/(1924) The Magic Mountain',
-                                  base + 'Lterature/Magic mountain'),
+                                  base + 'Literature/Magic mountain'),
                                   ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Documents/Growth/Gym/Fat/Cooking',
                                    base + 'Groceries/March 2025'),
                                    ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Mathematics/Logic/(1891) About an elementary question of the theory of diversity - Cantor',
-                                    base + 'Mathemathics/Cantor')
+                                    base + 'Mathemathics/Cantor'),
+                                    ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza',
+                                     base + 'Cinema/Licorice Pizza')
 ]       
 
 for articlePath in articlesPaths:
