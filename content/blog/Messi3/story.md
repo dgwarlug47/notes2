@@ -4,81 +4,78 @@ order: 1
 description: The one
 ---
 
-
-# Infancia
+# Childhood
 
 <img src="image-56.png" alt="drawing" width="600"/>
 
 Background
-- Messi nasceu em 1987 um ano depois da copa do mundo de Maradona
-- Descendente de italianos e espanhóis, na verdade a parte espanhola era da Catalunha
-- Desde criança demonstrava grande apego à bola, a ponto de negar-se a ir às compras com a família quando não lhe deixavam levar alguma bola
-- A avo dele teve um papel fundamental na carreira dele, mesmo quando ele ainda era muito novo
-E não tinha nenhuma categoria de base para ele, ela convenceu o técnico a colocar ele para
-Jogar, ela era a unica pessoa da familia que incentivava ele para jogar de verdade
+- Messi was born in 1987, a year after Maradona's World Cup
+- - [MYTAKE] For me, this is a true prophecy. It even sounds like Avatar the Airbender; after one of the gods of football peaked, the next one was born
+- Descendant of Italians and Spaniards; in fact, the Spanish part was from Catalonia
+- - [MYTAKE] Oh my god, this is so prophetic; I can't imagine anything more prophetic than this
+- Since he was a child, he showed great attachment to the ball, to the point of refusing to go shopping with his family when they wouldn't let him take a ball
+- - [MYTAKE] KKKKKKKKKKKKKK
+- His grandmother played a fundamental role in his career, even when he was still very young
+- - There was no youth team for him, so she convinced the coach to let him play; she was the only person in the family who encouraged him to really 
+play
+- At the age of eleven, Ceila (his grandmother died)
 
+Romance
+- "I've liked Antonela since I was a boy. I love her more than anything. I'd say it was love at first sight."
 
-"I've liked Antonela since I was a boy. I love her more than anything. I'd say it was love at first sight."
+Growth problem
+- However, at eleven, a hormonal problem was detected that slowed Messi's bone development and, consequently, his growth.[22][23] For a year and a half, the $900 monthly treatment,[22] which consisted of alternating injections in each leg every night, was paid for by the foundation where his father worked until the source dried up.[22] Since Newell's did not want to pay for the continuation of the treatment, the father offered his son to River Plate.[22][23] The interest of the capital club made Newell's back down, but not enough, offering two hundred pesos a month.[22]
+- [MYTAKE] Once again, a sign of prophecy, he had a "disease" that sounds like something terrible, but in fact, it contributed to his footballing skills because of the positioning of his center of mass. It's interesting because Messi's early childhood reminds of the book Outliers, where basically, for someone to be exceptional at something, literally all stars need to line up for example for Messi was: autistic, Argentinian, low hormone growth so many if statements had to be true so he could become what he became
+- [MYTAKE] Perhaps everyone satisfies a certain set of if statements that make them perfect for something
 
+Messi goes to Barcelona
+- The father then decided to try his luck abroad, also to spare the family from the effects of the economic crisis that was occurring in Argentina.[24] A cousin of Jorge Messi's mother lived in Lleida, Catalonia, and took the Messis in. Lionel began to be observed by a Barcelona scout,[24] who recommended him for trials at the club. At thirteen years old and 1.40 meters tall, he managed to do well against boys two years older. However, President Joan Gaspart and sporting director Carles Rexach were hesitant to buy the youngster since they would have to pay not only for his treatment but also for his family's relocation. 
 
+Messi is EXTREMELY shy
+- Pique said that in Messi's first month on the professional team, people thought he was dead; he didn't say anything for the whole month. Cesc Fabregas: he spoke in a very low Argentinean; he hardly spoke either, and it was very difficult to talk to him. 
 
-Com onze anos Ceila (avo dele morreu)
-
-Porém, com onze anos detectou-se um problema hormonal que retardava o desenvolvimento ósseo de Messi e, consequentemente, seu crescimento.[22][23] Por um ano e meio, o tratamento de 900 dólares mensais,[22] que consistia em injeções alternadas em cada perna toda noite, foi custeado pela fundação onde seu pai trabalhava, até que a fonte secou.[22] Como o Newell's não quis custear a continuação do tratamento, o pai ofereceu o filho ao River Plate.[22][23] O interesse do clube da capital fez com que o Newell's voltasse atrás, mas de forma insuficiente, oferecendo duzentos pesos ao mês.[22]
-
-O pai, então, resolveu apostar a sorte no exterior, também para poupar a família dos efeitos da crise econômica que ocorria na Argentina.[24] Uma prima da mãe de Jorge Messi vivia em Lérida, na Catalunha, e acolheu os Messi. Lionel passou a ser observado por um olheiro do Barcelona,[24]que o recomendou para testes no clube. Com treze anos e 1,40 de altura, conseguiu se sair bem contra garotos dois anos mais velhos.
-Mas o presidente Joan Gaspart e o diretor desportivo Carles Rexach hesitavam em adquirir o jovem, uma vez que teria de custear as despesas não só do tratamento, mas também da mudança familiar
-
-Pique said that on Messi's first month in the professional team, people thought he was death, he didn't say anything for the whole month
-
-Cesc Fabregas: ele falava um argentino muito baixo, ele quase nao falava também, de forma geral era
-Muito difícil falar com ele
-
-Depois do primeiro treino de Ronaldinho com Messi ele ligou para uma amiga jornalista dele
-E disse: acabei de treinar com alguém que vai ser melhor do que eu
-
-When Kobe went to Barcelona, Ronaldinho told him that Messi would be the best
-
-Ronaldinho percebeu a timidez dele, e viu que ele precisava de ajuda, por tanto
-Ele convidou ele pro grupo de amigos dele no Barcelona com outros jogadores
-Messi e Ronaldinho moravam na mesma rua, inclusive um ensinou o outro Espanhol e Portugues
-
-Ate hoje Messi diz que R10 foi un pai para ele
-
- Not too long after that, two legends were talking before a friendly between giants Barcelona and Juventus. One, Samuel Eto’o, warned the other, Patrick Vieira, about this kid and told him that one day it would seem like every player who came before him was playing a different sport.
+Ronaldinho's prophecy
+- After Ronaldinho's first training session with Messi, he called a journalist friend of his and said: I just trained with someone who is going to be better than me. When Kobe went to Barcelona, ​​Ronaldinho told him that Messi would be the best. Ronaldinho noticed his shyness and saw that he needed help, so he invited him to join his group of friends in Barcelona with other players. Messi and Ronaldinho lived on the same street; one even taught the other Spanish and Portuguese. To this day, Messi says that R10 was a father to him. Not Too long after that, two legends were talking before a friendly between giants Barcelona and Juventus. One, Samuel Eto'o, warned the other, Patrick Vieira, about this kid and told him that one day, he would seem like every player who came before him was playing a different sport.
 
 # 2004/2005
-Messi faz o primeiro gol dele pelo Barcelona,
-Ele sobe nas costas de Ronaldinho, ou seja o R10 sabia do qual histórico era aquele momento
-E por isso quis prestigia-lo
+Messi scores his first goal for Barcelona,
+- He climbs on Ronaldinho's back, meaning R10 knows how historic that moment was, and that's why he wanted to honor him
+- [MYTAKE] this is goal is legendary, first of all, Ronaldinho who was the best player at the time, asking for a 16 year old kid to climb  his back, Ronaldinho was both a visionary and so humble by this action. Second of all, of all possible goals that Messi would score, he scored a chip which is his trademark
+
+![alt text](image-24.png)
 
 # 2005/2006
+
+Nothing happend in this season as far as i know
 
 # 2006/2007
 
 Ankara Messi
 - Masterpiece
-- Semi final Copa del rey
+- Copa del Rey semi-final
+- [MYTAKE] My second favourite Messi goal all time. Truly beautiful, truly amazing
 
 <img src="image.png" alt="drawing" width="600"/>
 
-
-Pressing
-- Ja no começo da carreira ele fez um gol de mão e um gol que ele driblou todo mundo,
-Esses gols inclusive foram feitos numa distancia temporal curta. Criando comparações
-Com o Classico jogo da Argentina em 1986 contra a Inglaterra
-Ou seja ele ja parecia destinado a ser o proximo Maradona
+Comparisons with Maradona
+- At the beginning of his career, he scored a goal with his hand and a goal in which he dribbled past everyone,
+- These goals were even scored in a short period of time. Creating comparisons with the classic game between Argentina and England in 1986. In other words, he already seemed destined to be the next Maradona
+- [MYTAKE] Messi's career is filled with prophetic signs that it even feels like it was an act of god
 
 ## Copa América
 
-Vice campeão, perdeu para o brasil na final por 3 0, todos os jogadores do brasil
-Não estavam, como Ronaldinho, Roberto Carlos, kaka etc ..
+Runner-up, lost to Brazil in the final by 3-0; all the best Brazilian players were not there, like Ronaldinho, Roberto Carlos, Kaka, etc.
+
+![alt text](image-25.png)
 
 # 2007/2008
 
 ## Champions League
-Ele enfrentou Cristiano pela primeira vez, foi na semi da champions league
-Foi um jogo truncado de poucas oportunidades, so houve um gol nas duas partidas de Scholes
+
+First match between him and Ronaldo
+- He faced Cristiano for the first time in the Champions League semi-final.
+It was a tight game with few opportunities; Scholes scored only one goal in the two matches.
+- [MYTAKE] Those that watched this game could never imagine how great those two would become
 
 # 2008/2009
 
@@ -193,7 +190,7 @@ First leg
 
 Second leg
 - 3 - 1
-- Messi fez 2 gols e 1 assistencia dos 5 gols do Barcelona contra o arsenal, e todos eles Foram clutch dado que o Barcelona quase nao passou, e um desses gols foi belissimo
+- Messi fez 2 gols e 1 assistencia dos 5 gols do Barcelona contra o arsenal, e todos eles Foram clutch dado que o Barcelona quase nao passou, e um desses gols foi belissimo, Iniesta's pass was so beautiful on that goal
 
 <img src="image-43.png" alt="drawing" width="600"/>
 
@@ -209,6 +206,7 @@ First leg
 - 0 - 2
 - Masterpiece
 - "away from two, three four wonderful wonderful wonderful how good is he?"
+- [MYTAKE] This is my favourite Messi goal, he simply produced a masterpiece at a FUCKING CHAMPIONS LEAGE SEMIFINAL AGAINST REAL MADRID AT SANTIAGO BERNABEU AGAINST HIS ARCH RIVAL, truly divine
 
 <img src="image-6.png" alt="drawing" width="600"/>
 
@@ -325,7 +323,7 @@ Aftermath
 Similarity with Maradona
 - (Note que ele perdeu a copa para a Alemanha assim como Diego) num jogo também por 1-0. 
 - Com um gol também no finalzinho do jogo
-
+- [MYTAKE] it's interesting how we need to wait in order to conclude something, many would have conclude that Messi was a fake messiah because he lost to germany, but in fact, his loss to Germany was the exact same thing of what Maradona did, so this loss in to Germany in long term would increase even more his messiah lore, but at that time it was not obvious
 
 Impact after the final
 - O ex agente dele Fabian Saldin citou uma conversa com ele "Fabi, I've been waking up at night thinking about the final in Brazil for a year, I can't sleep".
@@ -387,7 +385,7 @@ The only champions league win of MSN
 
 
 ## Copa América
-No ano seguinte foi vice-campeão da Copa América de 2015 com a Argentina. Messi foi peça importante para a campanha argentina, tendo marcado um gol na estreia contra o Paraguai. Na final, os hermanos foram batidos pelo Chile nos pênaltis, onde somente Messi converteu para os argentinos. Dessa forma, o título ficou com os anfitriões do torneio.
+No ano seguinte foi vice-campeão da Copa América de 2015 com a Argentina. Messi foi peça importante para a campanha argentina, tendo marcado um gol na estreia contra o Paraguai. Na final, os hermanos foram batidos pelo Chile nos pênaltis, onde somente Messi converteu para os argentinos. Dessa forma, o título ficou com os anfitriões do torneio
 
 
 # 2015/2016
@@ -580,7 +578,7 @@ Game
 - 8 - 2
 - It was humilating, it was definetly the end of an era for Barcelona. They have beaten Bayern in 2015, and now lost with a humilliating defeat, showing how the tables have turned
 - This was the mark of the end of messi's history at barcelona
-- How was he able to believe he could still win the world cup after a loss like that is vey impressive
+- [MYTAKE] How was he able to believe, he could still win the world cup after a loss like this is something I will never know
 
 ![alt text](image-67.png)
 
@@ -611,6 +609,7 @@ Messi jogou muito bem naquela Copa América fazendo muitos gols e assistências 
 Prelude
 - Final no Maracana
 - Argentina estava 28 anos sem ganhar um titulo (desde 1983)
+- [MYTAKE] it's kinda funny how bad was the title drought for Argentina, because a copa america which is such a shitty title became the most important thing in the world
 
 
 0 - 1
@@ -640,11 +639,14 @@ Mbappé had said before the World Cup that South American football was not as ad
 
 He left Barcelona to PSG
 - Followed Neymar steps 4 years later
-- There was a lot of optimism from my part, since PSG was a really good team, they hit champions league semi finals in the previous year
+- [MYAKE] There was a lot of optimism from my part, since PSG was a really good team, they hit champions league semi finals in the previous year. Would this finally be the moment where I would be able to see Messi win a champions league?
 
 ## Champions League
 
-PSG lost to Real madrid, Messi missed a penalty that game
+PSG lost to Real Madrid, Messi missed a penalty that game
+- [MYTAKE] so many years of failure how was he able to support that
+
+![alt text](image-71.png)
 
 # 2022/2023
 
@@ -671,6 +673,7 @@ O tecnico foi muito bem, porque ele fez duas alterações complicadas
 - No time contra o Mexico, colocou Julian Alvarez (no lugar de Lautaro, o seguro melhor jogador do
 Time em termos de grife, e colocou um Enzo, um cara super novo)
 - Messi inclusive disse que esse foi o jogo mais difícil da copa
+- [MYTAKE] it's hard to tell when Messi winning the world cup stopped being a daydreaming hobby for me, and became an event that could happen in the real world with at least let's say 10% probability
 
 Masterpiece
 - https://www.youtube.com/watch?v=zXbffJARk1Q
@@ -683,6 +686,7 @@ Masterpiece
 vs Poland
 - Messi perde um penalti contra Polonia, depois daquilo ali eu fiquei desesperado, mas Mac Allister fez o gol da vitoria (jogo com a camisa roxa)
 - Em 1978 kempes perdeu um penalti no terceitro jogo da copa, em 86 maradona perdeu um um penalti no terceitro jogo tambem
+- [MYTAKE] One would shoul come up with a list with all the prophetic signs of Messi's career. I understand overfit things, but come on this is absolutely insane
 
 ### Oitavas de final vs Australia
 
@@ -692,6 +696,7 @@ vs Poland
 
 1 - 0
 - Messi fez um passe antológico no primeiro gol
+- [MYTAKE] One of my favourite Messi's career moments, he was truly divine on that goal
 
 ![alt text](image-58.png)
 
@@ -709,18 +714,18 @@ Drama
 - Foi para os penaltis
 - O time da Argentina provocou o da holanda quando eles ganharam os penaltis
 - Messi falou "miras bobo" durante a entrevista pos jogo
+- [MYTAKE] the "miras bobo" is epic, after decades of argentinians beign mad with Messi for his lack of "argentine behavioiur", he finally delivers a a true argentinian comment, something that Maradona would do
 
 ### Semi final vs Croatia
 
 Prelude
-- Argentina enfrentou a Croacia na semifinal
-Na copa anterior a Argentina enfrentou a Croacia na fase de grupos
-E perdeu por 3 a 0, dessa vez a argentina ganhou de 3 a 0. Uma vinganca simetrica
+- Argentina enfrentou a Croacia na semifinal. Na copa anterior a Argentina enfrentou a Croacia na fase de grupos. E perdeu por 3 a 0, dessa vez a argentina ganhou de 3 a 0. Uma vinganca simetrica
 - O Brazil perdeu para Croacia nos penaltis. A argentina ganhou tranquilamente
 
 Masterpiece
 - Comparable to Maradona's goal of the century
 - History doesn't repeat itself, but it often rhymes (Mark Twain)
+- [MYTAKE] oh captain my captain
 
 <img src="image-12.png" alt="drawing" width="600"/>
 
@@ -733,7 +738,7 @@ Prelude
 
 1 - 0
 - Di Maria sofreu o penalti
-- oh captain my captain
+- [MYTAKE] oh captain my captain
 
 ![alt text](image-61.png)
 
@@ -748,6 +753,7 @@ Prelude
 - 2 - 2
 - Comeca com o Messi perdendo a bola o gol da franca
 - Me lembrou os fiascos anteriores de Messi no barcelona, estava se pintando um clima horrivel, apagoes assim como contra a roma e o liverpool pelo barcelona
+- [MYTAKE] For me this feels like the downside of all we ever knew by the head and the heart, so much effort, years and years of wait so many lost games, 15 years of football for all to be lost due to one penalty. How could that be possible? Why would god do that to us. This is a tipping point in the history of football, will he Messi be forever remembered as the GOAT, high up there with Pele and Maradona or will he be remembered for a joke international career
 
 ![alt text](image-62.png)
 
@@ -761,15 +767,18 @@ Extra time
 - 3 - 3
 - Mbappe de novo (fez um hat-trick)
 - Bruno Formiga destruiu uma parede no estudio quando mbappe empatou pela segunda vez
+- [MYTAKE] KKKKKKKKKKKKKKKK it can't get more argentinian than this
 
 Milagre
 - Emiliano fez um milagre quando o jogo estava preste a acabar, e jogo foi para os penaltis
+- [MYTAKE] KKKKKKKKKKKKKKKKK an unknown aston villa goalkeeper saving the GOAT's career
 
-
-Penaltis
+Penalty kicks
 - Emiliano pegou um penalti
 - Puede ser Hoy Abu (messi disse isso antes do gol do Montiel)
-- Montiel fez o gol de penalti do titulo (ele que fez o penalti o penalti no mbappe do 3-3, ironico)
+- [MYTAKE] Montiel fez o gol de penalti do titulo (ele que fez o penalti o penalti no mbappe do 3-3)
+- [MYTAKE] Montiel's cry of is the perfect of representation of years of wait and expectation for this moment to happen
+- [MYTAKE] It's kinda of funny because for most people on earth, this game was simply entertainement, "oh today we have the world cup final, let's take a look at it, it will be fun", whereas for me this is literally WHAT I HAVE BEEN WAITING MY WHOLE LIFE, how many times have I day dreamed about this moment, I still can't believe that this is actually happened, in the real world, how unlikely was that even to happen after the 2018 world cup, how is that possible, this is fucking crazy. How come a shitty argentinian team that two years ago was struggling at South America's "eliminatorias" with a fading Messi that no longer had power in Europe would win the World Cup, if this is not a miracle from God I have no idea what else would be
 
 ![alt text](image-63.png)
 
@@ -782,8 +791,7 @@ Penaltis
 ![alt text](image-70.png)
 
 Celebration with the team
-- 5 million people went to the celebration in Buenos Aires, a total of 15 million people live in
-Buenos Aires
+- 5 million people went to the celebration in Buenos Aires, a total of 15 million people live in Buenos Aires
 
 
 
@@ -797,6 +805,7 @@ Aftermath
 
 A premiacao da oitava bola de ouro, foi no aniversario do maradona e ele fez uma homenagem a ele
 
+![alt text](image-26.png)
 
 ## World Cup recap
 When Messi retired, dejected and heartbroken in 2016, a 15-year-old boy from San Martin tweeted to Messi, telling him that it was the Argentinian fans who had let Messi down rather than the other way around, urging him to think about staying even though they did not deserve him. “Play for fun, because when you’re having fun, you have no idea how much fun you’re making us. Thank you and forgive us,” tweeted the young boy. Little would that boy have known that six years later, he would have the pleasure of watching Messi have fun alongside him or that he, Enzo Fernández, would win the young player of the tournament award.
@@ -828,11 +837,13 @@ Parallels to Jesus
 
 # 2024
 
-foi pro inter miami,
+He moved to Inter Miami
 o time era o pior colocado e desde que ele chegou o time ganhou uma copa, e chegou na final em outra, mas
 perdeu porque messi se machucou, se eu nao me engano acho que ele perdeu so um jogo jogando como titular
 
 David Beckham era dono do Inter miami
+
+![alt text](image-72.png)
 
 # Videos
 

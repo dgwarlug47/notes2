@@ -5,57 +5,24 @@ description: Oh my god
 ---
 
 ![alt text](image.png)
+I didn’t plan to write anything about this movie, but it’s impossible not to. Manchester by the Sea got under my skin—it lingers. It opens quietly, introducing us to Lee. From the beginning, there’s something off, something unresolved. He seems uninterested in women—is he gay? (Not that it matters.) His behavior feels unusual, and the film skillfully builds a sense of mystery around him. We’re invited to ask: what’s wrong with this man?
 
-I didn't want to write any review about this movie, but it is literally impossible.
-This movie got stuck in my mind. It starts well by introducing Lee to us.
-At first, it is a bit of a mystery why he is the whay he is, he doesn't seem
-to be interested in any woman, is it because he is gay (not that there is anything wrong with that)? And other unusual behaviour. The movie does a good job in adding some expactions to what is
-wrong with Lee. Latter we realise that he indeed is a much more complicated
-character than previously imagined, as the greatest movie line says:
-"there is nothing there". Lee is dead from the inside, living in total
-numbness, in a profound depression, one of the only ways he can feel
-something is by hitting strangers in a masochist way
+And then, the truth slowly unravels. Lee is far more complex than we first imagined. As the most devastating line in the film puts it: “There’s nothing there.” He is hollowed out, emotionally dead, living in a state of profound numbness. Depression has devoured him. One of the few ways he can still feel anything is through violence—picking fights with strangers as a form of self-inflicted punishment. Masochism becomes his only connection to sensation.
 
-Affleck's acting is very truthful, whenever he says anything,
-he says quitely and with so much effort that you can tell
-that life for him is a struggle. The movie has no problem in showing
-to us the bad things that Lee did during his life, but the trauma
-that happened to him, is something that is inhuman, the truth is that
-we all suffer quite a lot during our lives, as Woody allen would say
-"such small portions", but what happened to him is something that nobody
-would desire even for the greatest enemies
+Casey Affleck’s performance is astonishing in its quietness. Every word, every line, feels like it costs him something. You can see the weight of existing in every movement. The film doesn’t shy away from showing us Lee’s past mistakes—some of them terrible—but it also confronts us with the unthinkable tragedy that shattered him. We all suffer, as Woody Allen quips, in “such small portions.” But Lee’s pain is of a different order—something almost inhuman. Something no one would wish even on their worst enemies.
 
-Randi seems to exist only for his own suffering (that could apply for anything but still)
-Her baby and her husband, are a current reminder that even though the
-trauma affected a lot of people, he is the one in charge of the eternal
-grief for his daughters. In some ways, it feels like he is depressed for the rest
-of his life, it's the way he can assure that his kids memories will always be
-alive in some way
+Randi, his ex-wife, becomes a vessel for his grief. Her new life—her husband, her baby—is a constant reminder of everything Lee has lost. Yet it’s Lee who bears the eternal weight of guilt. The grief is his to carry alone. His sadness seems like a ritual—like staying depressed is his way of keeping his daughters alive. If he ever felt joy again, maybe it would mean letting go—and that’s unthinkable.
 
-I am not sure what Lee sees in life, I don't know why he is even alive for,
-he has a bad job where he basically does it only to keep his mind focused in
-something else, and go after work get drunk and watch sports. If that's all
-of life is, why even stay alive? The only reason is Patrick. In the end,
-the baseball is a metaphor for
-his life, he found it completely loose in a yard, and after playing a bit
-with it, he was about easily largar it, but Patrick was
-there to push him to keep playing, almost as if he was poking a dead body. Finally the movie ends
-perfectly, as it began, with Patrick's only good memory in his entire life,
-after all, the sea what what his brother loved the most, and perhaps the only
-good part of Manchester that hasn't been floded with his kids death
+It’s hard to understand what keeps Lee alive. He works a joyless job, drinks after hours, watches sports to distract himself from his thoughts. If this is all there is, why keep going? And yet—there’s Patrick. His nephew. Maybe the only thing tethering Lee to the world. In one scene, a baseball becomes a metaphor for his life. Lee finds it lying in a yard, plays with it for a moment, and nearly throws it away. But Patrick nudges him—urges him to keep playing. It’s like he’s trying to animate a corpse, to revive someone long gone.
 
-# Other coments
+The film ends as quietly as it begins—with the sea. The ocean was his brother’s favorite thing, and maybe it’s the only part of Manchester untouched by tragedy. It’s also the only place where a memory can exist without hurting too much.
 
-Life with no narrative closure
+Other thoughts:
+This is a film about life without narrative closure. There’s no redemption arc, no big catharsis. And that’s precisely what makes it feel so real. The flashbacks are handled masterfully—they don’t appear for the audience’s benefit, but as spontaneous intrusions, just as real memories do. For instance, when Lee hears he’s now Patrick’s guardian, his mind immediately goes to his own children. Not as a plot device, but because that’s what would actually happen to someone still haunted by trauma.
 
-flashbacks are realistic because it feels like the flashbacks happen when a real person
-would think about the past, for example Lee remembers about his dead kids exactly in the
-moment where he knows his brother told him to be his kid's guardian, that's very realistic
+Even the difficulty he has burying his brother serves as a subtle metaphor: Lee can’t lay anything to rest—not his sibling, not his past, not himself.
 
-the way the flashbacks show up (very seamlessly) shows how Lee is still very much traumatized
-about this past, and in some ways still lives in the past
+He’s a hollow shell. As he tells Randi, “There’s nothing there.” He’s not a bad person. He made a terrible, tragic mistake. A stupid one. But he isn’t evil—he’s broken, drowning in guilt and sorrow.
 
-the fact that there is some difficulties to bury his brother is a metaphor that he can't be
-put to rest figuratively
+This movie doesn’t offer easy answers. It doesn’t let us escape into fantasy. Instead, it forces us to sit with pain and recognize that some wounds don’t heal. Some people don’t "move on." And that’s okay. Because even in the absence of healing, there’s still love. There’s still memory. And there’s still baseball.
 
-He's a hollow shell and, as he tells Randi, “there's nothing there” – meaning, he can't feel anything. His tragic past as left him numb. That said, Lee isn't a bad guy. He made a tragic mistake (stupid even) but a mistake nonetheless. He isn't evil, he's broken, guilt-ridden and in pain.

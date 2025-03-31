@@ -73,6 +73,9 @@ Whey
 Chocolate
 - 30g > 30g*7 = 210g
 
+Milk
+- free
+
 Condiments
 - Alho
 - Oil

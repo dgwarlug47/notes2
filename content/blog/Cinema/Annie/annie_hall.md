@@ -1,89 +1,28 @@
 ---
 title: Cinema/Annie Hall
 order: 4
-description: My favourite movie
+Description: My favorite movie
 ---
 
 ![alt text](image.png)
 
-A million feelings run in my mind when it comes to Annie hall. This movie is really important in my life, since it was one of
-my first truly cinematrophical experiencess, and my all time favourite movie.
-This is my second time watching it, the first was with my brother.
-Woody is a perfect personification of New York, he is anxious, intellectual,
-confused, unfaithful, sad and lonely. I don't think it is healthy to idealize
-this bad nature, but it is impossible to not awe it's beauty, the defects
-are what makes him special, as the old fashion movie title goes: the good the bad and the ugly
+A million feelings come rushing in when I think about Annie Hall. This film holds a special place in my life—it was my first truly cinematic experience, and to this day, it's my all-time favorite movie. Watching it again now, for the second time—after first seeing it with my brother—I feel even more connected to it.
 
-I have never lived in New York, and I wouldn't be surprised if living
-there is not as great as it is in my head, but I would do anything
-to live in Woody Allen's New York. Whenever I think about Upper East side and the sound of Woody's jazz
-side, it just hits different, for me it has so much style. In my imagination,
-UES is where the real Woody lives, and goes to a cafe to talk with a times magazine
-cook critic about portuguese culinary. For me New York is the pinnacle
-of the western culture, unlike Paris which now is just a museum,
-NYC is where things happen, hundreds of woody allen movies are happening
-every day there (for this is magically insane), and that is what makes NYC so special to me.
-In some sense, it is more about the people that live there
-and what they represent, whether than the city itself.
-Most importantly Woody manages to transmit thIS New York energy to
-the audience. I personally feel that, on of every single of one his movies.
-Nonetheless this one definetly stands out.
+Woody Allen, in this film, becomes the embodiment of New York: anxious, intellectual, neurotic, unfaithful, melancholic, and deeply lonely. It’s not necessarily healthy to romanticize that kind of chaos, but there’s a strange beauty to it. His flaws make him captivating, like the title of that old Western: the good, the bad, and the ugly—all wrapped into one.
 
-One of my favourite things about this movie is that it's
-scenes are like Messi's 2010/2011 UCL goals, all of them
-are classics, the scene where they have their first intimate talk (where the subtitles show what they are truly talking about)
-in Annie's balcony, the sex scene where Annie's body get detached, the
-scenes where both of them are talking to their respective therapists at the same time,
-the scene where Woody asks how a couple can be so happy, and they answer -
-because they are dumb (this one is one of my all time favorite scenes, it's funny because it's true DFW would agree with that). It is as if Woody silently watched thousands of relationships, and managed
-to find the universal truths. He did what Hegel describes as the concrete universal, all modern romantic relationships (which is something abstract) materialized into a particular example, a pure masterpiece. All of its scenes are very funny,
-relatable, universal and creative and that's why it makes them instant classics
+I’ve never lived in New York, and I wouldn’t be surprised if the real thing isn’t nearly as glamorous as the version I’ve built in my head. Still, I’d give anything to live in Woody Allen’s New York. The Upper East Side, the jazz playing softly in the background—it all has such an effortless charm. In my imagination, Woody is there, chatting with a New York Times food critic in a cozy café about Portuguese cuisine. For me, New York isn’t just a city—it’s the height of Western culture. Unlike Paris, which has become more of a museum, New York moves. It breathes. It’s alive with hundreds of little Woody Allen movies playing out every day. That’s what makes it so unique—not the place itself, but the people, the energy. And Woody channels that energy into every one of his films. Especially this one.
 
-Another important theme of this movie, that I can't not quite perfectly grasp is happiness.
-The beginnig of the movie goes straight to the point, a major part of being
-happy is stop looking around but learning to be happy with what you have.
-Woody has a negative perspective on life, as he mentiones at the first line of the movie: "Two Elderly
-woman are at the catskill mountain resort, one of them says "the food here is
-terrible", and the other one says in such small portions"", which comes from
-the fact that he over analyzes things, and see problems everywhere, it is
-as if he was programmed to be unhappy, he cannot enjoy a club that he is part
-of, and to a certain extent all of us are like that, and even though that
-may make us unhappy, perhaps this what makes the world going forward, I don't know
+What I love most about Annie Hall is how iconic every scene feels. They’re like Messi’s 2010/2011 Champions League goals—pure classics. The first intimate conversation on her balcony, with subtitles showing their true inner thoughts. The sex scene where Annie’s body floats out of herself. The brilliant sequence with both characters talking to their therapists at the same time. And the unforgettable moment when Woody asks a couple how they stay happy, and they reply, “Because we’re dumb.” That line is one of my all-time favorites—it’s hilarious because it’s true. DFW would agree. It’s as if Woody sat silently, observing thousands of relationships, and distilled the truth from them all. Like Hegel’s “concrete universal,” he gives form to something abstract: modern romantic love. The film becomes a masterpiece of observation—every scene funny, relatable, specific, yet somehow universal.
 
-I have to admit I see myself in this movie specially in the scene with his
-second wife. He wants to watch the Knicks game when he is around intellectuals, on other hand, when he is around
-normies he also wants to talk about something interesting, he feels like he is always on the
-wrong spot, always innapropriate, he either too short or too tall, too smart or too
-dumb, life is never perfect, and for the average person, that is unoticed, but
-for him is a torture. With this mindset he will never be happy, in fact he will
-constantly choose unhapiness over hapiness
+Another theme that lingers in this film is happiness—and how hard it is to define. The movie doesn’t waste time getting to the point: part of being happy is learning to stop searching and appreciate what you have. But Woody’s character is wired to overanalyze. As he jokes in the opening line: “The food is terrible... and such small portions.” He’s programmed to find flaws in everything. He can’t enjoy a club he’s part of. And in a way, aren’t we all a little like that? Maybe that kind of dissatisfaction is what drives the world forward... or maybe it just makes us miserable. I’m not sure.
 
-Even though I am pretty sure that's not what woody meant for this movie, perhaps
-one of the greatest lesson I take from it is that, dum bpeople are happier, simply
-because they are not smart to see the problems with their current state, they
-are easy to please
+I see myself in this film, especially in the scene with his second wife. He’s with intellectuals but wants to watch the Knicks. He’s with normies but wants to talk philosophy. He’s always in the wrong room, always out of place. Too much or too little. Too bright or not bright enough. For most people, this dissonance is background noise. But for him, it’s torture. And with that mindset, how can you ever be happy? He constantly chooses dissatisfaction. He chooses unhappiness—almost on purpose.
 
-Something interesting about this movie is the amount of metalinguistics present
-on it, which is more than natural since it is fucking autobiographical. One particular
-metalinguistic that really stand out is when Woody conducts a play
-that has the exact same lines of what she said to him. At the first time I watched
-it I didn't realize, but after reading Roger Ebert, I realize how sad this scene is,
-after you loose your chance of big love, you spend the rest of your life making
-plays on your head, about what happened and what could have been.
-Note as well, the moment where she leaves him on the last scene, his body language
-clearly shows he doesn't want her to leave, Annie Hall will be forever in his mind,
-she will always be his maybe. Or maybe he just keeps liking her because she is not with him
-anymore, he just like her because he keeps choosing unhappiness over happiness
+I doubt this was Woody’s intended takeaway, but one of the conclusions I draw from the film is that dumb people are happier. Not because they’re simple—but because they’re not burdened by endless self-awareness. They don’t see the cracks, so they live more easily. They’re easier to please.
 
-Overall, the greatest achievement of this movie is to be a perfect dissection
-over what is a relationship, even though I only had one relationship
-in my life, I can still tell that this movie perfectly describes
-what is one, to be honest I could even tell before
-I ever had a relationship, this is why this movie will always be
-timeless, because relationships have been the same since the beginning
-of times, and will continue to be the same years from now, it doesn't
-matter how many books we read or how many Chat GPTs are launched, 
-we will "always need the eggs"
+One of the most fascinating aspects of Annie Hall is its metalinguistic playfulness—totally expected in something so autobiographical. A standout moment is when Woody stages a play using the exact words Annie once said to him. The first time I saw it, I missed the weight of that scene. But after reading Roger Ebert, it hit me: when you lose the love of your life, you spend the rest of your days replaying what happened, rewriting the script in your head. In the final scene, when Annie leaves, his body language screams that he doesn’t want her to go. She’ll always linger in his mind. She’ll always be the maybe. Or maybe... he only loves her because she’s not with him anymore. Maybe he just keeps choosing the pain.
+
+What makes Annie Hall truly timeless is its flawless dissection of romantic relationships. I’ve only had one real relationship in my life, and yet this film captures it all better than I ever could. Before I saw it, I didn’t even know how to define what a relationship was. And now? I feel like I do. That’s why it resonates so deeply. Because love hasn’t changed in a thousand years—and it won’t change in a thousand more. No matter how many books we read, or how many versions of ChatGPT get released… we’ll always need the eggs.
 
 ![alt text](1.png)
 
@@ -109,53 +48,56 @@ we will "always need the eggs"
 
 # Roger ebert
 
-"Annie Hall" is a movie about a man who is always looking for the loopholes in perfection. Who can turn everything into a joke, and wishes he couldn't.
+"Annie Hall" is a movie about a man who is always looking for loopholes in perfection. Who can turn everything into a joke and wish he couldn't?
 
 Viewing the final cut, I sensed not only how well the remains hold together but how miraculously, since the parts would seem to be an ungainly fit. Consider Allen's astonishing range of visual tactics, including split screens in which the characters on either side directly address one another; a bedroom scene where Annie's spirit gets up during sex to sit, bored, in a chair by the bed; autobiographical flashbacks; subtitles that reveal what characters are really thinking; children who address us as if they were adults ("I'm into leather"); an animated sequence pairing Alvy with Snow White's wicked witch; and the way Alvy speaks directly out of the screen to the audience.
 
 That Annie Hall is the great love of his life is immediately clear, and the movie is a flashback from the opening monologue in which he sadly notes that a year earlier they were in love; the movie is his analysis of what went wrong, and his answer is, he found happiness, but couldn't accept it. Groucho's line "is the key joke of my adult life, in terms of my relationships with women."
 
-This is not merely dialogue, it is a double act in the process of discovering itself. The more we listen to Annie and Alvy talk, the more we doubt they meet many people who can keep up with them. When Alvy expresses reluctance to let Annie move in with him, and she complains that her apartment is too small and has bad plumbing and bugs, who but Alvy could take "bugs" as his cue, and observe, "Entomology is a rapidly growing field." And only Annie could interpret this as, "You don't want me to live with you."
+This is not merely dialogue, it is a double act in the process of discovering itself. The more we listen to Annie and Alvy talk, the more we doubt they meet many people who can keep up with them. When Alvy expresses reluctance to let Annie move in with him, she complains that her apartment is too small and has bad plumbing and bugs, but Alvy could take "bugs" as his cue and observe, "Entomology is a rapidly growing field." And only Annie could interpret this as "You don't want me to live with you."
 
 
-the master of unhapiness
+The master of unhappiness
 
 cara primeiros 5 segundos eh muito engracado
 
-talk about universe expanding
-he exagerates his childhood
+talk about the universe expanding
+he exaggerates his childhood
 
-I think it is interesting how he talks with his memories
+I think it is interesting how he talks about his memories.
 
-also really like the jazz
+I also really like the jazz
 
-he became a comendian
+He became a comedian
 
-their first conversation is literraly the most typical couple conversation
+their first conversation is literally the most typical couple conversation
 
 he can't get inside the movie after it started
 
-in some ways self centeredness is one of the best ways for unhapiness, because you can overinflate problems
+in some ways, self-centeredness is one of the best ways to unhappiness, because you can overinflate problems
 
 he thinks about hypothetical scenarios, like answering the teacher in primary school or making a director
 answer someone cursing his movies
 
-observe how saying one thing about this ex wife, he starts remembering about her
+observe how saying one thing about their ex-wife, he starts remembering about her
 
-he reminds us of groucho marx joke, which means he was nice, thus he meant this movie to the average person
+He reminds us of the groucho marx joke, which means he was nice, thus he meant this movie to the average person
 
-one of his ex wifes was too intellectual
+one of his ex wives was too intellectual
 
 horrible and miserable division
 
-this relationship is clearly a downgrade, he is dating someone lower in the intellectual level than usual
+this relationship is clearly a downgrade; he is dating someone lower 
+in the intellectual level than usual
 maybe he knows it is doomed to fail
 
-Don't knock with masturbation it's sex with someone i love
+Don't knock 
+with 
+masturbation it's sex with someone I love
 
-a relationship is like a shark it has to constantly move forward or it dies
+a relationship is like a shark it has to constantly move forward, or it dies
 
 he writes a play so that we can see his relationship working
 
-My brother is crazy, he thinks he is a chicken. Why don't your turn him in?
+My brother is crazy, he thinks he is a chicken. Why don't you turn him in?
 Because I need the eggs
