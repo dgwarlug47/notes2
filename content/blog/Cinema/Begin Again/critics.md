@@ -1,7 +1,7 @@
 ---
 title: Cinema/Begin Again
 order: 4
-Description: Lost stars
+description: Lost stars
 ---
 
 
@@ -13,7 +13,7 @@ The part about Dave cheating feels almost surreal to me. In real life, people do
 
 The cheating reveal scene is especially well done. The way she picks up on Dave’s expression—decoding his guilt from just a glance—says so much about her sensitivity. Most people would need more clues, more time. But her ability to perceive it instantly highlights how deeply attuned she is, how emotionally intelligent and intuitive her character is.
 
-And that album idea—recording each song in a different location across New York—how did I never think of that? It’s so simple, yet brilliant. It feels adventurous and organic, giving the whole album a sense of authenticity that’s rare in today’s pop music. That kind of raw, spontaneous creativity is what makes the movie feel so fresh.
+And that album idea—recording each song in a different location across New York—how did I never think of that? I literally I already wrote a million rom coms, how come I have never thought about that? KKKKKKKKKKKKKKKK. It’s so simple, yet brilliant. It feels adventurous and organic, giving the whole album a sense of authenticity that’s rare in today’s pop music. That kind of raw, spontaneous creativity is what makes the movie feel so fresh.
 
 What I love most about this film is how unpolished and non-formalist it is. It mirrors real life—messy, chaotic, unstructured—yet it finds meaning and beauty in all that disorder. The film, true to its title, is about beginning again. It’s about finding magic and joy in the ruins, about rediscovering beauty when it feels like all hope is gone.
 

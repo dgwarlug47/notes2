@@ -1,7 +1,7 @@
 ---
 title: Cinema/Annie Hall
 order: 4
-Description: My favorite movie
+description: My favorite movie
 ---
 
 ![alt text](image.png)
