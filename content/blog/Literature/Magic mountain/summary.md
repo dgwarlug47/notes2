@@ -1,28 +1,30 @@
 ---
 
-title: Literature/The Magic Mountain
-order: 2
-description: The book I want to read the most
+title: Literature/The Magic Mountain  
+order: 2  
+description: The book I want to read the most  
+
 ---
 
-![alt text](image-1.png)
+![Cover of The Magic Mountain](image-1.png)
 
-Setting
-- Hans gets sick and goes to a sanatory (named Berghof)
-- In this Sanatory, time passes differently
-- Completely distant and detatched from society
+## Setting  
+- Hans Castorp, the protagonist, falls ill and is sent to a sanatorium called Berghof.  
+- In this sanatorium, time seems to pass in a strange and almost surreal manner.  
+- The setting is completely isolated and detached from the rest of society, creating a unique atmosphere.  
 
-Ideological debate
-- Every single ideology of the beginning of the WW1 is represented by a character
-- Marxism, secularism, capitalism, fascism
-- They all try to convince Hans that their ideology is correct
+## Ideological Debate  
+- The novel presents a microcosm of the ideological conflicts leading up to World War I, with each character embodying a distinct ideology.  
+- These ideologies include Marxism, secularism, capitalism, and fascism.  
+- Each character attempts to persuade Hans that their worldview is the correct one, creating a rich tapestry of philosophical and political discourse.  
 
+## Bildungsroman  
+- The novel is a parody of the traditional Bildungsroman (a coming-of-age story).  
+- Instead of the protagonist discovering the "correct" way of life after experiencing various perspectives, Hans spends seven years in the sanatorium without reaching any definitive conclusions.  
+- This reflects the ambiguity and complexity of real life, leaving Hans with more questions than answers.  
+- The Magic Mountain is considered the "final word" on the Bildungsroman genre. In fact, there have been few innovative works in this genre since, as if it has reached its creative limits.  
 
-Bildungsroman
-- [Parody] Instead of the main character figuring out the correct way of life after the experience different points of view, in the magic mountain the main character doesn't learn anything in these 7 years and is left with answers, as in the real life
-- It is considered the "ultima palavra" of a Bildungsroman, in fact there hasn't been many innovative books on this genre anymore, as if it is a solved problem
+## Author  
+- Thomas Mann, the author of *The Magic Mountain*, was awarded the Nobel Prize in Literature in 1929 for his outstanding contributions to literature.  
 
-Author
-- Won Nobel of Literature in 1929
-
-![alt text](image.png)
+![Illustration related to The Magic Mountain](image.png)

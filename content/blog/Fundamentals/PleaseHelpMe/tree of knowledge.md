@@ -5,9 +5,6 @@ order: 1
 description: Axioms
 ---
 
-
-# Tree of Knowledge
-
 ## Art
 - **Music**
   - Rock

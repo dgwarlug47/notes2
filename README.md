@@ -12,11 +12,12 @@ Kick off your project with this blog boilerplate. This starter ships with the ma
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
-## TO DO LIST
+## Copilot list
 
 [X] Liquid modernity
 [O] Roman Republic
-[] Licorice Pizza
+[X] Licorice Pizza
+[X] Magic mountain
 
 ## 🚀 Quick start
 

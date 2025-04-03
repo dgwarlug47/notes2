@@ -89,7 +89,9 @@ articlesPaths = [
                                       ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Fundamentals',
                                        base + 'Fundamentals/PleaseHelpMe'),
                                        ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Begin Again',
-                                        base + 'Cinema/Begin Again')
+                                        base + 'Cinema/Begin Again'),
+                                        ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/World cup',
+                                         base + 'World cup/Football')
 ]
 
 for articlePath in articlesPaths:
