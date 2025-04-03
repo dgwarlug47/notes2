@@ -121,6 +121,13 @@ On the group stage, Italy had three draws, no one could ever imagine that they w
 
 ### Quarter-finals
 - Italy 3–2 Brazil  
+- [MYTAKE] Most brazilian defeats make me angry, but this one I can't help it but find it funny
+- [MYTAKE] I find this game magical, because Brazil's strange case of Dr Jekyll and Mr Hyde. How come a team can be so absolutely beautiful on the offense, but so careless and pathethic on the defense
+![alt text](rossi1.png)
+![alt text](rossi2.png)
+![alt text](socrates.png)
+![alt text](falcao.png)
+![alt text](1982.png)
 - West Germany 5–4 France (Penalties, after 3–3 AET)  
 - Poland 0–0 Soviet Union (Poland advanced)  
 - France 4–1 Northern Ireland  
