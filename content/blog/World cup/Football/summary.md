@@ -90,6 +90,9 @@ Argentina vs Netherlands (4-0)
 
 ### Semi-finals (Second Group Stage Winners)
 - Netherlands 2–0 Brazil
+-  - Arguably one of the most important goals of Cruyff's career
+![alt text](CRUYYF.png)
+
 - West Germany 1–0 Poland
 
 ### Final
@@ -100,7 +103,9 @@ Argentina vs Netherlands (4-0)
 ### Semi-finals (Second Group Stage Winners)
 - Argentina 6–0 Peru  
 - Netherlands 2–1 Italy  
+- - A very stunning goal
 
+![alt text](1978-3.png)
 ### Final
 - Argentina 3–1 Netherlands (AET)
 - - It's funny because the goals from argentina are disorganized. Whereas Holland had a football philosophy, theory, structure and all of that
