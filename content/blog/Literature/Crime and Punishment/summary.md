@@ -234,8 +234,6 @@ The novel vividly portrays the impact of poverty on people's lives, serving as a
 - **Poverty as a Catalyst for Conflict**: For instance, Dounia works as a servant to make ends meet, only to face harassment from her landlord. Despite the abuse, she cannot leave because she
 
 
-# other
-
 ### Poverty and Money
 
 The novel vividly portrays the harsh realities of poverty and its profound impact on people's lives. Dostoevsky uses this theme to explore how financial hardship can lead to moral dilemmas, personal struggles, and societal conflicts.

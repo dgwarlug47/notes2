@@ -91,7 +91,9 @@ articlesPaths = [
                                        ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Begin Again',
                                         base + 'Cinema/Begin Again'),
                                         ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/World cup',
-                                         base + 'World cup/Football')
+                                         base + 'World cup/Football'),
+                                         ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Canada/(1985) The Handmaid's Tale",
+                                          base + 'Literature/The Handmaid'),
 ]
 
 for articlePath in articlesPaths:
