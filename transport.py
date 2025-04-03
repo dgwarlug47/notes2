@@ -94,6 +94,12 @@ articlesPaths = [
                                          base + 'World cup/Football'),
                                          ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Canada/(1985) The Handmaid's Tale",
                                           base + 'Literature/The Handmaid'),
+                                          ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1958) Breakfast at Tifanny's",
+                                           base + 'Literature/Breakfast at Tifanny'),
+                                           ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Brazil/(1881) Memorias Postumas de Bras Cubas",
+                                            base + 'Literature/Memorias Postumas de Bras Cubas'),
+                                            ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1920) The Age of Innocence",
+                                             base + 'Literature/The Age of Innocence')
 ]
 
 for articlePath in articlesPaths:

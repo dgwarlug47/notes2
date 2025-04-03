@@ -21,6 +21,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 [X] Crime and punishment
 [X] Hand maid
 [X] Infinite Jest
+[X] Memorias 
 
 ## 🚀 Quick start
 

@@ -32,7 +32,7 @@ What is it about
 
 ## Paranoid android
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 Android = an automaton that resembles a human being
 
@@ -229,7 +229,8 @@ I lost myself, I lost myself
 
 ## No surprises
 
-![alt text](image-4.png)
+![alt text](image-3.png)
+
 - The feels a bit like the last level hell in Dante's Aligheri Inferno, the cocito because it's so cold in there
 
 ### Prelude
