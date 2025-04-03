@@ -18,6 +18,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 [O] Roman Republic
 [X] Licorice Pizza
 [X] Magic mountain
+[X] Crime and punishment
 
 ## 🚀 Quick start
 

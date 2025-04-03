@@ -8,69 +8,78 @@ description: My favourite book
 
 # When people ask me about it
 
-Crime and Punishment
-- What is a crime?
-- - The modern relativism is applied into crime
-- - The old lady raskolnikov killed was annoying. Is it that bad that he has killed her?
-- - veia filosofica do livro
-- What is a punishment?
-- - In fact the crime is defined by the punishment, if you are suffering from punishment then you probably performed crime
-- - Classic phihlosophy on crime shows up internally in Raskolnikov regardless of
-- - veia psicologica do livro
+## Crime and Punishment
+
+### What is a Crime?
+- The concept of crime is explored through the lens of modern relativism.
+- Raskolnikov's victim, the old pawnbroker, is portrayed as an annoying and unpleasant person. This raises the question: is it truly so bad that he killed her? Does her character justify the act in any way?
+- The philosophical undertone of the book delves into the moral ambiguity of crime, questioning whether morality is absolute or subjective.
+
+### What is a Punishment?
+- Punishment is intricately tied to the definition of crime. The novel suggests that if you are suffering from punishment, then you have likely committed a crime, whether by societal standards or your own conscience.
+- Raskolnikov's internal turmoil reflects classic philosophical debates on crime and punishment. His guilt and psychological suffering serve as a form of self-imposed punishment, even before external consequences are enforced.
+- The psychological depth of the book reveals how punishment manifests internally, regardless of external judgment or societal norms.
+- The novel intertwines philosophical and psychological perspectives, making the reader question the true nature of justice and retribution.
 
 # Philosophy
 
-What is existentialism
-- Dostoevsky was part of a movement called the existentialist movement– a movement consisting of writers and philosophers that debated the meaning of life, morality and the existence of God. All of Dostoevsky's work focuses around these important questions, with Crime and Punishment focusing on morality in particular.
+## Existentialism and Morality in Crime and Punishment
 
-Consequences of Nietzsche
-- Crime and punishment is written in a similar time as Nietzsche
-- The rejection of God by some, fueled by the Enlightenment and Darwinian morality, gave way to relativism– the concept that there is no such thing as right and wrong, but rather that morality is subjective. Without an objective reference frame by which to guide our moral values (i.e. God's nature), there can be no valid standard by which to judge right and wrong objectively, meaning that morality depends on preference only.
+### What is Existentialism?
+Dostoevsky was part of the existentialist movement—a group of writers and philosophers who explored profound questions about the meaning of life, morality, and the existence of God. All of Dostoevsky's works revolve around these existential themes, with *Crime and Punishment* focusing particularly on morality. The novel examines the tension between rationality and morality, challenging readers to confront the complexities of human existence.
 
-Every character represents a philosophy
-- Sonya -> christianism
-- Svidrigailov -> hedonism
-- Lupin -> ubermensh
+### Consequences of Nietzschean Philosophy
+*Crime and Punishment* was written during a time when Nietzsche's ideas were gaining prominence. The rejection of God, fueled by the Enlightenment and Darwinian morality, led to the rise of relativism—the belief that there is no absolute right or wrong, only subjective morality. Without an objective reference frame, such as God's nature, morality becomes a matter of personal preference. Dostoevsky critiques this relativism by illustrating its destructive consequences on the human soul.
 
-C&P is part one of what I consider a trilogy. It is an inspection of a man who believes rationality can usurp morality and the personal consequences he faces.
+### Philosophical Archetypes in the Characters
+Each major character in *Crime and Punishment* embodies a distinct philosophical perspective:
+- **Sonya**: Represents Christianity, embodying unconditional love, forgiveness, and moral objectivism.
+- **Svidrigailov**: Represents hedonism, living a life driven by pleasure and self-will, yet haunted by guilt and despair.
+- **Luzhin**: Represents the *Übermensch* theory, believing in self-interest and superiority over others.
+
+### A Trilogy of Ideas
+*Crime and Punishment* can be seen as the first part of a thematic trilogy in Dostoevsky's works. It examines the personal consequences of a man who believes that rationality can replace morality. Through Raskolnikov's journey, Dostoevsky explores the psychological and spiritual toll of rejecting moral absolutes, setting the stage for deeper explorations in his later works.
+
 
 ## Morality
 
-What is morality
-- Did he commit a crime? Why would that be considerede a crime?
-are poor people more amoral than the richer people?
+## Morality
 
-Ubermesch theory
-- The theory that the world is divided between ordinary people
-and extraordinary people, and the extraordinary ones are
-entitled to do crimes
-- I somehow believed this specially during university when
-I didn't want to become a SWE, perhaps I was more ordinary
-than extraorindary than I previously thought
+### What is Morality?
+- Did Raskolnikov truly commit a crime? Why would his actions be considered a crime? The novel challenges readers to reflect on the nature of morality and justice.
+- Are poor people more amoral than the rich? Dostoevsky explores how poverty and desperation can blur moral boundaries, forcing individuals into situations where survival takes precedence over ethical considerations.
 
-Consequences of going against christianism
-- Dostoevsky meant to depict that the desire to assert yourself above morality will destroy the soul of whomever attempts it, whether you are a psychopath like Svidrigailov or a normal person like Raskolnikov, you will fall to despair.
+### The Übermensch Theory
+- The theory suggests that the world is divided between ordinary people and extraordinary people, with the extraordinary ones being entitled to commit crimes if it serves a higher purpose.
+- Raskolnikov's belief in this theory drives his actions, as he seeks to prove whether he is extraordinary by stepping over moral boundaries. This internal conflict mirrors the struggles of individuals who grapple with their own sense of purpose and identity.
+- Personally, I once resonated with this theory, especially during university when I resisted the idea of becoming a software engineer. Perhaps I was more ordinary than extraordinary, contrary to what I had initially believed.
+
+### Consequences of Rejecting Christian Morality
+- Dostoevsky illustrates that the desire to assert oneself above morality ultimately destroys the soul. Whether you are a psychopath like Svidrigailov or a seemingly normal person like Raskolnikov, rejecting moral absolutes leads to despair and self-destruction.
+- The novel critiques the dangers of abandoning Christian values, emphasizing that morality rooted in faith provides a foundation for inner peace and redemption.
+- Through Raskolnikov's journey, Dostoevsky warns against the hubris of attempting to transcend morality, showing that such attempts result in psychological and spiritual ruin.
+- This theme underscores the importance of humility and the acceptance of moral absolutes as a path to healing and reconciliation.
 
 # Psychology
 
-Punishment
-- What makes Crime and Punishment great is that Dostoevsky's portrayal of Raskolnikov's behaviour after the murder is characteristic of the average murderer, according to psychoanalytic studies that were done subsequent to the writing of the novel.
-- These neurotic tendencies lead to guilt feelings that cannot be
-eradicated and explain Raskolnikov's desire for punishment even before
-he commits the crime. He does everything to reveal himself because he
-wishes to suffer in order to alleviate the feelings of guilt. This guilt and
-subsequent desire for punishment become so strong that he commits
-the murder
-- He gets sick as fuck
+## Punishment
 
-Healing part 1
-- Talking about the problem (this reminds a lot about me)
-- I personally think that Crime and Punishment is also about the danger of internalising everything. Raskolnikov - due to his arrogance or suspicion of others - keeps everything to himself. He constantly has one single narrative going in his mind, and lack of dialogue with others is what perpetuates his misery and turmoil. It is only from the point where he confesses to Sonia that he finally gets to talk about the things that has been haunting him.
+- One of the aspects that makes *Crime and Punishment* a masterpiece is Dostoevsky's realistic portrayal of Raskolnikov's behavior after the murder. His actions align closely with the psychological tendencies of the average murderer, as later psychoanalytic studies have shown.
+- Raskolnikov's neurotic tendencies lead to overwhelming feelings of guilt that cannot be eradicated. These feelings explain his subconscious desire for punishment even before he commits the crime. He engages in self-sabotaging behavior, almost as if he wants to be caught, because he believes suffering will alleviate his guilt.
+- This guilt and subsequent yearning for punishment become so overpowering that they drive him to commit the murder in the first place.
+- His mental and physical health deteriorates rapidly after the crime, manifesting in severe illness and psychological torment.
 
-Healing part 2
-- It's only from the love of Sonya that he is finally healed from the crime
-- Even after going to siberia he still sees his crime as only a mistake, because in the end he is still thinking
-rationally, and that's the problem. It is only when he let himself go wit the love for Sonya that the forgets
+## Healing
+
+### Part 1: Confronting the Problem
+- A key theme in *Crime and Punishment* is the danger of internalizing one's struggles. Raskolnikov, due to his arrogance and mistrust of others, isolates himself and keeps everything bottled up. He constructs a single, obsessive narrative in his mind, which perpetuates his misery and psychological turmoil.
+- It is only when he confesses to Sonya that he begins to confront the things that have been haunting him. This act of opening up marks the first step toward his healing, as it allows him to break free from the prison of his own thoughts.
+
+### Part 2: The Power of Love
+- Raskolnikov's ultimate redemption comes through the unconditional love of Sonya. Even after being sentenced to Siberia, he initially views his crime as merely a mistake, continuing to rationalize his actions. This rational mindset prevents him from fully confronting the moral and spiritual implications of his deeds.
+- It is only when he allows himself to embrace Sonya's love that he begins to heal. Her unwavering compassion helps him let go of his obsessive rationality and accept his humanity. Through her love, he finds the strength to forgive himself and move toward redemption.
+- Dostoevsky uses this transformation to highlight the redemptive power of love and the importance of human connection in overcoming guilt and despair.
+
 
 # Characters
 
@@ -79,7 +88,6 @@ rationally, and that's the problem. It is only when he let himself go wit the lo
 ![alt text](image-3.png)
 
 He represents the non philosophical suicide, and philosophical experimentation
-
 - after his crime, he lied a lot, but whenever his lie is about
 something related to his own dignity he won't lie even if that
 makes obvious that he is the killer, for example when the 
@@ -184,14 +192,13 @@ Epitomization of christ
 ### Details
 
 Her name
-- It is beautiful the fact that her name means reason, when in fact she is not that smart, which shows to us that wisdom is much
-more than being smart, she has so much wisdom that she managed to redeem Raskolnikov
+- It is fascinating that her name, "Razumihin," translates to "reason" or "intellect," yet she is not portrayed as particularly intelligent in the conventional sense. This contrast highlights an important theme: wisdom transcends mere intelligence. Her profound wisdom and emotional depth enable her to guide and ultimately redeem Raskolnikov. This serves as a reminder that true wisdom often lies in understanding, compassion, and the ability to inspire change in others.
 
 ## Marmeladov
-- very peculiar
-- interesting how he is drunk man,
-but inside it we can still see vestigios of
-the great man he was, specially when he talks
+- Marmeladov is a very peculiar character. Despite being a drunkard, there are still remnants of the great man he once was, especially evident when he speaks. His eloquence and depth of thought shine through his intoxicated state, revealing a tragic complexity to his character.
+- His speeches often carry a sense of profound despair and self-awareness, as he acknowledges his own failures and the suffering he has caused his family. Yet, within this despair, there is also a glimmer of hope and a yearning for redemption, making him one of the most human and relatable characters in the novel.
+- Marmeladov's character serves as a poignant commentary on the destructive nature of addiction and poverty, as well as the resilience of the human spirit in the face of overwhelming adversity.
+- His interactions with Raskolnikov provide critical insights into the themes of guilt, suffering, and the possibility of salvation, which are central to the novel's philosophical and moral exploration.
 
 
 # Symmetries
@@ -220,41 +227,39 @@ https://www.reddit.com/r/books/comments/uc9bg6/comment/i69wmjy/?utm_source=share
 
 # Topics
 
-Money
-- it is interesting the world building that he does, where
-we can see how the povery is a kickstart of many problems
-and adventures. For example for being poor Dounia has to
-work as a servant, and the landlord harasses her but she
-can't leave because she is in debt with him, and then
-the woman finds out, and she tells the whole town Dounia
-is a whore
-- it is interesting how much any sight of money brings
-happyines to poor people
-- it is interesting how much poverty puts constraints into
-someone's life,
-- - a simple travel by plane they have to do some
-math in reach into agreements to make sure that there will
-be enough money
-- - Dounia wanted to marry a guy that is really bad just for
-money
+## Money
+
+The novel vividly portrays the impact of poverty on people's lives, serving as a catalyst for many of the characters' struggles and decisions. Dostoevsky's world-building highlights how financial hardship can lead to a cascade of problems and moral dilemmas.
+
+- **Poverty as a Catalyst for Conflict**: For instance, Dounia works as a servant to make ends meet, only to face harassment from her landlord. Despite the abuse, she cannot leave because she
 
 
 # other
 
-shows the reality of poor people
-- interesting how much
-money is useful to them
-- money is self worth
-- alcohol vice
-- describing real poverty makes it more sad
+### Poverty and Money
 
-One of the main themes I always take away is that humans often like to think that we are logical beings, who make logical decisions for clearly defined reasons, when in reality we are not. As a species we very often act without knowing why we act, and when asked afterward why we did something, we might not know. To me this is demonstrated in the multitude of reasons Raskolnikov gives for killing the woman. There are several reasons, but none of them truly explain why he shed blood. At the end of the day, humans are no more than animals, acting before thinking, and only justifying our action afterwards.
+The novel vividly portrays the harsh realities of poverty and its profound impact on people's lives. Dostoevsky uses this theme to explore how financial hardship can lead to moral dilemmas, personal struggles, and societal conflicts.
 
-- interesting how a problem can increase to a larger magnitude
-specially when you don't talk about it, and you don't confront it
-and you are obsessed
-- the book is visceral, it shows how much anxiety, stress someone
-has to be under to commit the crime, the big problems are added
-on top of small details. One of the moments I like the most
-is when he is paralylzed of so much stress
-- what happens when you have nowhere to turn
+- **The Reality of Poverty**: Dostoevsky's detailed descriptions of poverty make the characters' suffering more tangible and relatable. The depiction of their struggles evokes a deep sense of sadness and empathy, as it highlights the harsh conditions faced by the less fortunate.
+- **Money as Self-Worth**: For many characters, money becomes synonymous with self-worth. It dictates their choices, relationships, and even their sense of identity. This theme underscores the dehumanizing effects of financial desperation.
+- **Alcohol as a Vice**: The novel also explores how poverty often drives individuals to destructive habits, such as alcoholism. This vice becomes both a symptom and a perpetuator of their suffering, creating a vicious cycle of despair.
+- **The Utility of Money**: The story demonstrates how even a small amount of money can significantly impact the lives of the impoverished. It serves as a stark reminder of the disparity between the wealthy and the poor.
+
+### Human Nature and Decision-Making
+
+One of the most striking themes in *Crime and Punishment* is the exploration of human nature and the complexity of decision-making. Dostoevsky challenges the notion that humans are purely logical beings, revealing instead the chaotic and often irrational forces that drive our actions.
+
+- **The Illusion of Rationality**: Humans like to believe that their decisions are based on logic and reason, but the novel suggests otherwise. Raskolnikov provides multiple justifications for killing the pawnbroker, yet none of them fully explain his actions. This ambiguity reflects the unpredictable and instinctive nature of human behavior.
+- **Acting Before Thinking**: The novel portrays humans as impulsive creatures who often act without fully understanding their motivations. It is only after the fact that we attempt to rationalize our actions, creating a narrative to justify what we have done.
+
+### The Escalation of Problems
+
+Dostoevsky masterfully illustrates how unresolved issues can spiral out of control, especially when they are not confronted or discussed openly.
+
+- **Obsession and Isolation**: Raskolnikov's inability to confront his guilt and his obsessive thoughts exacerbate his internal turmoil. His isolation from others only deepens his suffering, showing the dangers of bottling up emotions and avoiding difficult conversations.
+- **Stress and Anxiety**: The novel viscerally depicts the overwhelming stress and anxiety that lead to Raskolnikov's crime. Small details and minor problems accumulate, creating a crushing weight that ultimately drives him to act. One of the most memorable moments is when he becomes paralyzed by stress, unable to move or think clearly.
+- **Nowhere to Turn**: The story captures the despair of having no escape from one's circumstances. Raskolnikov's sense of entrapment and hopelessness resonates deeply, illustrating the psychological toll of living without support or direction.
+
+### Final Reflection
+
+*Crime and Punishment* is a visceral and thought-provoking exploration of human nature, morality, and the consequences of poverty. It forces readers to confront uncomfortable truths about themselves and society, making it a timeless masterpiece that continues to resonate across generations.
