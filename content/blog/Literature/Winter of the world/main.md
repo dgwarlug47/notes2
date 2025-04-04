@@ -1,3 +1,9 @@
+---
+title: Literature/Winter of the world
+order: 2
+description: A long lasting passion
+---
+
 ![alt text](image.png)
 
 It's truly insane to think that women during the war spent five years without seeing their husbands, like Carla's parents.

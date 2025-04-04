@@ -1,3 +1,9 @@
+---
+title: Literature/1984
+order: 2
+description: KKKKKKKKKKKKKKKKKKKKK
+---
+
 ![alt text](image.png)
 
 The telescreen received and transmitted simultaneously. Any sound that Winston made, above the level of a very low whisper, would be picked up by it. Moreover, so long as he remained within the field of vision which the metal plaque commanded, he could be seen as well as heard. 
