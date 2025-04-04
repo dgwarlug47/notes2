@@ -257,8 +257,15 @@ Pep Guardiola once said: “Don’t write about him, don’t try to describe him
 
 91 goals, the most goals in a calendar year.
 
-Messi was injured during the Champions League semi-finals against Bayern Munich.
-They suffered a clean sweep.
+## Champions League
+
+### Semi-Finals
+
+**Aggregate**  
+- Score: 7 - 1
+- Sad
+
+![alt text](image-77.png)
 
 # 2013/2014
 
@@ -268,6 +275,16 @@ Villanova convinced Messi to stay in Barcelona, as he was considering leaving fo
 - Against Getafe, Messi dribbled past 4 players (including the goalkeeper).
 
 <img src="image-7.png" alt="drawing" width="600"/>
+
+# Champions League
+
+## Quarter-Finals
+
+**First Leg**  
+- Score: 1 - 0
+- [MYTAKE] who could imagine, that of all teams Atletico de Madrid would give trouble to Barcelona, when they have been humilliated so many times in last 5 years by Barcelona
+
+![alt text](image-78.png)
 
 ## World Cup
 
@@ -360,7 +377,17 @@ The following year, Messi was a runner-up in the 2015 Copa América with Argenti
 ## Masterpiece
 - Tiki-taka goal against Roma.
 
-<img src="image-80.png" alt="drawing" width="600"/>
+![alt text](image-80.png)
+
+## Champions League
+
+### Quater-Finals
+
+Second Leg
+- 2 - 0
+- [MYTAKE] Can you imagine? MSN being defeated by Griezman. And when he joined our team he was trash as fuck. How bittersweet life can be at times.
+
+![alt text](image-79.png)
 
 ## Copa América
 
@@ -369,8 +396,14 @@ The following year, Messi was a runner-up in the 2015 Copa América with Argenti
 
 ### Masterpiece vs United States
 
+[MYTAKE] This felt like this is it, we are going to win this. He is finally playing well for Argentina, he is a beard now, everything will be different. This reminds me of the Simpsons episode where Homer starts using Minoxidill.
+
+![alt text](image-74.png)
+
 ### Final
 - In the final, just like the previous edition, Argentina lost to Chile. After a 0-0 draw, they were defeated 4-2 on penalties, with Messi missing his penalty.
+
+![alt text](image-73.png)
 
 #### Aftermath
 - Argentine fans turned on him, accusing him of caring more about Barcelona than Argentina.
@@ -402,6 +435,16 @@ The following year, Messi was a runner-up in the 2015 Copa América with Argenti
 
 <img src="image-16.png" alt="drawing" width="600"/>
 
+
+## Champions League
+
+### Quater-Finals
+
+First Leg
+- 3 - 0
+- [MYTAKE] The team was amazing from an offensive point of view. But just like Brazil's 1982 it was terrible in the defense, and in football you don't win by only attacking.
+
+![alt text](image-81.png)
 
 ## World Cup Qualifiers
 
@@ -550,9 +593,15 @@ Still very good Messi
 
 **First Leg**  
 - Barcelona was eliminated from the Champions League by PSG, led by Mbappé (who would later play alongside Messi and had destroyed Argentina in the previous World Cup).
+- [MYTAKE] This felt like a very depressing moment for me. It was as if, Messi was just an old lad, just a regular person. Like any team could defeat him.
+
+![alt text](image-76.png)
 
 **Second Leg**  
 - Messi missed a penalty in that game, further fueling his reputation as a "choker."
+- [MYTAKE] What a depressive way to exit the Champions League by Messi, so bitter.
+
+![alt text](image-75.png)
 
 ## Copa América
 
@@ -720,9 +769,13 @@ Paredes kicked the ball into the Dutch bench, causing a commotion.
 - Bruno Formiga broke a wall in the studio when Mbappé equalized for the second time.
 - **[MY TAKE]** 😂 It can't get more Argentinian than this.
 
+![alt text](image-82.png)
+
 ### Miracle Save
 - Emiliano Martínez made a miraculous save just before the game ended, sending it to penalties.
 - **[MY TAKE]** 😂 An unknown Aston Villa goalkeeper saving the GOAT's career.
+
+![alt text](image-83.png)
 
 ## Penalty Kicks
 - Emiliano Martínez saved a penalty.
@@ -733,11 +786,18 @@ Paredes kicked the ball into the Dutch bench, causing a commotion.
 
 ![Celebration Image](image-63.png)
 
-<img src="image-42.png" alt="Celebration" width="600"/>
+![alt text](image-84.png)
 
 ![Celebration Image](image-69.png)
 
 ![Celebration Image](image-70.png)
+
+![alt text](image-85.png)
+
+
+![alt text](image-87.png)
+
+![alt text](image-88.png)
 
 ## Celebration with the Team
 - 5 million people attended the celebration in Buenos Aires, a city with a population of 15 million.
