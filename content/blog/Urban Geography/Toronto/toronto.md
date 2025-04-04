@@ -56,9 +56,15 @@ Old City Hall
 
 Nathan Philips Square
 
+![alt text](image-5.png)
+
 Brookfield place
 
+![alt text](image-6.png)
+
 Hockey Hall of fame
+
+![alt text](image-7.png)
 
 Royal york
 
@@ -70,21 +76,35 @@ Royal bank plaza
 
 Gooderham building
 
+![alt text](image-8.png)
+
 St. Michael's Cathedral Basilica
 - has a nice park too
 
+![alt text](image-9.png)
+
 Church Wellesley Village
 - where the gays are
+
+![alt text](image-10.png)
 
 # Kensigton-Chinatown
 
 AGO
 
+![alt text](image-11.png)
+
 OACD university
+
+![alt text](image-12.png)
 
 Grafitti Alley
 
+![alt text](image-13.png)
+
 Chinatown
+
+![alt text](image-14.png)
 
 ## Kensigton Market
 
@@ -95,6 +115,8 @@ Otto’s Berlin Döner (restaurant)
 lots of hipster
 
 Trinity Bellwoods Park
+
+![alt text](image-15.png)
 
 # Palmerson-Little Italy
 
@@ -121,7 +143,11 @@ Snakes and Lattex
 
 University of Toronto
 
+![alt text](image-19.png)
+
 Royal Ontario Museum
+
+![alt text](image-18.png)
 
 BMV Books
 
@@ -136,6 +162,8 @@ John P. Robarts Research Library
 # Moss Park
 
 Allan Gardens
+
+![alt text](image-17.png)
 
 # Little Portugal
 
@@ -173,7 +201,11 @@ Second city
 Distellery District
 - Victorian industrial buildings
 
+![alt text](image-20.png)
+
 Sugar beach
+
+![alt text](image-16.png)
 
 Corktown Common
 
@@ -183,7 +215,7 @@ St. Lawrence Market
 
 # Yonge-St. Clair
 
-most expensive neighborhood in Toronto
+Most expensive neighborhood in Toronto
 
 Tunnel of Glam
 

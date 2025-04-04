@@ -56,10 +56,6 @@ A hieroglyphic world where the real thing was never said, done, or even thought,
 - The novel subverts the traditional "novel of manners" structure:
     - Instead of ending with a happy marriage, it places marriage in the middle and portrays it as imprisoning, adding a sense of bitter irony to the "happily-ever-after" trope.
 
-# Symmetries
-
-*(Section left empty for further elaboration.)*
-
 # History
 
 - Despite America's growth at the time, it was still viewed as inferior to Europe, particularly in aesthetics.
