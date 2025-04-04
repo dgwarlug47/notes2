@@ -99,7 +99,17 @@ articlesPaths = [
                                            ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Brazil/(1881) Memorias Postumas de Bras Cubas",
                                             base + 'Literature/Memorias Postumas de Bras Cubas'),
                                             ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1920) The Age of Innocence",
-                                             base + 'Literature/The Age of Innocence')
+                                             base + 'Literature/The Age of Innocence'),
+                                             ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Brazil/(1900) Dom Casmurro",
+                                              base + 'Literature/Dom Casmurro'),
+                                              ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1948) 1984",
+                                               base + 'Literature/1984'),
+                                               ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1940) And then there were none",
+                                               base + 'Literature/And then there were none'),
+                                               ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1953) Farenheit 451",
+                                                base + 'Literature/Farenheit 451'),
+                                                ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(2012) Winter of the world",
+                                                 base + 'Literature/Winter of the world')
 ]
 
 for articlePath in articlesPaths:

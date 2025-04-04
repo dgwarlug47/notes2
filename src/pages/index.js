@@ -78,7 +78,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-        limit: 42
+        limit: 50
         sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]
         filter: { frontmatter: { title: { ne: null } } } ) {
       nodes {

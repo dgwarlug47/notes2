@@ -54,27 +54,27 @@ Weakness
 - Combative – People with this personality type hate blindly following anything without understanding why. This includes restrictions and the authority figures who impose them. INTJs can get caught up in arguing about useless rules and regulations – but sometimes these battles are distractions from more important matters.
 - Socially Clueless – INTJs’ relentless rationality can lead to frustration in their social lives. Their efforts to defy expectations may leave them feeling isolated or disconnected from other people. At times, these personalities may become cynical about the value of relationships altogether, questioning the importance of love and connection.
 
-<img src="image-39.png" alt="drawing" width="300"/>
+<img src="image-39.png" alt="drawing" />
 
-<img src="image-40.png" alt="drawing" width="300"/>
+<img src="image-40.png" alt="drawing" />
 
-<img src="image-41.png" alt="drawing" width="300"/>
+<img src="image-41.png" alt="drawing" />
 
 - Interesting because most villans are INTJ, whereas the heroes are ENFP, but that is the opposite for the batman.
 
-<img src="image-49.png" alt="drawing" width="300"/>
+<img src="image-49.png" alt="drawing" />
 
-<img src="image-50.png" alt="drawing" width="300"/>
+<img src="image-50.png" alt="drawing" />
 
-<img src="image-55.png" alt="drawing" width="300"/>
+<img src="image-55.png" alt="drawing" />
 
-<img src="image-54.png" alt="drawing" width="300"/>
+<img src="image-54.png" alt="drawing" />
 
-<img src="image-53.png" alt="drawing" width="300"/>
+<img src="image-53.png" alt="drawing" />
 
-<img src="image-52.png" alt="drawing" width="300"/>
+<img src="image-52.png" alt="drawing" />
 
-<img src="image-78.png" alt="drawing" width="300"/>
+<img src="image-78.png" alt="drawing" />
 
 
 ## Logician (INTP)
@@ -93,13 +93,13 @@ Weakness
 - Overthinkers – INTPs’ minds are ceaselessly active, toiling away even when they’re not consciously thinking. While their rapid-fire thoughts can be beneficial at times, they can also cause them to overthink and fall prey to analysis paralysis. When this occurs, INTPs can struggle to reach a decision or take action because they’re too caught up in considering every possible outcome or angle.
 - Impatient – INTP personalities take pride in their knowledge and in sharing their ideas. When it comes to explaining their rationale, however, they aren’t always patient. If their conversation partner doesn’t follow along or seem sufficiently interested, they may give up with a dismissive “never mind.”
 
-<img src="image-47.png" alt="drawing" width="300"/>
+<img src="image-47.png" alt="drawing" />
 
 - Woody Allen is very P, he always looking for something, even when there are topics that have a definte answer such as no clear meaning of life, he keeps thinking about this subject endlessly. In fact Woody shows why being perspective can be bad, because it can make you run in circles.
 
-<img src="image-48.png" alt="drawing" width="300"/>
+<img src="image-48.png" alt="drawing" />
 
-<img src="image-42.png" alt="drawing" width="300"/>
+<img src="image-42.png" alt="drawing" />
 
 ## Commander (ENTJ)
 
@@ -120,11 +120,11 @@ Weakness
 - Cold and Ruthless – Their obsession with efficiency and unwavering belief in the merits of rationalism, especially professionally, make ENTJs fairly insensitive in pursuing their goals, dismissing personal circumstances, sensitivities, and preferences as irrational or irrelevant.
 
 
-<img src="image-43.png" alt="drawing" width="300"/>
+<img src="image-43.png" alt="drawing" />
 
-<img src="image-44.png" alt="drawing" width="300"/>
+<img src="image-44.png" alt="drawing" />
 
-<img src="image-45.png" alt="drawing" width="300"/>
+<img src="image-45.png" alt="drawing" />
 
 ## Debater (ENTP)
 
@@ -143,13 +143,13 @@ Weakness
 - Can Find It Difficult to Focus – The same flexibility that allows ENTP personalities to come up with such original plans and ideas makes them readapt perfectly good ones far too often or to even drop them entirely as the initial excitement wanes and newer thoughts come along. Boredom comes too easily for these active types, and fresh thoughts are the solution, though not always a helpful one.
 - Dislike Practical Matters – ENTPs, with their preference for spontaneity and novelty, often struggle with organization, structure, and all things practical. People with this personality type are interested in what could be – malleable concepts like ideas and plans that can be adapted and debated. When it comes to hard details and day-to-day execution, these personalities tend to lose interest, often with the consequence of their plans never seeing the light of day.
 
-<img src="image-56.png" alt="drawing" width="300"/>
+<img src="image-56.png" alt="drawing" />
 
-<img src="image-46.png" alt="drawing" width="300"/>
+<img src="image-46.png" alt="drawing" />
 
-<img src="image-57.png" alt="drawing" width="300"/>
+<img src="image-57.png" alt="drawing" />
 
-<img src="image-75.png" alt="drawing" width="300"/>
+<img src="image-75.png" alt="drawing" />
 
 # Dipolmat (IF)
 
@@ -170,19 +170,19 @@ Weakness
 - Avoiding the Ordinary – INFJs yearn to do extraordinary things with their lives. But it’s hard to achieve anything extraordinary without breaking it down into small, manageable steps. Unless they translate their dreams into everyday routines and to-do lists, they may struggle to turn their grand visions into reality.
 - Prone to Burnout – INFJs’ perfectionism and reserve leave them with few options for letting off steam. People with this personality type can exhaust themselves if they don’t balance their drive to help others with necessary self-care and rest.
 
-<img src="image-59.png" alt="drawing" width="300"/>
+<img src="image-59.png" alt="drawing" />
 
-<img src="image-60.png" alt="drawing" width="300"/>
+<img src="image-60.png" alt="drawing" />
 
 - It makes sense the J because he has a have a very well defined world view of what is right or wrong, I think Russian people in general are very J
 
-<img src="image-58.png" alt="drawing" width="300"/>
+<img src="image-58.png" alt="drawing" />
 
 - Ted Mosby is not simply looking for his love, he is an advocate of love, he defends the idea of idealized love.
 
-<img src="image-62.png" alt="drawing" width="300"/>
+<img src="image-62.png" alt="drawing" />
 
-<img src="image-63.png" alt="drawing" width="300"/>
+<img src="image-63.png" alt="drawing" />
 
 - I thought that she would be an architect (INTJ), but considering how much is involved with causes such as vegetarianism, buddhism and so many others, I think (INFJ) is reasonable
 
@@ -203,13 +203,13 @@ Weakness
 - Intense – When it comes to self-improvement, ENFJs are rarely short on energy or determination. But they may not recognize that not everyone shares these qualities. At times, these personalities may push others to make changes that they aren’t ready for – or simply aren’t interested in making in the first place.
 - Overly Empathetic – Compassion is among this personality type’s greatest strengths. But ENFJs have a tendency to take on other people’s problems as their own – a habit that can leave them emotionally and physically exhausted.
 
-<img src="image-32.png" alt="drawing" width="300"/>
+<img src="image-32.png" alt="drawing" />
 
-<img src="image-35.png" alt="drawing" width="300"/>
+<img src="image-35.png" alt="drawing" />
 
-<img src="image-72.png" alt="drawing" width="300"/>
+<img src="image-72.png" alt="drawing" />
 
-<img src="image-74.png" alt="drawing" width="300"/>
+<img src="image-74.png" alt="drawing" />
 
 ## Meditator (INFP)
 
@@ -232,21 +232,21 @@ Weakness
 
 
 
-<img src="image-36.png" alt="drawing" width="300"/>
+<img src="image-36.png" alt="drawing" />
 
-<img src="image-15.png" alt="drawing" width="300"/>
+<img src="image-15.png" alt="drawing" />
 
-<img src="image-14.png" alt="drawing" width="300"/>
+<img src="image-14.png" alt="drawing" />
 
-<img src="image-16.png" alt="drawing" width="300"/>
+<img src="image-16.png" alt="drawing" />
 
-<img src="image-17.png" alt="drawing" width="300"/>
+<img src="image-17.png" alt="drawing" />
 
-<img src="image-13.png" alt="drawing" width="300"/>
+<img src="image-13.png" alt="drawing" />
 
-<img src="image-12.png" alt="drawing" width="300"/>
+<img src="image-12.png" alt="drawing" />
 
-<img src="image-11.png" alt="drawing" width="300"/>
+<img src="image-11.png" alt="drawing" />
 
 ## Activist (ENFP)
 
@@ -266,16 +266,16 @@ Weakness
 - Overly Optimistic – Optimism can be among this personality type’s key strengths. But ENFPs’ rosy outlook can lead them to make well-intentioned but naive decisions, such as believing people who haven’t earned their trust. This trait can also make it difficult for these personalities to accept hard but necessary truths – and to share those truths with others.
 - Restless – With their positive, upbeat attitude, ENFPs rarely seem upset or dissatisfied on the outside. But their inner idealism can leave them with a nagging feeling that some major areas of their life just aren’t good enough – whether that’s their work, their home life, or their relationships.
 
-<img src="image-37.png" alt="drawing" width="300"/>
+<img src="image-37.png" alt="drawing" />
 
 - Strawberry fields forever is very ENFP
 
-<img src="image-31.png" alt="drawing" width="300"/>
+<img src="image-31.png" alt="drawing" />
 
-<img src="image-10.png" alt="drawing" width="300"/>
+<img src="image-10.png" alt="drawing" />
 
 
-<img src="image-34.png" alt="drawing" width="300"/>
+<img src="image-34.png" alt="drawing" />
 
 
 # Sentinels (SJ)
@@ -298,15 +298,15 @@ Weakness
 - Reluctant to Change – ISFJs are among the personality types that struggle the most with change. Breaking with tradition isn’t easy for these steady personalities, who place great value on history and precedent. Even when change is necessary, they may wait until the situation reaches a breaking point before altering course.
 - Too Altruistic – ISFJs’ giving, generous nature can leave them vulnerable to being taken advantage of by others. It can be hard for them to rock the boat and stand up to someone who isn’t pulling their own weight. In fact, ISFJs are the most likely personality type to say they would rather clean up someone else’s mess than confront them about it directly.
 
-<img src="image-38.png" alt="drawing" width="300"/>
+<img src="image-38.png" alt="drawing" />
 
 - For me she is the steoretypical defender, also because she is the steoretypical mom as well.
 
-<img src="image-70.png" alt="drawing" width="300"/>
+<img src="image-70.png" alt="drawing" />
 
-<img src="image-69.png" alt="drawing" width="300"/>
+<img src="image-69.png" alt="drawing" />
 
-<img src="image-73.png" alt="drawing" width="300"/>
+<img src="image-73.png" alt="drawing" />
 
 
 ## Executive (ESTJ)
@@ -327,13 +327,13 @@ Weakness
 - Difficulty Relaxing – This need for respect fosters a need to maintain their dignity, which can make it difficult for ESTJs to cut loose and relax for risk of dropping the ball or looking the fool, even in good fun.
 - Difficulty Expressing Emotion – People with the ESTJ personality type get so caught up in the facts and most effective methods that they forget to think of what makes others happy – they forget to express emotions and empathy. For example, a detour can be breathtakingly beautiful and a joy for the family, but this type may only see the consequence of arriving at their destination an hour late, hurting their loved ones by rejecting the notion too harshly.
 
-<img src="image-64.png" alt="drawing" width="300"/>
+<img src="image-64.png" alt="drawing" />
 
 - For me she is the steoretypical executive, which showcases the annoying side of being an executive.
 
-<img src="image-22.png" alt="drawing" width="300"/>
+<img src="image-22.png" alt="drawing" />
 
-<img src="image-23.png" alt="drawing" width="300"/>
+<img src="image-23.png" alt="drawing" />
 
 ## Logistician (ISTJ)
 
@@ -352,13 +352,13 @@ Weakness
 - Judgmental – Because ISTJs tend to highly value facts and empirical evidence, they are unlikely to respect people who disagree with proven information – especially those who remain willfully ignorant. When others disregard concrete evidence and instead rely on assumptions or emotions, ISTJs can become judgmental, viewing these individuals as irrational or misguided.
 - Prone to Burnout – All this can combine to make people with the ISTJ personality type believe that they are the only ones who can see projects through reliably. As they load themselves with extra work and responsibilities, turning away good intentions and helpful ideas, they sooner or later hit a tipping point where they simply can’t deliver. Since they’ve heaped the responsibility on themselves, ISTJs may then believe that the responsibility for failure is theirs alone to bear.
 
-<img src="image-65.png" alt="drawing" width="300"/>
+<img src="image-65.png" alt="drawing" />
 
-<img src="image-66.png" alt="drawing" width="300"/>
+<img src="image-66.png" alt="drawing" />
 
-<img src="image-71.png" alt="drawing" width="300"/>
+<img src="image-71.png" alt="drawing" />
 
-<img src="image-77.png" alt="drawing" width="300"/>
+<img src="image-77.png" alt="drawing" />
 
 ## Consul (ESFJ)
 
@@ -376,17 +376,17 @@ Weakness
 - Often Too Needy – ESFJs need to hear and see a great deal of appreciation. If their efforts go unnoticed, these individuals may start fishing for compliments in an attempt to get reassurance of how much they are valued.
 - Too Selfless – The other side of this is that ESFJ personalities sometimes try to establish their value with doting attention, something that can quickly overwhelm those who don’t need it, making it ultimately unwelcome. Furthermore, they often neglect their own needs in the process.
 
-<img src="image-25.png" alt="drawing" width="300"/>
+<img src="image-25.png" alt="drawing" />
 
-<img src="image-26.png" alt="drawing" width="300"/>
+<img src="image-26.png" alt="drawing" />
 
-<img src="image-24.png" alt="drawing" width="300"/>
+<img src="image-24.png" alt="drawing" />
 
-<img src="image-27.png" alt="drawing" width="300"/>
+<img src="image-27.png" alt="drawing" />
 
-<img src="image-28.png" alt="drawing" width="300"/>
+<img src="image-28.png" alt="drawing" />
 
-<img src="image-29.png" alt="drawing" width="300"/>
+<img src="image-29.png" alt="drawing" />
 
 # Explorers (SP)
 
@@ -408,13 +408,13 @@ Easily Bored – ISTPs enjoy novelty, which makes them excellent tinkerers, but 
 Independent – While also listed as a strength, ISTP personalities’ independence can be a challenge in their social relationships, including in romance. Having someone else’s schedule – especially a social calendar – imposed on them is unlikely to sit well for long. Their tolerance can be quite low for having others take their time away from what they’d prefer to be doing.
 Overly Skeptical – ISTPs’ generally skeptical outlook can help them avoid unfounded assumptions, but unchecked skepticism may lead them to dismiss more subjective truths or unquantifiable aspects of the human experience. It can also lead to missed opportunities – they may not take risks or explore unfamiliar concepts due to a lack of definitive proof. Similarly, excessive skepticism may also strain social relationships due to perceived negativity and lack of trust
 
-<img src="image-19.png" alt="drawing" width="300"/>
+<img src="image-19.png" alt="drawing" />
 
-<img src="image-18.png" alt="drawing" width="300"/>
+<img src="image-18.png" alt="drawing" />
 
-<img src="image-20.png" alt="drawing" width="300"/>
+<img src="image-20.png" alt="drawing" />
 
-<img src="image-76.png" alt="drawing" width="300"/>
+<img src="image-76.png" alt="drawing" />
 
 ## Adventurer (ISFP)
 
@@ -433,18 +433,18 @@ Weakness
 - Fluctuating Self-Esteem – It’s demanded that skills be quantified, but that’s hard to do with ISFP personalities’ strengths of sensitivity and exploration. Their efforts are too often dismissed, a hurtful and damaging blow, especially early in life. These individuals can start to believe the naysayers without strong support.
 
 
-<img src="image-5.png" alt="drawing" width="300"/>
+<img src="image-5.png" alt="drawing" />
 
 - His goals are adventures
 
-<img src="image-30.png" alt="drawing" width="300"/>
+<img src="image-30.png" alt="drawing" />
 
-<img src="image-4.png" alt="drawing" width="300"/>
+<img src="image-4.png" alt="drawing" />
 
 - It makes a lot of sense because his songs are very realistic, they don't have a lot of layers of interpretation, sometimes they are
 just a list of facts
 
-<img src="image-6.png" alt="drawing" width="300"/>
+<img src="image-6.png" alt="drawing" />
 
 ## Entertainer (ESFP)
 
@@ -462,17 +462,17 @@ Weakness
 - Poor Long-Term Planners – ESFP personalities rarely make detailed plans for the future. To them, things come as they come, and too often they don’t bother with taking the time to lay out steps and consequences, believing that they could change at any moment.
 - Unfocused – Anything that requires long-term dedication and focus is a particular challenge for people with the ESFP personality type. In academics, dense, unchanging subjects are much more difficult than more dynamic, relatable subjects. The trick for them is to find day-to-day joy in broader goals and to tough it out with those tedious things that must be done.
 
-<img src="image-3.png" alt="drawing" width="300"/>
+<img src="image-3.png" alt="drawing" />
 
 - His goals are entertaining
 
-<img src="image-2.png" alt="drawing" width="300"/>
+<img src="image-2.png" alt="drawing" />
 
-<img src="image.png" alt="drawing" width="300"/>
+<img src="image.png" alt="drawing" />
 
-<img src="image-1.png" alt="drawing" width="300"/>
+<img src="image-1.png" alt="drawing" />
 
-<img src="image-7.png" alt="drawing" width="300"/>
+<img src="image-7.png" alt="drawing" />
 
 ## Entreprenuer (ESTP)
 
@@ -492,10 +492,10 @@ Weakness
 - May Miss the Bigger Picture – Living in the moment can cause ESTPs to miss the forest for the trees. People with this personality type love to solve problems here and now – perhaps too much. All parts of a project can be perfect, but the project will still fail if those parts do not fit together.
 - Defiant – This type won’t be boxed in. Repetition, hardline rules, and sitting quietly while being lectured at are things that ESTP personalities don’t normally enjoy. They are action oriented and hands-on. Environments like school and much entry-level work can be so tedious that they’re intolerable, requiring extraordinary effort from ESTPs to stay focused long enough to get to freer positions.
 
-<img src="image-8.png" alt="drawing" width="300"/>
+<img src="image-8.png" alt="drawing" />
 
-<img src="image-9.png" alt="drawing" width="300"/>
+<img src="image-9.png" alt="drawing" />
 
 - Initially I thought he would be a ESFP but given how much thought he puts on his activities, pranks ESTP makes sense
 
-<img src="image-67.png" alt="drawing" width="300"/>
+<img src="image-67.png" alt="drawing" />
