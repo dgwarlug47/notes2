@@ -1,10 +1,19 @@
 ---
 
-title: Sports/World cup
+title: Sports/World cup history
 order: 3
 description: The best thing every four years 
 
 ---
+
+# When people ask me about it
+
+I like to interpret the world cup in terms of:
+
+1. Anthropology
+- ethos/rituals
+2. Hegel
+3. Doctor Jekyll and Mr Hyde
 
 # FIFA World Cup Summary (1958 - Present)
 
@@ -173,7 +182,7 @@ This world cup was so ugly
 - Argentina 3–2 Yugoslavia (Penalties)  
 - Italy 1–0 Republic of Ireland  
 - West Germany 1–0 Czechoslovakia  
-- England 3–2 Cameroon (AET)  
+- England 3–2 Cameroon (AET)
 
 ### Semi-finals
 - Argentina 1–1 Italy (Argentina won on penalties)
@@ -228,8 +237,12 @@ This world cup was so ugly
 ![alt text](image-1.png)
 - France 2–1 Croatia  
 
+![alt text](image-7.png)
+
 ### Final
 - France 3–0 Brazil
+
+![alt text](image-6.png)
 
 ## 2002 FIFA World Cup (South Korea/Japan)
 
@@ -259,7 +272,13 @@ This world cup was so ugly
 - Germany 1–1 Argentina (Germany won on penalties)  
 - Italy 3–0 Ukraine  
 - Portugal 0–0 England (Portugal won on penalties)  
-- France 1–0 Brazil  
+- France 1–0 Brazil
+- - [MYTAKE] epic masterclass by Zidane vs Brazil, we had 4 great players and France had done. But that one great player was named Zidane
+- - Great assist by Zidane
+
+![alt text](image-5.png)
+
+![alt text](<Zidane assist.png>)
 
 ### Semi-finals
 - Italy 2–0 Germany (AET)  
@@ -269,6 +288,9 @@ This world cup was so ugly
 
 ### Final
 - Italy 1–1 France (Italy won on penalties)  
+- - [MYTAKE] it's ironic that Zidane used his head to score twice against Brazil 8 years ago, but now he used his head to be sent off
+
+![alt text](image-4.png)
 
 ## 2010 FIFA World Cup (South Africa)
 
@@ -301,6 +323,7 @@ This world cup was so ugly
 
 ### Final
 - Germany 1–0 Argentina (AET)  
+- - [MYTAKE] For Messi, we were able to see his Mr Hyde first, whereas for Maradona we see his Mr Hyde later. After all, the more social skills one has the more he can postpone the revelation from his Mr Hyde, this also resonates with Pride and Prejudice
 
 ## 2018 FIFA World Cup (Russia)
 

@@ -109,7 +109,9 @@ articlesPaths = [
                                                ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1953) Farenheit 451",
                                                 base + 'Literature/Farenheit 451'),
                                                 ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(2012) Winter of the world",
-                                                 base + 'Literature/Winter of the world')
+                                                 base + 'Literature/Winter of the world'),
+                                                 ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Champions League",
+                                                  base + 'Football/Champions League')
 ]
 
 for articlePath in articlesPaths:
