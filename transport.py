@@ -19,7 +19,7 @@ def copy_folder(source_folder, destination_folder):
     except Exception as e:
         print(e)
 
-base = '/Users/davi/Desktop/Code/my-blog-starter/content/blog/'
+base = '/Users/davi/Desktop/Code/notes2/content/blog/'
 
 articlesPaths = [
     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis',
@@ -111,7 +111,9 @@ articlesPaths = [
                                                 ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(2012) Winter of the world",
                                                  base + 'Literature/Winter of the world'),
                                                  ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Champions League",
-                                                  base + 'Football/Champions League')
+                                                  base + 'Football/Champions League'),
+                                                  ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Music/Favourites",
+                                                   base + 'Music/Favourites')
 ]
 
 for articlePath in articlesPaths:
