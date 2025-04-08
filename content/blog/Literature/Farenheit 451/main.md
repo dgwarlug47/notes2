@@ -8,7 +8,7 @@ description: KKKKKKKKKKKKKKKKKKKKK
 ![alt text](image.png)
 
 
-OBSERVATION: This note is highly unstructed, it still needs to be re
+OBSERVATION: This note is highly unstructed, it still needs to be rewritten
 ### Themes and Analysis
 
 #### Clarisse and Individuality

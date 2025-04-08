@@ -7,40 +7,40 @@ description: The GOAT
 
 ![alt text](image-2.png)
 
-Nickname
+## Nickname
 - That is a perfect nickname (Dom Casmurro). I must admit, I think it is very "carinhoso" but ironic and gloomy.
 
-Nostalgic
+## Nostalgic
 - I don't think this is precisely a considerable merit of the book, but....  the fact that this book was passed in 1857 feels
 enough to make it think it is from a different universe, making it so much vintage.
 
-Jeitinho brasileiro
+## Jeitinho brasileiro
 - It is remarkable how old and Brazilian this book is; a promise to make the guy become a priest
 - KKKKKKKKKKKKKKKK
 - Jose dias actually admits who he is: "é o talento de saber o que é bom e digno de admiração e de apreço"
 - - KKKKKKKKKKKKKKKKKKK
 
-Romance
+## Romance
 - There is nothing like a good romance, I don't know the words to describe it. Beautiful,  poetic, cathartic,
 Smooth. I  don't know the truth; there are certain things that only a girl can do to a man, and Capitu is one of them
 - It's crazy how much power she has over him, how she can with mannerism looks and gestures completely control a man
 
-Great writing
+## Great writing
 - "Que as pernas tambem sao pessoas, apenas inferiores ao bracos, e valem pro si mesmas quando a cabecao nao rege por ideas."
 - KKKKKKKKKKKKKKKKKKKK
 
-Friends since kids
+## Friends since kids
 - The fact that they have known each other since they were kids adds up to the epicness of their romance
 - She knew him very well, what the fuck
 
 
-Boring
+## Boring
 - Sometimes, he talks about stuff nobody cares about, and I am willing to understand. Fahrenheit
 for example, I never had that
 - One of the main problems of this book is that the main topic is not that interesting. I must admit the romance is nice, but Bento coming out of the Seminario is not a big deal
 
 
-Capitu is the center of the book
+## Capitu is the center of the book
 - I feel like Capitu is the heart of this book. When she is not in a scene, I don't want to know about it, and she is great
 - Perhaps this is the intent of the author, like we want to feel what Bentinho felt, the wait to see Capitu again
 - For the time she was living, she was quite a strong character, self-determined,  and owned her destiny.
@@ -51,7 +51,7 @@ even when she was younger, she changed her mind quickly and gave mixed signs for
 - "Capitu, isto é, uma criatura mui particular, mais mulher do que eu era homem".
 - For me what is great about capitu, is that she is simply so tense, her misteriousness creates a tension on the reader that it is compltely insane
 
-Machado really has the ability to say things in the most stylistic way
+## Machado really has the ability to say things in the most stylistic way
 - "Assim, apanhados pela mãe, éramos dois e contrários, ela encobrindo com a palavra o que eu publicava pelo silêncio."
 - - KKKKKKKKKKKKKKKKKKKKKKKKKKKK
 - "Mas a vontade aqui foi antes uma idéia, uma idéia sem língua, que se deixou ficar quieta e muda,"

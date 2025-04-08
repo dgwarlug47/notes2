@@ -115,25 +115,25 @@ The humor in *Infinite Jest* primarily revolves around exposing the absurdities 
 
 # Philosophy
 
-Marathe critizes hedonism
+## Marathe critizes hedonism
 - "Then in such a case your temple is self sentiment. THen in such an instance you are fanatico of desire, a slave to your individual sentiment"
 
-Illusion of freedom
+## Illusion of freedom
 - "Marathe estava disposto a que a sua voz não se elevasse. 'Pois esta escolha determina todo o resto. Não? Todas as outras escolhas que vocês dizem que são livres decorrem disto: qual é o nosso templo. Qual é o templo, portanto, para os EUA? O que acontece, quando você teme ter que protegê-los de si mesmos, se os perversos quebequenses conspiram para trazer o entretenimento para seus lares acolhedores?'"
 - If large corporations or society dictate what we worship, can we truly claim to be free?
 
-Genealogy of American Values
+## Genealogy of American Values
 - The American philosophy is the British one according to their own culture
 - There was some silence
 for thinking until Marathe finally said, looking up and off to think: 'This U.S.A. type of person and desires appears to me like
 almost the classic, how do you say, uti-litaire.
 - The American genius lies in the realization that, at some point in history, the pursuit of individual good by each American collectively contributes to maximizing the greater good for everyone.
 
-Criticism to American philosophy
+## Criticism to American philosophy
 - What if someone's hapiness matter more than others
 - "Good. This is well. Delayed gratification. How does my U.S.A.-type mind calculate long-term overall pleasure and then decide to sacrifice this intense, immediate craving for soup in favor of the greater, long-term benefit?"
 
-Philsophical value of the Entertainement
+## Philsophical value of the Entertainement
 - It's kind of a thought experiment, kinda of similar to the experience machine from Robert Nozick.
 - 'Are you understanding? I am asking between only us.
 How could it be that A.F.R. malice could hurt all of the U.S.A. culture by making available something as momentary and free as
@@ -147,25 +147,23 @@ samizdat, the choice will be free, no? Free from force, no? Yes? Freely chosen?�
 "Que transar com alguem com quem voce nao se importa te deixa depois mais sozinho do que nao ter transado"
 
 
-# Drugs
+# Addiction
 
 <img src ="image-4.png" width=300/>
 
-## Addiction
-
-What is addiction?
+## What is addiction?
 - David Foster Wallace broadens the definition of addiction, framing it as anything one relies on to make time pass.
 
-What is the key problem of us at a society of handling addiction
+## What is the key problem of us at a society of handling addiction
 - A maneira como ela balançou a cabeça de repente foi veemente, exasperada. 'O sentimento é o motivo 
 pelo qual eu quero. O sentimento é a razão pela qual quero morrer. Estou aqui porque quero morrer. Por 
 isso estou num quarto sem janelas e com gaiolas sobre as lâmpadas e sem fechadura na porta do 
 banheiro. Por que levaram meus cadarços e meu cinto. Mas noto que eles não tiram o sentimento, não é?
 
-What people do in a society of overstimulation
+## What people do in a society of overstimulation
 - Kate is now the third character in the book with a serious marijuana addiction, which is strange considering that (as Kate herself points out) marijuana is not considered to be a highly addictive or debilitating drug. The fact that so many characters are addicted to weed suggests that something about the world of the novel compels people to seek out a calming, numbing effect more than a stimulating one.
 
-The control of the addiction over us
+## The control of the addiction over us
 - (Joel is in a party bathroom using drugs) Chega de apertar o coração toda noite. O que parece ser a saída da jaula é na verdade as barras da jaula. As malhas do entardecer. A entrada diz SAÍDA. Não há saída. A fusão anular final: entre animal exibido e jaula. O próprio Jaula III: Espetáculo gratuito. Foi a jaula que entrou nela, de alguma maneira. A engenhosidade da coisa toda está além da compreensão dela. A Diversão faz tempo abandonou o Demais. Ela perdeu a capacidade de mentir a si própria sobre a sua capacidade de parar ou até de gostar daquilo, ainda. Ela não delimita e preenche o buraco mais. Ela não delimita mais o buraco. Há um certo cheiro que têm os véus molhados de chuva. Alguma coisa de um telefonema e da lua, dizendo que a lua nunca virava a cara. Em revolução mas ainda assim não. Ela tinha saído correndo no último T da noite e ido para casa e pelo menos finalmente não tinha desviado o rosto da situação, da questão de que ela não amava mais aquilo, mas odiava e queria parar e também não conseguia parar ou imaginar parar ou viver sem aquilo. Ela tinha de certa forma feito como tinham feito o Jim fazer perto do fim e admitido a sua impotência diante dessa jaula, desse espetáculo ingratuito, chorando, literalmente apertando o coração, fumando primeiro os restos de esponja de aço que tinha usado para prender os vapores e formar uma resina fumável, depois pedacinhos de carpete e a calcinha de acetato com que tinha filtrado a solução horas antes, chorando, desvelada e descabelada, como um palhaço grotesco, em todos os quatro espelhos das paredes do seu quartinho.
 - (Joel is in a party bathroom using drugs) Foi quando as mãos dela começaram a tremer durante essa parte do procedimento de preparo que ela percebeu pela primeira vez que gostava disso mais do que alguém pode gostar de alguma coisa e ainda continuar vivo. Ela não é boba
 - Chapter 44 the story of the girl that would carry the dead infant around, those scenes are pretty wild
@@ -201,8 +199,8 @@ What do you need in rehab
 honesty and hopelessness were the only things you need to start recovering from Substance-addiction, but that without these
 qualities you were totally up the creek. Desperation helped also, she said.
 
-God
-- His sole experience so far is that he takes
+## God
+- "His sole experience so far is that he takes
 one of AA's very rare specific suggestions and hits the knees in the a.m. and asks for Help and then hits the knees again at bedtime
 and says Thank You, whether he believes he's talking to Anything/body or not, and he somehow gets through that day clean. This,
 after ten months of ear-smoking concentration and reflection, is still all he feels like he 'understands' about the 'God angle.'
@@ -215,8 +213,8 @@ church basement is literally blue with smoke. Gately says he feels like this is 
 Power: a cheese-easement or unwashed athletic supporter. He says but when he tries to go beyond the very basic rote automatic
 get-me-through-this-day-please stuff, when he kneels at other times and prays or meditates or tries to achieve a Big-Picture
 spiritual understanding of a God as he can understand Him, he feels Nothing — not nothing but Nothing, an edgeless blankness
-that somehow feels worse than the sort of unconsidered atheism he Came In with. H
-- It was the first time he'd been out of this kind of mental cage since he was maybe ten. He couldn't believe it.
+that somehow feels worse than the sort of unconsidered atheism he Came In with. H"
+- "It was the first time he'd been out of this kind of mental cage since he was maybe ten. He couldn't believe it.
 He wasn't Grateful so much as kind of suspicious about it, the Removal. How could some kind of Higher Power he didn't even
 believe in magically let him out of the cage when Gately had been a total hypocrite in even asking something he didn't believe in
 to let him out of a cage he had like zero hope of ever being let out of? When he could only get himself on his knees for the prayers
@@ -226,25 +224,25 @@ this thing that was working. It drove him bats.
 twice a day, and cleans shit, and listens to dreams, and stays Active, and tells the truth to the Ennet House residents, and tries to
 help a couple of them if they approach him wanting help. And when Ferocious Francis G. and the White Flaggers presented him,
 on the September Sunday that marked his first year sober, with a faultlessly baked and heavily frosted one-candle cake, Don
-Gately had cried in front of nonrelatives for
+Gately had cried in front of nonrelatives for"
 
 
 # Tennis
 
 <img src ="image-3.png" width=300/>
 
-Tennis as a metaphor for life in capitalism
+## Tennis as a metaphor for life in capitalism
 - It seems that the kids in E.T.A are actually rich, because apparently someone mentioned except Pemus and Wayne, the other kids can be sent to any college. If that's the case why are they doing this?
 - - Which is a metaphor why people keep climbing the ladder
 - The choice of tennis as a central theme is insightful, as it mirrors the isolating effects of capitalism. It individualizes people, placing them in separate competitions where they must face opponents they neither know nor wish to confront. This metaphor highlights how modern systems often prioritize individual success over collective connection.
 
-Success as a need
+## Success as a need
 - This is exagerated through Clipperton
 - Clipper-ton climbs up the rungs of the lifeguardish chair the umpire in his blue blazer158148
 sits in and uses the umpire's mike to make public his intention of blowing his personal brains out all over the court with the
 hideous Clock, should he lose.
 
-Psychological burdens due to succes
+## Psychological burdens due to succes
 - "Clipperton places to his
 right — not left — temple, as in with his good right stick-hand, closes his eyes and scrunches up his face and blows his
 legitimated brains out for real and all time, eradicates his map and then some; and there's just an ungodly subsequent mess in
@@ -271,27 +269,27 @@ Capitalism and competition
 
 ## Potential
 
-Lost Potential
+### Lost Potential
 - Jim's father: "O talento eh a expectativa do proprio talento, Jim: ou voce vive o talento ou ele te acena de lencinho, pra sempre se afastando. Eh teu ou adues, ele dizia por cima do jornal. Eu... eu so tenho medo de ter uma lapide que diga aqui jaz um velho promissor. Eh.... potencial pode ser pior que falta, Jim."
 - - This is a very strong learning, and very sad, as marshall sad there is a sort of sadness related to achievement, and I completely understand that because of the IMO, this quote really has a lot to do with me
-- Talent is its own expectation, Jim: you either live up to it or it waves a hankie, receding forever. Use it or lose it, he say over the newspaper. I’m…I’m just afraid of having a tombstone that says HERE LIES A PROMISING OLD MAN. Potential maybe worse than none, Jim. Than no talent to fritter in the first place, lying around guzzling because I haven’t the balls to…God I’m I’m so sorry Jim. You don’t deserve to see me like this. I’m so scared, Jim. I’m so scared of dying without ever really being seen. Can you understand? Are you enough of a big thin prematurely stooped young bespectacled man, even with your whole life still ahead of you, to understand? Can you see I was giving it all I had?
+- Jim: "you either live up to it or it waves a hankie, receding forever. Use it or lose it, he say over the newspaper. I’m…I’m just afraid of having a tombstone that says HERE LIES A PROMISING OLD MAN. Potential maybe worse than none, Jim. Than no talent to fritter in the first place, lying around guzzling because I haven’t the balls to…God I’m I’m so sorry Jim. You don’t deserve to see me like this. I’m so scared, Jim. I’m so scared of dying without ever really being seen. Can you understand? Are you enough of a big thin prematurely stooped young bespectacled man, even with your whole life still ahead of you, to understand? Can you see I was giving it all I had?"
 
 
-Failure
+### Failure
 - It is very emblematic and epic, that the moment where Jim's cold grand father sad "Eh, mas ele nunca vai ser grande" is the exact moment where he fails because he tropecou on something, as Jim's father sad: "Num minuto eu estava numa desbalada e linda carreira rumo a bola, no minuto segunite havia maos nas minhas costas e nada embaixo dos pes como um empurrao numa escadaria"
 
 # American Culture
 
-Loneliness
+## Loneliness
 - The choice of tennis as the central sport is particularly insightful, as it mirrors the competitive nature of modern life—a relentless race where individuals strive to accumulate capital. In this isolating pursuit, the only semblance of community arises from shared struggles, such as skyrocketing rent prices, healthcare costs, and other systemic challenges. While the book hints at the possibility that these shared problems are intentionally designed to foster a sense of connection, I remain skeptical of such a deliberate orchestration.
 
-Ad Campaign
+## Ad Campaign
 - "The NoCoat campaign had three major consequences. The first was that horrible year Hal vaguely recalls when a nation
 became obsessed with the state of its tongue, when people would no sooner leave home without a tongue-scraper and an
 emergency backup tongue-scraper than they'd fail to wash and brush and spray. The year when the sink-and-mirror areas of public
 restrooms were such grim places to be."
 
-American Culture
+## American Culture
 - Did not both Irag and Iran call U.S.A the Very Large Satan
 - "Marathe fazia pequenos círculos enfáticos e cortes no ar enquanto falava: “Esses fatos da
 situação, que dizem com tanta clareza o medo do seu Bureau desse samizdat: agora é o que

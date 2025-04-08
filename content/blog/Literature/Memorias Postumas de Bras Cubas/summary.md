@@ -14,18 +14,18 @@ Iniciou a carreira madura de Machado de Assis
 
 # Criticas a burguesia
 
-Exemplos
+## Exemplos
 - “Marcela amou-me durante quinze meses e onze contos de réis”.
 - - Meio ridiculo o fato dele ter dado todo aquele dinheiro
 - Após a morte de seu pai, Brás Cubas, por causa da herança, fica brigado, por um tempo, com sua irmã Sabina e seu cunhado Cotrim. É de se notar que, até o momento, o narrador-personagem não produziu nada seu, apenas teceu planos fracassados, como o casamento, e desfrutou do dinheiro de seu pai. O autor Machado de Assis parece querer mostrar a inutilidade desse personagem na sociedade da época, uma espécie de sanguessuga que nada produz, que nada contribui para o crescimento da nação.
 - Virgília amua-se sempre que Brás fala no filho de ambos e Brás não percebe o motivo, aparentemente se trata de “medo do parto” e da “privação de certos hábitos da vida elegante”.
 
-Humanitismo
+## Humanitismo
 - Para os críticos, o "Humanitismo" constitui-se da ideia "do império da lei do mais forte, do mais rico e do mais esperto".[4] Antonio Candido escreveu que a essência do pensamento machadiano é "a transformação do homem em objeto do homem, que é uma das maldições ligadas à falta de liberdade verdadeira, econômica e espiritual."[5] Os críticos notam que o "Humanitismo" de Machado não passa de uma sátira ao positivismo de Auguste Comte e ao cientificismo do século XIX e à teoria de Charles Darwin acerca da seleção natural.[6] Desta forma, a teoria do "ao vencedor, as batatas" seria uma paródia da ciência da época de Machado e sua divulgação, uma forma de desnudar ironicamente o caráter desumano e anti-ético da "lei do mais forte
 - ao vencedor, as batatas
 - É interessante como ele utiliza a ironia, comparando-a à teoria da evolução, que, apesar de sua complexidade, pode ser resumida de forma sarcástica na expressão "ao vencedor, as batatas".
 
-Adulterio
+## Adulterio
 - Aliás, a temática do adultério é recorrente em romances realistas do século XIX e aparece como uma crítica à hipocrisia burguesa, já que essa classe defendia valores morais e familiares, que, ao que parece, só serviam para manter as aparências. Assim, Brás Cubas pensa em fugir com a amante, mas descobre uma melhor solução, pois permitiria manter as aparências, isto é, alugar uma “casinha” para os encontros. Como fachada, a personagem D. Plácida é escolhida para viver lá, como se a casa fosse dela.
 
 KKKKKKKKKKKKKKKKK
