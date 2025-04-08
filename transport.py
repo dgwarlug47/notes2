@@ -113,7 +113,9 @@ articlesPaths = [
                                                  ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Champions League",
                                                   base + 'Football/Champions League'),
                                                   ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Music/Favourites",
-                                                   base + 'Music/Favourites')
+                                                   base + 'Music/Favourites'),
+                                                   ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1925) Mrs Dalloway",
+                                                    base + 'Literature/Mrs Dalloway'),
 ]
 
 for articlePath in articlesPaths:

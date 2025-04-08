@@ -8,49 +8,66 @@ description: Women, I feel sorry
 
 # Offred
 
-Offred is one of the most compelling characters I have encountered. As a woman, she possesses an extraordinary combination of traits: the intuitive "sixth sense" often attributed to women, a profound sensitivity, and remarkable rationality. This unique blend makes her an exceptional storyteller—someone who not only feels deeply but also articulates those feelings with clarity and insight. Her ability to both experience and explain the world around her creates a powerful narrative voice that resonates deeply with readers. This duality of emotional depth and intellectual sharpness makes her perspective invaluable in understanding the complexities of her dystopian reality.
+Offred is one of the most compelling characters I have encountered. She embodies a unique combination of traits: an intuitive "sixth sense," profound sensitivity, and remarkable rationality. This blend makes her an exceptional storyteller, capable of both deeply feeling and articulating her experiences with clarity and insight. Her duality of emotional depth and intellectual sharpness provides a powerful narrative voice that resonates deeply with readers, offering invaluable perspectives on her dystopian reality.
 
-She is a brilliant writer
-- He leans back, fingertips toeghter, a gesture familiar to me now. We have built up a repertoire of such gestures, such familiarities, between us. He's looking at me, not unbenevolently, but with curiosity, as if i am a puzzle to be solved.
+### Her Inquisitiveness
 
-This epitomizes her inquisitiveness
-- "I would like ..." i say. "I would like to know." It sounds indecisive, stupid even,  I say it wihout thinking.
-- "Know what" he says.
-- "Whatever there is to know" i say; but that's too flippant. "What's going on"
+Offred's inquisitive nature is evident in her interactions and introspections:
 
+- *"He leans back, fingertips together, a gesture familiar to me now. We have built up a repertoire of such gestures, such familiarities, between us. He's looking at me, not unbenevolently, but with curiosity, as if I am a puzzle to be solved."*
 
-This epitomizes her inquisitiveness:
-- "What a luxury it would be. Not that we did it much. These days I script whole fights, in my head, and reconciliation afterwards too."
-- Offred's introspection and her ability to imagine scenarios, even in a repressive environment, highlight her relentless curiosity and need to make sense of her world. Despite the dystopian constraints, her mind remains active, seeking understanding and resolution, even if only internally.
+This highlights her ability to observe and interpret subtle human behaviors, even in oppressive circumstances.
 
-But some items must have survived the burning; they couldn't possibly have destroyed everything. He must have acquired this in the same way he obtained the magazines—not through honest means. It reeks of the black market. And it's not new; it's been worn before. The cloth under the arms is crumpled and slightly stained with another woman's sweat.
+- *"I would like ..." I say. "I would like to know." It sounds indecisive, stupid even. I say it without thinking.*
+- *"Know what?" he says.*
+- *"Whatever there is to know," I say; but that's too flippant. "What's going on?"*
 
-This detail highlights the clandestine nature of Gilead's underground economy and the remnants of the old world that persist despite the regime's efforts to erase them. The stained garment serves as a poignant reminder of the humanity and individuality of the women who came before, their presence lingering even in the smallest, most mundane details.
+Her relentless curiosity drives her to seek understanding, even when it feels dangerous or futile.
 
-- I think if I were in her situation i would also become scientist, it is as if some people were born too inquisitive to simply leave those questions without answer, it seems like our subconscious don't have enough power to block those questions from showing up.
+- *"What a luxury it would be. Not that we did it much. These days I script whole fights, in my head, and reconciliation afterwards too."*
+
+Offred's introspection and ability to imagine scenarios, even in a repressive environment, underscore her active mind and her need to make sense of the world around her.
+
+### The Underground Economy
+
+- *"But some items must have survived the burning; they couldn't possibly have destroyed everything. He must have acquired this in the same way he obtained the magazines—not through honest means. It reeks of the black market. And it's not new; it's been worn before. The cloth under the arms is crumpled and slightly stained with another woman's sweat."*
+
+This detail reveals the clandestine nature of Gilead's underground economy and the remnants of the old world that persist despite the regime's efforts to erase them. The stained garment poignantly symbolizes the humanity and individuality of the women who came before, lingering even in the smallest details.
+
+### A Scientist's Mindset
+
+Offred's inquisitiveness and analytical nature suggest that, in another life, she might have been a scientist. Her relentless questioning and inability to suppress her curiosity reflect a mind that seeks answers, even when doing so is perilous.
+
+---
 
 # Harvard
 
+Harvard, once a symbol of intellectual freedom, has been transformed into a site of oppression:
 
-Harvard is lost
-- "The Salvaging takes place in Harvard Yard, in front of what was Widener Library. As a university, Harvard once symbolized the free pursuit of knowledge; as the location for the Salvaging, it symbolizes the denial of access to knowledge. Gilead has turned the old world upside down, making a former liberal arts university the seat of the secret police"
+- *"The Salvaging takes place in Harvard Yard, in front of what was Widener Library. As a university, Harvard once symbolized the free pursuit of knowledge; as the location for the Salvaging, it symbolizes the denial of access to knowledge. Gilead has turned the old world upside down, making a former liberal arts university the seat of the secret police."*
 
-- This is deeply symbolic, illustrating the transient nature of human institutions and achievements. It prompts us to reflect on the impermanence of even the most revered places. Imagine what Harvard might represent in 3,000 years—it could just as easily become a site of debauchery or something entirely unrecognizable. This malleability of meaning is one of the true powers of literature, allowing us to explore countless interpretations of a single scenario.
+This transformation is deeply symbolic, illustrating the transient nature of human institutions. It prompts reflection on the impermanence of even the most revered places. In 3,000 years, Harvard might represent something entirely unrecognizable, highlighting literature's power to explore countless interpretations of a single scenario.
 
-- There is a poignant irony in the fact that this repressive regime has taken root in Harvard, a place once synonymous with secularism, intellectual freedom, and the pursuit of knowledge. The stark contrast between its past and present underscores the fragility of progress. The secularists who once thrived there are now absent, replaced by the religious zealots of Gilead. The transformation of Harvard into a symbol of oppression is both tragic and darkly ironic, highlighting how even the most hallowed institutions can be co-opted and repurposed by authoritarian regimes.
+The irony of Harvard's transformation is striking. Once a bastion of secularism and intellectual freedom, it now symbolizes oppression. This stark contrast underscores the fragility of progress and how even the most hallowed institutions can be co-opted by authoritarian regimes.
 
+---
 
-# Social structures
+# Social Structures
 
-Econowife
-- Rather than being married to Commanders, Econowives are fertile women who are married off to Gilead's more ordinary men
+### Econowives
 
-Unbaby
-- is the term used in the Republic of Gilead to describe infants that are suffering from birth defects or physical deformities
+Econowives are fertile women married to Gilead's ordinary men, rather than Commanders.
 
+### Unbabies
 
-Handmaid
-- Origin = "The Old Testament story of Rachel and her handmaid, Bilhah, is the basis of Gilead's strategy to combat its fertility crisis. Back in the days of sanctioned polygamy, Rachel and Leah are sisters married to Jacob. Leah has no trouble having son after son, but her sister, Rachel — the woman whom Jacob loves — can’t get pregnant. Rachel convinces Jacob to impregnate her handmaid, Bilhah, so Rachel can have children “through” her. Bilhah gives birth to two sons, and Rachel names them both. Notably, Bilhah’s voice is never heard at any point in the Bible"
+Unbabies are infants born with birth defects or physical deformities, deemed unfit by Gilead's standards.
+
+### Handmaids
+
+The concept of Handmaids originates from the Old Testament story of Rachel and her handmaid, Bilhah. Rachel, unable to conceive, convinces Jacob to impregnate Bilhah so she can have children "through" her. Notably, Bilhah's voice is never heard in the Bible, mirroring the silencing of Handmaids in Gilead.
+
+- *"Offred’s flashbacks continue to flesh out the story of her life before becoming a Handmaid. Few people appear in Offred’s flashbacks—only Luke, Moira, Offred’s mother, and her daughter. Each of these characters fulfills a different human need. Moira satisfies the need for friendship, Offred’s mother the need for family, her daughter the need for children, Luke the need for romantic love
+
 
 It's crazy how she is treated as a basic machine, without anything
 - "Offred’s flashbacks continue to flesh out the story of her life before becoming a Handmaid. Few people appear in Offred’s flashbacks—only Luke, Moira, Offred’s mother, and her daughter make appearances. Each of these characters fulfills a different human need. Moira satisfies the need for friendship, Offred’s mother the need for family, her daughter the need for children, Luke the need for romantic love. Offred must satisfy her human needs as best she can by living partially in the past, for none of her needs can be satisfied in her new life"

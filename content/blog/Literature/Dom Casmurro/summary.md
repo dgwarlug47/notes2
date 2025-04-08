@@ -7,16 +7,24 @@ description: The GOAT
 
 ![alt text](image-2.png)
 
+## When people ask me about it
+
+1. The Romance of Capitu and Bentinho
+2. Bentinho's trajectory as a metaphor for life and growing old
+
 ## Nickname
 - That is a perfect nickname (Dom Casmurro). I must admit, I think it is very "carinhoso" but ironic and gloomy.
+- This book invites us to reflect on the circumstances that lead individuals to unhappiness. They weren't always this way; life, with its twists and turns, shapes their fate.
+- The transformation from being called Bentinho in his youth to earning the nickname Dom Casmurro in his later years reflects the trajectory of life itself. In our youth, we are full of blessings and vitality, but as we age, we often become consumed by complaints and grievances.
+- In youth, life is about exploration and embracing experiences; as we age, it often becomes a journey of being paranoid.
 
 ## Nostalgic
-- I don't think this is precisely a considerable merit of the book, but....  the fact that this book was passed in 1857 feels
-enough to make it think it is from a different universe, making it so much vintage.
+- I don't think this is precisely a considerable merit of the book, but....  the fact that this book was passed in 1857 feels enough to make it think it is from a different universe, making it so much vintage.
 
 ## Jeitinho brasileiro
-- It is remarkable how old and Brazilian this book is; a promise to make the guy become a priest
-- KKKKKKKKKKKKKKKK
+- It is remarkable how old and Brazilian this book is; a promise to make the Bentinho become a priest
+- - KKKKKKKKKKKKKKKK
+- - And the worst part, is when they are start trading with god the promises to allow him to become an advocate
 - Jose dias actually admits who he is: "é o talento de saber o que é bom e digno de admiração e de apreço"
 - - KKKKKKKKKKKKKKKKKKK
 
@@ -36,7 +44,7 @@ Smooth. I  don't know the truth; there are certain things that only a girl can 
 
 ## Boring
 - Sometimes, he talks about stuff nobody cares about, and I am willing to understand. Fahrenheit
-for example, I never had that
+for example, I never had this problem
 - One of the main problems of this book is that the main topic is not that interesting. I must admit the romance is nice, but Bento coming out of the Seminario is not a big deal
 
 
@@ -56,11 +64,9 @@ even when she was younger, she changed her mind quickly and gave mixed signs for
 - - KKKKKKKKKKKKKKKKKKKKKKKKKKKK
 - "Mas a vontade aqui foi antes uma idéia, uma idéia sem língua, que se deixou ficar quieta e muda,"
 - "Capitu quis que lhe repetisse as respostas todas do agregado, as alterações do gesto e até a pirueta, que apenas lhe contara. Pedia o som das palavras. Era minuciosa e atenta; a narração e o diálogo, tudo parecia remoer consigo."
+- "Mas eu creio que Capitu olhava para dentro de si mesma, enquanto que eu fitava deveras o chão,"
 
-It is not Brazilian, Latin American, or poor country-related. But there is this thing which is not exactly pressure,
-but this force, I don't  know how to describe it very well to push the kids to good careers (he does a good job in describing those)
-
-"Mas eu creio que Capitu olhava para dentro de si mesma, enquanto que eu fitava deveras o chão,"
+It is not Brazilian, Latin American, or poor country-related. But there is this thing which is not exactly pressure, but this force, I don't  know how to describe it very well to push the kids to good careers (he does a good job in describing those)
 
 As I said, this guy created Capitu perfectly; asking this when she told reveals the worst about Capitu.
 can bring, and woman in general: "Se você tivesse de escolher entre mim e sua mãe, a quem é que escolhia?
@@ -72,6 +78,6 @@ Jealous
 - He does a good job introducing jealousy, but Machado doesn't do it in a rush.
 - Now, I believe he took way too long to introduce the jealousy.
 
-Loss of romanticism
+Loss of romanticism nowadays
 - I feel that something, not all, was lost with modernity. We may have lost the romanticism of life. Look at Bentinho; he faked a disease and went to Europe to be with this one girl. Meanwhile, we have Tinder today, in a 5 million city. That sounds absurd. 
 
