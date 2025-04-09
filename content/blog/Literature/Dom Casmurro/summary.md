@@ -7,13 +7,15 @@ description: The GOAT
 
 ![alt text](image-2.png)
 
-## When people ask me about it
+# When people ask me about it
 
 1. The Romance of Capitu and Bentinho
 2. Bentinho's trajectory as a metaphor for life and growing old
 
 
-OBSERVATION: CONTAINS SPOILERS!!
+## Playlist inspired in the book
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3jEjdddMHaoNmCyHNOmtfN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 # Characters
 
