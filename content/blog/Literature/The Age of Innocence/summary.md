@@ -6,6 +6,70 @@ description: Scorscese is a legend
 
 ![alt text](image.png)
 
+# Characters
+
+## 1. **Newland Archer**
+- A young, successful New York lawyer from an old, respectable family.
+- Engaged to May Welland at the beginning of the novel.
+- Torn between duty and passion as he falls in love with Ellen Olenska.
+- **Approximate age**: Late 20s to early 30s.
+
+## 2. **May Welland**
+- Newland's fiancée and later wife.
+- Represents the ideal of innocence and tradition in old New York society.
+- Graceful, obedient, and emotionally intelligent in subtle ways.
+- **Approximate age**: Early 20s.
+
+## 3. **Countess Ellen Olenska**
+- May’s cousin and the object of Newland’s affection.
+- Recently separated from her abusive European husband.
+- Seen as scandalous and unconventional by New York society.
+- **Approximate age**: Late 20s to early 30s.
+
+## 4. **Mrs. Manson Mingott (Catherine Mingott)**
+- The matriarch of the Mingott family.
+- Wealthy, powerful, and unafraid to defy social norms.
+- Supports Ellen despite social disapproval.
+- **Approximate age**: 70s.
+
+## 5. **Mr. and Mrs. Welland**
+- May’s traditional, conservative parents.
+- Uphold the values of old New York society.
+- **Approximate age**: 50s–60s.
+
+# Plot Summary
+
+## Part 1: Engagement and Introduction to Society
+
+The novel begins in 1870s New York City, within the rigid world of upper-class society. **Newland Archer**, a young and respected lawyer, is engaged to the beautiful and proper **May Welland**. He sees her as the ideal match — innocent, refined, and well-suited to uphold the values of their elite social class.
+
+May’s cousin, **Countess Ellen Olenska**, returns to New York after fleeing an unhappy and abusive marriage to a Polish count. Her arrival scandalizes society, which views divorce as immoral. Despite this, Newland becomes intrigued by Ellen's independence, honesty, and disregard for social conventions.
+
+Tasked with advising Ellen on legal matters, Newland finds himself emotionally drawn to her. She challenges his views of marriage, society, and freedom. Although engaged to May, he begins to question whether he truly loves her or is simply fulfilling a societal expectation. As his feelings for Ellen intensify, he tries to rush his wedding to May in an attempt to stifle his growing desire and stay within the bounds of propriety.
+
+---
+
+## Part 2: Conflict and Desire
+
+Now married to May, Newland attempts to settle into the life that is expected of him, but his yearning for Ellen only grows. His dissatisfaction with the superficiality of his world becomes more apparent, and he begins to resent the conformity and repression that surround him.
+
+Ellen, now living independently but modestly, remains an outsider in New York society. She and Newland confess their feelings for each other, but she resists a romantic relationship out of loyalty to May and an understanding of the destructive consequences it would bring. She expresses a deep emotional conflict — though she longs for freedom and love, she refuses to be the cause of scandal and heartbreak.
+
+Newland grows increasingly desperate, fantasizing about leaving his wife and running away with Ellen. Despite his inner rebellion, he is also bound by duty, appearances, and May’s quiet yet powerful influence. His attempts to break free from convention are continually thwarted by Ellen’s restraint and the weight of societal expectations.
+
+---
+
+## Part 3: Resignation and Reflection
+
+The final blow comes when May tells Ellen — before informing Newland — that she is pregnant. This act, subtle and strategic, secures Ellen’s decision to remove herself entirely from their lives. Ellen returns to Europe, ending the romantic tension and solidifying Newland’s role within the life he once believed he chose freely.
+
+Years pass. Newland remains a loyal husband and father, gradually settling into the role society had prepared for him. May dies young, and their children grow up, particularly their son, Dallas, who represents a new generation unbound by many of the old social constraints.
+
+The novel ends with Newland, now in his 50s, traveling to Paris with his adult son. Dallas arranges a visit to Ellen, who still lives there. However, when they arrive outside her apartment, Newland chooses not to go up. He sits alone on a bench, reflecting on the past, recognizing that the moment for change has long passed. He prefers to preserve the memory of his love rather than confront what might have been.
+
+The novel closes on a quiet note of **resignation**, highlighting the tension between individual desire and societal duty, and the irrevocable passage of time.
+
+
 # Introduction
 
 A hieroglyphic world where the real thing was never said, done, or even thought, but only represented by an arbitrary set of signs.

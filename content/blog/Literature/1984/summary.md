@@ -10,19 +10,19 @@ OBSERVATION: CONTAINS SPOILERS!!
 
 # Characters
 
-🧍‍♂️ Winston Smith
+## 🧍‍♂️ Winston Smith
 - Protagonist of the novel.
 - A 39-year-old man who works at the Ministry of Truth, altering historical records to match Party propaganda.
 - Quietly rebellious, he begins to question the Party and seeks truth and personal freedom.
 - Starts a secret love affair with Julia and dreams of overthrowing Big Brother.
 
-🧍‍♀️ Julia
+## 🧍‍♀️ Julia
 - Winston’s lover and co-conspirator.
 - Works in the Fiction Department of the Ministry of Truth.
 - Outwardly loyal to the Party but secretly rebellious.
 - More pragmatic than Winston—her rebellion is more about personal pleasure than ideology.
 
-🧓 O'Brien
+## 🧓 O'Brien
 - A member of the Inner Party.
 - Pretends to be part of the resistance to lure Winston in.
 - Eventually betrays Winston and is instrumental in his psychological torture and re-education.

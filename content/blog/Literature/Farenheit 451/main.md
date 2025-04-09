@@ -9,6 +9,67 @@ description: KKKKKKKKKKKKKKKKKKKKK
 
 
 OBSERVATION: This note is highly unstructed, it still needs to be rewritten
+
+# Main Characters in *Fahrenheit 451*
+
+## 1. **Guy Montag**
+- The protagonist of the novel.
+- A "fireman" whose job is to burn books.
+- Begins to question the society he lives in and seeks knowledge and truth.
+
+## 2. **Mildred Montag**
+- Montag’s wife.
+- Obsessed with television and conforming to societal norms.
+- Emotionally disconnected and indifferent to Montag's growing unrest.
+
+## 3. **Captain Beatty**
+- Montag’s boss at the firehouse.
+- Well-read but cynical; defends censorship and the status quo.
+- Acts as both a mentor and antagonist to Montag.
+
+## 4. **Clarisse McClellan**
+- A curious and free-spirited teenage girl.
+- Introduces Montag to new ways of thinking.
+- Her disappearance sparks Montag's transformation.
+
+## 5. **Faber**
+- A former English professor.
+- Helps Montag understand the value of
+
+# Detailed Summary
+
+## Part 1: *The Hearth and the Salamander*
+
+In a bleak future where books are outlawed and independent thought is suppressed, Guy Montag works as a fireman—but in this world, firemen don't extinguish fires, they start them. Montag’s job is to burn books, which are seen as dangerous sources of conflicting ideas and unhappiness. He takes pride in his work and lives a relatively unthinking life with his emotionally disconnected wife, Mildred.
+
+Montag’s worldview begins to crack when he meets Clarisse McClellan, a 17-year-old girl who is curious, reflective, and full of wonder about the world. She asks him questions no one else dares to, such as whether he is truly happy. Her presence awakens something dormant in Montag. As they talk more, Clarisse tells Montag about her odd, thoughtful family and her habit of walking and observing the world—activities that are frowned upon in their society.
+
+Soon after, Clarisse disappears, presumed dead. Around the same time, Montag witnesses a shocking event: a woman chooses to be burned alive with her hidden books rather than live without them. Deeply disturbed, Montag begins to steal and hide books in his own home, driven by a growing sense of emptiness and curiosity about what knowledge might lie within them.
+
+Montag’s inner conflict deepens, and he becomes increasingly alienated from his wife, who is obsessed with television “parlor walls” and addicted to sleeping pills. The distance between them grows as Montag begins to question not just his job, but the entire foundation of the society he lives in.
+
+---
+
+## Part 2: *The Sieve and the Sand*
+
+Haunted by his experiences and desperate to understand the meaning behind books, Montag contacts Faber, a former English professor he once met in a park. Though initially reluctant, Faber agrees to help Montag learn how to read and interpret books. They develop a plan to undermine the fireman system by reproducing books and planting them in the homes of firemen to discredit the institution from within.
+
+Montag's rebellion begins to take form, but his growing restlessness becomes obvious to those around him. His conversations with Mildred become more strained, and she is horrified when he starts reading aloud in front of her friends. The confrontation drives a deeper wedge between them, and she eventually betrays him to the authorities.
+
+Captain Beatty, Montag’s superior, grows increasingly suspicious and confronts Montag with philosophical quotes and literary allusions, challenging him and trying to confuse and intimidate him. Beatty represents the voice of the oppressive regime, defending censorship as a means to keep society comfortable and avoid controversy.
+
+As Montag’s internal conflict reaches a boiling point, the firemen receive an alarm call—to Montag’s own house. Beatty forces Montag to burn down his home himself, and when pushed too far, Montag turns the flamethrower on Beatty, killing him.
+
+---
+
+## Part 3: *Burning Bright*
+
+Now a fugitive, Montag escapes the Mechanical Hound—a robotic enforcer used to hunt down those who break the law—and flees the city. He finds refuge in the countryside, where he meets a group of intellectual outcasts led by a man named Granger. These individuals have committed entire books to memory, preserving literary knowledge orally in hopes that society may someday value it again.
+
+As Montag integrates with this group, he begins to find peace and a new sense of purpose. Meanwhile, the city he fled from is destroyed in a nuclear war, symbolizing the complete collapse of the society that rejected knowledge and truth.
+
+In the aftermath, Montag and the others walk toward the ruins of the city, prepared to help rebuild civilization. The novel ends with a note of cautious hope—through memory and reflection, a new beginning may arise from the ashes.
+
 ### Themes and Analysis
 
 #### Clarisse and Individuality
