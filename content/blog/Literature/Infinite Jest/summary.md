@@ -10,9 +10,8 @@ description: The book I love/hate the most
 
 ## Style
 
-# Postmodern Elements
+### Postmodern Elements
 
-## Key Characteristics
 - **Satirical and Absurd Humor**: The book employs humor to critique contemporary society, often in an exaggerated and absurd manner.
 - **Hyperrealism**: Wallace provides an overwhelming amount of detail, creating a sense of immersion that borders on the surreal.
 - **Dense and Detailed Prose**: The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
@@ -31,20 +30,13 @@ description: The book I love/hate the most
 
 ## Literary Significance
 - Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
+- [MYTAKE] - "I like this book because, while *Crime and Punishment* excels in philosophical depth, *Infinite Jest* stands out for its innovative literary techniques."
 
-# Characters
+## Philosophy
 
-## Hal Incandenza
-- A genius who is isolated, emotionally troubled, and possibly autistic. His struggles reflect the broader themes of disconnection and existential questioning.
-
-# Philosophy
-
-## Hedonism and Its Consequences
+### Hedonism and Its Consequences
 - The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
 
-# Davi's Comments
-
-- "I like this book because, while *Crime and Punishment* excels in philosophical depth, *Infinite Jest* stands out for its innovative literary techniques."
 
 # Basics
 
@@ -63,14 +55,106 @@ description: The book I love/hate the most
 ### Infinity
 - The concept of infinity is explored both mathematically and emotionally. While mathematically infinite numbers dwarf any conceivable quantity, Wallace's hyperrealistic approach makes the reader feel the infinite complexity of the world. The book conveys a sense of boundless information and experience.
 
+# Infinite Jest – Key Characters
+
+## Incandenza Family
+
+- **Hal Incandenza**  
+  Prodigy tennis player and linguistic genius at Enfield Tennis Academy (ETA). Struggles with internal emptiness and substance use.
+
+- **James O. Incandenza (JOI)**  
+  Hal’s late father. Filmmaker, optics expert, and founder of ETA. Creator of the deadly entertainment cartridge "Infinite Jest."
+
+- **Avril Incandenza**  
+  Hal’s intense and possibly unhinged mother. Head administrator at ETA. Known for her rigid propriety and strange relationships.
+
+- **Mario Incandenza**  
+  Hal’s physically disabled but emotionally perceptive older brother. A gentle soul and amateur filmmaker.
+
+- **Orin Incandenza**  
+  Hal’s oldest brother, a former ETA tennis star turned professional punter in the NFL. Escapes into womanizing and paranoia.
+
+## Enfield Tennis Academy (ETA)
+
+- **Don Gately**  
+  Former burglar and recovering addict who works at Ennet House. One of the novel’s moral centers.
+
+- **Michael Pemulis**  
+  Hal’s close friend. Brilliant in math and recreational chemistry. Often deals in drugs on the side.
+
+- **John Wayne**  
+  Canadian tennis prodigy at ETA. Mysterious, emotionally distant, and possibly involved with Avril.
+
+- **Joelle Van Dyne (aka Madame Psychosis)**  
+  Former lover of JOI. Beautiful, veiled woman who may be the star of "Infinite Jest." Struggles with addiction and self-image.
+
+- **Lyle**  
+  A sweat-drinking spiritual advisor who resides in the weight room at ETA.
+
+## Ennet House Recovery Center
+
+- **Pat Montesian**  
+  Director of Ennet House, deeply committed to helping addicts recover.
+
+- **Kate Gompert**  
+  A depressed marijuana addict who speaks candidly about suicidal ideation.
+
+- **Tiny Ewell**  
+  Wheelchair-bound resident of Ennet House; sarcastic and observant.
+
+- **Randy Lenz**  
+  Psychotic Ennet House resident with violent tendencies toward animals.
+
+## Political Groups & Others
+
+- **Remy Marathe**  
+  Member of Les Assassins des Fauteuils Rollents (The Wheelchair Assassins), a Québécois separatist group. Torn between duty and loyalty.
+
+- **M. Fortier**  
+  Leader of the A.F.R. (Wheelchair Assassins), obsessed with locating the master copy of "Infinite Jest."
+
+- **Hugh Steeply (aka Helen Steeply)**  
+  U.S. intelligence operative working undercover as a woman. Tracks the distribution of the lethal film.
+
+## The Entertainment
+
+- **“Infinite Jest”**  
+  A mysterious and fatally entertaining film cartridge — so captivating that viewers lose all interest in anything else, including survival.
+
+# Plot Summary
+
+## Part 1: The Setup – Institutions, Addiction, and the Entertainment
+
+- The story is set in an alternate near-future North America under the Organization of North American Nations (O.N.A.N.), where time is subsidized by corporations.
+- The narrative orbits two main institutions in Enfield, Massachusetts:
+  - **Enfield Tennis Academy (ETA)**: an elite prep school for young tennis players.
+  - **Ennet House Drug and Alcohol Recovery House**: a nearby halfway house for addicts.
+- The **Incandenza family**—Hal (gifted student/tennis prodigy), his filmmaker father James O. Incandenza (creator of ETA and a mysterious film), and his domineering mother Avril—are at the story’s core.
+- A lethal film cartridge, known as **"Infinite Jest"**, surfaces. It’s so entertaining that anyone who watches it loses the will to do anything else.
+- Several groups—including U.S. government agents and a Québécois separatist group (Les Assassins des Fauteuils Rollents)—are trying to locate the master copy.
+
+## Part 2: Collapse – Addiction, Loss, and Conspiracy
+
+- **Don Gately**, a recovering addict and staffer at Ennet House, becomes a key figure. Through his recovery, we see the struggle for meaning and the power of communal support.
+- **Hal**, once brilliant, begins to emotionally and cognitively unravel, possibly from drug use or deeper psychological issues.
+- Characters from both ETA and Ennet House become increasingly intertwined, especially as their lives orbit the missing film.
+- **Joelle Van Dyne**, a veiled woman and former lover of JOI, enters Ennet House. She may be the star of "Infinite Jest" and holds clues about its origin.
+- Political tension builds as the separatists plot to use the film as a weapon of mass entertainment, threatening the stability of O.N.A.N.
+
+## Part 3: Fragmentation and Unanswered Questions
+
+- The narrative becomes increasingly fractured, with events told out of sequence and major plot points implied rather than shown.
+- Don Gately lies gravely wounded, possibly hallucinating a vision of redemption and memory.
+- Hal’s descent continues—by the novel’s opening scene (chronologically set after most events), he is nearly catatonic, unable to express himself despite mental clarity.
+- The whereabouts of the master copy of "Infinite Jest" remain unknown—though hints suggest it was buried with JOI's head.
+- The book ends midstream, requiring readers to piece together its cyclical structure and central mysteries from scattered fragments.
+
+
 
 # Hyper realism
 
 Gives an insane amount of details about something to the point that it conveys perfectly how it feels like. A great tool for epitomization
 - (End of parties) "Você pode estar em certas festas e não estar lá de verdade. Você pode ouvir como certas festas têm os seus próprios fins implicados já embutidos na coreografia da própria festa. Um dos momentos mais tristes que Joelle van Dyne sente em qualquer lugar é aquele eixo invisível onde uma festa acaba — até uma festa ruim —, aquele instante de tácita aquiescência em que todo mundo começa a juntar isqueiros e namorados, jaqueta ou casacão, aquela última cerveja presa ao plástico que viu outras cinco saírem, diz certas coisas perfunctórias para a anfitriã de uma maneira que ela reconhece essa perfunctoriedade sem parecer insincera, e sai normalmente fechando a porta. Quando a voz de todo mundo vai sumindo no corredor. Quando a anfitriã se vira depois de fechar a porta e vê a bagunça e o V de silêncio total se expandindo na esteira da festa."
-
-Gives an insane amount of details about something that is completely unrelated to the story
-- TO BE WRITTEN
 
 
 # Humour

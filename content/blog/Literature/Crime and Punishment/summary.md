@@ -21,6 +21,47 @@ description: My favourite book
 - The psychological depth of the book reveals how punishment manifests internally, regardless of external judgment or societal norms.
 - The novel intertwines philosophical and psychological perspectives, making the reader question the true nature of justice and retribution.
 
+# Main Characters
+
+- **Rodion Romanovich Raskolnikov**  
+  A former student living in poverty, Raskolnikov is the protagonist of the novel. He formulates a theory about extraordinary people being above the law, which leads him to commit a murder.
+
+- **Sofya Semyonovna Marmeladov (Sonya)**  
+  A meek and devout young woman forced into prostitution to support her family. She becomes Raskolnikov's confidante and moral compass.
+
+- **Avdotya Romanovna Raskolnikova (Dunya)**  
+  Raskolnikov's proud and strong-willed sister. She is pursued by two very different men: the manipulative Luzhin and the noble Razumikhin.
+
+- **Pulcheria Alexandrovna Raskolnikova**  
+  Raskolnikov's doting mother, deeply concerned with her son’s future and emotional well-being.
+
+# Plot Summary
+
+## Part 1: The Crime and Psychological Collapse
+
+- **Rodion Raskolnikov**, a destitute ex-student in St. Petersburg, believes certain "extraordinary" people can commit crimes if it leads to a greater good.
+- To prove this theory, he murders **Alyona Ivanovna**, a pawnbroker, intending to use her money for noble purposes.
+- The plan goes awry when he also kills her innocent sister, **Lizaveta**, who walks in on the scene.
+- After the murders, Raskolnikov becomes deeply ill, both physically and mentally, and begins to unravel under the weight of guilt and paranoia.
+- He isolates himself, suffering from delirium and emotional instability.
+
+## Part 2: Encounters, Conflicts, and Moral Struggle
+
+- Raskolnikov is drawn to **Sofya (Sonya) Marmeladov**, a humble and devout young woman who has turned to prostitution to support her family. She becomes his confidante.
+- **Porfiry Petrovich**, the sly and philosophical detective, begins to suspect Raskolnikov and subtly pressures him through psychological games.
+- **Razumikhin**, Raskolnikov’s loyal friend, tries to help him and becomes romantically involved with **Dunya**, Raskolnikov’s strong-willed sister.
+- Tensions rise with **Luzhin**, a pompous suitor of Dunya, and **Svidrigaïlov**, her sinister former employer who harbors disturbing intentions.
+- Raskolnikov is torn between confessing and holding onto his philosophical justification for the crime.
+
+## Part 3: Confession, Redemption, and Transformation
+
+- As guilt overwhelms him, Raskolnikov’s internal conflict reaches its peak. Sonya urges him to confess and face his punishment.
+- Svidrigaïlov, after a series of disturbing revelations and acts, dies by suicide — underscoring a path Raskolnikov might have taken.
+- Raskolnikov finally confesses to the murders and is sentenced to **Siberian penal servitude**.
+- Sonya follows him to Siberia, offering support and spiritual strength.
+- In the epilogue, Raskolnikov begins to feel the first signs of **spiritual awakening and redemption**, suggesting that suffering and love can lead to salvation.
+
+
 # Philosophy
 
 ## Existentialism and Morality in Crime and Punishment
