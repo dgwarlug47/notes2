@@ -106,25 +106,20 @@ description: The GOAT
 - - Perhaps this is the intent of the author, his intent is to make us feel what Bentinho felt. The wait to see Capitu again. For example one of the main parts of the book is the "seminario", and that is so fucking boring, oh my god I just wanted that part to end
 - [MYTAKE] For me what is great about Capitu, is that she creates so much tension, her misteriousness creates a tension on the reader that it is fascinating
 - "O que m fascina em Capitu é a sua maneira de ser, misteriosa, carismática, esquisita, engraçada, anti santinha do pau ôco, mas com uma melancolia chique.'
-- - PERFECTlLY describes her
+- - PERFECTLY describes her
 - 'Tinha-me lembrado a definição que José Dias dera deles, "olhos de cigana oblíqua e dissimulada." Eu não sabia o que era obliqua, mas dissimulada sabia, e queria ver se podiam chamar assim. Capitu deixou-se fitar e examinar. Só me perguntava o que era, se nunca os vira; eu nada achei extraordinário; a cor e a doçura eram minhas conhecidas.'
 - "Capitu, isto é, uma criatura muito particular, mais mulher do que eu era homem".
-- I think that a big part of the success of Capitu's character comes from the fact that she is very authentic, in the sense
-even when she was younger, she changed her mind quickly and gave mixed signs for Bento, which is exactly how real-life girls are
-- "Agora , por que é que nenhuma dessas caprichosas me fez esquecer a primeira amada do meu coração? Talvez porque nenhuma tinha os olhos de ressaca, nem os de cigana oblíqua e dissimulada. Mas não é este propriamente o resto do livro. O resto é saber se a Capitu da Praia da Glória já estava dentro da de Mata-cavalos, ou se esta foi mudada naquela por efeito de algum caso incidente. Jesus, filho de Sirach, se soubesse dos meus primeiros ciúmes, dir-me-ia, como no seu cap. IX, vers. 1: "Não tenhas ciúmes de tua mulher para que ela não se meta a enganar-te com a malícia que aprender de ti". Mas eu creio que não, e tu concordarás comigo; se te lembras bem da Capitu menina, hás de reconhecer que uma estava dentro da outra, como a fruta dentro da casca.
-E bem, qualquer que seja a solução, uma cousa fica, e é a suma das sumas, ou o resto dos restos, a saber, que a minha primeira amiga e o meu maior amigo, tão extremosos ambos e tão queridos também, quis o destino que acabassem juntando-se e enganando-me... A terra lhes seja leve! Vamos à "História dos Subúrbios."
-- - [MYTAKE] I love this quote because there is something that feels odd about this book, like Capitu seems to be a sexy and intriguing young lady in the beginning, whereas in the end it seems like a completely detatched characther that one doesn't know who is she, and this quote perfectly describes that
-- [MYTAKE] Capitu's insane seducing abilities make me realize that she can bring you both to heaven or hell depending on the circumstances. On the other hamd, a girl that can't bring you to heaven, can't you bring to hell either, but that's not the case for Capitu
+- I think that a big part of the success of Capitu's character comes from the fact that she is very authentic, in the sense even when she was younger, she changed her mind quickly and gave mixed signs for Bento, which is exactly how real-life girls are
+- "Agora , por que é que nenhuma dessas caprichosas me fez esquecer a primeira amada do meu coração? Talvez porque nenhuma tinha os olhos de ressaca, nem os de cigana oblíqua e dissimulada. Mas não é este propriamente o resto do livro. O resto é saber se a Capitu da Praia da Glória já estava dentro da de Mata-cavalos, ou se esta foi mudada naquela por efeito de algum caso incidente. Jesus, filho de Sirach, se soubesse dos meus primeiros ciúmes, dir-me-ia, como no seu cap. IX, vers. 1: "Não tenhas ciúmes de tua mulher para que ela não se meta a enganar-te com a malícia que aprender de ti". Mas eu creio que não, e tu concordarás comigo; se te lembras bem da Capitu menina, hás de reconhecer que uma estava dentro da outra, como a fruta dentro da casca. E bem, qualquer que seja a solução, uma cousa fica, e é a suma das sumas, ou o resto dos restos, a saber, que a minha primeira amiga e o meu maior amigo, tão extremosos ambos e tão queridos também, quis o destino que acabassem juntando-se e enganando-me... A terra lhes seja leve! Vamos à "História dos Subúrbios."
+- - [MYTAKE] I love this quote because there is something that feels odd about this book, like Capitu seems to be a sexy and intriguing young lady in the beginning, whereas in the end it seems like a completely detatched characther that one doesn't know who is she. What changed? Maybe nothing changed, perhaps she has always been like this.
+- [MYTAKE] Capitu's insane seducing abilities make me realize that she can bring you both to heaven or hell depending on the circumstances. On the other hand, a girl that can't bring you to heaven, can't bring you to hell either, but that's not the case for Capitu
 
 # Bentinho
 - INFP
 - That is a perfect nickname (Dom Casmurro). I must admit, I think it is very "carinhoso" but ironic and gloomy.
 - This book invites us to reflect on the circumstances that lead individuals to unhappiness. They weren't always this way; life, with its twists and turns, shapes their fate.
 - The transformation from being called Bentinho in his youth to earning the nickname Dom Casmurro in his later years reflects the trajectory of life itself. In our youth, we are full of blessings and vitality, but as we age, we often become consumed by complaints and grievances.
-- In youth, life is about exploration and embracing experiences; as we age, it often becomes a journey of being paranoid.
-- KKKKKKKKKKKKKKKKK he is one of us
-- - "A imaginação foi a companheira de toda a minha existência, viva, rápida, inquieta, alguma vez
-tímida e amiga de empacar, as mais delas capaz de engolir campanhas e
+- "A imaginação foi a companheira de toda a minha existência, viva, rápida, inquieta, alguma vez tímida e amiga de empacar, as mais delas capaz de engolir campanhas e
 campanhas, correndo. Creio haver lido em Tácito que as éguas iberas concebiam pelo vento; se não foi nele, foi noutro autor antigo, que entendeu
 guardar essa crendice nos seus livros. Neste particular, a minha imaginação
 era uma grande égua ibera; a menor brisa lhe dava um potro, que saía logo
@@ -133,17 +128,18 @@ meus quinze anos. Digamos o caso simplesmente. A fantasia daquela hora
 foi confessar a minha mãe os meus amores para lhe dizer que não tinha vocação eclesiástica. A conversa sobre vocação tornava-me agora toda inteira,
 e, ao passo que me assustava, abria-me uma porta de saída. “Sim, é isto, pensei; vou dizer a mamãe que não tenho vocação, e confesso o nosso namoro;
 se ela duvidar, conto-lhe o que se passou outro dia, o penteado e o resto...”
+- - KKKKKKKKKKKKKKKKK he is one of us
 
 # Confrontation
-- "Se eu não olhasse para Ezequiel, é provável que não estivesse aqui escrevendo este livro, porque o meu primeiro ímpeto foi correr ao café e bebê-lo.
-Cheguei a pegar na xícara, mas o pequeno beijava-me a mão, como de costume, e a vista dele, como o gesto, deu-me outro impulso que me custa
+- "Se eu não olhasse para Ezequiel, é provável que não estivesse aqui escrevendo este livro, porque o meu primeiro ímpeto foi correr ao café e bebê-lo. Cheguei a pegar na xícara, mas o pequeno beijava-me a mão, como de costume, e a vista dele, como o gesto, deu-me outro impulso que me custa
 dizer aqui; mas vá lá, diga-se tudo. Chamem-me embora assassino; não serei eu que os desdiga ou contradiga; o meu segundo impulso foi criminoso.
 Inclinei-me e perguntei a Ezequiel se já tomara café. — Já, papai; vou à missa com mamãe. — Toma outra xícara, meia xícara só. — E papai? — Eu mando vir mais; anda, bebe!
 Ezequiel abriu a boca. Cheguei-lhe a xícara, tão trêmulo que quase a
 entornei, mas disposto a fazê-la cair pela goela abaixo, caso o sabor lhe
 repugnasse, ou a temperatura, porque o café estava frio... Mas não sei que
 senti que me fez recuar. Pus a xícara em cima da mesa, e dei por mim a beijar
-doidamente a cabeça do menino. — Papai! papai! exclamava Ezequiel. — Não, não, eu não sou teu pai!" - - KKKKKKKKKKKKKKKKKKKKKKK - "Quando levantei a cabeça, dei com a figura de Capitu diante de mim. Eis
+doidamente a cabeça do menino. — Papai! papai! exclamava Ezequiel. — Não, não, eu não sou teu pai!"
+- "Quando levantei a cabeça, dei com a figura de Capitu diante de mim. Eis
 aí outro lance, que parecerá de teatro, e é tão natural como o primeiro, uma
 vez que a mãe e o filho iam à missa, e Capitu não saía sem falar-me. Era já
 um falar seco e breve; a maior parte das vezes, eu nem olhava para ela. Ela
@@ -157,8 +153,7 @@ Capitu respondeu que ouvira choro e rumor de palavras. Eu creio que
 ouvira tudo claramente, mas confessá-lo seria perder a esperança do silêncio
 e da reconciliação; por isso negou a audiência e confirmou unicamente a vista.
 Sem lhe contar o episódio do café, repeti-lhe as palavras do final do capítulo. — O quê? perguntou ela como se ouvira mal. — Que não é meu filho."
-- "Grande foi a estupefação de Capitu, e não menor a indignação que lhe
-sucedeu, tão naturais ambas que fariam duvidar as primeiras testemunhas
+- "Grande foi a estupefação de Capitu, e não menor a indignação que lhe sucedeu, tão naturais ambas que fariam duvidar as primeiras testemunhas
 de vista do nosso foro. Já ouvi que as há para vários casos, questão de preço;
 eu não creio, tanto mais que a pessoa que me contou isso acabava de perder
 uma demanda. Mas, haja ou não testemunhas alugadas, a minha era verdadeira; a própria natureza jurava por si, e eu não queria duvidar dela. Assim
@@ -185,7 +180,8 @@ transcrever aqui; depois, em um tom juntamente irônico e melancólico:
 — Pois até os defuntos! Nem os mortos escapam aos seus ciúmes!
 Concertou a capinha e ergueu-se. Suspirou, creio que suspirou, enquanto eu, que não pedia outra coisa mais que a plena justificação dela, disse-lhe
 não sei que palavras adequadas a este fim. Capitu olhou para mim com desdém, e murmurou:"
-
+- [MYTAKE] I love this part of the book, as Machado de Assis would say, "a alma é cheia
+de mistérios", I can't even start to explain rationally or linguistically the epicness of the magic of this confrontation. So many things arise in my heart when I read this, the main thing that comes to mind is where has the love gone? I can hear Elephant gun on the background when I read this, why? Couldn't life be simpler? Why did this happen? Life can be so bittersweet when we have a gret youth, but an unpleasant adulthood.
 
 # Great writing
 - Style
@@ -231,35 +227,32 @@ Repito, a alma é cheia de mistérios."
 - - [MYTAKE] I like this quote because it describes very well two things, one is Capitu's abilities to drive someone mad, and the fact that people behaving in unexplainable ways probably mean that there is a logic, but the logic is so complex that we can't understand it KKKKKKKKKKKKKKKKK
 - "Conhecia as regras do escrever, sem suspeitar as do amar, tinha orgias do latim e era virgem de mulheres."
 
-# Jeitinho brasileiro
+# Other
+
+## Jeitinho brasileiro
 - It is remarkable how old and Brazilian this book is; a promise to make the Bentinho become a priest
 - - KKKKKKKKKKKKKKKK
 - - And the worst part, is when they start trading with god the promises to allow him to become an attorney
 - Jose dias actually admits who he is: "é o talento de saber o que é bom e digno de admiração e de apreço"
 - - KKKKKKKKKKKKKKKKKKK
 
-# Romance
+## Romance
 - There is nothing like a good romance, I don't know the words to describe it. Beautiful,  poetic, cathartic,
 Smooth. There are certain things that only a girl can do to a man, and Capitu is one of them
 - It's crazy how much power she has over him, how she can with mannerism looks and gestures completely control a man
-
-## Friends since kids
 - The fact that they have known each other since they were kids adds up to the epicness of their romance
 - She knew him very well, what the fuck
 
+### Loss of Romanticism in Modern Times
+- It feels like modernity has stripped away some of the romanticism of life. Take Bentinho, for example—he went as far as faking an illness and traveling to Europe just to be with one girl. Compare that to today, where we have Tinder in cities with millions of people. The contrast is striking and almost absurd.
 
 
-# Other
-Nostalgic
+## Nostalgic
 - I don't think this is precisely a considerable merit of the book, but....  the fact that this book was passed in 1857 feels enough to make it think it is from a different universe, making it so much vintage.
-
 - It is not Brazilian, Latin American, or poor country-related. But there is this thing which is not exactly pressure, but this force, I don't  know how to describe it very well to push the kids to good careers (he does a good job in describing that)
 
-Jealousy
+## Jealousy
 - One of the problems with this part of the story is that there is no major conflict, which we know will come when he suffers a Gaia
 - He does a good job introducing jealousy, but Machado doesn't do it in a rush.
 - Now, I believe he took way too long to introduce the jealousy.
-
-Loss of romanticism nowadays
-- I feel that something, not all, was lost with modernity. We may have lost the romanticism of life. Look at Bentinho; he faked a disease and went to Europe to be with this one girl. Meanwhile, we have Tinder today, in a 5 million city. That sounds absurd. 
 
