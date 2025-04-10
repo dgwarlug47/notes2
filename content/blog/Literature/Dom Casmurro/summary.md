@@ -188,6 +188,8 @@ não sei que palavras adequadas a este fim. Capitu olhou para mim com desdém, e
 
 
 # Great writing
+- Style
+- - The language is highly cultured, full of references, but informal, in a conversational tone with the reader, almost proto-modernist, filled with intertextuality, metalanguage and irony
 - "Assim, apanhados pela mãe, éramos dois e contrários, ela encobrindo com a palavra o que eu publicava pelo silêncio."
 - - KKKKKKKKKKKKKKKKKKKKKKKKKKKK
 - "Mas a vontade aqui foi antes uma idéia, uma idéia sem língua, que se deixou ficar quieta e muda,"

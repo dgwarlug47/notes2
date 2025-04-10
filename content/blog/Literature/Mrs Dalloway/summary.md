@@ -77,7 +77,8 @@ description: Virginia Wolf is really good at stream-of-consciousness
 
 - This style reaches unique levels of human experience
 - Example: "Leve-me com você, pensou Clarissa num impulso, como se ele estivesse saindo imediatamente para uma longa viagem; e então, no instante seguinte, foi como se agora uma peça em cinco atos muito envolvente e empolgante tivesse se acabado e ela tivesse vivido ali uma existência inteira, tivesse fugido, tivesse vivido com Peter, e agora tivesse se acabado."
-- One downside of Woolf's style is the lack of chapters.
+- [MYTAKE] I hate the fact that this book has no chapters, it's so annoying to read
+- [MYTAKE] Focusing on conciousness is a post Kant consequence, after all we moved on from noumena, all we have left is phenomena
 
 ## Considering All Lives as Important
 
@@ -98,6 +99,15 @@ description: Virginia Wolf is really good at stream-of-consciousness
 - [MYTAKE] One of the reasons why this ending is so great, is that  even though we are so separate from each other, in our own little worlds, Septimus and Clarissa were able to create a deep connection, because she understood his pain, and the only reason why she was able to connect with him was that she has great senstivity. It's ironic and interesting, that he had to die and the information of his death to spread so many for his mind to be understood, to be heartfelt
 - Septimus’s death makes Clarissa’s party seem even more indulgent than it is. Elizabeth’s obsession with her dog, the men’s enjoyment of their wine, and Clarissa’s gushing welcomes to guests all seem trivial in light of Septimus’s suicide. More troubling is the fact that Clarissa’s party entertains Septimus’s oppressors, the upholders of stifling British society, including Sir William. Most of the guests seem to have failed in some way, and nearly all live in the bubble world of upper-class England. Clarissa’s stuffy Aunt Helena, the botanist who believes in suppressing emotion and any interesting topic of conversation, spent a lifetime weighing flowers down with books to make them flat. This hobby suggests her wish to squash the human soul in order to preserve the social mores of English society; it also demonstrates the danger of applying analytic, scientific study to aesthetic values. The prime minister himself is present, a comical, slightly pathetic figure who struggles to be a figurehead to a public desperate for symbols. The social system is empty and even ridiculous, but Clarissa and her guests uphold it nonetheless.
 - [MYTAKE] One of the reasons why this ending is so strong, is that even though she was able to "escape" from those societal expectations, Septimus wasn't, in fact he killed himself. Because, in the end, she didn't live the life she wanted to, in fact she chose to live according to make alliances to the "system", but in the end was it worth it? After all, even if she was able to save her self, others werent', and those others killed themselves, so the root cause of the problem wasn't removed she just let the bom drop in someoneo else
+- "“Richard has improved. You are right,” said Sally. “I shall go and
+talk to him. I shall say goodnight. What does the brain matter,” said
+Lady Rosseter, getting up, “compared with the heart?”
+“I will come,” said Peter, but he sat on for a moment. What is this
+terror? what is this ecstasy? he thought to himself. What is it that
+fills me with extraordinary excitement?
+It is Clarissa, he said.
+For there she was."
+- [MYTAKE] The book ends with us realizing that somethings never change, Richard is still not worthy of love, and Peter still loves Clarissa
 
 # Clarissa
 
@@ -118,6 +128,43 @@ description: Virginia Wolf is really good at stream-of-consciousness
 - [MYTAKE] I really relate a lot to Clarissa in this book, because like me she the beauty of the world, but she was also forced to not pursue that beauty for reality constraints
 - “Clarissa had a theory in those days ... that since our apparitions, the part of us which appears, are so momentary compared with the other, the unseen part of us, which spreads wide, the unseen might survive, be recovered somehow attached to this person or that, or even haunting certain places after death ... perhaps—perhaps.”
  - [MYTAKE] I love the fact that she had 3 "romantic" options: Sally, Peter and Richard. She chose the least romantic option, and most boring one, and she got exactly what she was loooking for, that is safety, but was it worth it?
+
+# Miss Kilman
+- "It was the flesh that she must control. Clarissa Dalloway had
+insulted her. That she expected. But she had not triumphed; she had
+Mrs. Dalloway | 119
+not mastered the flesh. Ugly, clumsy, Clarissa Dalloway had laughed
+at her for being that; and had revived the fleshly desires, for she
+minded looking as she did beside Clarissa. Nor could she talk as
+she did. But why wish to resemble her? Why? She despised Mrs.
+Dalloway from the bottom of her heart. She was not serious. She
+was not good. Her life was a tissue of vanity and deceit. Yet Doris
+Kilman had been overcome. She had, as a matter of fact, very nearly
+burst into tears when Clarissa Dalloway laughed at her. “It is the
+flesh, it is the flesh,” she muttered (it being her habit to talk aloud)
+trying to subdue this turbulent and painful feeling as she walked
+down Victoria Street. She prayed to God. She could not help being
+ugly; she could not afford to buy pretty clothes. Clarissa Dalloway
+had laughed—but she would concentrate her mind upon something
+else until she had reached the pillar-box. At any rate she had got
+Elizabeth. But she would think of something else; she would think of
+Russia; until she reached the pillar-box"
+- "gooseberry-coloured eyes upon Clarissa, observing her small pink
+face, her delicate body, her air of freshness and fashion, Miss Kilman
+felt, Fool! Simpleton! You who have known neither sorrow nor
+pleasure; who have trifled your life away! And there rose in her an
+overmastering desire to overcome her; to unmask her. If she could
+have felled her it would have eased her. But it was not the body;
+it was the soul and its mockery that she wished to subdue; make
+feel her mastery. If only she could make her weep; could ruin her;
+humiliate her; bring her to her knees crying, You are right! But this
+was God’s will, not Miss Kilman’s. It was to be a religious victory. So
+she glared; so she glowered.
+Clarissa was really shocked. This a Christian—this woman! This
+woman had taken her daughter from her! She in touch with invisible
+presences! Heavy, ugly, commonplace, without kindness or grace,
+she know the meaning of life! "
+- - [MYTAKE] I feel very sorry through out this book for Miss Kilman, specially because it remembers me of doi, if patriarchy is bad for women with children, then it's much worse for women without children
 
 # Sally
 
