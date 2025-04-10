@@ -99,8 +99,7 @@ description: Virginia Wolf is really good at stream-of-consciousness
 - [MYTAKE] One of the reasons why this ending is so great, is that  even though we are so separate from each other, in our own little worlds, Septimus and Clarissa were able to create a deep connection, because she understood his pain, and the only reason why she was able to connect with him was that she has great senstivity. It's ironic and interesting, that he had to die and the information of his death to spread so many for his mind to be understood, to be heartfelt
 - Septimus’s death makes Clarissa’s party seem even more indulgent than it is. Elizabeth’s obsession with her dog, the men’s enjoyment of their wine, and Clarissa’s gushing welcomes to guests all seem trivial in light of Septimus’s suicide. More troubling is the fact that Clarissa’s party entertains Septimus’s oppressors, the upholders of stifling British society, including Sir William. Most of the guests seem to have failed in some way, and nearly all live in the bubble world of upper-class England. Clarissa’s stuffy Aunt Helena, the botanist who believes in suppressing emotion and any interesting topic of conversation, spent a lifetime weighing flowers down with books to make them flat. This hobby suggests her wish to squash the human soul in order to preserve the social mores of English society; it also demonstrates the danger of applying analytic, scientific study to aesthetic values. The prime minister himself is present, a comical, slightly pathetic figure who struggles to be a figurehead to a public desperate for symbols. The social system is empty and even ridiculous, but Clarissa and her guests uphold it nonetheless.
 - [MYTAKE] One of the reasons why this ending is so strong, is that even though she was able to "escape" from those societal expectations, Septimus wasn't, in fact he killed himself. Because, in the end, she didn't live the life she wanted to, in fact she chose to live according to make alliances to the "system", but in the end was it worth it? After all, even if she was able to save her self, others werent', and those others killed themselves, so the root cause of the problem wasn't removed she just let the bom drop in someoneo else
-- "“Richard has improved. You are right,” said Sally. “I shall go and
-talk to him. I shall say goodnight. What does the brain matter,” said
+- "“Richard has improved. You are right,” said Sally. “I shall go and talk to him. I shall say goodnight. What does the brain matter,” said
 Lady Rosseter, getting up, “compared with the heart?”
 “I will come,” said Peter, but he sat on for a moment. What is this
 terror? what is this ecstasy? he thought to himself. What is it that
@@ -164,7 +163,7 @@ Clarissa was really shocked. This a Christian—this woman! This
 woman had taken her daughter from her! She in touch with invisible
 presences! Heavy, ugly, commonplace, without kindness or grace,
 she know the meaning of life! "
-- - [MYTAKE] I feel very sorry through out this book for Miss Kilman, specially because it remembers me of doi, if patriarchy is bad for women with children, then it's much worse for women without children
+- - [MYTAKE] I feel very sorry through out this book for Miss Kilman, specially because it remembers me of Doi, if patriarchy is bad for women with children, then it's much worse for women without children
 
 # Sally
 
