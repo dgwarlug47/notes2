@@ -11,17 +11,11 @@ description: a true existentialist, he describes very well what it means to be a
 
 - [Heideggerian Terminology - Wikipedia](https://en.wikipedia.org/wiki/Heideggerian_terminology)
 
----
-
-# Key Concepts and Notes
-
-## **Ente** and **Ser**
-- Something can be both "ente" (concretely existing) and "ser" (yet to be defined, with multiple possible "ente"s).
-
-
----
 
 # **Kinds of Being**
+
+## Revitalizing the Question of Being
+- Heidegger seeks to understand what it means *to be*.
 
 ## **Ready-to-hand (Zuhandenheit)**
 - Describes how we interact with things in everyday life, focusing on their practical utility and how they facilitate our actions.
@@ -32,15 +26,12 @@ description: a true existentialist, he describes very well what it means to be a
 ## **Dasein**
 ---
 
-# **Dasein**
-
-## Revitalizing the Question of Being
-- Dasein seeks to understand what it means *to be*.
+# **Being-there (Dasein)**
 
 ## Characteristics of Being
-1. **Being-in-the-world**  
+1. **Being-in-the-world (In-der-Welt-sein)**  
      - Involves space and time.
-2. **Being-toward-death**  
+2. **Being-toward-death (Sein-zum-Tode)**  
      - Mortality drives action; without it, time would feel infinite.
 
 ## Dasein and Possibilities
@@ -48,10 +39,29 @@ description: a true existentialist, he describes very well what it means to be a
 - It can either follow "The They" self or strive for a more authentic understanding.
 
 ## Essence of Dasein
+
+1. are aware of their own being,
+
+2. interpret themselves, and
+
+3. exist in relation to the world and others.
+
 - Dasein is not static; it changes constantly, much like the atoms and cells that make up our bodies.
 ---
 
-# **Being-in-the-world**
+### Real world example, The Student in a Library
+
+You’re sitting in a library, studying for an exam. You’re not just a brain processing information. You are:
+
+1. caring about your future,
+
+2. interpreting your life as one where passing this exam matters,
+
+3. acting in a shared world (e.g., the idea of education, grades, careers).
+
+👉 Dasein is the being that finds itself in this meaningful activity, not just a body occupying a chair.
+
+# **Being-in-the-world (In-der-Welt-sein)**
 
 ## **DEFINITION**
 
@@ -85,16 +95,16 @@ Parts of the world
 | Structured by care     | Shaped by our goals, emotions, and mortality            | Independent of human involvement               |
 | Contextual and dynamic | Formed through action and breakdown                     | Static or universal                            |
 
-Example 3: Losing a Job.
+## Example Losing a Job.
 When someone loses their job, they don’t just lose income—they may feel like their world collapses:
 
-Social roles,
+1. Social roles
 
-Daily routines,
+2. Daily routines
 
-Future projects,
+3. Future projects
 
-Sense of purpose.
+4. Sense of purpose
 
 # Everydayness
 
@@ -109,6 +119,44 @@ Sense of purpose.
 
 # Authenticity
 
+## **1. Being-toward-death (Sein-zum-Tode)**
+
+Recognizing that death is inevitable and uniquely yours.
+
+Living with the awareness that your time is limited.
+
+Death individualizes Dasein — no one else can die for you.
+
+“Death is Dasein's ownmost possibility — non-relational and not to be outstripped.”
+
+## **2.Resoluteness (Entschlossenheit)**
+
+Committing to a life project that reflects your own values.
+
+Taking decisive, clear action even in uncertainty.
+
+Not being swayed by the anonymous voice of “the They” (das Man).
+
+## **3. Freedom and Responsibility**
+
+Freedom is not abstract choice, but the responsibility to choose meaningfully.
+
+Dasein is thrown into the world (not chosen), but must take a stand on that thrownness.
+
+## **4.Owning One’s Thrownness (Geworfenheit)**
+
+You didn’t choose your birth, language, culture, or time — but they’re the conditions of your existence.
+
+Authenticity is not escaping thrownness, but responding to it freely.
+
+## **5.Anxiety (Angst)**
+
+Unlike fear, anxiety is not about something specific.
+
+It reveals the groundlessness of existence and the burden of freedom.
+
+In anxiety, Dasein sees that no external authority can tell it how to be.
+
 # 🧠 20 Key Concepts in Heidegger's Philosophy
 
 ## 1. **Being (Sein)**
@@ -117,7 +165,7 @@ The central philosophical question: what does it mean *to be*?
 ## 2. **Dasein**
 Human existence; literally “being-there.” The being that asks about being.
 
-## 3. **Being-in-the-world**
+## 3. **Being-in-the-world (In-der-Welt-sein)**
 Dasein is always already embedded in a meaningful world — never isolated.
 
 ## 4. **Thrownness (Geworfenheit)**
@@ -144,7 +192,7 @@ Owning one’s life, choices, and death — living true to oneself.
 ## 11. **Inauthenticity**
 Living passively or in denial, absorbed in social norms.
 
-## 12. **Being-toward-death**
+## 12. **Being-toward-death ((Sein-zum-Tode)**
 Awareness of our mortality as a key to authentic existence.
 
 ## 13. **Temporality (Zeitlichkeit)**
