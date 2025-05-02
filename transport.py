@@ -21,7 +21,7 @@ def copy_folder(source_folder, destination_folder):
 
 base = '/Users/davi/Desktop/Code/notes2/content/blog/'
 
-articlesPaths = [
+articlesPaths1 = [
     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis',
      base + '/Literature/Infinite Jest'),
      ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Russia/(1866) Crime and Punishment',
@@ -37,7 +37,9 @@ articlesPaths = [
          ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Architecture/art deco/',
           base + '/Art Deco'),
           ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/USA/California/LA',
-           base + '/LA'),
+           base + '/LA')
+]
+articlesPaths2 = [
            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Foucault/Discipline and punish',
             base + 'Discipline and Punish by Focault'),
             ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Existentialism/Camus',
@@ -55,7 +57,9 @@ articlesPaths = [
                  ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Midnight in Paris',
                   base + 'Cinema/Midnight in paris'),
                   ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Manchester by the sea',
-                   base + 'Cinema/Manchester by the sea'),
+                   base + 'Cinema/Manchester by the sea')
+]
+articlesPaths3 = [
                    ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/USA/California/SF',
                     base + 'Urban Geography/SF'),
                     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/Canada/Toronto',
@@ -68,10 +72,12 @@ articlesPaths = [
         base + '/Painting/Surrealism'),
                             ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Painting/Fauvism',
         base + '/Painting/Fauvism'),
-                                ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Existentialism/Kierkegaard',
-                                 base + '/Philophy/Kierke'),
+                                ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Modern/Kierkegaard',
+                                 base + '/Philosophy/Kierke'),
                             ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/History/Rome/Republic/Fall of Republic',
-                             base + 'History/Rome'),
+                             base + 'History/Rome')
+]
+articlesPaths4 = [
                              ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/Anthropology',
                               base + 'Anthropoloy/Levi'),
                                 ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/Sociology/Zygmunt Bauman',
@@ -89,7 +95,9 @@ articlesPaths = [
                                       ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Fundamentals',
                                        base + 'Fundamentals/PleaseHelpMe'),
                                        ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Begin Again',
-                                        base + 'Cinema/Begin Again'),
+                                        base + 'Cinema/Begin Again')
+]
+articlesPaths5 = [
                                         ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/World cup',
                                          base + 'World cup/Football'),
                                          ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Canada/(1985) The Handmaid's Tale",
@@ -103,7 +111,9 @@ articlesPaths = [
                                              ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Brazil/(1900) Dom Casmurro",
                                               base + 'Literature/Dom Casmurro'),
                                               ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1948) 1984",
-                                               base + 'Literature/1984'),
+                                               base + 'Literature/1984')
+]
+articlesPaths6 = [
                                                ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1940) And then there were none",
                                                base + 'Literature/And then there were none'),
                                                ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1953) Farenheit 451",
@@ -116,7 +126,24 @@ articlesPaths = [
                                                    base + 'Music/Favourites'),
                                                    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1925) Mrs Dalloway",
                                                     base + 'Literature/Mrs Dalloway'),
+                                                    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Heidegger",
+                                                     base + 'Philosophy/Heidegger')
 ]
 
-for articlePath in articlesPaths:
+for articlePath in articlesPaths1:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths2:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths3:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths4:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths5:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths6:
     copy_folder(articlePath[0], articlePath[1])
