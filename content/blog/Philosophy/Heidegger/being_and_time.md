@@ -108,7 +108,7 @@ When someone loses their job, they don’t just lose income—they may feel like
 
 # Everydayness
 
-## Verfallen
+## Falling (Verfallen)
 
 | **Aspect**                               | **Description**                                                           |
 | ---------------------------------------- | ------------------------------------------------------------------------- |
