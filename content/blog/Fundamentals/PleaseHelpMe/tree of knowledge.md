@@ -1,6 +1,6 @@
 ---
 
-title: Fundamentals/Tree of Knowledge  
+title: Fundamentals/Dasein areas
 order: 1  
 description: Axioms  
 
@@ -134,5 +134,9 @@ description: Axioms
 - Basketball
 - Baseball
 - Foosball
+- Skateboarding
+- Skiing
+- Snowboarding
 
-### Travel
+### Other
+- Travel
