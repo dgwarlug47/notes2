@@ -40,13 +40,13 @@ articlesPaths1 = [
            base + '/LA')
 ]
 articlesPaths2 = [
-           ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Foucault/Discipline and punish',
+           ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/5 - Contemporary/Foucault/Discipline and punish',
             base + 'Discipline and Punish by Focault'),
-            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Existentialism/Camus',
+            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/5 - Contemporary/Existentialism/Camus',
              base + '/Camus Summary'),
              ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Music/Analysis/Ok Computer',
               base + '/Ok Computer'),
-              ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Modern/Hegel/Geist',
+              ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/4 - Modern/Hegel/Geist',
                base + '/Hegel Geist'),
                ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Business/Real Estate/North America',
                base + '/Real Estate'),
@@ -72,7 +72,7 @@ articlesPaths3 = [
         base + '/Painting/Surrealism'),
                             ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Painting/Fauvism',
         base + '/Painting/Fauvism'),
-                                ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Modern/Kierkegaard',
+                                ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/4 - Modern/Kierkegaard',
                                  base + '/Philosophy/Kierke'),
                             ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Social Sciences/History/Rome/Republic/Fall of Republic',
                              base + 'History/Rome')
@@ -126,21 +126,23 @@ articlesPaths6 = [
                                                    base + 'Music/Favourites'),
                                                    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1925) Mrs Dalloway",
                                                     base + 'Literature/Mrs Dalloway'),
-                                                    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/Contemporary/Heidegger",
-                                                     base + 'Philosophy/Heidegger')
+                                                    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/5 - Contemporary/Heidegger",
+                                                     base + 'Philosophy/Heidegger'),
+                                                     ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Critics/2000s/500 days of summer",
+                                                      base + 'Cinema/500 days of summer')
 ]
 
-for articlePath in articlesPaths1:
-    copy_folder(articlePath[0], articlePath[1])
+# for articlePath in articlesPaths1:
+#     copy_folder(articlePath[0], articlePath[1])
 
-for articlePath in articlesPaths2:
-    copy_folder(articlePath[0], articlePath[1])
+# for articlePath in articlesPaths2:
+#     copy_folder(articlePath[0], articlePath[1])
 
-for articlePath in articlesPaths3:
-    copy_folder(articlePath[0], articlePath[1])
+# for articlePath in articlesPaths3:
+#     copy_folder(articlePath[0], articlePath[1])
 
-for articlePath in articlesPaths4:
-    copy_folder(articlePath[0], articlePath[1])
+# for articlePath in articlesPaths4:
+#     copy_folder(articlePath[0], articlePath[1])
 
 for articlePath in articlesPaths5:
     copy_folder(articlePath[0], articlePath[1])
