@@ -132,20 +132,29 @@ articlesPaths6 = [
                                                       base + 'Cinema/500 days of summer')
 ]
 
-# for articlePath in articlesPaths1:
-#     copy_folder(articlePath[0], articlePath[1])
+articlesPaths7 = [
 
-# for articlePath in articlesPaths2:
-#     copy_folder(articlePath[0], articlePath[1])
+    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Religion/Christianism/Principles",
+     base + 'Christianism/Principles')
+]
 
-# for articlePath in articlesPaths3:
-#     copy_folder(articlePath[0], articlePath[1])
+for articlePath in articlesPaths1:
+    copy_folder(articlePath[0], articlePath[1])
 
-# for articlePath in articlesPaths4:
-#     copy_folder(articlePath[0], articlePath[1])
+for articlePath in articlesPaths2:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths3:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths4:
+    copy_folder(articlePath[0], articlePath[1])
 
 for articlePath in articlesPaths5:
     copy_folder(articlePath[0], articlePath[1])
 
 for articlePath in articlesPaths6:
+    copy_folder(articlePath[0], articlePath[1])
+
+for articlePath in articlesPaths7:
     copy_folder(articlePath[0], articlePath[1])
