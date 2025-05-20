@@ -12,16 +12,12 @@ Kick off your project with this blog boilerplate. This starter ships with the ma
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
-## Copilot list
+## Usage
 
-[X] Liquid modernity
-[O] Roman Republic
-[X] Licorice Pizza
-[X] Magic mountain
-[X] Crime and punishment
-[X] Hand maid
-[X] Infinite Jest
-[X] Memorias 
+Run python transport.py.
+
+After you add too much posts, go to index.js and increase the limit
+
 
 ## 🚀 Quick start
 
