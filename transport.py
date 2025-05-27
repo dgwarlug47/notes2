@@ -9,7 +9,7 @@ class TimeoutError(Exception):
 def timeout_handler(signum, frame):
     raise TimeoutError("Operation timed out")
 
-def copy_folder(source_folder, destination_folder, timeout=10):
+def copy_folder(source_folder, destination_folder, timeout=100):
     try:
         if not os.path.exists(destination_folder):
             os.makedirs(destination_folder)
