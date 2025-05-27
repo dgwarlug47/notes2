@@ -33,7 +33,7 @@ Self-realization
 
 # Chapter 3 (despair types)
 
-Unconsciouness despair
+## Unconsciouness despair
 - the individual is in despair without realizing
 - this is due to lack of self awareness
 - they are not aware that they are far awaZy from the real meaning of life which is the combination of the soul and the body

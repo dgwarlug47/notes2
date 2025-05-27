@@ -1,27 +1,54 @@
 import shutil
 import os
+import signal
+import time
 
-def copy_folder(source_folder, destination_folder):
+class TimeoutError(Exception):
+    pass
+
+def timeout_handler(signum, frame):
+    raise TimeoutError("Operation timed out")
+
+def copy_folder(source_folder, destination_folder, timeout=10):
     try:
         if not os.path.exists(destination_folder):
             os.makedirs(destination_folder)
         
-        for filename in os.listdir(source_folder):
-            source_path = os.path.join(source_folder, filename)
-            destination_path = os.path.join(destination_folder, filename)
+        # Set the timeout alarm
+        signal.signal(signal.SIGALRM, timeout_handler)
+        signal.alarm(timeout)
+        
+        try:
+            for filename in os.listdir(source_folder):
+                source_path = os.path.join(source_folder, filename)
+                destination_path = os.path.join(destination_folder, filename)
+                
+                if os.path.isfile(source_path):
+                    shutil.copy(source_path, destination_path)
             
-            if os.path.isfile(source_path):
-                shutil.copy(source_path, destination_path)
+            # Operation completed successfully, cancel the alarm
+            signal.alarm(0)
+            return True
+            
+        except TimeoutError:
+            return False
+            
     except FileNotFoundError:
         print("Error: Source folder not found.")
+        return False
     except PermissionError:
         print("Error: Permission denied.")
+        return False
     except Exception as e:
         print(e)
+        return False
+    finally:
+        # Ensure the alarm is canceled in any case
+        signal.alarm(0)
 
 base = '/Users/davi/Desktop/Code/notes2/content/blog/'
 
-articlesPaths1 = [
+quickarticlesPaths1 = [
     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis',
      base + '/Literature/Infinite Jest'),
      ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Russia/(1866) Crime and Punishment',
@@ -30,22 +57,15 @@ articlesPaths1 = [
       base + 'Science/MBTI'),
      ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/USA/Manhattan/Upper East side',
       base + 'Urban Geography/Manhattan'),
-       ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Messi2',
-        base + '/Messi3'),
         ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Painting/Impressionism',
         base + '/Painting/Impress'),
          ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Visual arts/Architecture/art deco/',
           base + '/Art Deco'),
           ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Science/Natural Science/Urban Geography/USA/California/LA',
            base + '/LA'),
-
-
-
-           
-
            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/5 - Contemporary/Foucault/Discipline and punish',
             base + 'Discipline and Punish by Focault'),
-            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/5 - Contemporary/Existentialism/Camus',
+            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Philosophy/5 - Contemporary/Camus',
              base + '/Camus Summary'),
              ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Music/Analysis/Ok Computer',
               base + '/Ok Computer'),
@@ -142,8 +162,23 @@ articlesPaths1 = [
                                                       base + 'Cinema/500 days of summer'),
 
     ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Humanities/Religion/Christianism/Principles",
-     base + 'Christianism/Principles')
+     base + 'Christianism/Principles'),
+     ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Russia/(1878) Anna Karenina",
+      base + 'Literature/Anna Karenina')
 ]
 
-for articlePath in articlesPaths1:
-    copy_folder(articlePath[0], articlePath[1])
+longarticlesPaths1 = [
+           ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Messi2',
+        base + '/Messi3'),
+
+]
+
+for articlePath in quickarticlesPaths1:
+    success = copy_folder(articlePath[0], articlePath[1])
+    if not success:
+        print("Skipped due to timeout:" + str(articlePath))
+
+for articlePath in longarticlesPaths1:
+    success = copy_folder(articlePath[0], articlePath[1])
+    if not success:
+        print("Skipped due to timeout: " + str(articlePath))
