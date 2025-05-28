@@ -1,3 +1,9 @@
+---
+title: Literature/Anna Karenina
+order: 2
+description: The best novel
+---
+
 # When people ask me about it
 
 
@@ -49,6 +55,10 @@ forest’s worth a hundred and fifty roubles and acre paid down, while he’s gi
 you sixty by installments. So that in fact you’re making him a present of thirty
 thousand.”
 
+## Education
+- “But how are we to educate the people?”. “To educate the people three things are needed: schools, and schools, and schools.”. “But you said yourself the people are at such a low stage of material development: what help are schools for that?”
+- - [MYTAKE] Isn't it funny that keep having the same discussions every year, every century, and the same problem keeps happening. Because nobody is addressing the same root cause, similar to Gabriel Garcia Marquez used to say in the past
+ 
 ## Rules
 
 ### Courtship
@@ -77,10 +87,11 @@ she preferred the first circle. But since her visit to Moscow she had done quite
 the contrary. She avoided her serious-minded friends, and went out into the fashionable world. There she met Vronsky, and experienced an agitating joy at those
 meetings.
 
-## Burgeousie
-
-The highest Petersburg society is essentially one: in it every one knows every one else, every one even visits every one else. but this great set has its
-subdivisions. Anna Arkadyevna Karenina had friends and close ties in three different circles of this highest society.
+## Burgeousie customs
+- "The highest Petersburg society is essentially one: in it every one knows every one else, every one even visits every one else. but this great set has its
+subdivisions. Anna Arkadyevna Karenina had friends and close ties in three different circles of this highest society."
+- “I don’t believe it,” Sviazhsky replied quite seriously; “all I see is that we don’t know how to cultivate the land, and that our system of agriculture in the serf days was by no means too high, but too low. We have no machines, no good stock, no efficient supervision; we don’t even know how to keep accounts. Ask any landowner; he won’t be able to tell you what crop’s profitable, and what’s not.”
+- - [MYTAKE] This is a very crazy reflection from this book, because the upper class is not even looking for a better standard of living for them, all they want is to keep things in the same way
 
 ### How social connections are formed
 - Her connection with this circle was kept up through Princess Betsy Tverskaya,
@@ -90,6 +101,9 @@ Lidia Ivanovna’s coterie.
 
 ### Class struggle
 - "To Konstantin the peasant was simply the chief partner in their common labor, and in spite of all the respect and the love, almost like that of kinship, he had for the peasant—sucked in probably, as he said himself, with the milk of his peasant nurse—still as a fellow-worker with him, while sometimes enthusiastic over the vigor, gentleness, and justice of these men, he was very often, when their common labors called for other qualities, exasperated with the peasant for his carelessness, lack of method, drunkenness, and lying."
+- "Take the reforms of Peter, of Catherine, of Alexander. Take European history. And progress in agriculture more than anything else—the potato, for instance, that was introduced among us by force. The wooden plough too wasn’t always used. It was introduced maybe in the days before the Empire, but it was probably brought in by force. Now, in our own day, we landowners in the serf times used various improvements in our husbandry: drying machines and thrashing machines, and carting manure and all the modern implements—all that we brought into use by our authority, and the peasants opposed it at first, and ended by imitating us. Now, by the abolition of serfdom we have been deprived of our authority; and so our husbandry, where it had been raised to a high level, is bound to sink to the most savage primitive condition. That’s how I see it.”
+- - [MYTAKE] No worries you can trust when the burgousie say capitalism is necessary
+
 
 # Family
 

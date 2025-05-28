@@ -1,7 +1,7 @@
 ---
-title: Literature/Anna Karenina
+title: Literature/Anna Karenina characters
 order: 2
-description: My favourite suicide
+description: The best Dr. Jekyll and Mr. Hyde of Literature
 ---
 
 ![alt text](image.png)
@@ -25,7 +25,13 @@ Page 690
 ## She also represents what is the worst about being at the high class
 - The loliness
 
-## Anna also has the will to live
+## Feminism
+- [Reproductive reductionism] "Her husband might put her to shame and turn her out, Vronsky might grow cold to her and go on living his own life apart (she thought of him again with bitterness and reproach); she could not leave her son. She had an aim in life."
+- - [MYTAKE] Isn't the dreadful the situation of women in a patriarchal society
+- "She would never know freedom in love, but would remain forever a guilty wife, with the menace of detection hanging over her at every instant; deceiving her husband for the sake of a shameful connection with a man living apart and away from her, whose life she could never share. She knew that this was how it would be, and at the same time it was so awful that she could not even conceive what it would end in. And she cried without restraint, as children cry when they are punished."
+- - [MYTAKE] This resonates with my own life experience. When you are in a deadend, you can keep iterating through the same situation, the same problem all the time. Probably because, you don't want to do the RCA, and actually change the same thing.   
+
+## Anna has the will to live
 - If she read that the heroine of the novel was nursing a
 sick man, she longed to move with noiseless steps about the room of a sick man; if
 she read of a member of Parliament making a speech, she longed to be delivering
@@ -34,8 +40,6 @@ provoked her sister-in-law, and had surprised every one by her boldness, she too
 wished to be doing the same. But there was no chance of doing anything; and
 twisting the smooth paper knife in her little hands, she forced herself to read.
 - - This is a very interesting point, because many times while we read the book it is layed upon us the idea that Anna is just a poor guy that life problems were layed upon her, and not a real protagonist.
-
-## Feeling alive
 - Though she could not recall her own words or his, she realized instinctively
 that the momentary conversation had brought them fearfully closer; and she was
 panic-stricken and blissful at it.
@@ -146,9 +150,6 @@ to him that Kitty was so perfect in every respect that she was a creature far ab
 everything earthly; and that he was a creature so low and so earthly that it could
 not even be conceived that other people and she herself could regard him as worthy
 of her."
-
-
-## He is cute
 - "When he thought of her, he could call up a vivid picture of her to himself,
 especially the charm of that little fair head, so freely set on the shapely girlish
 shoulders, and so full of childish brightness and good-humor. The childishness of
@@ -157,6 +158,8 @@ charm, and that he fully realized."
 - [MYTAKE] Bro, his inability to express his love properly is so sad, because it is very intense. I can definetly relate a lot with this character.
 - "Seeing her, he found himself face to face with one of the pictures of his daydream of family life."
 - “Darya Alexandrovna,” he said dryly, “I appreciate your confidence in me; I believe you are making a mistake. But whether I am right or wrong, that pride you so despise makes any thought of Katerina Alexandrovna out of the question for me,—you understand, utterly out of the question.”
+- "He could not be mistaken. There were no other eyes like those in the world. There was only one creature in the world that could concentrate for him all the brightness and meaning of life. It was she. It was Kitty."
+- - [MYTAKE] Isn't this what every man has always wanted in their life?
 
 ## Levin is cute, Oblonsky is not
 - “I’ll tell you. Suppose you’re married, you love your wife, but you’re fascinated by another woman. . . ” “Excuse me, but I’m absolutely unable to comprehend how. . . just as I can’t
@@ -164,7 +167,9 @@ comprehend how I could now, after my dinner, go straight to a baker’s shop and
 steal a roll.”
 - [MYTAKE] It's so funny this friendship between Stiva and Levin. Because they are so different, not only in the sense that their lives are governed by different philosophies, but in that Levin is so strict with those axioms, whereas Stiva is so relaxed.
 
-## Poor guy
+## Achilles hell
+- "Instead of a lively, healthy visitor, some outsider who would, he hoped, cheer him up in his uncertain humor, he had to see his brother, who knew him through and through, who would call forth all the thoughts nearest his heart, would force him to show himself fully. And that he was not disposed to do."
+- - [MYTAKE] He is so prideful, but his pride comes from a lack of flexibility, something about an excessive rationalism
 - "In the mother’s eyes there could be no comparison between Vronsky and
 Levin. She disliked in Levin his strange and uncompromising opinions and his
 shyness in society, founded, as she supposed, on his pride and his queer sort of
@@ -172,13 +177,15 @@ life, as she considered it, absorbed in cattle and peasants. She did not very mu
 like it that he, who was in love with her daughter, had kept coming to the house
 for six weeks, as though he were waiting for something"
 - [MYTAKE]  He is so autistic, and pitiful. It's so funny his asymmetry with Stiva, because Stiva demands pitifulness but it's not worth of it, whereas Levin is but doesn't demand it even though he deserves it. This is funny.
+- “I work, I want to do something, but I had forgotten it must all end; I had forgotten—death.”. He sat on his bed in the darkness, crouched up, hugging his knees, and holding his breath from the strain of thought, he pondered. But the more intensely he thought, the clearer it became to him that it was indubitably so, that in reality, looking upon life, he had forgotten one little fact—that death will come, and all ends; that nothing was even worth beginning, and that there was no helping it anyway. Yes, it was awful, but it was so.
+[MYTAKE] He is so autistic. This is an advantage that normal people will always have over us, life is not rational, it doesn't make sense from beginning until the end. But they don't care about that, ignorance is truly a bless
 
 ## He faces his achilles heel
 - “No; I don’t know whether you know it or not, but I don’t care. And I tell
 you—I did make an offer and was rejected, and Katerina Alexandrovna is nothing
 now to me but a painful and humiliating reminiscence.”
 - [MYTAKE] it is so cute when he faces his "achilles heel"
-- What distinguishes Levin from the other characters is that love forces him to face his main achilles heel, and that's why he is the truly rewarded one from God
+- [MYTAKE] What distinguishes Levin from the other characters is that love forces him to face his main achilles heel, and that's why he is the truly rewarded one from God
 
 ## "F" from INFP
 - Konstantin Levin did not like talking and hearing about the beauty of nature. Words for him took away the beauty of what he saw.
@@ -208,7 +215,11 @@ a man who’ll make his mark.”
 ## Will to power
 - “What am I coming for?” he repeated, looking straight into her eyes. “You
 know that I have come to be where you are,” he said; “I can’t help it.”
-- mano o maluco eh muito foda
+- [MYTAKE] mano o maluco eh muito foda, how did he have the courage to say that? With Alexey nearby
+
+## Spousal choice
+- "Women are the chief stumbling block in a man’s career. It’s hard to love a woman and do anything. There’s only one way of having love conveniently without its being a hindrance—that’s marriage"
+- - [IMPORTANT] [MYTAKE] This is one of my favourite quotes on the book. Tolstoy is well known to applying stoicism to marriage problems. Nonetheless, I have to admit, this is one of the things I can agree the most because finding girlfriend is harder than a full time job.
 
 ## Not attatched
 - "VRONSKY had never had a real home life. His mother had been in her youth a
@@ -322,22 +333,16 @@ o’clock, but as often happened, he had not time no come in to her. He went
 into his study to see the people waiting for him with petitions, and to sign some
 papers brought him by his chief secretary.
 - - he is a man incapable of expressing love
-
-## Achilles heel
 - “Unhasting and unresting,”
 was his motto. He came into the dining hall, greeted everyone, and hurriedly sat
 down, smiling to his wife.
 - - he uses his work as means of running away from his marriage.
-
-## Achilles heel
 - ALEXEY Alexandrovitch had seen nothing striking or improper in the fact that
 his wife was sitting with Vronsky at a table apart, in eager conversation with
 him about something. But he noticed that to the rest of the party this appeared
 something striking and improper, and for that reason it seemed to him too to be
 improper. He made up his mind that he must speak of it to his wife.
 - - he is such a poor man, he is so strict, he cannot set himself let loose. I can relate to him as well.
-
-## Achilles heel
 - Thinking over what he would
 say, he somewhat regretted that he should have to use his time and mental powers
 for domestic consumption, with so little to show for it, but, in spite of that, the
@@ -347,11 +352,13 @@ in his head as a ministerial report.
 the word love threw her into revolt again. She thought: “Love? Can he love? If he
 hadn’t heard there was such a thing as love, he would never have used the word.
 He doesn’t even know what love is.”
-- I feel very sorry for him.
-
-## Achilles heel
+- - [MYTAKE] I feel very sorry for him.
 - That’s what will
 happen. He’s not a man, but a machine, and a spiteful machine when he’s angry,”
+- “No honor, no heart, no religion; a corrupt woman. I always knew it and always saw it, though I tried to deceive myself to spare her,” he said to himself.
+- - [MYTAKE] I feel sorry for him, he is completely blind, his mind protects him from doing the 5 Whys, the root cause analysis, airgo he is destined to forever face the same mistakes until the end of times
+- “He’s not a man, not a human being—he’s a doll! No one knows him; but I know him. Oh, if I’d been in his place, I’d long ago have killed, have torn to pieces a wife like me. I wouldn’t have said, ‘Anna, ma chère’! He’s not a man, he’s an official machine. He doesn’t understand that I’m your wife, that he’s outside, that he’s superfluous.... Don’t let’s talk of him!...”
+- - [MYTAKE] KKKKKKKKKKKKKKKKK
 
 ## He knows he is being cheated on
 - He did not realize it, because it was too terrible to him to realize his actual position, and he shut down and locked and sealed up in his heart that secret place where lay hid his feelings towards his family, that is, his wife and son. He who had been such a careful father, had from the end of that winter become peculiarly frigid to his son, and adopted to him just the same bantering tone he used with his wife. “Aha, young man!” was the greeting with which he met him.
