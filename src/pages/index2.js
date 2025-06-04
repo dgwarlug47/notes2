@@ -5,33 +5,6 @@ import Bio from "../components/bio";
 import Layout from "../components/layout";
 import Seo from "../components/seo";
 
-export const pageQueryA = graphql`
-  query($titleRegex: String!) {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(
-      limit: 53
-      sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]
-      filter: { frontmatter: { title: { regex: $titleRegex, ne: null } } }
-    ) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
-      }
-    }
-  }
-`;
-
 const BlogIndex = ({ data, location, pageContext }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`;
   const posts = data.allMarkdownRemark.nodes;
