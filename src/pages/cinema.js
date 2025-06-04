@@ -6,11 +6,6 @@ import BlogIndex from "./index2";
 
 export const pageQuery = graphql`
   {
-    site {
-      siteMetadata {
-        title
-      }
-    }
     allMarkdownRemark(
         limit: 55
         sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]
@@ -33,9 +28,3 @@ export const pageQuery = graphql`
 
 
 export default BlogIndex;
-
-/**
- * Head export to define metadata for the page
- *
- * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
