@@ -1,97 +1,52 @@
-import * as React from "react"
-import { Link, graphql } from "gatsby"
+import React from "react"
+import { Link } from "gatsby"
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
-
-const BlogIndex = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <Bio />
-        <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
-        </p>
-      </Layout>
-    )
-  }
-
+export default function Home() {
   return (
-    <Layout location={location} title={siteTitle}>
-      <Bio />
-      <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
-          const title = post.frontmatter.title || post.fields.slug
-
-          return (
-            <li key={post.fields.slug}>
-              <article
-                className="post-list-item"
-                itemScope
-                itemType="http://schema.org/Article"
-              >
-                <header>
-                  <h2>
-                    <Link to={post.fields.slug} itemProp="url">
-                      <span itemProp="headline">{title}</span>
-                    </Link>
-                  </h2>
-                  <small>{post.frontmatter.date}</small>
-                </header>
-                <section>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
-                </section>
-              </article>
-            </li>
-          )
-        })}
-      </ol>
-    </Layout>
+    <main>
+      <h1>Home Page</h1>
+      <p>
+        Go to the{" "}
+        <Link to="/philosophy" state={{ data: "Philosophy Data", location: "Philosophy Page" }}>
+          Philosophy
+        </Link>.
+      </p>
+      <p>
+        Go to the{" "}
+        <Link to="/literature" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Literature
+        </Link>.
+      </p>
+      <p>
+        Go to the{" "}
+        <Link to="/painting" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Painting
+        </Link>.
+      </p>
+      <p>
+        Go to the{" "}
+        <Link to="/cinema" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Cinema
+        </Link>.
+      </p>
+      <p>
+        Go to the{" "}
+        <Link to="/urban" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Urban Geography
+        </Link>.
+      </p>
+      <p>
+        Go to the{" "}
+        <Link to="/social" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Social Sciences
+        </Link>.
+      </p>
+      <p>
+        Go to the{" "}
+        <Link to="/music" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Music
+        </Link>.
+      </p>
+    </main>
   )
 }
-
-export default BlogIndex
-
-/**
- * Head export to define metadata for the page
- *
- * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
-export const Head = () => <Seo title="All posts" />
-
-export const pageQuery = graphql`
-  {
-    site {
-      siteMetadata {
-        title
-      }
-    }
-    allMarkdownRemark(
-        limit: 55
-        sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]
-        filter: { frontmatter: { title: { ne: null } } } ) {
-      nodes {
-        excerpt
-        fields {
-          slug
-        }
-        frontmatter {
-          date(formatString: "MMMM DD, YYYY")
-          title
-          description
-        }
-      }
-    }
-  }
-`

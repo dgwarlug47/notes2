@@ -1,5 +1,5 @@
 ---
-title: History/Fall of the Roman Republic
+title: Social Sciences/Fall of the Roman Republic
 order: 6
 description: JC is so amazing
 ---

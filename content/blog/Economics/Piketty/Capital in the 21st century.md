@@ -1,5 +1,5 @@
 ---
-title: Economics/Piketty
+title: Social Sciences/Piketty
 order: 4
 description: KKKKKKKKKKKKKKKK
 ---

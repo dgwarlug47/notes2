@@ -1,5 +1,5 @@
 ---
-title: Sociology/Liquid Modernity
+title: Social Sciences/Liquid Modernity
 order: 6
 description: Exploring the concept of liquid modernity and its implications on society.
 ---
