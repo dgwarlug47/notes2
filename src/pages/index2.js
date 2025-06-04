@@ -52,16 +52,6 @@ const BlogIndex = ({ data, location, pageContext }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
-      <nav>
-        <ul style={{ display: 'flex', listStyleType: 'none', padding: 0, margin: 0 }}>
-          <li style={{ marginRight: '20px' }}>
-            <Link to="/literature" state={{ queryType: "literature" }}>Literature</Link>
-          </li>
-          <li style={{ marginRight: '20px' }}>
-            <Link to="/philosophy" state={{ queryType: "philosophy" }}>Philosophy</Link>
-          </li>
-        </ul>
-      </nav>
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug;

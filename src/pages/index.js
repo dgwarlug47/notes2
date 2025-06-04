@@ -47,6 +47,12 @@ export default function Home() {
           Music
         </Link>.
       </p>
+      <p>
+        Go to the{" "}
+        <Link to="/messi" state={{ data: "Literature Data", location: "Literature Page" }}>
+          Messi
+        </Link>.
+      </p>
     </main>
   )
 }
