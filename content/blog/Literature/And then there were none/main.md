@@ -1,7 +1,8 @@
 ---
-title: Literature/And then there were none
+title: And then there were none
 order: 2
 description: I love agatha christie
+types: Literature
 ---
 
 ![alt text](image.png)

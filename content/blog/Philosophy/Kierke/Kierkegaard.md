@@ -1,7 +1,8 @@
 ---
-title: Philosophy/Kierkegaard
+title: Kierkegaard
 order: 3
 description: My favourite existentialist philosopher
+types: Philosophy
 ---
 
 # When people ask me about it

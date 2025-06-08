@@ -1,7 +1,8 @@
 ---
-title: 'Cinema/Manchester by the Sea'
+title: 'Manchester by the Sea'
 order: 4
 description: Oh my god
+types: Cinema
 ---
 
 ![alt text](image.png)

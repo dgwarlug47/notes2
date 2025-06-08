@@ -1,7 +1,8 @@
 ---
-title: Economics/Piketty
+title: Capitla in the 21st in the century
 order: 4
 description: KKKKKKKKKKKKKKKK
+type: Social Sciences
 ---
 
 # r > g

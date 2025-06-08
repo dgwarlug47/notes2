@@ -1,6 +1,7 @@
 ---
-title: Mathematics/About an elementary question of the theory of diversity [Set Theory]
+title: About an elementary question of the theory of diversity [Set Theory]
 order: 3
+types: Mathematics
 ----
 
 

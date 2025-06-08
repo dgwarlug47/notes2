@@ -5,16 +5,6 @@ order: 30
 
 # Plan
 
-<img src="New Breakfast.png" alt="drawing" width="200"/>
-
-<img src="New Lunch.png" alt="drawing" width="200"/>
-
-<img src="New Before Dinner.png" alt="drawing" width="200"/>
-
-<img src="New Dinner.png" alt="drawing" width="200"/>
-
-<img src="New After dinner.png" alt="drawing" width="200"/>
-
 # Main
 
 ## Fruits

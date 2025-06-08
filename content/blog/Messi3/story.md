@@ -2,6 +2,7 @@
 title: Messi
 order: 1
 description: The one
+type: Sports
 ---
 
 # Childhood

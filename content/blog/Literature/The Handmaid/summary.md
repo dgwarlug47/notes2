@@ -1,7 +1,8 @@
 ---
-title: Literature/Handmaid's Tale
+title: Handmaid's Tale
 order: 2
 description: Women, I feel sorry
+types: Literature
 ---
 
 ![alt text](image.png)

@@ -1,7 +1,8 @@
 --- 
-title: Urban Geography/LA
+title: LA
 order: 3
 description: The best city for virtual tourism (in North America)
+types: Urban Geography
 ---
 
 # Prelude

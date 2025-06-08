@@ -1,7 +1,8 @@
 ---
-title: Philosophy/Geist by Hegel
+title: Geist by Hegel
 order: 3
 description: My favourite backyardigans
+types: Philosophy
 ---
 
 # When people ask me about it

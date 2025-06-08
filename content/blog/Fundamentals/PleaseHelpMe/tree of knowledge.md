@@ -1,8 +1,9 @@
 ---
 
-title: Fundamentals/Dasein areas
+title: Dasein areas
 order: 1  
-description: Axioms  
+description: Axioms
+types: Special
 
 ---
 

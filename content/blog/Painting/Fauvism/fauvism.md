@@ -1,8 +1,9 @@
 ---
 
-title: Painting/Fauvism
+title: Fauvism
 order: 5
 description: Very nice as well
+types: Painting
 ---
 
 # History

@@ -1,7 +1,8 @@
 --- 
-title: Literature/Inferno
+title: Inferno
 order: 2
 description: My favourite book of the middle ages
+types: Literature
 --- 
 
 # When people as me about it

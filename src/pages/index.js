@@ -1,14 +1,16 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-
+import { useState } from "react"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Navbar from "../components/navbar"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
-
+  const posts = data.allMarkdownRemark.nodes// :POST
+  const [state, setState] = useState("Literature")
+  const new_posts = posts.filter( post =>  post.frontmatter.types?.includes(state) )
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
@@ -25,8 +27,12 @@ const BlogIndex = ({ data, location }) => {
   return (
     <Layout location={location} title={siteTitle}>
       <Bio />
+      <Navbar
+        titles={["Literature", "Cinema", "Philosophy", "Special", "Social Sciences", "Painting", "Music", "Hard Sciences"]}
+        onChange={setState}
+      />
       <ol style={{ listStyle: `none` }}>
-        {posts.map(post => {
+        {new_posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
           return (
@@ -78,8 +84,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-        limit: 55
-        sort: [{ frontmatter: { order: ASC } }, { frontmatter: { title: ASC } }]
+        sort: [{  frontmatter: { title: ASC } }]
         filter: { frontmatter: { title: { ne: null } } } ) {
       nodes {
         excerpt
@@ -90,6 +95,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          types
         }
       }
     }

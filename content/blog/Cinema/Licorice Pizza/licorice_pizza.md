@@ -1,7 +1,8 @@
 ---
-title: Cinema/Licorice Pizza
+title: Licorice Pizza
 order: 4
 Description: I love San Fernando Valley
+types: Cinema
 ---
 
 ![alt text](image.png)

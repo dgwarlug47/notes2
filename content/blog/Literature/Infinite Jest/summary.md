@@ -1,7 +1,8 @@
 ---
-title: Literature/Infinite Jest
+title: Infinite Jest
 order: 2
 description: The book I love/hate the most
+types: Literature
 ---
 
 <img src ="image.png" width=300/>

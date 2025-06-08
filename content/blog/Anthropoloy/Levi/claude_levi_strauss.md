@@ -1,7 +1,8 @@
 ---
-title: Anthropology/Claude Lévi-Strauss
+title: Claude Lévi-Strauss
 order: 6
 description: Legend
+types: Social Sciences
 ---
 
 

@@ -1,7 +1,8 @@
 ---
-title: Philosophy/Discipline and Punish by Foucault
+title: Discipline and Punish by Foucault
 order: 3
 description: KKKKKKKKKKKKKKKK
+types: Philosophy
 ---
 
 ![alt text](image.png)

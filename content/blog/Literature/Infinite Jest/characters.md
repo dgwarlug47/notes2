@@ -1,7 +1,8 @@
 ---
-title: Literature/Infinite Jest characters
+title: Infinite Jest characters
 order: 2
 description: My favourite post modern contrast (Hal Incandenza vs Don Gately/ Rationalism vs Humanism)
+types: Literature
 ---
 
 # Family

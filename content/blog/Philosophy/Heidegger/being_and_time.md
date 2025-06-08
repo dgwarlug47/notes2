@@ -1,7 +1,8 @@
 ---
-title: Philosophy/Being and Time by Heidegger
+title: Being and Time by Heidegger
 order: 3
 description: a true existentialist, he describes very well what it means to be a being
+types: Philosophy
 ---
 
 

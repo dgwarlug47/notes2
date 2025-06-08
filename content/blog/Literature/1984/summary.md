@@ -1,7 +1,8 @@
 ---
-title: Literature/1984
+title: 1984
 order: 2
 description: KKKKKKKKKKKKKKKKKKKKK
+types: Literature
 ---
 
 ![alt text](image.png)

@@ -1,7 +1,8 @@
 ---
-title: Urban Geography/Upper East Side
+title: Upper East Side
 order: 3
 description: My favourite place on Earth
+types: Urban Geography
 ---
 
 ![alt text](image-9.png)

@@ -1,7 +1,8 @@
 ---
-title: Literature/Memórias Póstumas de Brás Cubas
+title: Memórias Póstumas de Brás Cubas
 order: 2
 description: The GOAT
+types: Literature
 ---
 
 

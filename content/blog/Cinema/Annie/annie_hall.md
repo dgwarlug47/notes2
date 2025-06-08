@@ -1,7 +1,8 @@
 ---
-title: Cinema/Annie Hall
+title: Annie Hall
 order: 4
 description: My favorite movie
+types: Cinema
 ---
 
 ![alt text](image.png)

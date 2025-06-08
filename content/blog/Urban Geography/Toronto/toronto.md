@@ -1,7 +1,8 @@
 --- 
-title: Urban Geography/Toronto
+title: Toronto
 order: 3
 description: I miss Toronto
+types: Urban Geography
 ---
 ![alt text](image-4.png)
 

@@ -1,8 +1,9 @@
 ---
 
-title: Literature/The Magic Mountain  
+title: The Magic Mountain  
 order: 2  
 description: The book I want to read the most  
+types: Literature
 
 ---
 

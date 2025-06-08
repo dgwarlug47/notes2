@@ -1,7 +1,8 @@
 ---
-title: Urban Geography/SF
+title: SF
 order: 3
 description: KKKKKKKKKKKKKKKKKKK
+types: Urban Geography
 ---
 
 # Map

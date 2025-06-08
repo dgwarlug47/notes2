@@ -1,9 +1,9 @@
 ---
 
-title: Sports/National Teams Ethos
+title: National Teams Ethos
 order: 3
 description: Love of my life
-
+type: Sports
 ---
 # When people ask me about it
 

@@ -1,8 +1,9 @@
 ---
 
-title: Sports/Champions League Ethos
+title: Champions League Ethos
 order: 3
 description: The best thing in april every year
+type: Sports
 ---
 
 | Club             | Ethos                                             | Dr. Jekyll (Ideal Self)                                 | Mr. Hyde (Dark Side)                                 |

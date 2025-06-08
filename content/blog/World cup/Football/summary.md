@@ -1,9 +1,9 @@
 ---
 
-title: Sports/World cup history
+title: World cup history
 order: 3
 description: The best thing every four years 
-
+types: Sports
 ---
 
 # When people ask me about it

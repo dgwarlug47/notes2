@@ -1,8 +1,8 @@
 ---
-title: Painting/Expressionism
+title: Expressionism
 order: 5
 description: Very nice
-
+types: Painting
 ---
 
 # Charateristics

@@ -1,7 +1,8 @@
 ---
-title: Philosophy/Camus
+title: Camus
 order: 3
 description: The one that got me into philosophy
+types: Philosophy
 ---
 
 ![alt text](image.png)

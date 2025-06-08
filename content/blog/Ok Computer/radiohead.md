@@ -1,7 +1,8 @@
 ---
-title: Music/OK COMPUTER
+title: OK COMPUTER
 order: 3
 description: The best album of my favourite band (The Beatles don't count)
+types: Music
 ---
 
 ![alt text](image.png)

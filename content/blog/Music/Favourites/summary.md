@@ -1,7 +1,8 @@
 ---
-title: Music/Favourites
+title: Favourites
 order: 3
 description: Gold spotify playlist
+types: Music
 ---
 
 

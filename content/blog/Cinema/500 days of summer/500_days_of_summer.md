@@ -1,7 +1,8 @@
 ---
-title: Cinema/500 days of Summer
+title: 500 days of Summer
 order: 4
 Description: I love this movie
+types: Literature
 ---
 
 ![alt text](image-2.png)

@@ -1,7 +1,8 @@
 ---
-title: Literature/The Age of Innocence
+title: The Age of Innocence
 order: 2
 description: Scorscese is a legend
+types: Literature
 ---
 
 ![alt text](image.png)
