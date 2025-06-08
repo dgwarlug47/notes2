@@ -1,7 +1,7 @@
 import shutil
 import os
 import signal
-import time
+
 
 class TimeoutError(Exception):
     pass

@@ -1,32 +1,37 @@
 /* CSS Custom Properties Definitions */
 
 :root {
+  /* Fluid width constraints that scale with viewport */
   --maxWidth-none: "none";
-  --maxWidth-xs: 20rem;
-  --maxWidth-sm: 24rem;
-  --maxWidth-md: 28rem;
-  --maxWidth-lg: 32rem;
-  --maxWidth-xl: 36rem;
-  --maxWidth-2xl: 42rem;
-  --maxWidth-3xl: 48rem;
-  --maxWidth-4xl: 56rem;
+  --maxWidth-xs: clamp(16rem, 90vw, 20rem);
+  --maxWidth-sm: clamp(20rem, 90vw, 24rem);
+  --maxWidth-md: clamp(24rem, 90vw, 28rem);
+  --maxWidth-lg: clamp(28rem, 90vw, 32rem);
+  --maxWidth-xl: clamp(32rem, 90vw, 36rem);
+  --maxWidth-2xl: clamp(36rem, 90vw, 42rem);
+  --maxWidth-3xl: clamp(42rem, 90vw, 48rem);
+  --maxWidth-4xl: clamp(48rem, 90vw, 56rem);
   --maxWidth-full: "100%";
-  --maxWidth-wrapper: var(--maxWidth-2xl);
+  --maxWidth-wrapper: clamp(20rem, 90vw, 42rem);
+  
+  /* Spacing that scales better on mobile */
   --spacing-px: "1px";
   --spacing-0: 0;
-  --spacing-1: 0.25rem;
-  --spacing-2: 0.5rem;
-  --spacing-3: 0.75rem;
-  --spacing-4: 1rem;
-  --spacing-5: 1.25rem;
-  --spacing-6: 1.5rem;
-  --spacing-8: 2rem;
-  --spacing-10: 2.5rem;
-  --spacing-12: 3rem;
-  --spacing-16: 4rem;
-  --spacing-20: 5rem;
-  --spacing-24: 6rem;
-  --spacing-32: 8rem;
+  --spacing-1: clamp(0.2rem, 0.5vw, 0.25rem);
+  --spacing-2: clamp(0.375rem, 1vw, 0.5rem);
+  --spacing-3: clamp(0.5rem, 1.5vw, 0.75rem);
+  --spacing-4: clamp(0.75rem, 2vw, 1rem);
+  --spacing-5: clamp(1rem, 2.5vw, 1.25rem);
+  --spacing-6: clamp(1.25rem, 3vw, 1.5rem);
+  --spacing-8: clamp(1.5rem, 4vw, 2rem);
+  --spacing-10: clamp(2rem, 5vw, 2.5rem);
+  --spacing-12: clamp(2.5rem, 6vw, 3rem);
+  --spacing-16: clamp(3rem, 8vw, 4rem);
+  --spacing-20: clamp(4rem, 10vw, 5rem);
+  --spacing-24: clamp(5rem, 12vw, 6rem);
+  --spacing-32: clamp(6rem, 16vw, 8rem);
+  
+  /* System font stacks that work well across devices */
   --fontFamily-sans: "MontserratVariable", system-ui, -apple-system,
     BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
@@ -35,23 +40,30 @@
     Times, serif;
   --font-body: 'MyFont';
   --font-heading: 'MyFont';
+  
+  /* Font weights */
   --fontWeight-normal: 400;
   --fontWeight-bold: 700;
   --fontWeight-black: 900;
-  --fontSize-root: 30px;
+  
+  /* Responsive font sizing with clamp */
+  --fontSize-root: clamp(16px, 2.5vw, 20px);
   --lineHeight-none: 1;
   --lineHeight-tight: 1.1;
   --lineHeight-normal: 1.5;
   --lineHeight-relaxed: 1.625;
-  /* 1.200 Minor Third Type Scale */
-  --fontSize-0: 0.833rem;
-  --fontSize-1: 1rem;
-  --fontSize-2: 1.2rem;
-  --fontSize-3: 1.44rem;
-  --fontSize-4: 1.728rem;
-  --fontSize-5: 2.074rem;
-  --fontSize-6: 2.488rem;
-  --fontSize-7: 2.986rem;
+  
+  /* Responsive type scale using clamp */
+  --fontSize-0: clamp(0.75rem, 2vw, 0.833rem);
+  --fontSize-1: clamp(0.875rem, 2.5vw, 1rem);
+  --fontSize-2: clamp(1rem, 3vw, 1.2rem);
+  --fontSize-3: clamp(1.2rem, 3.5vw, 1.44rem);
+  --fontSize-4: clamp(1.44rem, 4vw, 1.728rem);
+  --fontSize-5: clamp(1.6rem, 5vw, 2.074rem);
+  --fontSize-6: clamp(1.8rem, 6vw, 2.488rem);
+  --fontSize-7: clamp(2rem, 7vw, 2.986rem);
+  
+  /* Colors */
   --color-primary: #6e76a8;
   --color-text: #ffffff;
   --color-text-light: #ffffff;
@@ -80,6 +92,8 @@ html {
   font-size: var(--fontSize-root);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
 }
 
 body {
@@ -87,10 +101,16 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
+  min-height: 100vh;
 }
 
 footer {
   padding: var(--spacing-6) var(--spacing-0);
+  width: 100%;
 }
 
 hr {
@@ -241,6 +261,36 @@ a {
   color: var(--color-primary);
 }
 
+
+
+button {
+  font-size: clamp(1.25rem, 3vw, var(--fontSize-4));
+  color: var(--color-primary);
+  background-color: var(--color-accent);
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: var(--spacing-1) var(--spacing-0);
+  padding: clamp(0.3rem, 2vw, 0.6rem) clamp(0.5rem, 2.5vw, 1rem);
+  cursor: pointer;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+  touch-action: manipulation; /* Better touch behavior */
+  -webkit-tap-highlight-color: transparent; /* Remove tap highlight on mobile */
+}
+
+button:hover {
+  background-color: #5a5f8c; /* Darker shade of primary color */
+}
+
+@media (hover: none) {
+  /* Adjust button styling for touch devices */
+  button {
+    padding: clamp(0.5rem, 2vw, 0.8rem) clamp(0.8rem, 3vw, 1.2rem);
+  }
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
@@ -251,15 +301,18 @@ a:focus {
 .global-wrapper {
   margin: var(--spacing-0) auto;
   max-width: var(--maxWidth-wrapper);
-  padding: var(--spacing-10) var(--spacing-5);
+  padding: var(--spacing-8) var(--spacing-4);
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .global-wrapper[data-is-root-path="true"] .bio {
-  margin-bottom: var(--spacing-20);
+  margin-bottom: var(--spacing-16);
 }
 
 .global-header {
-  margin-bottom: var(--spacing-12);
+  margin-bottom: var(--spacing-10);
+  width: 100%;
 }
 
 .main-heading {
@@ -315,7 +368,6 @@ a:focus {
 }
 
 .blog-post header p {
-  font-size: var(--fontSize-2);
   font-family: var(--font-heading);
 }
 
@@ -327,7 +379,111 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
-/* Media queries */
+/* Dropdown Navigation Styles */
+.dropdown-nav {
+  margin: clamp(1rem, 3vw, 1.5rem) 0;
+  width: 100%;
+}
+
+.dropdown-container {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  max-width: clamp(250px, 90vw, 350px);
+}
+
+.dropdown-toggle {
+  background-color: var(--color-accent);
+  color: var(--color-primary);
+  font-size: clamp(1.5rem, 6vw, 2.5rem);
+  border-radius: 6px;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: clamp(0.5rem, 2vw, 0.8rem) clamp(0.8rem, 2vw, 1rem);
+  transition: background-color 0.2s;
+  -webkit-appearance: none; /* Remove default styling on iOS */
+  appearance: none; /* Standard property for compatibility */
+}
+
+.dropdown-toggle:hover {
+  background-color: rgba(94, 98, 135, 0.2); /* Subtle hover effect */
+}
+
+.dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-height: clamp(200px, 60vh, 400px);
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  padding: clamp(0.25rem, 1vw, 0.5rem) 0;
+  margin: 2px 0 0;
+  background-color: var(--color-accent);
+  border: 1px solid rgba(110, 118, 168, 0.2);
+  border-radius: 6px;
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+}
+
+.dropdown-item {
+  padding: clamp(0.6rem, 3vw, 0.8rem) clamp(0.8rem, 4vw, 1rem);
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: clamp(1rem, 3vw, 1.2rem);
+  cursor: pointer;
+  color: var(--color-primary);
+  transition: background-color 0.2s, transform 0.1s;
+  width: 100%;
+  border-radius: 4px;
+}
+
+.dropdown-item:hover {
+  background-color: rgba(110, 118, 168, 0.1);
+}
+
+.dropdown-item:active {
+  transform: scale(0.98);
+}
+
+/* Mobile responsive styles */
+@media (max-width: 768px) {
+  .dropdown-container {
+    max-width: 100%;
+  }
+  
+  .dropdown-toggle {
+    padding: clamp(0.6rem, 3vw, 0.8rem) clamp(0.8rem, 4vw, 1rem);
+  }
+  
+  .dropdown-item {
+    padding: clamp(0.8rem, 4vw, 1rem) clamp(1rem, 5vw, 1.2rem);
+  }
+}
+
+/* Additional responsiveness for smaller phones */
+@media (max-width: 480px) {
+  :root {
+    --fontSize-root: clamp(14px, 3.5vw, 16px);
+  }
+  
+  .dropdown-container {
+    margin: 0 auto;
+    width: 95%;
+  }
+  
+  button {
+    margin: var(--spacing-1);
+    width: 100%;
+  }
+}
 
 @media (max-width: 42rem) {
   blockquote {
@@ -337,5 +493,58 @@ a:focus {
   ul,
   ol {
     list-style-position: inside;
+  }
+}
+
+/* Ensuring proper viewport behavior across devices */
+@media screen and (max-width: 30em) {
+  html, body {
+    font-size: 90%;
+  }
+  
+  .main-heading {
+    font-size: clamp(1.8rem, 8vw, var(--fontSize-6));
+  }
+  
+  .post-list-item h2 {
+    font-size: var(--fontSize-3);
+  }
+}
+
+/* Additional media queries for better device support */
+@media screen and (max-width: 48em) {
+  .bio {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .bio-avatar {
+    margin-right: 0;
+    margin-bottom: var(--spacing-4);
+  }
+  
+  .post-list-item {
+    margin-bottom: var(--spacing-6);
+  }
+}
+
+/* Safari-specific fixes */
+@supports (-webkit-touch-callout: none) {
+  /* iOS devices */
+  button, 
+  .dropdown-toggle, 
+  .dropdown-item {
+    padding: 0.7em 1em;  /* Use em for better text scaling */
+  }
+}
+
+/* Ensuring tappable elements have adequate size on mobile */
+@media (pointer: coarse) {
+  button,
+  .dropdown-item,
+  a {
+    min-height: 44px;
+    min-width: 44px;
   }
 }

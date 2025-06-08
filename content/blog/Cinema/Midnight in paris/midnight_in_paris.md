@@ -1,8 +1,8 @@
 ---
-title: Cinema/Midnight in Paris
-
+title: Midnight in Paris
 order: 4
 description: I love Woody Allen
+types: Cinema
 --- 
 
 ![alt text](image-1.png)

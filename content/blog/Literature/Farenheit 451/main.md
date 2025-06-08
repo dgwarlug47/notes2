@@ -1,7 +1,8 @@
 ---
-title: Literature/Farenheit 451
+title: Farenheit 451
 order: 2
 description: KKKKKKKKKKKKKKKKKKKKK
+types: Literature
 ---
 
 

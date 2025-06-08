@@ -1,33 +1,38 @@
-import React from "react";
+import React, { useState } from "react";
+import "../style.css";
 
 const Navbar = ({ titles, onChange }) => {
-  const navStyle = {
-    display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
-    padding: "1rem 2rem",
-    backgroundColor: "#333",
-    color: "#fff"
+  const [isOpen, setIsOpen] = useState(false);
+  const [selectedOption, setSelectedOption] = useState("Literature");
+
+  const handleOptionClick = (title) => {
+    onChange(title);
+    setSelectedOption(title);
+    setIsOpen(false);
   };
 
   return (
-    <nav style={navStyle}>
-      <div>
-        {titles.map((title, index) => (
-          <button
-            key={index}
-            onClick={() => onChange(title)}
-            style={{
-              background: "none",
-              border: "none",
-              color: "#fff",
-              cursor: "pointer",
-              marginLeft: "1rem"
-            }}
-          >
-            {title}
-          </button>
-        ))}
+    <nav className="dropdown-nav">
+      <div className="dropdown-container">
+        <button 
+          className="dropdown-toggle" 
+          onClick={() => setIsOpen(!isOpen)}
+        >
+          {selectedOption} &#9662;
+        </button>
+        {isOpen && (
+          <div className="dropdown-menu">
+            {titles.map((title, index) => (
+              <button
+                key={index}
+                className="dropdown-item"
+                onClick={() => handleOptionClick(title)}
+              >
+                {title}
+              </button>
+            ))}
+          </div>
+        )}
       </div>
     </nav>
   );

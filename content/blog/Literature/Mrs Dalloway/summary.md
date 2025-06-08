@@ -1,7 +1,8 @@
 ---
-title: Literature/Mrs Dalloway
+title: Mrs Dalloway
 order: 2
 description: Virginia Wolf is really good at stream-of-consciousness
+types: Literature
 ---
 
 ![alt text](image.png)

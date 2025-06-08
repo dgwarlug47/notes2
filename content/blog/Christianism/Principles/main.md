@@ -1,7 +1,8 @@
 ---
-title: Religion/Principles
+title: Religion Principles
 order: 1
 description: How one should live life
+types: Special
 ---
 
 

@@ -36,7 +36,7 @@ const Bio = () => {
       <a href="https://stackoverflow.com"><img 
     src = {profilePic}
     className="bio-avatar"
-    width= '500px'
+    width= '300px'
     quality={95}
     alt="Profile picture"
      ></img></a>

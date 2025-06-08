@@ -1,7 +1,8 @@
 ---
-title: Painting/Surrealism
+title: Surrealism
 order: 5
 description: I love Magritte
+types: Painting
 ---
 
 # History

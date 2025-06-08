@@ -1,7 +1,8 @@
 ---
-title: Architecture/Art Deco
+title: Art Deco
 order: 4
 description: Life is good
+types: Special
 ---
 
 # When people ask me about it

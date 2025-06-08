@@ -1,7 +1,7 @@
 ---
 title: About an elementary question of the theory of diversity [Set Theory]
 order: 3
-types: Mathematics
+types: Hard Sciences
 ----
 
 

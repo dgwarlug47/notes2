@@ -1,7 +1,8 @@
 ---
-title: Literature/Crime and Punishment
+title: Crime and Punishment
 order: 2
 description: My favourite book
+types: Literature
 ---
 
 ![alt text](image.png)

@@ -28,7 +28,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Bio />
       <Navbar
-        titles={["Literature", "Cinema", "Philosophy", "Special", "Social Sciences", "Painting", "Music", "Hard Sciences"]}
+        titles={["Literature", "Cinema", "Painting", "Music"].sort().concat(["Hard Sciences", "Social Sciences", "Philosophy"]).concat([, "Special", "Sports", "Urban Geography"].sort())}
         onChange={setState}
       />
       <ol style={{ listStyle: `none` }}>

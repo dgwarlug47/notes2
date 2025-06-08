@@ -1,7 +1,8 @@
 ---
-title: Literature/Winter of the world
+title: Winter of the world
 order: 2
 description: A long lasting passion
+types: Literature
 ---
 
 ![alt text](image.png)

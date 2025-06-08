@@ -1,7 +1,8 @@
 ---
-title: Cinema/Begin Again
+title: Begin Again
 order: 4
 description: Lost stars
+types: Cinema
 ---
 
 

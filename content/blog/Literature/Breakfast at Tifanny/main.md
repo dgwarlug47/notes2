@@ -1,7 +1,8 @@
 ---
-title: Literature/Breakfast at Tiffany's
+title: Breakfast at Tiffany's
 order: 2
 description: I remember the DVD cover from my Mom
+types: Literature
 ---
 
 ![alt text](image.png)

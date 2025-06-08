@@ -1,7 +1,8 @@
 ---
-title: Literature/Anna Karenina characters
+title: Anna Karenina characters
 order: 2
 description: The best Dr. Jekyll and Mr. Hyde of Literature
+types: Literature
 ---
 
 ![alt text](image.png)

@@ -1,7 +1,8 @@
 ---
-title: Psychology/MBTI
+title: MBTI
 order: 3
 description: My favourite pseudo science
+types: Hard Sciences
 ---
 
 

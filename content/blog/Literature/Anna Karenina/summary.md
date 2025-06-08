@@ -1,7 +1,8 @@
 ---
-title: Literature/Anna Karenina
+title: Anna Karenina
 order: 2
 description: The best novel
+types: Literature
 ---
 
 # When people ask me about it
