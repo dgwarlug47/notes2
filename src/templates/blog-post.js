@@ -1,4 +1,5 @@
 import * as React from "react"
+import { useState, useEffect } from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -6,12 +7,26 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import CommentsForm from "../components/comments-form"
 import CommentsList from "../components/comments-list"
+import "../style.css" // Ensure you have the correct path to your CSS file
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
+  const [processedHtml, setProcessedHtml] = useState(post.html)
+  
+  // Process HTML to highlight MYTAKE
+  useEffect(() => {
+    if (post.html) {
+      // Apply highlighting to "MYTAKE" text
+      const highlighted = post.html.replace(
+        /MYTAKE/g, 
+        '<span style="color: #6e76a8; font-weight: bold;">MYTAKE</span>'
+      )
+      setProcessedHtml(highlighted)
+    }
+  }, [post.html])
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -25,7 +40,7 @@ const BlogPostTemplate = ({
           <p>{post.frontmatter.date}</p>
         </header>
         <section
-          dangerouslySetInnerHTML={{ __html: post.html }}
+          dangerouslySetInnerHTML={{ __html: processedHtml }}
           itemProp="articleBody"
         />
         <hr />
