@@ -548,3 +548,42 @@ a:focus {
     min-width: 44px;
   }
 }
+
+/* Comment form styling */
+.form-group {
+  margin-bottom: var(--spacing-4);
+}
+
+.form-control {
+  width: 100%;
+  padding: clamp(0.5rem, 2vw, 0.75rem);
+  border: 1px solid rgba(110, 118, 168, 0.3);
+  border-radius: 4px;
+  background-color: var(--color-accent);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: var(--fontSize-1);
+}
+
+.form-control:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 2px rgba(110, 118, 168, 0.2);
+}
+
+.submit-comment-btn {
+  margin-top: var(--spacing-2);
+}
+
+.comment-success {
+  padding: var(--spacing-4);
+  background-color: rgba(110, 118, 168, 0.1);
+  border-left: 3px solid var(--color-primary);
+  margin-bottom: var(--spacing-6);
+}
+
+/* Blog comments section styling */
+.blog-comments {
+  margin-top: var(--spacing-8);
+  margin-bottom: var(--spacing-8);
+}

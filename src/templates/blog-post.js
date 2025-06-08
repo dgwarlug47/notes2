@@ -4,6 +4,8 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import CommentsForm from "../components/comments-form"
+import CommentsList from "../components/comments-list"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -27,6 +29,13 @@ const BlogPostTemplate = ({
           itemProp="articleBody"
         />
         <hr />
+        
+        {/* Comments Section */}
+        <section className="blog-comments">
+          <h3>Comments</h3>
+          <CommentsForm postId={post.id} postTitle={post.frontmatter.title} />
+          <CommentsList postId={post.id} />
+        </section>
       </article>
       <nav className="blog-post-nav">
         <ul
