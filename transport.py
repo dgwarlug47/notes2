@@ -48,7 +48,7 @@ def copy_folder(source_folder, destination_folder, timeout=100):
 
 base = '/Users/davi/Desktop/Code/notes2/content/blog/'
 
-quickarticlesPaths1 = [
+quickArticlesPaths = [
     ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis',
      base + '/Literature/Infinite Jest'),
      ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/Russia/(1866) Crime and Punishment',
@@ -167,18 +167,28 @@ quickarticlesPaths1 = [
       base + 'Literature/Anna Karenina')
 ]
 
-longarticlesPaths1 = [
+longArticlesPaths = [
            ('/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Spare/Games/Sports/Football/Messi2',
         base + '/Messi3'),
 
 ]
 
-for articlePath in quickarticlesPaths1:
+newArticlesPaths = [
+    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Other",
+       base + 'Cinema/Other')
+]
+
+for articlePath in newArticlesPaths:
     success = copy_folder(articlePath[0], articlePath[1])
     if not success:
         print("Skipped due to timeout:" + str(articlePath))
 
-for articlePath in longarticlesPaths1:
+for articlePath in quickArticlesPaths:
+    success = copy_folder(articlePath[0], articlePath[1])
+    if not success:
+        print("Skipped due to timeout:" + str(articlePath))
+
+for articlePath in longArticlesPaths:
     success = copy_folder(articlePath[0], articlePath[1])
     if not success:
         print("Skipped due to timeout: " + str(articlePath))
