@@ -8,26 +8,13 @@
   Gatsby's blog starter
 </h1>
 
-Kick off your project with this blog boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
-
-## Usage
-
-Run python transport.py.
-
-After you add too much posts, go to index.js and increase the limit
-
-
 ## 🚀 Quick start
 
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/getting-started/part-0/#gatsby-cli)) to create a new site, specifying the blog starter.
+1.  **Clone your gatsby repo.**
 
     ```shell
     # create a new Gatsby site using the blog starter
-    gatsby new my-blog-starter https://github.com/dgwarlug47/notes2
+    git clone https://github.com/dgwarlug47/notes2
     ```
 
 1.  **Start developing.**
@@ -35,7 +22,7 @@ After you add too much posts, go to index.js and increase the limit
     Navigate into your new site’s directory and start it up.
 
     ```shell
-    cd my-blog-starter/
+    cd notes2/
     gatsby develop
     ```
 
@@ -104,3 +91,9 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 The fastest way to combine your favorite tools and APIs to build the fastest sites, stores, and apps for the web. And also the best place to build, deploy, and host your Gatsby sites.
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+## Google Drive upstream updates
+
+1. Run python transport.py
+
+2. After you add too much posts, go to index.js and increase the limit of the number of posts
