@@ -1,39 +1,20 @@
 import React, { useState } from "react";
 
+import sendEmail from "./sendEmail"; // Adjust the import path as necessary
+
 const CommentsForm = ({ postId, postTitle }) => {
   const [name, setName] = useState("");
   const [comment, setComment] = useState("");
   const [submitted, setSubmitted] = useState(false);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    
-    // In a real implementation, you would save this to a database or API
-    const newComment = {
-      id: `comment-${Date.now()}`,
-      name,
-      comment,
-      postId,
-      date: new Date().toISOString(),
-    };
-    
-    // Save to localStorage as a simple example
-    const existingComments = JSON.parse(localStorage.getItem("blogComments") || "[]");
-    localStorage.setItem(
-      "blogComments", 
-      JSON.stringify([...existingComments, newComment])
-    );
-    
-    // Reset form and show success message
-    setName("");
-    setComment("");
-    setSubmitted(true);
-    
-    // After 3 seconds, reset the submitted state
-    setTimeout(() => setSubmitted(false), 3000);
-    
-    // Trigger a refresh of the comments list
-    window.dispatchEvent(new Event("commentAdded"));
+    try {
+      await sendEmail("name: " + name + ", comment: " + comment);
+      setSubmitted(true);
+    } catch (error) {
+      console.error('Error sending email:', error);
+    }
   };
 
   return (

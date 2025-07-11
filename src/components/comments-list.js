@@ -1,13 +1,42 @@
 import React, { useState, useEffect } from "react";
 
-const CommentsList = ({ postId }) => {
+import { useStaticQuery, graphql } from "gatsby"
+
+
+const CommentsList = ({ postTitle }) => {
   const [comments, setComments] = useState([]);
 
+const data = useStaticQuery(graphql`
+  query {
+    allContentfulComments {
+      nodes {
+        commentsJson {
+          post_name
+          comments {
+            person_name
+            Value
+          }
+        }
+      }
+    }
+  }
+`);
+
+  // Intent: set the react state comments to be equal to 
+            // [{
+            //     "person_name": "Daniel",
+            //     "Value": "very good"
+            // }]
+  
   const loadComments = () => {
-    // In a real implementation, you would fetch from a database or API
-    const allComments = JSON.parse(localStorage.getItem("blogComments") || "[]");
+    const allComments = data;
     // Filter comments for this specific post
-    const postComments = allComments.filter(comment => comment.postId === postId);
+    const postComments = allComments.allContentfulComments.nodes[0].commentsJson
+    .filter(
+      (commentJson) => commentJson.post_name === postTitle
+    )
+    .map((commentJson) => commentJson.comments)[0];
+
     setComments(postComments);
   };
 
@@ -20,28 +49,21 @@ const CommentsList = ({ postId }) => {
     return () => {
       window.removeEventListener("commentAdded", loadComments);
     };
-  }, [postId]);
+  });
 
-  if (comments.length === 0) {
-    return <p className="no-comments">Be the first to comment!</p>;
-  }
 
   return (
-    <div className="comments-list">
-      <h4>{comments.length} Comment{comments.length !== 1 ? "s" : ""}</h4>
-      
-      {comments.map((comment) => (
-        <div key={comment.id} className="comment">
-          <div className="comment-header">
-            <h5 className="comment-author">{comment.name}</h5>
-            <span className="comment-date">
-              {new Date(comment.date).toLocaleDateString()}
-            </span>
+    <div className="comments-list">      
+      {comments.map(
+        (comment) => (
+          <div className="comment">
+            <div className="comment-header">
+              <h5 className="comment-author">{comment.person_name}</h5>
+            </div>
+            <div className="comment-body">
+              <p>{comment.Value}</p>
+            </div>
           </div>
-          <div className="comment-body">
-            <p>{comment.comment}</p>
-          </div>
-        </div>
       ))}
     </div>
   );

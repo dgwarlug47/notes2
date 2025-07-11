@@ -10,7 +10,7 @@ import CommentsList from "../components/comments-list"
 import "../style.css" // Ensure you have the correct path to your CSS file
 
 const BlogPostTemplate = ({
-  data: { previous, next, site, markdownRemark: post },
+  data: { previous, next, site, markdownRemark: post, allContentfulComments },
   location,
 }) => {
   const siteTitle = site.siteMetadata?.title || `Title`
@@ -49,7 +49,7 @@ const BlogPostTemplate = ({
         <section className="blog-comments">
           <h3>Comments</h3>
           <CommentsForm postId={post.id} postTitle={post.frontmatter.title} />
-          <CommentsList postId={post.id} />
+          <CommentsList postTitle={post.frontmatter.title} allComments={allContentfulComments} />
         </section>
       </article>
       <nav className="blog-post-nav">
