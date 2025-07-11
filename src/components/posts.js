@@ -1,16 +1,14 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
-import { useState } from "react"
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
-import Navbar from "../components/navbar"
+
 
 const Posts = ({ new_posts }) => {
   return (
     <ol style={{ listStyle: `none` }}>
       {new_posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug
+        const publishDate = post.frontmatter.publishDate
+        const displayTitle = publishDate ? `${title} [${publishDate}]` : title
 
         return (
           <li key={post.fields.slug}>
@@ -22,7 +20,7 @@ const Posts = ({ new_posts }) => {
               <header>
                 <h2>
                   <Link to={post.fields.slug} itemProp="url">
-                    <span itemProp="headline">{title}</span>
+                    <span itemProp="headline">{displayTitle}</span>
                   </Link>
                 </h2>
                 <small>{post.frontmatter.date}</small>

@@ -11,7 +11,10 @@ const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes// :POST
   const [state, setState] = useState("Literature")
-  const new_posts = posts.filter( post =>  post.frontmatter.types?.includes(state) )
+  var postsForDisplay = posts.filter( post =>  post.frontmatter.types)
+  if (state != "By Date"){
+    postsForDisplay = posts.filter( post =>  post.frontmatter.types?.includes(state) )
+  }
   if (posts.length === 0) {
     return (
       <Layout location={location} title={siteTitle}>
@@ -29,10 +32,10 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <Bio />
       <Navbar
-        titles={["Literature", "Cinema", "Painting", "Music"].sort().concat(["Hard Sciences", "Social Sciences", "Philosophy"]).concat([, "Special", "Sports", "Urban Geography"].sort())}
+        titles={["By Date", "Literature", "Cinema", "Painting", "Music"].sort().concat(["Hard Sciences", "Social Sciences", "Philosophy"]).concat([, "Special", "Sports", "Urban Geography"].sort())}
         onChange={setState}
       />
-      <Posts new_posts={new_posts} />
+      <Posts new_posts={postsForDisplay} />
     </Layout>
   )
 }
@@ -54,7 +57,10 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-        sort: [{  frontmatter: { title: ASC } }]
+        sort: [
+          { frontmatter: { publishDate: ASC } },
+          { frontmatter: { title: ASC } }
+        ]
         filter: { frontmatter: { title: { ne: null } } } ) {
       nodes {
         excerpt
@@ -66,6 +72,7 @@ export const pageQuery = graphql`
           title
           description
           types
+          publishDate
         }
       }
     }
