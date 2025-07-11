@@ -54,16 +54,18 @@ const data = useStaticQuery(graphql`
 
   return (
     <div className="comments-list">      
-      {comments.map(
+      {comments && comments.map(
         (comment) => (
-          <div className="comment">
-            <div className="comment-header">
-              <h5 className="comment-author">{comment.person_name}</h5>
+          comment && (
+            <div className="comment">
+              <div className="comment-header">
+                <h5 className="comment-author">{comment.person_name}</h5>
+              </div>
+              <div className="comment-body">
+                <p>{comment.Value}</p>
+              </div>
             </div>
-            <div className="comment-body">
-              <p>{comment.Value}</p>
-            </div>
-          </div>
+          )
       ))}
     </div>
   );
