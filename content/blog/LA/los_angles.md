@@ -31,11 +31,11 @@ https://www.timeout.com/film/los-angeles-movies-57-films-that-best-capture-la
 https://giggster.com/blog/famous-los-angeles-filming-locations/
 
 The ones I like
-- 500 days of summer
+- 500 days of Summer
 - Pulp fiction
 - La la land
 - Mulholland Drive
-- The big lebowski
+- The big Lebowski
 - Los Angeles plays itself
 - Clueless
 - The graduate
@@ -96,9 +96,8 @@ Venice skate park
 ## Silver Lake
 
 Prelude
-- Often described as the “Brooklyn of Los Angeles,” Silver Lake is much more than just a hipster haven
-- Has many alternative bars, record labels
-- Elected coolest neighborhood of LA
+- [MYTAKE] Often described as the “Brooklyn of Los Angeles,” there is nothing you can want in life. A hipster version of Los Angeles
+
 
 Silver Lake Resoirvoir
 - Very nice views around there
@@ -163,6 +162,7 @@ Bradbury building
 - victorian style atrium
 - oldest commercial building in downtown LA 
 - https://www.exp1.com/blog/inside-the-bradbury-building-victorian-charm-meets-sci-fi-in-la/
+- [MYTAKE] I can't believe I already had the honor of visiting the Bradbury building. I love this building because it has symultaneously classic and modern. And it is the end of one of my favourie scenes on all cinema, the last scene of 500 days of Summer, I have watched so many times at this point that I probably already summarized it
 
 ![alt text](image-3.png)
 
@@ -234,7 +234,7 @@ Lovell house
 - L.A confidential
 - It is often described as the first steel frame house in the United States, and also an early example of the use of gunite (sprayed-on concrete). 
 - one of the first international style house
-
+- [MYTAKE] For me, nothing beats the Los Feliz. Because in the end of the day, Beverly Hills is not that cool, because the people that live there are the actors and actresses of the filming industry, the "testas de ferro". But in Los Feliz, you have the producers, the writers, the designers etc. The people that actually architect and think the movies we watch
 ![alt text](image-6.png)
 
 

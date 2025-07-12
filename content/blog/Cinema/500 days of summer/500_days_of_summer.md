@@ -3,6 +3,7 @@ title: 500 days of Summer
 order: 4
 Description: I love this movie
 types: Cinema
+PublishDate: 2025-06-10
 ---
 
 ![alt text](image-2.png)

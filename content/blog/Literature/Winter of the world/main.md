@@ -8,41 +8,26 @@ types: Literature
 ![alt text](image.png)
 
 ## Women and Gender Roles
-
-It's truly insane to think that women during the war spent five years without seeing their husbands, like Carla's parents.
-
-Since childhood, Carla was very brave: “She hesitated. You were not supposed to sound the alarm unless there was a fire, and a notice on the wall warned of dire penalties.”
-
-There is an interesting historical parallel here: both Carla in Nazi Germany, who was rejected from medical school for being a woman, and Daisy, married to one of the greatest aristocrats but rarely able to see her husband, suffered because they were women.
-
-It is shocking how childish Daisy was. Of course, her husband was going to cheat on her.
+- [MYTAKE] It's truly insane to think that women during the war spent five years without seeing their husbands, like Carla's parents.
+- Since childhood, Carla was very brave: “She hesitated. You were not supposed to sound the alarm unless there was a fire, and a notice on the wall warned of dire penalties.”
+- There is an interesting historical parallel here: both Carla in Nazi Germany, who was rejected from medical school for being a woman, and Daisy, married to one of the greatest aristocrats but rarely able to see her husband, suffered because they were women.
+- It is shocking how childish Daisy was. Of course, her husband was going to cheat on her.
 
 ## Fascism and Authoritarianism
-
-When Carla asks what makes someone intelligent, her father doesn't know how to answer. This is also a great advantage of fascism: simple answers.
-
-Couldn't agree more: “You overrate freedom. It doesn’t make people happy. They prefer leadership. I want Werner and Frieda and poor Axel to grow up in a country that is proud, and disciplined, and united.”
-
-The perfect moment for radicalism to arise is during hard times. When everything is easy, it's very simple to be conservative.
-
-“Fascism is on the march,” Lloyd began. “And it is dangerously attractive. It gives false hope to the unemployed. It wears a spurious patriotism, as the Fascists themselves wear imitation military uniforms.”
-
-It is fascinating how time changes political opinions. A few years later, Daisy feels ashamed of having supported the fascists—unbelievable! It’s as if nothing had happened.
+- When Carla asks what makes someone intelligent, her father doesn't know how to answer. This is also a great advantage of fascism: simple answers.
+- Couldn't agree more: “You overrate freedom. It doesn’t make people happy. They prefer leadership. I want Werner and Frieda and poor Axel to grow up in a country that is proud, and disciplined, and united.”
+- The perfect moment for radicalism to arise is during hard times. When everything is easy, it's very simple to be conservative.
+- “Fascism is on the march,” Lloyd began. “And it is dangerously attractive. It gives false hope to the unemployed. It wears a spurious patriotism, as the Fascists themselves wear imitation military uniforms.”
+- [MYTAKE] It is fascinating how time changes political opinions. A few years later, Daisy feels ashamed of having supported the fascists—unbelievable! It’s as if nothing had happened. And the funny thing is that this still happens today, after all we see a similar behaviour towards Trump and Bolsonaro.
 
 ## Social Classes and Status
-
-It's very interesting to see the life of the upper class. Not that they are extremely wealthy, but they are at the top of the hierarchy among the humanities crowd.
-
-Life in high society is sometimes very empty. Deep down, they have nothing to do—after all, there was no Messi back then.
-
-But social classes were very rigid at that time. It's as if people could tell just by looking at someone which class they belonged to. At least today, with money, no one finds it strange.
-
-It is fascinating how money was not enough back then, and even today, social status is something that cannot be bought. For example, being an L5 at Google might earn you less money than in the market, but my social circle has more respect for the L5.  
+- It's very interesting to see the life of the upper class. Not that they are extremely wealthy, but they are at the top of the hierarchy among the humanities crowd.
+- Life in high society is sometimes very empty. Deep down, they have nothing to do—after all, there wassn't so much wide spread entertainement as there is today.
+- But social classes were very rigid at that time. It's as if people could tell just by looking at someone which class they belonged to. At least today, with money, no one finds it strange.
+- It is fascinating how money was not enough back then, and even today, social status is something that cannot be bought. For example, being an L5 at Google might earn you less money than in the market, but my social circle has more respect for the L5.  
 “That prospect frightened Daisy. She had made up her mind to marry Boy. She wanted to be Viscountess Aberowen, and then one day Countess Fitzherbert. She had always been rich, but she craved the respect and deference that went with social status.”
-
-“Daisy and Boy were married at St Margaret’s Church, Westminster, on Saturday, 3 October 1936. Daisy was disappointed it was not Westminster Abbey, but she was told that was for the royal family only.”
-
-It is impressive how certain traits pass down to the next generation. Daisy has the same cunning and scheming nature as her father, Lev Peshkov.
+- “Daisy and Boy were married at St Margaret’s Church, Westminster, on Saturday, 3 October 1936. Daisy was disappointed it was not Westminster Abbey, but she was told that was for the royal family only.”
+- It is impressive how certain traits pass down to the next generation. Daisy has the same cunning and scheming nature as her father, Lev Peshkov.
 
 A beautiful description of Lloyd: “A real grown-up, when the rest of us were just pretending.”
 
@@ -55,12 +40,9 @@ I think something very profound that authoritarian movements have to teach us is
 It's interesting because this attachment to democracy that people have only exists in favorable economic situations. When you have a currency that is worthless, no one cares about democracy anymore.
 
 ## Personal Drama and Relationships
-
-The pace of events is sometimes a bit too fast, as if the author is in a hurry to establish the narrative's foundation, which is strange for a 1,000-page book.
-
-At this point, the book feels less engaging because nothing directly related to the war is happening. The drama involving characters unrelated to the war is not very compelling.
-
-The excess of coincidences makes the book feel somewhat unrealistic.
+- The pace of events is sometimes a bit too fast, as if the author is in a hurry to establish the narrative's foundation, which is strange for a 1,000-page book.
+- At this point, the book feels less engaging because nothing directly related to the war is happening. The drama involving characters unrelated to the war is not very compelling.
+- The excess of coincidences makes the book feel somewhat unrealistic.
 
 Additionally, the fact that much of the book focuses on the characters' personal drama makes me want to skip ahead to the parts directly related to the war.
 

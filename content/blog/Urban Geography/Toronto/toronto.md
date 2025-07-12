@@ -69,9 +69,12 @@ Hockey Hall of fame
 
 Royal york
 
+![alt text](image-21.png)
+
 College park
 
-Royal bank plaza
+![alt text](image-22.png)
+
 
 # Church-Yonge Corridor
 
@@ -112,8 +115,7 @@ Chinatown
 Otto’s Berlin Döner (restaurant)
 
 # Trinity-Bellwoods
-
-lots of hipster
+- lots of hipster
 
 Trinity Bellwoods Park
 
@@ -126,6 +128,8 @@ Perla
 
 Korean Town
 
+![alt text](image-23.png)
+
 # Annex
 - borders Bloor
 
@@ -133,12 +137,16 @@ Yorkville village
 - Ferrari of Toronto
 - very nice village
 
+![alt text](image-24.png)
+
 Annex Pawn
+
+![alt text](image-25.png)
 
 Madison Avenue Pub
 - bar in victorian house
 
-Snakes and Lattex
+![alt text](image-26.png)
 
 # University
 
@@ -152,13 +160,13 @@ Royal Ontario Museum
 
 BMV Books
 
-Bata Shoe Museum
+![alt text](image-27.png)
 
 Philosopher’s Walk
-
-Ontario Legislative building
+![alt text](image-28.png)
 
 John P. Robarts Research Library
+![alt text](image-29.png)
 
 # Moss Park
 
@@ -168,34 +176,46 @@ Allan Gardens
 
 # Little Portugal
 
-DesignTO Festival
 
 # Roncesvalles
 
 Revue R Cinema
 
+![alt text](image-30.png)
+
 Museum of Contemporary art
+
+![alt text](image-31.png)
 
 # Waterfront Communities-The Island
 
 Toronto Islands
 
+![alt text](image-32.png)
+
 Lake
 - Toronto Music Garden
+
+![alt text](image-33.png)
 
 ## West (of spadina)
 
 CN Tower
 
+![alt text](image-34.png)
+
 Rogers Center
+
+![alt text](image-35.png)
 
 Rec Room
 
+![alt text](image-36.png)
+
 Ripley's Aquarium of Canada
 
-Power Point Art Gallery
+![alt text](image-37.png)
 
-Second city
 
 ## East (of spadina)
 
@@ -215,8 +235,7 @@ St. Lawrence Market
 47 Front St E, Toronto, ON M5E 1B3
 
 # Yonge-St. Clair
-
-Most expensive neighborhood in Toronto
+- Most expensive neighborhood in Toronto
 
 Tunnel of Glam
 

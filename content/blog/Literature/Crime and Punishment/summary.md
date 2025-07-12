@@ -130,12 +130,12 @@ Each major character in *Crime and Punishment* embodies a distinct philosophical
 ![alt text](image-3.png)
 
 He represents the non philosophical suicide, and philosophical experimentation
-- after his crime, he lied a lot, but whenever his lie is about
+- [MYTAKE] after his crime, he lied a lot, but whenever his lie is about
 something related to his own dignity he won't lie even if that
 makes obvious that he is the killer, for example when the 
 investigator asked whether he was extraordinary or not and he
 said yes
-- for me his excess of rationalism is what destroyed his life
+- [MYTAKE] for me his excess of rationalism is what destroyed his life. KKKKKKKKK just like the rest of us.
 - The motivation of the student revo lutionary is quite evident.
 Raskolnikov killed an old lady in ineffectual fury, to protest the
 condition of the insulted and the injured. He killed the old woman to
@@ -210,8 +210,7 @@ Character as a tool to defend christian existentialism
 - He raped a 5 year old, male prostitution
 - Essentially, Svidrigailov is someone who embodies Raskolnikov's ideology of the great man who asserts his self will beyond the “prejudice” that is the Christian morality that Russian society at the time ascribed to. Svidrigailov manages to overcome moral boundaries with impunity and without a shred of remorse or hesitation, believing only his self will to be a basis on which to act, and essentially creating his own morals, acting in accordance with his desires.
 - We as a society when we look at "terrible" people such as Hitler, we think of them as cold blood that have no regret,
-but this character shows to us that deep down even if it is at their subconscious (Svi's dreams with the girl raped) we have a moral because we are all human, not only that
-even people like Svi have feelings, at the first time that I read, I remember being astonished by the fact that Svi
+but this character shows to us that deep down even if it is at their subconscious (Svi's dreams with the girl raped) we have a moral because we are all human, not only that even people like Svi have feelings, at the first time that I read, I remember being astonished by the fact that Svi
 doesn't rape Dounia, but now I see that's no surprise because deep down he is also human, and that there is more to
 life than strict pleasure, and he manage to feel that with Dounia, and by knowing that he will never be able to feel that again, he decides to kill himself
 

@@ -1,6 +1,19 @@
 import shutil
 import os
 import signal
+import argparse
+import sys
+from tqdm import tqdm
+
+# Parse command line arguments
+parser = argparse.ArgumentParser(description='Copy folders from Google Drive to blog content directory')
+
+parser.add_argument('--mode', 
+                    choices=['quick', 'long', 'all'], 
+                    default='all',
+                    help='Which articles to copy: quick, long, or all (default: all)')
+
+args = parser.parse_args()
 
 
 class TimeoutError(Exception):
@@ -144,8 +157,6 @@ quickArticlesPaths = [
                                               ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1948) 1984",
                                                base + 'Literature/1984'),
 
-                                               ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(1940) And then there were none",
-                                               base + 'Literature/And then there were none'),
                                                ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/United States of America/(1953) Farenheit 451",
                                                 base + 'Literature/Farenheit 451'),
                                                 ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Literature/Novels/UK/(2012) Winter of the world",
@@ -173,22 +184,13 @@ longArticlesPaths = [
 
 ]
 
-newArticlesPaths = [
-    ("/Users/davi/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/Arts/Performing arts/Moving pictures/Cinema/Other",
-       base + 'Cinema/Other')
-]
-
-for articlePath in newArticlesPaths:
+for articlePath in tqdm(quickArticlesPaths):
     success = copy_folder(articlePath[0], articlePath[1])
     if not success:
         print("Skipped due to timeout:" + str(articlePath))
 
-for articlePath in quickArticlesPaths:
-    success = copy_folder(articlePath[0], articlePath[1])
-    if not success:
-        print("Skipped due to timeout:" + str(articlePath))
-
-for articlePath in longArticlesPaths:
-    success = copy_folder(articlePath[0], articlePath[1])
-    if not success:
-        print("Skipped due to timeout: " + str(articlePath))
+if args.mode == 'long':
+    for articlePath in longArticlesPaths:
+        success = copy_folder(articlePath[0], articlePath[1])
+        if not success:
+            print("Skipped due to timeout: " + str(articlePath))

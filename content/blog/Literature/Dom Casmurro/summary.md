@@ -2,7 +2,7 @@
 title: Dom Casmurro
 order: 2
 description: The GOAT
-type: Literature
+types: Literature
 ---
 
 

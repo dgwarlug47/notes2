@@ -9,27 +9,6 @@ types: Special
 
 ## Art
 
-### Music
-- Rock
-- Jazz
-- Pop
-- Folk
-
-### Literature
-- Romanticism
-- Realism
-- Modernism
-- Naturalism
-- Postmodernism
-
-### Painting
-- Realism
-- Impressionism
-- Expressionism
-- Modern
-- Surrealism
-- Pop Art
-
 ### Cinema
 - Action
 - Animated
@@ -39,105 +18,234 @@ types: Special
 - Science Fiction
 - Series
 
-### Other
+### Music
+- Folk
+- Jazz
+- Pop
+- Rock
+
+### Literature
+- Modernism
+- Naturalism
+- Postmodernism
+- Realism
+- Romanticism
+
+### Painting
+- Expressionism
+- Impressionism
+- Modern
+- Pop Art
+- Realism
+- Surrealism
+
+### Photography
+- portrait (people)
+- landscape (nature and scenery)
+- documentary (real-life events and stories)
+- fashion (style and clothing)
+- wildlife (animals in their natural habitats)
+
+### Poetry
+- elegy (mourning or lament)
+- ode (praise or tribute)
+- satire (critique through wit)
+- pastoral (idealized nature and rural life)
+- confessional (deeply personal, introspective expression)
+
+### Architecture
+- residential (homes and housing)
+- commercial (offices and retail spaces)
+- industrial (factories and warehouses)
+- institutional (schools, hospitals, government buildings)
+- landscape architecture (outdoor spaces and environments)
+
+## Culinary arts
+- Hot Kitchen
+- Pastry and Baking
+- Garde Manger
+- Butchery
+- Culinary Management
+
+## Other
 - Fashion
-- Culinary
 
 
 ## Mathematics
 
-### Geometry
-- Euclidean Geometry
-- Algebraic Geometry
-- Differential Geometry
-- Topology
-
 ### Algebra
-- Linear Algebra
 - Group Theory
+- Linear Algebra
 - Number Theory
 
 ### Analysis
-- Real Analysis
 - Complex Analysis
-- Functional Analysis
 - Fourier Analysis
+- Functional Analysis
 - Measure Theory
+- Real Analysis
 
+### Geometry
+- Algebraic Geometry
+- Differential Geometry
+- Euclidean Geometry
+- Topology
+
+### Combinatorics
+- Enumerative Combinatorics
+- Graph Theory
+- Design Theory
+- Extremal Combinatorics
+- Algebraic Combinatorics
+
+### Logic
+- Formal Logic
+- Informal logic
+- Symbolic logic
+- Mathematical logic
+- Modal logic
 
 ## Hard Sciences
 
-### Physics
-- Classical Mechanics
-- Thermodynamics
-- Electromagnetism
-- Relativity
-- Quantum Mechanics
-- Optics and Acoustics
+### Astronomy
+- Astrophysics
+- Cosmology
+- Galactic and Extragalactic Astronomy
+- Planetary Astronomy
+- Stellar Astronomy
 
 ### Biology
-- Botany
-- Zoology
-- Microbiology
-- Ecology
 - Biochemistry
+- Botany
+- Ecology
+- Microbiology
+- Zoology
 
 ### Chemistry
-- Physical Chemistry
 - Biochemistry
-- Organic Chemistry
 - Inorganic Chemistry
+- Organic Chemistry
+- Physical Chemistry
 
+### Earth Science
+- Geology
+- Geophysics
+- Meteorology
+- Oceanography
+
+### Physics
+- Classical Mechanics
+- Electromagnetism
+- Optics and Acoustics
+- Quantum Mechanics
+- Relativity
+- Thermodynamics
+
+## Applied Sciences
+
+### Medicine
+- Internal Medicine
+- Surgery
+- Pediatrics
+- Psychiatry
+- Obstetrics and Gynecology (OB/GYN)
+
+
+### Pharmacy
+- Pharmacology
+- Pharmaceutics
+- Pharmacy Practice
+- Pharmacognosy
+- Clinical Pharmacy
+
+### Environmental
+- Ecology
+- Atmospheric Science
+- Geoscience (or Environmental Geology)
+- Environmental Chemistry
+- Environmental Biology
+
+### Engineering
+- Civil Engineering
+- Eletric Engineering
+- Mechanical Engineering
+- Software Engineering
 
 ## Social Sciences
 
+### Anthropology
+- Applied Anthropology
+- Archaeology
+- Biological (or Physical) Anthropology
+- Cultural Anthropology
+- Linguistic Anthropology
+
+### Economical Science
+- Behavioral economics
+- Development economics
+- International economics
+- Macroeconomics
+- Microeconomics
+
 ### History
-- Prehistory
 - Ancient History
-- Medieval Period
-- Renaissance
-- Modern
 - Contemporary
+- Medieval Period
+- Modern
+- Prehistory
+- Renaissance
+
+### Political Science
+- Comparative Politics
+- International relations
+- Political Methodology
+- Public Administration
+
+### Psychology
+- Biological Psychology
+- Clinical Psychology
+- Cognitive Psychology
+- Development Psychology
+- Social Psychology
 
 ### Sociology
-
-### Anthropology
-
+- Cultural Sociology
+- Historical and Comparative Sociology
+- Political and Economic Sociology
+- Social Psychology
+- Structural Sociology
 
 ## Humanities
 
 ### Philosophy
+- Epistemology
 - Ethics
 - Logic
-- Epistemology
 - Metaphysics
 
 ### Religion
+- Buddhism
 - Christianity
 - Islam
 - Judaism
-- Buddhism
 
 
 ## Other
 
-### Engineering
-- Software Engineering
-- Civil Engineering
-- Mechanical Engineering
-- Eletric Engineering
 
 ### Sports
+- American Football
+- Baseball
+- Basketball
 - Chess
 - Football
-- American Football
-- Tennis
-- Basketball
-- Baseball
 - Foosball
 - Skateboarding
 - Skiing
 - Snowboarding
+- Tennis
+- Video games
 
 ### Other
 - Travel
+- Board games

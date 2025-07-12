@@ -5,13 +5,14 @@ description: My favourite book of the middle ages
 types: Literature
 --- 
 
-# When people as me about it
+# Memory Trigger
 
 1. Sins of each level
 2. Definition of each sin
 3. The punishment
-4. Details about the cocito
-5. Legacy/Importance
+4. Conselours of fraud
+5. Details about the cocito
+6. Legacy/Importance
 
 # Importance
 
@@ -72,7 +73,7 @@ The first level of Inferno is called Limbo. It is home to the unbaptized and vir
 
 # Lust (Level 2)
 
-<img src="image-3.png" alt="drawing" width="600"/>
+![alt text](image-22.png)
 
 Punishment
 - Lustful sinners, regardless of the duration of their sin, are tossed about eternally by violent winds in the Second Circle. This represents how their desires carried them away uncontrollably in life
@@ -83,7 +84,7 @@ Cleopatra and Mark Anthony
 
 # Glutonny (Level 3)
 
-<img src="image-2.png" alt="drawing" width="600"/>
+![alt text](image-23.png)
 
 Punishment
 - Forced to wallow in disgusting smelling mud, are constantly pelted by endless rain, sleet, snow, and hail, and are attacked by Cerberus.
@@ -279,7 +280,6 @@ pictured as spokes on a wheel. At the center of Malebolge is the ninth and final
 known as Cocytus
 
 ## Caina (Betrayed relatives)
-
 
 ## Antenora (Betrayed their country)
 

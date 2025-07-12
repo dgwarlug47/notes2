@@ -31,7 +31,7 @@ Most members of New York's upper-class families have made residences on the Uppe
 ### Annie Hall
 
 Annie Hall's apartment
-- [EXTREMELY IMPORTANT!!!!!!!!!!!!!!!!!!] which still exists on East 70th Street between Lexington Avenue and Park Avenue is by Allen's own confession his favorite block in the city
+- [MYTAKE] [EXTREMELY IMPORTANT!!!!!!!!!!!!!!!!!!] which still exists on East 70th Street between Lexington Avenue and Park Avenue is by Allen's own confession his favorite block in the city
 - Peter Cowie argues that the film shows "a romanticized view" of the borough, with the camera "linger[ing] on the Upper East Side [... and where] the fear of crime does not trouble its characters."[72] By contrast, California is presented less positively, and David Halle notes the obvious "invidious intellectual comparison" between New York City and Los Angeles.[73] While Manhattan's movie theaters show classic and foreign films, Los Angeles theaters run less-prestigious fare such as The House of Exorcism and Messiah of Evil.[72] Rob's demonstration of adding canned laughter to television demonstrates the "cynical artifice of the medium".[72] New York City serves as a symbol of Alvy's personality ("gloomy, claustrophobic, and socially cold, but also an intellectual haven full of nervous energy") while Los Angeles is a symbol of freedom for Annie.[70]
 
 ![alt text](image-10.png)
@@ -41,7 +41,7 @@ Annie Hall's apartment
 ## Andrew Carnegie Mansion
 
 The land was purchased in 1898 in secrecy by Carnegie, more than a mile north of what was then fashionable society, in part to ensure there was enough space for a garden.[8] He asked his architects Babb, Cook & Willard for the "most modest, plainest, and most roomy house in New York"
-- This is fucking crazy to me. ThIS guy has a fucking mansion in the FUCKING FIFTH AVENUE!!! HOW MUCH MONEY DOES THIS GUY FUCKING HAVE!!!!
+- [MYTAKE] This is fucking crazy to me. This guy has a fucking mansion in the FUCKING FIFTH AVENUE!!! HOW MUCH MONEY DOES THIS GUY FUCKING HAVE!!!!
 
 ![alt text](image-6.png)
 
@@ -51,6 +51,7 @@ The land was purchased in 1898 in secrecy by Carnegie, more than a mile north of
 - Most visited museum of the united states
 - Fifth most visited art museumf of the world
 - It has Autumn Rhythm by Jackson Pollock
+- [MYTAKE] This is by far my favourite museum in North America, there is nothing like it to me. Their painting section is one of the best in the world, it's at Manhattan, at Upper East side. It's very epic.
 
 ## Guggenheim
 
@@ -72,7 +73,7 @@ French architecture
 ## Lenox Hill
 
 The only voting district that had more votes for Trump than Kamala in Manhattan
-- So much old money
+- [MYTAKE] This is crazy. I wouldn't even imagine that there is a part of Manhattan that is blue. Pretty much only the really die hard old money lives there
 
 ## Cook Block
 

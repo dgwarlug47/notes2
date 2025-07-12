@@ -26,6 +26,10 @@ types: Social Sciences
    - Values
    - Personality (identity)
 
+4. What is the Root Cause of Liquid Modernity
+   - By Marx's main theorem, every change in the superstructure needs to come from a change in material reality.
+   - Neoliberalism, Globalization, Technological acceleration
+
 # The Concept of Liquid Modernity - An Overview of Fluid Social Structures
 
 Liquid modernity is characterized by the constant flux and transformation of norms, values, and practices.
@@ -60,3 +64,20 @@ However, in liquid modernity, work has become transient, making workers more com
 This shift has profound socio-economic implications, leading to widespread job insecurity and precarity.
 
 The transient nature of modern workplaces also weakens personal ties among colleagues, further eroding the sense of community.
+
+
+# 🧱 From Solid to Liquid: What Changed?
+
+## 1. **Global Capitalism and Economic Deregulation**
+- Erosion of long-term employment and social safety nets.
+- Rise of flexible labor markets and outsourcing.
+- Security replaced by competitiveness and precarity.
+
+## 2. **Neoliberal Individualism**
+- Personal freedom replaces collective responsibility.
+- Individuals must construct their own identities without institutional guidance.
+- Life becomes a series of short-term projects and relationships.
+
+## 3. **Technological Acceleration**
+- Digital communication and fast-paced change reinforce instability.
+- Relationships, information, and trends are temporary and disposable.

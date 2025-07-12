@@ -7,6 +7,9 @@ types: Music
 
 ![alt text](image.png)
 
+# Executive Summary
+
+
 # Best songs
 
 https://www.theguardian.com/music/2020/jan/23/radioheads-40-greatest-songs-ranked
@@ -58,7 +61,7 @@ Desperate to find some solace in a world of mass
 Please could you stop the noise?
 
 I'm tryna get some rest
-- He is angry about the system. This is the opposite of bohemain rhapsody when the character kills someone, thus he is angry about hiself, not the system
+- [MYTAKE] That's the key the difference compared to Bohemian Rhapsody. He is angry about the system. This is the opposite of bohemain rhapsody when the character kills someone, thus he is angry about hiself, not the system
 
 From all the unborn chicken
 
