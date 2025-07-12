@@ -3,7 +3,7 @@ title: Memórias Póstumas de Brás Cubas
 order: 2
 description: The GOAT
 types: Literature
-PublishDate: 2025-06-09
+publishDate: 2025-06-09
 ---
 
 
