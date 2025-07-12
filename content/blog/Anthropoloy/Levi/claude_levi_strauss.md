@@ -3,10 +3,12 @@ title: Claude Lévi-Strauss
 order: 6
 description: Legend
 types: Social Sciences
+publishDate: 2025-03-08
 ---
 
+![alt text](image-2.png)
 
-# When people ask me about it
+# Memory Trigger
 
 Structuralism
 - Definition
