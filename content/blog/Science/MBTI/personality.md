@@ -3,7 +3,15 @@ title: MBTI
 order: 3
 description: My favourite pseudo science
 types: Hard Sciences
+publishDate: 2025-03-01
 ---
+
+# Memory Trigger
+
+1. Famous personality of each MBTI
+2. What is MBTI
+3. What is N in MBTI
+4. The four types of MBTIs
 
 
 DISCLAIMER: THIS IS CONSIDERED PSEUDOSCIENCE
