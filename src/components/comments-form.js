@@ -35,7 +35,7 @@ function ContactForm() {
             color: '#374151',
             marginBottom: '4px'
           }}>
-            Your name
+            Your email
           </label>
           <input
             id="email"
