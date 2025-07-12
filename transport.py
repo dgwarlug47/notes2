@@ -4,7 +4,7 @@ import signal
 import argparse
 import sys
 from tqdm import tqdm
-from transport_config import quickArticlesPaths, longArticlesPaths
+from transport_config import generateAbsoluteDownstreamAndUpstreamFilePaths
 
 # Parse command line arguments
 parser = argparse.ArgumentParser(description='Copy folders from Google Drive to blog content directory')
@@ -61,15 +61,9 @@ def copy_folder(source_folder, destination_folder, timeout=100):
         signal.alarm(0)
 
 # Import path configurations
-print(f"📁 Loaded {len(quickArticlesPaths)} quick articles and {len(longArticlesPaths)} long articles from config")
+print(f"📁 Loaded {len(generateAbsoluteDownstreamAndUpstreamFilePaths())}articles")
 
-for articlePath in tqdm(quickArticlesPaths):
+for articlePath in tqdm(generateAbsoluteDownstreamAndUpstreamFilePaths()):
     success = copy_folder(articlePath[0], articlePath[1])
     if not success:
         print("Skipped due to timeout:" + str(articlePath))
-
-if args.mode == 'long':
-    for articlePath in longArticlesPaths:
-        success = copy_folder(articlePath[0], articlePath[1])
-        if not success:
-            print("Skipped due to timeout: " + str(articlePath))

@@ -1,7 +1,7 @@
-from transport_config import quickArticlesPaths, longArticlesPaths
 import os
 import subprocess
 import platform
+from transport_config import generateAbsoluteDownstreamAndUpstreamFilePaths
 
 def open_and_wait_for_edit(file_path):
     """Open file in editor and wait for user to finish editing"""
@@ -98,18 +98,7 @@ def main():
     print("2. Long articles only") 
     print("3. All articles")
     
-    choice = input("\nEnter your choice (1-3): ").strip()
-    
-    if choice == '1':
-        process_folder_paths(quickArticlesPaths, "QUICK")
-    elif choice == '2':
-        process_folder_paths(longArticlesPaths, "LONG")
-    elif choice == '3':
-        process_folder_paths(quickArticlesPaths, "QUICK")
-        process_folder_paths(longArticlesPaths, "LONG")
-    else:
-        print("❌ Invalid choice. Exiting.")
-        return
+    process_folder_paths(generateAbsoluteDownstreamAndUpstreamFilePaths(), "QUICK")
     
     print(f"\n🎉 Editing session complete!")
 
