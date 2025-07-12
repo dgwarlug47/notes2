@@ -8,10 +8,72 @@ publishDate: 2025-03-01
 
 # Memory Trigger
 
-1. Hal Incandenza as a metaphor for the end of enlightment
-2. Don Gately and Hal Incandenza symmetry 
+1. Hal Incandenza as a metaphor that the enlightment didn't bring what it promised
+2. Don Gately and Hal Incandenza symmetry as a conclusion that someone's heart is more important than someone's brain
 3. Emotional detatchment at the Incandenza family. For example the problems that James had interacting with this son, and his death
 4. James Incandenza and the unfulfilled genius
+
+# Infinite Jest – Key Characters
+
+## Incandenza Family
+
+- **Hal Incandenza**  
+  Prodigy tennis player and linguistic genius at Enfield Tennis Academy (ETA). Struggles with internal emptiness and substance use.
+
+- **James O. Incandenza (JOI)**  
+  Hal’s late father. Filmmaker, optics expert, and founder of ETA. Creator of the deadly entertainment cartridge "Infinite Jest."
+
+- **Avril Incandenza**  
+  Hal’s intense and possibly unhinged mother. Head administrator at ETA. Known for her rigid propriety and strange relationships.
+
+- **Mario Incandenza**  
+  Hal’s physically disabled but emotionally perceptive older brother. A gentle soul and amateur filmmaker.
+
+- **Orin Incandenza**  
+  Hal’s oldest brother, a former ETA tennis star turned professional punter in the NFL. Escapes into womanizing and paranoia.
+
+## Enfield Tennis Academy (ETA)
+
+- **Don Gately**  
+  Former burglar and recovering addict who works at Ennet House. One of the novel’s moral centers.
+
+- **Michael Pemulis**  
+  Hal’s close friend. Brilliant in math and recreational chemistry. Often deals in drugs on the side.
+
+- **John Wayne**  
+  Canadian tennis prodigy at ETA. Mysterious, emotionally distant, and possibly involved with Avril.
+
+- **Joelle Van Dyne (aka Madame Psychosis)**  
+  Former lover of JOI. Beautiful, veiled woman who may be the star of "Infinite Jest." Struggles with addiction and self-image.
+
+- **Lyle**  
+  A sweat-drinking spiritual advisor who resides in the weight room at ETA.
+
+## Ennet House Recovery Center
+
+- **Pat Montesian**  
+  Director of Ennet House, deeply committed to helping addicts recover.
+
+- **Kate Gompert**  
+  A depressed marijuana addict who speaks candidly about suicidal ideation.
+
+- **Tiny Ewell**  
+  Wheelchair-bound resident of Ennet House; sarcastic and observant.
+
+- **Randy Lenz**  
+  Psychotic Ennet House resident with violent tendencies toward animals.
+
+## Political Groups & Others
+
+- **Remy Marathe**  
+  Member of Les Assassins des Fauteuils Rollents (The Wheelchair Assassins), a Québécois separatist group. Torn between duty and loyalty.
+
+- **M. Fortier**  
+  Leader of the A.F.R. (Wheelchair Assassins), obsessed with locating the master copy of "Infinite Jest."
+
+- **Hugh Steeply (aka Helen Steeply)**  
+  U.S. intelligence operative working undercover as a woman. Tracks the distribution of the lethal film.
+
 
 # Family
 

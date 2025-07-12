@@ -1,5 +1,5 @@
 ---
-title: Infinite Jest
+title: Infinite Jest story
 order: 2
 description: The book I love/hate the most
 types: Literature
@@ -12,11 +12,13 @@ publishDate: 2025-03-01
 
 1. Dense and Detailed Prose: The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
 2. Loneliness: Tennis as a Metaphor, The sport symbolizes the isolating nature of modern life, where individuals compete in solitude.
-3. Addiction: Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies.
+3. Addiction: Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies. It expanded my understanding of addiction.
+- For example the girl that kept her baby even though it was dead already
 4. Literary Significance: Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
 5. Hedonism and Its Consequences: The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
 6. I love how it relates to the whole history of mankind's philosophy
 7. Platos' dialogue mockery
+- And the disbelief over american philosophy on present times (or any time really)
 
 # Basics
 
@@ -24,7 +26,7 @@ publishDate: 2025-03-01
 
 https://www.youtube.com/watch?v=yPgANelYih0&ab_channel=CalebSmith
 
-## What This Book Is about
+## What This Book is about
 - *"I think that if there is a sort of sadness for people under 45, it has something to do with pleasure, achievement, and entertainment."*
 - This book is about everything and nothing. It asks the question, "Why?" Why do we consume endless entertainment? Why do we engage in behaviors that harm us? And what makes this distinctly American?
 - It critiques how technology increasingly makes it easier and more pleasurable to consume media, often at the expense of meaningful human connection.
@@ -38,67 +40,6 @@ https://www.youtube.com/watch?v=yPgANelYih0&ab_channel=CalebSmith
 
 ### Infinity
 - The concept of infinity is explored both mathematically and emotionally. While mathematically infinite numbers dwarf any conceivable quantity, Wallace's hyperrealistic approach makes the reader feel the infinite complexity of the world. The book conveys a sense of boundless information and experience.
-
-# Infinite Jest – Key Characters
-
-## Incandenza Family
-
-- **Hal Incandenza**  
-  Prodigy tennis player and linguistic genius at Enfield Tennis Academy (ETA). Struggles with internal emptiness and substance use.
-
-- **James O. Incandenza (JOI)**  
-  Hal’s late father. Filmmaker, optics expert, and founder of ETA. Creator of the deadly entertainment cartridge "Infinite Jest."
-
-- **Avril Incandenza**  
-  Hal’s intense and possibly unhinged mother. Head administrator at ETA. Known for her rigid propriety and strange relationships.
-
-- **Mario Incandenza**  
-  Hal’s physically disabled but emotionally perceptive older brother. A gentle soul and amateur filmmaker.
-
-- **Orin Incandenza**  
-  Hal’s oldest brother, a former ETA tennis star turned professional punter in the NFL. Escapes into womanizing and paranoia.
-
-## Enfield Tennis Academy (ETA)
-
-- **Don Gately**  
-  Former burglar and recovering addict who works at Ennet House. One of the novel’s moral centers.
-
-- **Michael Pemulis**  
-  Hal’s close friend. Brilliant in math and recreational chemistry. Often deals in drugs on the side.
-
-- **John Wayne**  
-  Canadian tennis prodigy at ETA. Mysterious, emotionally distant, and possibly involved with Avril.
-
-- **Joelle Van Dyne (aka Madame Psychosis)**  
-  Former lover of JOI. Beautiful, veiled woman who may be the star of "Infinite Jest." Struggles with addiction and self-image.
-
-- **Lyle**  
-  A sweat-drinking spiritual advisor who resides in the weight room at ETA.
-
-## Ennet House Recovery Center
-
-- **Pat Montesian**  
-  Director of Ennet House, deeply committed to helping addicts recover.
-
-- **Kate Gompert**  
-  A depressed marijuana addict who speaks candidly about suicidal ideation.
-
-- **Tiny Ewell**  
-  Wheelchair-bound resident of Ennet House; sarcastic and observant.
-
-- **Randy Lenz**  
-  Psychotic Ennet House resident with violent tendencies toward animals.
-
-## Political Groups & Others
-
-- **Remy Marathe**  
-  Member of Les Assassins des Fauteuils Rollents (The Wheelchair Assassins), a Québécois separatist group. Torn between duty and loyalty.
-
-- **M. Fortier**  
-  Leader of the A.F.R. (Wheelchair Assassins), obsessed with locating the master copy of "Infinite Jest."
-
-- **Hugh Steeply (aka Helen Steeply)**  
-  U.S. intelligence operative working undercover as a woman. Tracks the distribution of the lethal film.
 
 ## The Entertainment
 
@@ -187,7 +128,7 @@ The humor in *Infinite Jest* primarily revolves around exposing the absurdities 
 - "Then in such a case your temple is self sentiment. THen in such an instance you are fanatico of desire, a slave to your individual sentiment"
 
 ## Illusion of freedom
-- "Marathe estava disposto a que a sua voz não se elevasse. 'Pois esta escolha determina todo o resto. Não? Todas as outras escolhas que vocês dizem que são livres decorrem disto: qual é o nosso templo. Qual é o templo, portanto, para os EUA? O que acontece, quando você teme ter que protegê-los de si mesmos, se os perversos quebequenses conspiram para trazer o entretenimento para seus lares acolhedores?'"
+- "Marathe estava disposto a que a sua voz não se elevasse. 'Pois esta escolha determina todo o resto. Não? Todas as outras escolhas que vocês dizem que são livres decorrem disto: qual é o nosso templo. Qual é o templo, portanto, para os EUA? O que acontece, quando você teme ter que protegê-los de si mesmos, se os perversos quebequenses conspiram para trazer o entretenimento para seus lares acolhedores?"
 - If large corporations or society dictate what we worship, can we truly claim to be free?
 
 ## Genealogy of American Values
@@ -203,69 +144,62 @@ almost the classic, how do you say, uti-litaire.
 
 ## Philsophical value of the Entertainement
 - It's kind of a thought experiment, kinda of similar to the experience machine from Robert Nozick.
-- 'Are you understanding? I am asking between only us.
+- "Are you understanding? I am asking between only us.
 How could it be that A.F.R. malice could hurt all of the U.S.A. culture by making available something as momentary and free as
 the choice to view only this one Entertainment? You know there can be no forcing to watch a thing. If we disseminate the
-samizdat, the choice will be free, no? Free from force, no? Yes? Freely chosen?’
-
-# Psychology
-
-"Que "aceitaccao" normalmente eh mais questao de fadiga que de qualquer outra coisa."
-
-"Que transar com alguem com quem voce nao se importa te deixa depois mais sozinho do que nao ter transado"
-
+samizdat, the choice will be free, no? Free from force, no? Yes? Freely chosen?"
 
 # Addiction
 
 <img src ="image-4.png" width=300/>
 
 ## What is addiction?
-- David Foster Wallace broadens the definition of addiction, framing it as anything one relies on to make time pass.
+- David Foster Wallace (DFW) broadens the definition of addiction, framing it as anything one relies on to make time pass.
 
 ## What is the key problem of us at a society of handling addiction
-- A maneira como ela balançou a cabeça de repente foi veemente, exasperada. 'O sentimento é o motivo 
+- "A maneira como ela balançou a cabeça de repente foi veemente, exasperada. 'O sentimento é o motivo 
 pelo qual eu quero. O sentimento é a razão pela qual quero morrer. Estou aqui porque quero morrer. Por 
 isso estou num quarto sem janelas e com gaiolas sobre as lâmpadas e sem fechadura na porta do 
-banheiro. Por que levaram meus cadarços e meu cinto. Mas noto que eles não tiram o sentimento, não é?
+banheiro. Por que levaram meus cadarços e meu cinto. Mas noto que eles não tiram o sentimento, não é?"
 
 ## What people do in a society of overstimulation
 - Kate is now the third character in the book with a serious marijuana addiction, which is strange considering that (as Kate herself points out) marijuana is not considered to be a highly addictive or debilitating drug. The fact that so many characters are addicted to weed suggests that something about the world of the novel compels people to seek out a calming, numbing effect more than a stimulating one.
 
 ## The control of the addiction over us
-- (Joel is in a party bathroom using drugs) Chega de apertar o coração toda noite. O que parece ser a saída da jaula é na verdade as barras da jaula. As malhas do entardecer. A entrada diz SAÍDA. Não há saída. A fusão anular final: entre animal exibido e jaula. O próprio Jaula III: Espetáculo gratuito. Foi a jaula que entrou nela, de alguma maneira. A engenhosidade da coisa toda está além da compreensão dela. A Diversão faz tempo abandonou o Demais. Ela perdeu a capacidade de mentir a si própria sobre a sua capacidade de parar ou até de gostar daquilo, ainda. Ela não delimita e preenche o buraco mais. Ela não delimita mais o buraco. Há um certo cheiro que têm os véus molhados de chuva. Alguma coisa de um telefonema e da lua, dizendo que a lua nunca virava a cara. Em revolução mas ainda assim não. Ela tinha saído correndo no último T da noite e ido para casa e pelo menos finalmente não tinha desviado o rosto da situação, da questão de que ela não amava mais aquilo, mas odiava e queria parar e também não conseguia parar ou imaginar parar ou viver sem aquilo. Ela tinha de certa forma feito como tinham feito o Jim fazer perto do fim e admitido a sua impotência diante dessa jaula, desse espetáculo ingratuito, chorando, literalmente apertando o coração, fumando primeiro os restos de esponja de aço que tinha usado para prender os vapores e formar uma resina fumável, depois pedacinhos de carpete e a calcinha de acetato com que tinha filtrado a solução horas antes, chorando, desvelada e descabelada, como um palhaço grotesco, em todos os quatro espelhos das paredes do seu quartinho.
-- (Joel is in a party bathroom using drugs) Foi quando as mãos dela começaram a tremer durante essa parte do procedimento de preparo que ela percebeu pela primeira vez que gostava disso mais do que alguém pode gostar de alguma coisa e ainda continuar vivo. Ela não é boba
+- (Joel is in a party bathroom using drugs) "Chega de apertar o coração toda noite. O que parece ser a saída da jaula é na verdade as barras da jaula. As malhas do entardecer. A entrada diz SAÍDA. Não há saída. A fusão anular final: entre animal exibido e jaula. O próprio Jaula III: Espetáculo gratuito. Foi a jaula que entrou nela, de alguma maneira. A engenhosidade da coisa toda está além da compreensão dela. A Diversão faz tempo abandonou o Demais. Ela perdeu a capacidade de mentir a si própria sobre a sua capacidade de parar ou até de gostar daquilo, ainda. Ela não delimita e preenche o buraco mais. Ela não delimita mais o buraco. Há um certo cheiro que têm os véus molhados de chuva. Alguma coisa de um telefonema e da lua, dizendo que a lua nunca virava a cara. Em revolução mas ainda assim não. Ela tinha saído correndo no último T da noite e ido para casa e pelo menos finalmente não tinha desviado o rosto da situação, da questão de que ela não amava mais aquilo, mas odiava e queria parar e também não conseguia parar ou imaginar parar ou viver sem aquilo. Ela tinha de certa forma feito como tinham feito o Jim fazer perto do fim e admitido a sua impotência diante dessa jaula, desse espetáculo ingratuito, chorando, literalmente apertando o coração, fumando primeiro os restos de esponja de aço que tinha usado para prender os vapores e formar uma resina fumável, depois pedacinhos de carpete e a calcinha de acetato com que tinha filtrado a solução horas antes, chorando, desvelada e descabelada, como um palhaço grotesco, em todos os quatro espelhos das paredes do seu quartinho.
+- (Joel is in a party bathroom using drugs) Foi quando as mãos dela começaram a tremer durante essa parte do procedimento de preparo que ela percebeu pela primeira vez que gostava disso mais do que alguém pode gostar de alguma coisa e ainda continuar vivo. Ela não é boba"
 - Chapter 44 the story of the girl that would carry the dead infant around, those scenes are pretty wild
-- Ela pega a vareta negra de arame do cabide e
+- "Ela pega a vareta negra de arame do cabide e
 começa a mexer e amassar o conteúdo recém-borbulhado do tubo, sentindo ele se espessar
 rapidamente e crescer sua resistência aos minúsculos círculos do arame. Foi quando as mãos
 dela começaram a tremer durante essa parte do procedimento de preparo que ela percebeu
 pela primeira vez que gostava disso mais do que alguém pode gostar de alguma coisa e ainda
-continuar vivo. Ela não é boba.
-- aí mais Perdas, com a Substância parecendo ser o único consolo para a dor das Perdas
+continuar vivo. Ela não é boba."
+- "aí mais Perdas, com a Substância parecendo ser o único consolo para a dor das Perdas
 que se acumulam, e claro que você fecha os olhos para o fato de que é a Substância que está
-causando essas mesmas Perdas de que ela te consola
+causando essas mesmas Perdas de que ela te consola"
 - “Quando eu estava bêbado eu queria ficar sóbrio e quando eu estava sóbrio eu queria ficar
 bêbado”, John L. diz; “Eu vivi desse jeito durante anos, e eu digo a vocês que isso não é vida,
 isso é uma porra de uma morte-em-vida.”
-- aí ultimatos vocacionais, inempregabilidade, ruína financeira, pancreatite, uma culpa
+- "aí ultimatos vocacionais, inempregabilidade, ruína financeira, pancreatite, uma culpa
 atordoante, vômito com sangue, neuralgia cirrótica, incontinência, neuropatia, nefrite,
 depressões profundas, uma dor lacerante, com a Substância concedendo períodos cada vez
-menores de alívio;
-- aí você está ferrado, bem ferrado, e sabe, finalmente, totalmente ferrado, porque essa
+menores de alívio;"
+- "aí você está ferrado, bem ferrado, e sabe, finalmente, totalmente ferrado, porque essa
 Substância que você achava que era o seu único amigo, pela qual você desistiu de tudo, feliz,
 que por tanto tempo te propiciou um alívio da dor das Perdas que o seu amor por esse alívio
 causou, a sua mãe, a sua amante e o seu deus e camarada, finalmente retirou sua máscara de
 smiley pra revelar olhos sem centro e uma bocona faminta, e caninos até aqui ó, é o Rosto no
 Chão, a sorridente face lívida dos seus piores pesadelos, e o rosto é o seu próprio rosto no
 espelho, agora, é você, a Substância devorou ou substituiu e virou você, e a camiseta
-encrustada de vômito, baba e Substância
+encrustada de vômito, baba e Substância"
 
 ## Rehab
 
 What do you need in rehab
-- Pat told Gately that grim
+- "Pat told Gately that grim
 honesty and hopelessness were the only things you need to start recovering from Substance-addiction, but that without these
-qualities you were totally up the creek. Desperation helped also, she said.
+qualities you were totally up the creek. Desperation helped also, she said."
 
 ## God
 - "His sole experience so far is that he takes
@@ -287,8 +221,8 @@ He wasn't Grateful so much as kind of suspicious about it, the Removal. How coul
 believe in magically let him out of the cage when Gately had been a total hypocrite in even asking something he didn't believe in
 to let him out of a cage he had like zero hope of ever being let out of? When he could only get himself on his knees for the prayers
 in the first place by pretending to look for his shoes? He couldn't for the goddamn life of him understand how this thing worked,
-this thing that was working. It drove him bats.
-- That was months ago. Gately usually no longer much cares whether he understands or not. He does the knee-and-ceiling thing
+this thing that was working. It drove him bats."
+- "That was months ago. Gately usually no longer much cares whether he understands or not. He does the knee-and-ceiling thing
 twice a day, and cleans shit, and listens to dreams, and stays Active, and tells the truth to the Ennet House residents, and tries to
 help a couple of them if they approach him wanting help. And when Ferocious Francis G. and the White Flaggers presented him,
 on the September Sunday that marked his first year sober, with a faultlessly baked and heavily frosted one-candle cake, Don
@@ -302,7 +236,7 @@ Gately had cried in front of nonrelatives for"
 ## Tennis as a metaphor for life in capitalism
 - It seems that the kids in E.T.A are actually rich, because apparently someone mentioned except Pemus and Wayne, the other kids can be sent to any college. If that's the case why are they doing this?
 - - Which is a metaphor why people keep climbing the ladder
-- The choice of tennis as a central theme is insightful, as it mirrors the isolating effects of capitalism. It individualizes people, placing them in separate competitions where they must face opponents they neither know nor wish to confront. This metaphor highlights how modern systems often prioritize individual success over collective connection.
+- [MYTAKE] The choice of tennis as a central theme is insightful, as it mirrors the isolating effects of capitalism. It individualizes people, placing them in separate competitions where they must face opponents they neither know nor wish to confront. This metaphor highlights how modern systems often prioritize individual success over collective connection.
 
 ## Success as a need
 - This is exagerated through Clipperton
@@ -333,7 +267,7 @@ student athletes"
 ## Competition
 
 Capitalism and competition
-- One striking aspect of this book is its portrayal of the immense suffering and emotional toll embedded in the pursuit of excellence within capitalist entertainment. For someone like Federer to emerge, countless young tennis players undergo grueling training, with only a rare few achieving greatness. It’s akin to squeezing 10,000 oranges to extract a single drop of exceptional talent, discarding all the rest in the process.
+- [MYTAKE] One striking aspect of this book is its portrayal of the immense suffering and emotional toll embedded in the pursuit of excellence within capitalist entertainment. For someone like Federer to emerge, countless young tennis players undergo grueling training, with only a rare few achieving greatness. It’s akin to squeezing 10,000 oranges to extract a single drop of exceptional talent, discarding all the rest in the process.
 
 ## Potential
 
@@ -344,12 +278,12 @@ Capitalism and competition
 
 
 ### Failure
-- It is very emblematic and epic, that the moment where Jim's cold grand father sad "Eh, mas ele nunca vai ser grande" is the exact moment where he fails because he tropecou on something, as Jim's father sad: "Num minuto eu estava numa desbalada e linda carreira rumo a bola, no minuto segunite havia maos nas minhas costas e nada embaixo dos pes como um empurrao numa escadaria"
+- [MYTAKE] It is very emblematic and epic, that the moment where Jim's cold grand father sad "Eh, mas ele nunca vai ser grande" is the exact moment where he fails because he tropecou on something, as Jim's father sad: "Num minuto eu estava numa desbalada e linda carreira rumo a bola, no minuto segunite havia maos nas minhas costas e nada embaixo dos pes como um empurrao numa escadaria"
 
 # American Culture
 
 ## Loneliness
-- The choice of tennis as the central sport is particularly insightful, as it mirrors the competitive nature of modern life—a relentless race where individuals strive to accumulate capital. In this isolating pursuit, the only semblance of community arises from shared struggles, such as skyrocketing rent prices, healthcare costs, and other systemic challenges. While the book hints at the possibility that these shared problems are intentionally designed to foster a sense of connection, I remain skeptical of such a deliberate orchestration.
+- [MYTAKE] The choice of tennis as the central sport is particularly insightful, as it mirrors the competitive nature of modern life—a relentless race where individuals strive to accumulate capital. In this isolating pursuit, the only semblance of community arises from shared struggles, such as skyrocketing rent prices, healthcare costs, and other systemic challenges. While the book hints at the possibility that these shared problems are intentionally designed to foster a sense of connection, I remain skeptical of such a deliberate orchestration.
 
 ## Ad Campaign
 - "The NoCoat campaign had three major consequences. The first was that horrible year Hal vaguely recalls when a nation
@@ -358,7 +292,7 @@ emergency backup tongue-scraper than they'd fail to wash and brush and spray. Th
 restrooms were such grim places to be."
 
 ## American Culture
-- Did not both Irag and Iran call U.S.A the Very Large Satan
+- Did not both Iraq and Iran call U.S.A the Very Large Satan
 - "Marathe fazia pequenos círculos enfáticos e cortes no ar enquanto falava: “Esses fatos da
 situação, que dizem com tanta clareza o medo do seu Bureau desse samizdat: agora é o que
 aconteceu quando um povo não escolhe nada mais para amar além de si próprio, cada um. Um
@@ -382,7 +316,7 @@ riscos da liberdade.”
 ## Politics
 
 Prediction of global need for anti establishment
-- Johnny Gentle's campaign positions him as an outsider, rejecting traditional left or right political alignments. He claims that the real issue lies with the current political establishment and promises to bring entirely unconventional solutions. Interestingly, Johnny Gentle is a television personality, drawing parallels to figures like Donald Trump.
+- "Johnny Gentle's campaign positions him as an outsider, rejecting traditional left or right political alignments. He claims that the real issue lies with the current political establishment and promises to bring entirely unconventional solutions. Interestingly, Johnny Gentle is a television personality, drawing parallels to figures like Donald Trump."
 
 # Statistics
 
