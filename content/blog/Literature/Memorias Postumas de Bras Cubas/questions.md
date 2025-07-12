@@ -1,1 +1,0 @@
-O que signifcaria a morte da mae?
