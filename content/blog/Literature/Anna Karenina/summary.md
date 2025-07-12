@@ -5,6 +5,8 @@ description: The best novel
 types: Literature
 ---
 
+![alt text](image-9.png)
+
 # When people ask me about it
 
 

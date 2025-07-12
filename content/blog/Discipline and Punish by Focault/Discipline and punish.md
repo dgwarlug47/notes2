@@ -3,6 +3,7 @@ title: Discipline and Punish by Foucault
 order: 3
 description: KKKKKKKKKKKKKKKK
 types: Philosophy
+publishDate: 2025-03-02
 ---
 
 ![alt text](image.png)

@@ -3,6 +3,7 @@ title: Upper East Side
 order: 3
 description: My favourite place on Earth
 types: Urban Geography
+publishDate: 2025-03-02
 ---
 
 ![alt text](image-9.png)

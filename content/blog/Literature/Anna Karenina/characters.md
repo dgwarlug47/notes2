@@ -3,6 +3,7 @@ title: Anna Karenina characters
 order: 2
 description: The best Dr. Jekyll and Mr. Hyde of Literature
 types: Literature
+publishDate: 2025-05-26
 ---
 
 ![alt text](image.png)

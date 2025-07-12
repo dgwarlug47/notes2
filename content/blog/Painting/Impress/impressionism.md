@@ -3,6 +3,7 @@ title: Impressionism
 order: 5
 description: Amazing
 types: Painting
+publishDate: 2025-03-08
 ---
 
 Impressionists were pioneers of modern art

@@ -3,6 +3,7 @@ title: Art Deco
 order: 4
 description: Life is good
 types: Special
+publishDate: 2025-03-02
 ---
 
 # When people ask me about it
