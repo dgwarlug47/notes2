@@ -3,6 +3,7 @@ title: Fall of the Roman Republic
 order: 6
 description: JC is so amazing
 types: Social Sciences
+publishDate: 2025-05-01
 ---
 
 # Alea jacta est

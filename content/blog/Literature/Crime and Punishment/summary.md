@@ -3,22 +3,20 @@ title: Crime and Punishment
 order: 2
 description: My favourite book
 types: Literature
+publishDate: 2025-03-01
 ---
 
 ![alt text](image.png)
 
-# When people ask me about it
+# Memory Trigger
 
-## Crime and Punishment
-
-### What is a Crime?
+## What is a Crime? [Philosophy]
 - The concept of crime is explored through the lens of modern relativism.
 - Raskolnikov's victim, the old pawnbroker, is portrayed as an annoying and unpleasant person. This raises the question: is it truly so bad that he killed her? Does her character justify the act in any way?
 - The philosophical undertone of the book delves into the moral ambiguity of crime, questioning whether morality is absolute or subjective.
 
-### What is a Punishment?
+## What is a Punishment? [Psychology]
 - Punishment is intricately tied to the definition of crime. The novel suggests that if you are suffering from punishment, then you have likely committed a crime, whether by societal standards or your own conscience.
-- Raskolnikov's internal turmoil reflects classic philosophical debates on crime and punishment. His guilt and psychological suffering serve as a form of self-imposed punishment, even before external consequences are enforced.
 - The psychological depth of the book reveals how punishment manifests internally, regardless of external judgment or societal norms.
 - The novel intertwines philosophical and psychological perspectives, making the reader question the true nature of justice and retribution.
 
@@ -135,7 +133,7 @@ something related to his own dignity he won't lie even if that
 makes obvious that he is the killer, for example when the 
 investigator asked whether he was extraordinary or not and he
 said yes
-- [MYTAKE] for me his excess of rationalism is what destroyed his life. KKKKKKKKK just like the rest of us.
+- [MYTAKE] for me his excess of rationalism is what destroyed his life. KKKKKKKKK just like me for example.
 - The motivation of the student revo lutionary is quite evident.
 Raskolnikov killed an old lady in ineffectual fury, to protest the
 condition of the insulted and the injured. He killed the old woman to
