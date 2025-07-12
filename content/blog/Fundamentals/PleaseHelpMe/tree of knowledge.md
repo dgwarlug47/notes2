@@ -1,10 +1,9 @@
 ---
-
 title: Dasein areas
 order: 1  
 description: Axioms
 types: Special
-
+publishDate: 2025-04-05
 ---
 
 ## Art

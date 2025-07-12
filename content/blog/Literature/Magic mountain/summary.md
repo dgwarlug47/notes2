@@ -4,7 +4,7 @@ title: The Magic Mountain
 order: 2  
 description: The book I want to read the most  
 types: Literature
-
+publishDate: 2025-05-02
 ---
 
 ![Cover of The Magic Mountain](image-1.png)

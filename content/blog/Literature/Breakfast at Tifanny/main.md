@@ -3,6 +3,7 @@ title: Breakfast at Tiffany's
 order: 2
 description: I remember the DVD cover from my Mom
 types: Literature
+publishDate: 2025-03-12
 ---
 
 ![alt text](image.png)

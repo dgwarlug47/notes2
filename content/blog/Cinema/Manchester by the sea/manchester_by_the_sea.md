@@ -3,6 +3,7 @@ title: 'Manchester by the Sea'
 order: 4
 description: Oh my god
 types: Cinema
+publishDate: 2025-03-02
 ---
 
 ![alt text](image.png)

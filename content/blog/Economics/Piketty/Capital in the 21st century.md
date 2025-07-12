@@ -1,8 +1,9 @@
 ---
-title: Capitla in the 21st in the century
+title: Capital in the 21st in the century
 order: 4
 description: KKKKKKKKKKKKKKKK
 type: Social Sciences
+publishDate: 2025-03-02
 ---
 
 # r > g

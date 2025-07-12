@@ -1,9 +1,9 @@
 ---
-
 title: Fauvism
 order: 5
 description: Very nice as well
 types: Painting
+publishDate: 2025-03-15
 ---
 
 # History

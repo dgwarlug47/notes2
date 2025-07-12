@@ -3,6 +3,7 @@ title: Liquid Modernity
 order: 6
 description: Exploring the concept of liquid modernity and its implications on society.
 types: Social Sciences
+publishDate: 2025-04-02
 ---
 
 ![alt text](image.png)

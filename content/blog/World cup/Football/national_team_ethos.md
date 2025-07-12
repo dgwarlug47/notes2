@@ -4,6 +4,7 @@ title: National Teams Ethos
 order: 3
 description: Love of my life
 types: Sports
+publishDate: 2025-04-12
 ---
 # When people ask me about it
 

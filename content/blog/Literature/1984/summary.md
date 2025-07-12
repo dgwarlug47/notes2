@@ -3,6 +3,7 @@ title: 1984
 order: 2
 description: KKKKKKKKKKKKKKKKKKKKK
 types: Literature
+publishDate: 2025-04-04
 ---
 
 ![alt text](image.png)

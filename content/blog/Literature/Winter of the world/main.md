@@ -3,6 +3,7 @@ title: Winter of the world
 order: 2
 description: A long lasting passion
 types: Literature
+publishDate: 2025-04-04
 ---
 
 ![alt text](image.png)

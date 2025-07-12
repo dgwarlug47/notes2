@@ -3,6 +3,7 @@ title: Sickness unto death
 order: 3
 description: My favourite existentialist philosopher
 types: Philosophy
+publishDate: 2025-03-30
 ---
 
 ![alt text](image.png)

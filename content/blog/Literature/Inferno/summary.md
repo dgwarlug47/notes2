@@ -3,6 +3,7 @@ title: Inferno
 order: 2
 description: My favourite book of the middle ages
 types: Literature
+publishDate: 2025-03-18
 --- 
 
 # Memory Trigger

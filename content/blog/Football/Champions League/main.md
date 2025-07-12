@@ -1,9 +1,9 @@
 ---
-
 title: Champions League Ethos
 order: 3
 description: The best thing in april every year
 types: Sports
+publishDate: 2025-04-04
 ---
 
 | Club             | Ethos                                             | Dr. Jekyll (Ideal Self)                                 | Mr. Hyde (Dark Side)                                 |

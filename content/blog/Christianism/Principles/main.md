@@ -3,6 +3,7 @@ title: Religion Principles
 order: 1
 description: How one should live life
 types: Special
+publishDate: 2025-04-04
 ---
 
 

@@ -3,6 +3,7 @@ title: Handmaid's Tale
 order: 2
 description: Women, I feel sorry
 types: Literature
+publishDate: 2025-03-02
 ---
 
 ![alt text](image.png)

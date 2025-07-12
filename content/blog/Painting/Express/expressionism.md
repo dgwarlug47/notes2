@@ -3,6 +3,7 @@ title: Expressionism
 order: 5
 description: Very nice
 types: Painting
+publishDate: 2025-03-19
 ---
 
 # Charateristics

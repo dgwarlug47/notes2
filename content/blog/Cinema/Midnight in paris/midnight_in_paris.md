@@ -3,6 +3,7 @@ title: Midnight in Paris
 order: 4
 description: I love Woody Allen
 types: Cinema
+publishDate: 2025-03-02
 --- 
 
 ![alt text](image-1.png)
