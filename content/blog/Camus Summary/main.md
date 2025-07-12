@@ -3,9 +3,14 @@ title: Camus
 order: 3
 description: The one that got me into philosophy
 types: Philosophy
+publishDate: 2025-03-01
 ---
 
 ![alt text](image.png)
+
+# Memory Trigger
+
+1. The 3 options for the problem of suicide
 
 # Personal
 

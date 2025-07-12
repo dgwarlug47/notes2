@@ -3,10 +3,16 @@ title: Being and Time by Heidegger
 order: 3
 description: a true existentialist, he describes very well what it means to be a being
 types: Philosophy
+publishDate: 2025-05-02
 ---
 
 
 ![alt text](image-1.png)
+
+
+# Memory Trigger
+
+1. Even though the concepts he talks about are very old, such as the world. The phenomenological gives a completely different tone
 
 # Resources
 
