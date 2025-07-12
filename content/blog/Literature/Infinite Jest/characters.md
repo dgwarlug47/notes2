@@ -1,9 +1,17 @@
 ---
 title: Infinite Jest characters
 order: 2
-description: My favourite post modern contrast (Hal Incandenza vs Don Gately/ Rationalism vs Humanism)
+description: One of my favourite characters symmetries
 types: Literature
+publishDate: 2025-03-01
 ---
+
+# Memory Trigger
+
+1. Hal Incandenza as a metaphor for the end of enlightment
+2. Don Gately and Hal Incandenza symmetry 
+3. Emotional detatchment at the Incandenza family. For example the problems that James had interacting with this son, and his death
+4. James Incandenza and the unfulfilled genius
 
 # Family
 
@@ -29,7 +37,7 @@ Addiction
 Post modern philosophy
 - Can all knowlege be reduced to a formal language?, If that's true then a good candidate to achieve all knoweldge would be someone that has memorirzed all of the english dictionary
 - - Wittgenstein said "The limits of my language mean the limits of my world", therefore if you have full understanding of the limits of language you could in theory understand everything we could possibly understand the world
-- - The epistemology of the middle age is that something was true or not based on argument of authority, as humanity moved forward we passed through renassaince and englightment, and we started to shift our knowledge to be more grounded through reasoning, which in some ways are just more formal methods of establishing truth. If we keep moving forward in this direction, the end would be us creating a set of axioms about reality through language, and all of the questions about reality could be resolved through applying the rule of this language, basically we would do to reality what Betrand Russel did to Math.
+- - [MYTAKE] The epistemology of the middle age is that something was true or not based on argument of authority, as humanity moved forward we passed through renassaince and englightment, and we started to shift our knowledge to be more grounded through reasoning, which in some ways are just more formal methods of establishing truth. If we keep moving forward in this direction, the end would be us creating a set of axioms about reality through language, and all of the questions about reality could be resolved through applying the rule of this language, basically we would do to reality what Betrand Russel did to Math.
 - Even though he has a good score on all of the englightment values, he is lacking what makes us human, which deeply shows a big problem with modern society is the fact that rationality is distanting us from our own humanity
 - This dialogues with OK Computer because it's an album that takes a lot of western music and replaces humanity in their songs by rationality
 
@@ -43,7 +51,7 @@ Deficienty
 - Something similar to cerebral paralisy
 
 Commentary on society's  [Jean Jacques Rosseau]
-- It's interesting because the fact that he is deficient separates him from society, and that's why he is the less broken character in the book. Which is an allusion to Jean Jacques Rosseau idea that society corrupts men.
+- [MYTAKE] It's interesting because the fact that he is deficient separates him from society, and that's why he is the less broken character in the book. Which is an allusion to Jean Jacques Rosseau idea that society corrupts men.
 
 Funny
 - It's very beautiful the interactions he has with Hal, specially how stupid he is, it's also funny, for example the scene where Hal is trying to sleep but Mario doesn't him do so (chapter 7)
@@ -58,7 +66,7 @@ ele fazia com alguma frequência, tivesse ou não levado um empurrãozinho do se
 As constantes quedas para a frente ajudam a explicar por que o nariz de Mario era
 severamente amassado e consequentemente se abria para os dois lados do rosto mas não se
 erguia do plano da face
-- It took the bradykinetic Mario all night and two bottles of Ajax Plus to clean the room with his tiny contractured arms and square feet; the 18's girls in the rooms on either side could hear him falling around in there and picking himself up, again and again; and the finally spotless room in question had been locked ever since
+- "It took the bradykinetic Mario all night and two bottles of Ajax Plus to clean the room with his tiny contractured arms and square feet; the 18's girls in the rooms on either side could hear him falling around in there and picking himself up, again and again; and the finally spotless room in question had been locked ever since"
 
 
 ## Orin
@@ -160,10 +168,10 @@ forthcoming.
 # Tennis
 
 ## Michael Pemulis
-- ele eh um cara muito casca grossa de Allston, MA uma regiao pobre de Massachussets de descendencia irlandesa
-- mas que o Schtit diz que ele eh o unico jgovm aqui agora que sabe verdadeiramente o que quer dizer ter punch no voleio. Isso mostra como ele sabe ser agressivo
-- Ele eh muito vivido, ja passou por maus bocdados na vida, alem de ser um traficante, por exemplo quando ele sempre olha para os dois lados antes de falar
-- ele eh durao, mas tem um sweetspot: o pró-reitor Aubrey deLint diz (publicamente) que ver M. Pemulis em treino v. ver M. Pemulis num jogo de verdade que represente alguma coisa é como conhecer uma menina por e-mail assim tipo por correspondência via e-mail-de-teclado e se apaixonar perdidamente por ela e aí por fim conhecê-la pessoalmente e descobrir que ela tem tipo só um seio enorme bem no meio do peito ou algo assim.
+- "ele eh um cara muito casca grossa de Allston, MA uma regiao pobre de Massachussets de descendencia irlandesa"
+- "mas que o Schtit diz que ele eh o unico jovem aqui agora que sabe verdadeiramente o que quer dizer ter punch no voleio. Isso mostra como ele sabe ser agressivo"
+- "Ele eh muito vivido, ja passou por maus bocdados na vida, alem de ser um traficante, por exemplo quando ele sempre olha para os dois lados antes de falar"
+- "ele eh durao, mas tem um sweetspot: o pró-reitor Aubrey deLint diz (publicamente) que ver M. Pemulis em treino v. ver M. Pemulis num jogo de verdade que represente alguma coisa é como conhecer uma menina por e-mail assim tipo por correspondência via e-mail-de-teclado e se apaixonar perdidamente por ela e aí por fim conhecê-la pessoalmente e descobrir que ela tem tipo só um seio enorme bem no meio do peito ou algo assim."
 
 ## Schtitt
 

@@ -6,6 +6,8 @@ types: Hard Sciences
 publishDate: 2025-03-01
 ---
 
+![alt text](image-79.png)
+
 # Memory Trigger
 
 1. Famous personality of each MBTI

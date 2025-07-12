@@ -3,41 +3,20 @@ title: Infinite Jest
 order: 2
 description: The book I love/hate the most
 types: Literature
+publishDate: 2025-03-01
 ---
 
 <img src ="image.png" width=300/>
 
-# When people ask me about it
+# Memory Trigger
 
-## Style
-
-### Postmodern Elements
-
-- **Satirical and Absurd Humor**: The book employs humor to critique contemporary society, often in an exaggerated and absurd manner.
-- **Hyperrealism**: Wallace provides an overwhelming amount of detail, creating a sense of immersion that borders on the surreal.
-- **Dense and Detailed Prose**: The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
-
-## Contemporary Themes
-
-### Melancholy
-- The book's melancholy is deeply postmodern, reflecting the existential struggles of its characters.
-
-### Loneliness
-- **Tennis as a Metaphor**: The sport symbolizes the isolating nature of modern life, where individuals compete in solitude.
-- **Kate Gompert**: A character whose struggles with depression and loneliness epitomize the book's exploration of isolation.
-
-### Addiction
-- Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies.
-
-## Literary Significance
-- Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
-- [MYTAKE] - "I like this book because, while *Crime and Punishment* excels in philosophical depth, *Infinite Jest* stands out for its innovative literary techniques."
-
-## Philosophy
-
-### Hedonism and Its Consequences
-- The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
-
+1. Dense and Detailed Prose: The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
+2. Loneliness: Tennis as a Metaphor, The sport symbolizes the isolating nature of modern life, where individuals compete in solitude.
+3. Addiction: Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies.
+4. Literary Significance: Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
+5. Hedonism and Its Consequences: The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
+6. I love how it relates to the whole history of mankind's philosophy
+7. Platos' dialogue mockery
 
 # Basics
 
