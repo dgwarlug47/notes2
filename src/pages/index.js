@@ -58,7 +58,7 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
         sort: [
-          { frontmatter: { publishDate: ASC } },
+          { frontmatter: { publishDate: DESC } },
           { frontmatter: { title: ASC } }
         ]
         filter: { frontmatter: { title: { ne: null } } } ) {

@@ -7,7 +7,7 @@ const Posts = ({ new_posts }) => {
     <ol style={{ listStyle: `none` }}>
       {new_posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug
-        const publishDate = post.frontmatter.publishDate
+        const publishDate = post.frontmatter.publishDate ? post.frontmatter.publishDate.substring(0, 10) : null
         const displayTitle = publishDate ? `${title} [${publishDate}]` : title
 
         return (
