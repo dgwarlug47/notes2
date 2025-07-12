@@ -1,9 +1,14 @@
 ---
-title: About an elementary question of the theory of diversity [Set Theory]
+title: About an elementary question of the theory of diversity
 order: 3
 types: Hard Sciences
+publishDate: 2025-03-09
 ----
 
+# Memory Trigger
+
+1. Larget Infinity
+2. Ordinal number concept
 
 # Cardinal numbers
 
@@ -21,7 +26,7 @@ Cardinal number
 Definition
 - Informally put, the axiom of choice says that given any collection of sets, each containing at least one element, it is possible to construct a new set by choosing one element from each set, even if the collection is infinite
 - Included in the Zermelo-Fraenkel axioms
-- With this axiomo we can prove the Banach Tarski paradox
+- With this axiom we can prove the Banach Tarski paradox
 - https://www.youtube.com/shorts/e28mB2DU_ZI
 
 

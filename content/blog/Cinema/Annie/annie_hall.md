@@ -3,6 +3,7 @@ title: Annie Hall
 order: 4
 description: My favorite movie
 types: Cinema
+publishDate: 2025-03-01
 ---
 
 ![alt text](image.png)
