@@ -4,6 +4,7 @@ order: 2
 description: My favourite book
 types: Literature
 publishDate: 2025-03-01
+highlights: true
 ---
 
 ![alt text](image.png)

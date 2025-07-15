@@ -4,6 +4,7 @@ order: 2
 description: The book I love/hate the most
 types: Literature
 publishDate: 2025-03-01
+highlights: true
 ---
 
 <img src ="image.png" width=300/>

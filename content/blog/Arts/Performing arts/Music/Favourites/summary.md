@@ -4,6 +4,7 @@ order: 3
 description: Gold spotify playlist
 types: Music
 publishDate: 2025-04-04
+highlights: true
 ---
 
 

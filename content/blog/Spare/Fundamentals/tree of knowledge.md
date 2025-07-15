@@ -1,9 +1,10 @@
 ---
-title: Dasein areas
+title: Knowledge
 order: 1  
 description: Axioms
 types: Special
 publishDate: 2025-04-05
+highlights: true
 ---
 
 ## Art

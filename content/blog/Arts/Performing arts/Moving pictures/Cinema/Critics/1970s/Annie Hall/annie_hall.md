@@ -4,6 +4,7 @@ order: 4
 description: My favorite movie
 types: Cinema
 publishDate: 2025-03-01
+highlights: true
 ---
 
 ![alt text](image.png)

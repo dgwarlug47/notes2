@@ -4,6 +4,7 @@ order: 5
 description: I love Magritte
 types: Painting
 publishDate: 2025-03-17
+highlights: true
 ---
 
 # History

@@ -4,6 +4,7 @@ order: 4
 Description: I love this movie
 types: Cinema
 publishDate: 2025-05-19
+highlights: true
 ---
 
 ![alt text](image-2.png)
