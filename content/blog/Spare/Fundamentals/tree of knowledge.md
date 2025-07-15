@@ -1,5 +1,5 @@
 ---
-title: Knowledge
+title: Tree of knowledge
 order: 1  
 description: Axioms
 types: Special
