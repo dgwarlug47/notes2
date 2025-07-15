@@ -54,7 +54,8 @@ relativeSourceFilePaths = [
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2000s/500 days of summer",
     "Humanities/Religion/Christianism/Principles",
     "Arts/Literature/Novels/Russia/(1878) Anna Karenina",
-    "Spare/Games/Sports/Football/Messi2"
+    "Spare/Games/Sports/Football/Messi2",
+    "Arts/Literature/Poetry/Mine"
 ]
 
 
