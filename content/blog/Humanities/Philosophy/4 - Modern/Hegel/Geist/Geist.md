@@ -3,10 +3,11 @@ title: Geist by Hegel
 order: 3
 description: My favourite backyardigans
 types: Philosophy
+publishDate: 2025-03-17
 highlights: true
 ---
 
-# When people ask me about it
+# Memory Trigger
 
 1. What is Geist
 2. What is Freedom

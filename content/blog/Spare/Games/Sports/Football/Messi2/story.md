@@ -7,6 +7,17 @@ publishDate: 2025-03-01
 highlights: true
 ---
 
+![alt text](image-89.png)
+
+# Memory trigger
+
+1. How he was able to conciliate aesthethics and results (very few people can do that in a competitive environment)
+2. Messiah starts with Messi, alongside all of the prophecy signs through out his career
+- The archetype of a son who struggles to surpass his father (Messi - Maradona)
+- How for a long time he suffered the drama of the unfulfilled prophecy
+4. He won a World Cup at 35 — highly improbable at that age
+5. He didn't give up after countless failures after the 2015 champions league win. Not only that but he was able to improve on his main behaviour weakness (lack of leadership and attitude to win the 2022 world cup)
+
 # Childhood
 
 <img src="image-56.png" alt="drawing" width="600"/>
@@ -868,12 +879,3 @@ David Beckham owns Inter Miami.
 - [Bruno Formiga After the World Cup](https://www.youtube.com/watch?v=TtQfaMBCI1o&t=1078s)
 
 ---
-
-# My Favorite Things About Messi
-
-1. The archetype of a genius.
-2. Shinji Ikari syndrome (reluctant hero).
-3. The archetype of a son who struggles to surpass his father.
-4. Argentinian fans are crazy (Boca Juniors fans are the third wildest, and Newell's Old Boys fans are the seventh).
-5. He became a leader and won a World Cup at 35 — highly improbable at that age.
-6. He lost countless titles with the Argentinian national team.

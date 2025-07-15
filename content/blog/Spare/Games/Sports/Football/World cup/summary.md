@@ -1,5 +1,4 @@
 ---
-
 title: World cup history
 order: 3
 description: The best thing every four years 
@@ -8,7 +7,7 @@ publishDate: 2025-04-05
 highlights: true
 ---
 
-# When people ask me about it
+# Memory Trigger
 
 I like to interpret the world cup in terms of:
 
