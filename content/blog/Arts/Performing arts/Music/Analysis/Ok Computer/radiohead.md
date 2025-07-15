@@ -1,7 +1,7 @@
 ---
 title: OK COMPUTER
 order: 3
-description: The best album of my favourite band (The Beatles don't count)
+description: One of my favourite albums
 types: Music
 ---
 
