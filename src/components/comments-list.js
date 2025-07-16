@@ -28,14 +28,33 @@ const data = useStaticQuery(graphql`
             //     "Value": "very good"
             // }]
   
+  const getCommentsFromNode = (nodeCommentsJson, postTitle) => {
+    return nodeCommentsJson
+      .filter(
+        (commentJson) => commentJson.post_name === postTitle
+      )
+      .map((commentJson) => commentJson.comments)[0];
+  };
+  
   const loadComments = () => {
     const allComments = data;
     // Filter comments for this specific post
-    const postComments = allComments.allContentfulComments.nodes[0].commentsJson
-    .filter(
-      (commentJson) => commentJson.post_name === postTitle
-    )
-    .map((commentJson) => commentJson.comments)[0];
+    var postComments = null;
+    try {
+      postComments = getCommentsFromNode(
+        allComments.allContentfulComments.nodes[0].commentsJson,
+        postTitle
+      );
+
+    } catch (error) {
+      console.error("Error loading comments:", error);
+      postComments = [];
+    }
+
+    postComments = getCommentsFromNode(
+      allComments.allContentfulComments.nodes[1].commentsJson,
+      postTitle
+    );
 
     setComments(postComments);
   };
