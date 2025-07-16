@@ -781,22 +781,22 @@ Paredes kicked the ball into the Dutch bench, causing a commotion.
 ### 3 - 3
 - Mbappé scored again, completing a hat-trick.
 - Bruno Formiga broke a wall in the studio when Mbappé equalized for the second time.
-- **[MY TAKE]** 😂 It can't get more Argentinian than this.
+- **[MYTAKE]** 😂 It can't get more Argentinian than this.
 
 ![alt text](image-82.png)
 
 ### Miracle Save
 - Emiliano Martínez made a miraculous save just before the game ended, sending it to penalties.
-- **[MY TAKE]** 😂 An unknown Aston Villa goalkeeper saving the GOAT's career.
+- **[MYTAKE]** 😂 An unknown Aston Villa goalkeeper saving the GOAT's career.
 
 ![alt text](image-83.png)
 
 ## Penalty Kicks
 - Emiliano Martínez saved a penalty.
 - "Puede ser hoy, Abu" ("It could be today, Grandpa") — Messi said this before Montiel's decisive penalty.
-- **[MY TAKE]** Montiel scored the title-winning penalty (ironically, he had conceded the penalty that led to Mbappé's 3-3 equalizer).
-- **[MY TAKE]** Montiel's tears perfectly represent years of waiting and expectation for this moment.
-- **[MY TAKE]** It's funny because, for most people, this game was just entertainment: "Oh, today is the World Cup final, let's watch for fun." But for me, this was literally what I had been waiting for my entire life. How many times had I daydreamed about this moment? I still can't believe it actually happened. After the 2018 World Cup, it seemed so unlikely. How did a struggling Argentinian team with a fading Messi manage to win the World Cup? If this isn't a miracle, I don't know what is.
+- **[MYTAKE]** Montiel scored the title-winning penalty (ironically, he had conceded the penalty that led to Mbappé's 3-3 equalizer).
+- **[MYTAKE]** Montiel's tears perfectly represent years of waiting and expectation for this moment.
+- **[MYTAKE]** It's funny because, for most people, this game was just entertainment: "Oh, today is the World Cup final, let's watch for fun." But for me, this was literally what I had been waiting for my entire life. How many times had I daydreamed about this moment? I still can't believe it actually happened. After the 2018 World Cup, it seemed so unlikely. How did a struggling Argentinian team with a fading Messi manage to win the World Cup? If this isn't a miracle, I don't know what is.
 
 ![Celebration Image](image-63.png)
 
