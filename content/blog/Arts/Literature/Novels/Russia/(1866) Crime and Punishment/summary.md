@@ -70,10 +70,10 @@ highlights: true
 Dostoevsky was part of the existentialist movement—a group of writers and philosophers who explored profound questions about the meaning of life, morality, and the existence of God. All of Dostoevsky's works revolve around these existential themes, with *Crime and Punishment* focusing particularly on morality. The novel examines the tension between rationality and morality, challenging readers to confront the complexities of human existence.
 
 ### Consequences of Nietzschean Philosophy
-*Crime and Punishment* was written during a time when Nietzsche's ideas were gaining prominence. The rejection of God, fueled by the Enlightenment and Darwinian morality, led to the rise of relativism—the belief that there is no absolute right or wrong, only subjective morality. Without an objective reference frame, such as God's nature, morality becomes a matter of personal preference. Dostoevsky critiques this relativism by illustrating its destructive consequences on the human soul.
+[MYTAKE] *Crime and Punishment* was written during a time when Nietzsche's ideas were gaining prominence. The rejection of God, fueled by the Enlightenment and Darwinian morality, led to the rise of relativism—the belief that there is no absolute right or wrong, only subjective morality. Without an objective reference frame, such as God's nature, morality becomes a matter of personal preference. Dostoevsky critiques this relativism by illustrating its destructive consequences on the human soul.
 
 ### Philosophical Archetypes in the Characters
-Each major character in *Crime and Punishment* embodies a distinct philosophical perspective:
+[MYTAKE] Each major character in *Crime and Punishment* embodies a distinct philosophical perspective:
 - **Sonya**: Represents Christianity, embodying unconditional love, forgiveness, and moral objectivism.
 - **Svidrigailov**: Represents hedonism, living a life driven by pleasure and self-will, yet haunted by guilt and despair.
 - **Luzhin**: Represents the *Übermensch* theory, believing in self-interest and superiority over others.
@@ -84,8 +84,6 @@ Each major character in *Crime and Punishment* embodies a distinct philosophical
 
 ## Morality
 
-## Morality
-
 ### What is Morality?
 - Did Raskolnikov truly commit a crime? Why would his actions be considered a crime? The novel challenges readers to reflect on the nature of morality and justice.
 - Are poor people more amoral than the rich? Dostoevsky explores how poverty and desperation can blur moral boundaries, forcing individuals into situations where survival takes precedence over ethical considerations.
@@ -93,10 +91,10 @@ Each major character in *Crime and Punishment* embodies a distinct philosophical
 ### The Übermensch Theory
 - The theory suggests that the world is divided between ordinary people and extraordinary people, with the extraordinary ones being entitled to commit crimes if it serves a higher purpose.
 - Raskolnikov's belief in this theory drives his actions, as he seeks to prove whether he is extraordinary by stepping over moral boundaries. This internal conflict mirrors the struggles of individuals who grapple with their own sense of purpose and identity.
-- Personally, I once resonated with this theory, especially during university when I resisted the idea of becoming a software engineer. Perhaps I was more ordinary than extraordinary, contrary to what I had initially believed.
+- [MYTAKE] Personally, I once resonated with this theory, especially during university when I resisted the idea of becoming a software engineer. Perhaps I was more ordinary than extraordinary, contrary to what I had initially believed.
 
 ### Consequences of Rejecting Christian Morality
-- Dostoevsky illustrates that the desire to assert oneself above morality ultimately destroys the soul. Whether you are a psychopath like Svidrigailov or a seemingly normal person like Raskolnikov, rejecting moral absolutes leads to despair and self-destruction.
+- [MYTAKE] Dostoevsky illustrates that the desire to assert oneself above morality ultimately destroys the soul. Whether you are a psychopath like Svidrigailov or a seemingly normal person like Raskolnikov, rejecting moral absolutes leads to despair and self-destruction.
 - The novel critiques the dangers of abandoning Christian values, emphasizing that morality rooted in faith provides a foundation for inner peace and redemption.
 - Through Raskolnikov's journey, Dostoevsky warns against the hubris of attempting to transcend morality, showing that such attempts result in psychological and spiritual ruin.
 - This theme underscores the importance of humility and the acceptance of moral absolutes as a path to healing and reconciliation.
@@ -105,7 +103,7 @@ Each major character in *Crime and Punishment* embodies a distinct philosophical
 
 ## Punishment
 
-- One of the aspects that makes *Crime and Punishment* a masterpiece is Dostoevsky's realistic portrayal of Raskolnikov's behavior after the murder. His actions align closely with the psychological tendencies of the average murderer, as later psychoanalytic studies have shown.
+- [MYTAKE] One of the aspects that makes *Crime and Punishment* a masterpiece is Dostoevsky's realistic portrayal of Raskolnikov's behavior after the murder. His actions align closely with the psychological tendencies of the average murderer, as later psychoanalytic studies have shown.
 - Raskolnikov's neurotic tendencies lead to overwhelming feelings of guilt that cannot be eradicated. These feelings explain his subconscious desire for punishment even before he commits the crime. He engages in self-sabotaging behavior, almost as if he wants to be caught, because he believes suffering will alleviate his guilt.
 - This guilt and subsequent yearning for punishment become so overpowering that they drive him to commit the murder in the first place.
 - His mental and physical health deteriorates rapidly after the crime, manifesting in severe illness and psychological torment.
@@ -113,11 +111,11 @@ Each major character in *Crime and Punishment* embodies a distinct philosophical
 ## Healing
 
 ### Part 1: Confronting the Problem
-- A key theme in *Crime and Punishment* is the danger of internalizing one's struggles. Raskolnikov, due to his arrogance and mistrust of others, isolates himself and keeps everything bottled up. He constructs a single, obsessive narrative in his mind, which perpetuates his misery and psychological turmoil.
-- It is only when he confesses to Sonya that he begins to confront the things that have been haunting him. This act of opening up marks the first step toward his healing, as it allows him to break free from the prison of his own thoughts.
+- [MYTAKE] A key theme in *Crime and Punishment* is the danger of internalizing one's struggles. Raskolnikov, due to his arrogance and mistrust of others, isolates himself and keeps everything bottled up. He constructs a single, obsessive narrative in his mind, which perpetuates his misery and psychological turmoil.
+- [MYTAKE] It is only when he confesses to Sonya that he begins to confront the things that have been haunting him. This act of opening up marks the first step toward his healing, as it allows him to break free from the prison of his own thoughts.
 
 ### Part 2: The Power of Love
-- Raskolnikov's ultimate redemption comes through the unconditional love of Sonya. Even after being sentenced to Siberia, he initially views his crime as merely a mistake, continuing to rationalize his actions. This rational mindset prevents him from fully confronting the moral and spiritual implications of his deeds.
+- [MYTAKE] Raskolnikov's ultimate redemption comes through the unconditional love of Sonya. Even after being sentenced to Siberia, he initially views his crime as merely a mistake, continuing to rationalize his actions. This rational mindset prevents him from fully confronting the moral and spiritual implications of his deeds.
 - It is only when he allows himself to embrace Sonya's love that he begins to heal. Her unwavering compassion helps him let go of his obsessive rationality and accept his humanity. Through her love, he finds the strength to forgive himself and move toward redemption.
 - Dostoevsky uses this transformation to highlight the redemptive power of love and the importance of human connection in overcoming guilt and despair.
 
@@ -157,10 +155,10 @@ regardless of our own reasoning
 - Epilogue
 about the reasoning and embrace on a new life
 - The growing guilt, to the point that he hides the stolen money and doesn't touch them at all, along with the urge to confess his crimes, are highly typical of criminals.
-- - this is very crazy because in fact he the trauma is so big of the murderer that he doesn't even want to take a look at the money
+- - [MYTAKE] this is very crazy because in fact he the trauma is so big of the murderer that he doesn't even want to take a look at the money
 - Why did he kill her?
 - - he became Sulky, he says that when he is explaning to Sonya
-- - Then I saw, Sonia, that if one waits for 
+- - "Then I saw, Sonia, that if one waits for 
 everyone to get wiser it will take too long.... Afterwards I 
 understood that that would never come to pass, that men 
 won't change and that nobody can alter it and that it's not 
@@ -177,7 +175,7 @@ no longer cared whether she understood or not. The fever
 had complete hold of him; he was in a sort of gloomy 
 ecstasy (he certainly had been too long without talking to 
 anyone). Sonia felt that his gloomy creed had become his 
-faith and code.  
+faith and code.  "
 "I divined then, Sonia," he went on eagerly, "that power 
 is only vouchsafed to the man who dares to stoop and pick 
 it up. There is only one thing, one thing needful: one has 
@@ -232,7 +230,7 @@ Epitomization of christ
 ### Details
 
 Her name
-- It is fascinating that her name, "Razumihin," translates to "reason" or "intellect," yet she is not portrayed as particularly intelligent in the conventional sense. This contrast highlights an important theme: wisdom transcends mere intelligence. Her profound wisdom and emotional depth enable her to guide and ultimately redeem Raskolnikov. This serves as a reminder that true wisdom often lies in understanding, compassion, and the ability to inspire change in others.
+- [MYTAKE] It is fascinating that her name, "Razumihin," translates to "reason" or "intellect," yet she is not portrayed as particularly intelligent in the conventional sense. This contrast highlights an important theme: wisdom transcends mere intelligence. Her profound wisdom and emotional depth enable her to guide and ultimately redeem Raskolnikov. This serves as a reminder that true wisdom often lies in understanding, compassion, and the ability to inspire change in others.
 
 ## Marmeladov
 - Marmeladov is a very peculiar character. Despite being a drunkard, there are still remnants of the great man he once was, especially evident when he speaks. His eloquence and depth of thought shine through his intoxicated state, revealing a tragic complexity to his character.
@@ -242,28 +240,17 @@ Her name
 
 
 # Symmetries
-Perhaps all of thse symmetries in this book are somehow related to hegel
+[MYTAKE] Perhaps all of thse symmetries in this book are somehow related to hegel
 
-Raskolnikov, Sonya: choose to do crime, forced to do crime (prostitution)
-Raskolnikov, Sonya: moral relativist, moral objectivism
-Raskolnikov, Sonya: saved her (against Luzhin), saved him from himself
-Raskolnikov, Sonya: fully rational/modern, emotional/religious
-
-Raskolnikov, Razumihin: murderer, naive
-Raskolnikov, Razumihin: isolated, social
-Raskolnikov, Razumihin: lier, honesty
-
-(Svidrigailov, Dunia) (Raskolnikov, Dunia): impure, pure
-(Svidrigailov, Dunia) (Raskolnikov, Dunia): sex/blackmail, love
-
-# Resources
-
-https://www.reddit.com/r/dostoevsky/comments/uh70ib/finished_reading_crime_and_punishment_and_i_have/
-
-https://www.sparknotes.com/lit/crime/analysis/
-
-https://www.reddit.com/r/books/comments/uc9bg6/comment/i69wmjy/?utm_source=share&utm_medium=web2x&context=3
-
+Raskolnikov, Sonya: choose to do crime, forced to do crime (prostitution)   
+Raskolnikov, Sonya: moral relativist, moral objectivism.  
+Raskolnikov, Sonya: saved her (against Luzhin), saved him from himself.    
+Raskolnikov, Sonya: fully rational/modern, emotional/religious.  
+Raskolnikov, Razumihin: murderer, naive.  
+Raskolnikov, Razumihin: isolated, social.  
+Raskolnikov, Razumihin: lier, honesty.  
+(Svidrigailov, Dunia) (Raskolnikov, Dunia): impure, pure.  
+(Svidrigailov, Dunia) (Raskolnikov, Dunia): sex/blackmail, love   
 
 # Topics
 
