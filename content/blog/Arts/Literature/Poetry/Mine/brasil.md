@@ -6,6 +6,8 @@ types: Literature
 publishDate: 2025-07-04
 ---
 
+![alt text](image-1.png)
+
 Brazsil,  
 Filho de pais portugueses  
 E de um padrasto africano  
