@@ -3,6 +3,7 @@ title: OK COMPUTER
 order: 3
 description: One of my favourite albums
 types: Music
+publishDate: 2025-05-04
 ---
 
 ![alt text](image.png)
