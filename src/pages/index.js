@@ -7,15 +7,7 @@ import grandpaPic from "../images/grandpa.jpg"
 
 const StartingPage = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
 
-  if (posts.length === 0) {
-    return (
-      <Layout location={location} title={siteTitle}>
-        <p>No blog posts found.</p>
-      </Layout>
-    )
-  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -97,3 +89,35 @@ const StartingPage = ({ data, location }) => {
 export default StartingPage
 
 export const Head = () => <Seo title="Home" />
+
+export const pageQuery = graphql`
+  {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+    allMarkdownRemark(
+        sort: [
+          { frontmatter: { publishDate: DESC } },
+          { frontmatter: { title: ASC } }
+        ]
+        filter: { frontmatter: { title: { ne: null } } } ) {
+      nodes {
+        excerpt
+        fields {
+          slug
+        }
+        frontmatter {
+          date(formatString: "MMMM DD, YYYY")
+          title
+          description
+          types
+          publishDate
+          order
+          highlights
+        }
+      }
+    }
+  }
+`
