@@ -33,22 +33,20 @@ const StartingPage = ({ data, location }) => {
       }}>
         <h2>The Roots of My Curiosity</h2>
         <p style={{ lineHeight: '1.6' }}>
-          I inherit my profound love for knowledge from my grandfather on my mother's side, 
-          Ananias de Farias Cavalcanti, born in Riacho do Meio, Paraiba, Brazil, on July 24th, 1931. 
+          My profound love for knowledge finds roots in my grandfather on my mother's side, 
+          Ananias de Farias Cavalcanti, born in Riacho do Meio, Paraíba, Brazil, on July 24th, 1931. 
         </p>
         <p style={{ lineHeight: '1.6' }}> 
-          He was a man of methodical habits who would spend two hours getting ready each morning, 
+          He was a man of methodical habits who would spend two hours getting ready each morning to go to work, 
           and whenever he was home, you'd find him with a book in his hands. His personal library 
           was a treasure trove: the Bible, World War II books, works by Erico Verissimo, 
           Edgar Allan Poe, Dostoevsky, and much more. 
         </p>
         <p style={{ lineHeight: '1.6', marginTop: '15px' }}>
-          Beyond books, he was a curator of memory—carefully preserving photo albums 
-          that captured the essence of Pernambuco's towns and meticulously documenting 
-          our family's stories. His beliefs were as layered as his intellect: from polemic political positions 
-          to a journey through Catholicism, atheism, and finally found peace in Baptist 
-          faith. Yet through every transformation, his devotion to learning never faltered. 
-          
+          While many people collect books as decoration, he was among the rare few who truly 
+          read them. What always fascinated me was his pursuit of knowledge for its own sake—
+          he would study subjects that offered no practical benefit. This was remarkable for a man who never had the privilege of a college education,
+          yet possessed the soul of a true scholar.
         </p>
         <p style={{ lineHeight: '1.6', marginTop: '15px' }}>
           Unfortunately, he passed away when I was only four years old, and I have never since 
