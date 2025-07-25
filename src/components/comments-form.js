@@ -2,8 +2,9 @@ import React, { useState, useEffect } from "react";
 
 import { useForm, ValidationError } from '@formspree/react';
 
-function ContactForm() {
+function ContactForm({ postTitle }) {
   const [state, handleSubmit] = useForm("xpwrvloj");
+  const messagePrefix = `[${postTitle}] : `;
   if (state.succeeded) {
       return (
         <div style={{
@@ -78,6 +79,7 @@ function ContactForm() {
             id="message"
             name="message"
             rows="4"
+            defaultValue={messagePrefix}
             style={{
               border: '#000000',
               fontSize: '16px',
@@ -93,6 +95,11 @@ function ContactForm() {
             onBlur={(e) => {
               e.target.style.borderColor = '#000000';
               e.target.style.boxShadow = 'none';
+            }}
+            onChange={(e) => {
+              if (!e.target.value.startsWith(messagePrefix)) {
+                e.target.value = messagePrefix;
+              }
             }}
           />
           <ValidationError 
@@ -136,9 +143,9 @@ function ContactForm() {
   );
 }
 
-function CommentsForm() {
+function CommentsForm({ postTitle }) {
   return (
-    <ContactForm />
+    <ContactForm postTitle={postTitle} />
   );
 }
 
