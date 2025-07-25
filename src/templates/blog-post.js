@@ -47,9 +47,10 @@ const BlogPostTemplate = ({
         
         {/* Comments Section */}
         <section className="blog-comments">
-          <h3>Comments</h3>
-          <CommentsForm postId={post.id} postTitle={post.frontmatter.title} />
+          <h1>Comments</h1>
           <CommentsList postTitle={post.frontmatter.title} allComments={allContentfulComments} />
+          <h1>Add your comments</h1>
+          <CommentsForm postId={post.id} postTitle={post.frontmatter.title} />
         </section>
       </article>
       <nav className="blog-post-nav">
