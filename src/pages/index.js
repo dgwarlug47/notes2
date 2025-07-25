@@ -71,7 +71,7 @@ const StartingPage = ({ data, location }) => {
       }}>
         <h3>📚 How to Navigate This Blog</h3>
         <p><strong>Step 1:</strong> Browse through the nav bar to explore different categories, see the highlights and all posts ordered by publish date</p>
-        <p><strong>Step 2:</strong> Most posts are a mix of personal reflections on the topic and curated summaries</p>
+        <p><strong>Step 2:</strong> Most posts are a mix of personal reflections on the topic and curated summaries. Personal reflections can be found in each blog post by searching the tag [MYTAKE]</p>
         <p><strong>Step 3:</strong> <strong>IMPORTANT -</strong> In the end of each post there is a section to add comments, if you like any post please add your comment</p>
       </div>
 
