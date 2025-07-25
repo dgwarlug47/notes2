@@ -34,7 +34,7 @@ const data = useStaticQuery(graphql`
         (commentJson) => commentJson.post_name === postTitle
       )
       .map((commentJson) => commentJson.comments)[0];
-  };
+  }; 
   
   const loadComments = () => {
     const allComments = data;
