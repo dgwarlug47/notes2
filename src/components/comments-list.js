@@ -47,14 +47,18 @@ const data = useStaticQuery(graphql`
       );
 
     } catch (error) {
-      console.error("Error loading comments:", error);
-      postComments = [];
+      console.error("Error loading comments from first node:", error);
+      
+      // Only run this if the first command failed
+      try {
+        postComments = getCommentsFromNode(
+          allComments.allContentfulComments.nodes[1].commentsJson,
+          postTitle
+        );
+      } catch (secondError) {
+        console.error("Error loading comments from second node:", secondError);
+      }
     }
-
-    postComments = getCommentsFromNode(
-      allComments.allContentfulComments.nodes[1].commentsJson,
-      postTitle
-    );
 
     setComments(postComments);
   };
