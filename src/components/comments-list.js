@@ -36,6 +36,17 @@ const data = useStaticQuery(graphql`
       .map((commentJson) => commentJson.comments)[0];
   }; 
   
+  const noCommentElement = () => {
+    return (
+      <div style={{
+        textAlign: 'center',
+        fontStyle: 'italic',
+      }}>
+        <p>No comments have been added to this post so far, be the first to add one comment!</p>
+      </div>
+    );
+  };
+  
   const loadComments = () => {
     const allComments = data;
     // Filter comments for this specific post
@@ -77,10 +88,10 @@ const data = useStaticQuery(graphql`
 
   return (
     <div className="comments-list">      
-      {comments && comments.map(
-        (comment) => (
+      {comments && comments.length > 0 ? (
+        comments.map((comment) => (
           comment && (
-            <div className="comment">
+            <div className="comment" key={comment.person_name + comment.Value}>
               <div className="comment-header">
                 <h5 className="comment-author">{comment.person_name}</h5>
               </div>
@@ -89,7 +100,10 @@ const data = useStaticQuery(graphql`
               </div>
             </div>
           )
-      ))}
+        ))
+      ) : (
+        noCommentElement()
+      )}
     </div>
   );
 };
