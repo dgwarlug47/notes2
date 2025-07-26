@@ -3,7 +3,7 @@ import "../style.css";
 
 const Navbar = ({ titles, onChange }) => {
   const [isOpen, setIsOpen] = useState(false);
-  const [selectedOption, setSelectedOption] = useState("Highlights");
+  const [selectedOption, setSelectedOption] = useState("All");
 
   const handleOptionClick = (title) => {
     onChange(title);
