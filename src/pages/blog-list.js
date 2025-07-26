@@ -10,7 +10,7 @@ import Posts from "../components/posts"
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes// :POST
-  const [state, setState] = useState("Highlights")
+  const [state, setState] = useState("All")
   var postsForDisplay = null
   if (state == "All"){
     postsForDisplay = posts.filter( post =>  post.frontmatter.types)
