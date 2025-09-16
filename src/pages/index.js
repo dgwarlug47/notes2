@@ -11,7 +11,8 @@ const StartingPage = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      
+      {/* Link to blog list (moved to top) */}
+
       {/* Picture */}
       <img 
         src={grandpaPic}
@@ -24,6 +25,21 @@ const StartingPage = ({ data, location }) => {
           marginBottom: '20px'
         }}
       />
+
+      <div style={{ textAlign: 'center', margin: '40px 0' }}>
+        <Link 
+          to="/blog-list" 
+          style={{ 
+            backgroundColor: '#0066cc', 
+            color: 'white', 
+            padding: '10px 20px', 
+            textDecoration: 'none',
+            borderRadius: '5px'
+          }}
+        >
+          View All Posts
+        </Link>
+      </div>
 
       {/* Description */}
       <div style={{ 
@@ -63,22 +79,6 @@ const StartingPage = ({ data, location }) => {
         <p><strong>Step 1:</strong> Browse through the nav bar to explore different categories, see the highlights and all posts ordered by publish date</p>
         <p><strong>Step 2:</strong> Most posts are a mix of personal reflections on the topic and curated summaries. Personal reflections can be found in each blog post by searching the tag [MYTAKE]</p>
         <p><strong>Step 3:</strong> <strong>IMPORTANT -</strong> In the end of each post there is a section to add comments, if you like any post please add your comment</p>
-      </div>
-
-      {/* Link to blog list */}
-      <div style={{ textAlign: 'center', margin: '40px 0' }}>
-        <Link 
-          to="/blog-list" 
-          style={{ 
-            backgroundColor: '#0066cc', 
-            color: 'white', 
-            padding: '10px 20px', 
-            textDecoration: 'none',
-            borderRadius: '5px'
-          }}
-        >
-          View All Posts
-        </Link>
       </div>
     </Layout>
   )
