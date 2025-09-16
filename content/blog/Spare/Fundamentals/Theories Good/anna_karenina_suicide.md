@@ -1,3 +1,11 @@
+---
+title: Why Anna Karenina killed herself
+order: 2
+description: One of the greatest suicides in Literature
+types: Literature
+publishDate: 2025-09-15
+---
+
 # Anna Karenina's Suicide: A Syllogistic Analysis
 
 ## 📋 Premises

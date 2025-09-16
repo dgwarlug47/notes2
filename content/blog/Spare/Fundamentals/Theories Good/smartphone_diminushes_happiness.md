@@ -1,3 +1,11 @@
+---
+title: Smartphones reduces long term happiness
+order: 2
+description: Why modernity sucks
+types: Hard Sciences
+publishDate: 2025-09-15
+---
+
 # Smartphone Diminishes Happiness: A Syllogistic Analysis
 
 ## 📋 Premises
