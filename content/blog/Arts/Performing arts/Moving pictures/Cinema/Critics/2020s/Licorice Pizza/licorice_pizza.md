@@ -1,7 +1,7 @@
 ---
 title: Licorice Pizza
 order: 4
-Description: I love San Fernando Valley
+description: I love San Fernando Valley
 types: Cinema
 publishDate: 2025-03-12
 ---
