@@ -57,7 +57,8 @@ relativeSourceFilePaths = [
     "Spare/Games/Sports/Football/Messi2",
     "Arts/Literature/Poetry/Mine",
     "Spare/Fundamentals/Theories Good",
-    "Arts/Performing arts/Moving pictures/Cinema/Other/"
+    "Arts/Performing arts/Moving pictures/Cinema/Other/",
+    "Arts/Performing arts/Music/Analysis/Indie Songs/Real Estate"
 ]
 
 
