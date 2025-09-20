@@ -1,10 +1,12 @@
 ---
-title: Smartphones reduces long term happiness
+title: Instagram reduces long term happiness
 order: 2
 description: Why modernity sucks
 types: Hard Sciences
 publishDate: 2025-09-15
 ---
+
+The following statements hold true under the scope of Instagram
 
 # Smartphone Diminishes Happiness: A Syllogistic Analysis
 
