@@ -25,6 +25,9 @@ def timeout_handler(signum, frame):
 
 def copy_folder(source_folder, destination_folder, timeout=100):
     try:
+        if not os.path.exists(source_folder):
+            raise FileNotFoundError(f"Source folder does not exist: {source_folder}")
+
         if not os.path.exists(destination_folder):
             os.makedirs(destination_folder)
         

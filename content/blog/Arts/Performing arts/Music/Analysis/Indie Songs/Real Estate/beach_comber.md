@@ -1,5 +1,5 @@
 ---
-title: Beach comber
+title: Beach comber analysis
 order: 3
 description: One of my favourite songs
 types: Music
