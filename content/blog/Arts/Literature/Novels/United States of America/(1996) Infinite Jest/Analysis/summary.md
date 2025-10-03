@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=yPgANelYih0&ab_channel=CalebSmith
 - This book is about everything and nothing. It asks the question, "Why?" Why do we consume endless entertainment? Why do we engage in behaviors that harm us? And what makes this distinctly American?
 - It critiques how technology increasingly makes it easier and more pleasurable to consume media, often at the expense of meaningful human connection.
 - “We are all dying to give our lives away to something, maybe. God or Satan, politics or grammar, topology or philately - the object seemed incidental to this will to give ourselves away, utterly. To games or needles, to some other person. Something pathetic about it. A flight-from in the form of a plunging-into. Flight from exactly what? These rooms, blandly filled with excrement and heat? To what purpose?”
-- - DFW perspective of the meaning of the book
+- - The best summary I have seen so far on the meaning of this book
 
 ## My Interpretation of the Big Picture
 

@@ -1,7 +1,7 @@
 ---
-title: Favourites
+title: Gold Playlist
 order: 3
-description: Gold spotify playlist
+description:  A collection of my favouriite songs that I discovered for the first time since 2016
 types: Music
 publishDate: 2025-04-04
 highlights: true
