@@ -1,5 +1,5 @@
 ---
-title: OK COMPUTER
+title: OK Computer
 order: 3
 description: One of my favourite albums
 types: Music
@@ -10,9 +10,10 @@ publishDate: 2025-05-04
 
 # Memory trigger
 
-1. Paranoid Android [Bohemian Rhapsody] - us not accepting being replaced by robots
-2. No surprises [Wouldn't it be nice] - us after accepting being replaced by robots
-3. Karma Police - us rebelling against robots
+1. My vision: Take classic songs, replace humanity by a robot, then you have OK Computer
+2. Paranoid Android [Bohemian Rhapsody] - us not accepting being replaced by robots
+3. No surprises [Wouldn't it be nice] - us after accepting being replaced by robots
+4. Karma Police - us rebelling against robots [My interpretation, Thom York never said that]
 
 # Best songs
 
@@ -27,13 +28,15 @@ What is it about
 - Thom Yorke had anxiety and depression while he was producing OK COMPUTER, the album has a lot to do with his personal struggles
 - This album is about a criticism of late capitalism and its relationship to technology
 - At the time it launched, it sounded like it had dropped from a another planet
-- The title OK Computer is taken from the 1978 radio series Hitchhiker's Guide to the Galaxy, in which the character Zaphod Beeblebrox speaks the phrase "Okay, computer, I want full manual control now."
+- [MYTAKE] The title OK Computer is taken from the 1978 radio series Hitchhiker's Guide to the Galaxy, in which the character Zaphod Beeblebrox speaks the phrase "Okay, computer, I want full manual control now."
+-  [MYTAKE] This is somewhat how maybe we would like to live our lives, but we can't because we are so addicted to Instagram, internet and all of this bullshit
 
 
 ## Rolling stone
 
 42th best album on the 500 best albums all time
-- OK is where the band began pulling at its sound like taffy, seeing what happened, not worrying if it was still “rock.” What resulted is a slow, haunting album with unforgettable tracks such as “Karma Police.” Guitarist Jonny Greenwood said, “I got very excited at the prospect of doing string parts that didn’t sound like ‘Eleanor Rigby,’ which is what all string parts have sounded like for the past 30 years.… We used violins to make frightening white-noise stuff, like the last chord of ‘Climbing Up the Walls.’”
+- Rolling Stone comments: "OK is where the band began pulling at its sound like taffy, seeing what happened, not worrying if it was still “rock.” What resulted is a slow, haunting album with unforgettable tracks such as “Karma Police.” Guitarist Jonny Greenwood said, “I got very excited at the prospect of doing string parts that didn’t sound like ‘Eleanor Rigby,’ which is what all string parts have sounded like for the past 30 years.… We used violins to make frightening white-noise stuff, like the last chord of ‘Climbing Up the Walls.’”
+- [MYTAKE] I haven't understood yet what Rolling Stone said. But it's nice to see that they think the album I like is really good
 
 
 ## Paranoid android
@@ -46,7 +49,7 @@ Basics
 - People and their loss of their individuality
 - Progressive rock
 - https://www.youtube.com/watch?v=TGmh_6Yf5GI
-- Its title and lyrics are a reference to Marvin the Paranoid Android
+- Its title and lyrics are a reference to Marvin the Paranoid Android from The Hitchhiker’s Guide to the Galaxy
 
 Comparison with bohemian rapsody
 - [MYTAKE] In some ways this song is the opposite of bohemian rapsody. Whatever happens in bohemian rapsody, the same is translated to paranoid android by replacing the human by the machine. For example, instead of talking about us being angry about what we have done, it's about us being angry about the system. It's about the human being transformed in the supporting actor
@@ -89,7 +92,7 @@ La-la-la-la-la-la
 La, la      
 Ambition makes you look pretty ugly     
 Kicking, squealing, Gucci little piggy      
-- Critique of the superficiality in burgeousie societe      
+- Critique of the superficiality in burgeousie society      
 
 La-la-la-la-la-la           
 La-la-la-la-la-la       
@@ -137,8 +140,7 @@ God loves his children, yeah
 ### Prelude
 
 [MYTAKE] It's a reference to "Wouldn't it be nice" by the Beach Boys, but it is a very smooth predictable version of it, which is a metaphor by our lives being programmed by computers
-- In some ways this song is the opposite of bohemian rapsody. Whatever happens in bohemian rapsody, the same is translated to paranoid android by replacing the human by the machine
-- it's a more montone version, as if the joy of life and the unpredictability of life has been removed
+- [MYTAKE] I love the symmetry opposition of Wouldn't it be nice and No Surprises, specially in the sound intro. One is about hope, and the other is about monotone
 - Wouldn't it be nice is a very old song, which kind of makes us very nostalgic, in a way that oh my god, back then we life was good
 - Wouldn't it be nice is a lot about a possible future, about surprises, about what good things could happen, whereas no surprises is about our loss of our humanity
 - It's interesting the contrast of band's name: beach boys versus radiohead, and wouldn't it be nice vs no surprises, it's all a reference between the contrast between rationality and humanity
@@ -154,7 +156,7 @@ A job that slowly kills you
 Bruises that won't heal     
 You look so tired, unhappy      
 Bring down the government       
-- KKKKKKKKKKKKKKKKKKK, we attempt to put our frustration of our lives to the governmnent
+- KKKKKKKKKKKKKKKKKKK, we attempt to put our frustration of our lives to the governmnent. This happens in every election cycle in Brazil
 
 They don't, they don't speak for us     
 I'll take a quiet life      
@@ -170,8 +172,8 @@ No alarms and no surprises
 No alarms and no surprises, please      
 Such a pretty house     
 And such a pretty garden        
-- We have everyhing materially but we don't have our own humanity which is something much more important
-- This reminds me a lot of Hal Incandenza from Infinite Jest, because he has everything single thing materially to he happy but he isn't
+- [MYTAKE] We have everyhing materially but we don't have our own humanity which is something much more important
+- [MYTAKE] This reminds me a lot of Hal Incandenza from Infinite Jest (as one would expect), because he has everything single thing materially to he happy but he isn't
 
 No alarms and no surprises (get me out of here)     
 No alarms and no surprises (get me out of here)             
@@ -187,7 +189,8 @@ No alarms and no surprises, please (get me out of here)
 
 Thom Yorke quote        
 - Karma is important. The idea that something like karma exists makes me happy. It makes me smile. “Karma Police” is dedicated to everyone who works for a big firm. It’s a song against bosses
-- [MYTAKE] For me this song is about hope, because it could mean that finally the people that created the OK COMPUTER society will be punished 
+- [MYTAKE] For me this song is about hope, because it could mean that finally the people that created the OK COMPUTER society will be punished. But tha's a personal interpretation.
+- [MYTAKE] Thom Yorke himself said that this song is about coroporate life: “It’s for someone who has to work for a large company… This is a song against bosses. Fuck the middle-management!”
 
 
 ### Lyrics
@@ -268,6 +271,9 @@ black mirror
 Vanilla Sky
 
 Children men
+
+It's kind of a funny story
+- [MYTAKE] The biggest red flag a girl can have is liking Radiohead.
 
 Johnny Greenwood
 - There will be blood

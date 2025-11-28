@@ -15,8 +15,8 @@ relativeSourceFilePaths = [
     'Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Manchester by the sea',
     'Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Midnight in Paris',
     'Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza',
-    'Arts/Performing arts/Music/Analysis/Ok Computer',
-    'Arts/Visual arts/Architecture/(1910-1950) art deco',
+    'Arts/Performing arts/Music/Indie/Ok Computer',
+    'Arts/Visual arts/Architecture/(1910 - 1950) Art Deco',
     'Arts/Visual arts/Painting/(1905 - 1920) Expressionism',
     'Arts/Visual arts/Painting/(1905 – 1908) Fauvism',
     'Arts/Visual arts/Painting/(1867 - 1886) Impressionism',
@@ -32,7 +32,7 @@ relativeSourceFilePaths = [
     'Science/Natural Science/Urban Geography/USA/California/LA',
     'Science/Natural Science/Urban Geography/USA/California/SF',
     'Science/Natural Science/Urban Geography/USA/Manhattan/Upper East side',
-    'Science/Social Sciences/Anthropology',
+    'Science/Social Sciences/Anthropology/Claude Levis Strauss',
     'Science/Social Sciences/Economics/Piketty',
     'Science/Social Sciences/History/Rome/Republic/Fall of Republic',
     'Science/Social Sciences/Sociology/Zygmunt Bauman',
@@ -52,13 +52,14 @@ relativeSourceFilePaths = [
     "Arts/Literature/Poetry/Mine",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2000s/500 days of summer",
     "Arts/Performing arts/Moving pictures/Cinema/Other2/",
-    "Arts/Performing arts/Music/Analysis/Indie Songs/Real Estate",
-    "Arts/Performing arts/Music/Favourites",
+    "Arts/Performing arts/Music/Indie/Real Estate",
+    "Arts/Performing arts/Music/Aggregate/Favourites",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Heidegger",
+    "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Camus/Myth of sisyphus",
     "Humanities/Religion/Christianism/Principles",
     "Spare/Fundamentals/Theories Good",
     "Spare/Games/Sports/Football/Champions League",
-    "Spare/Games/Sports/Football/Messi2"
+    "Spare/Games/Sports/Football/Messi2",
 ]
 
 
