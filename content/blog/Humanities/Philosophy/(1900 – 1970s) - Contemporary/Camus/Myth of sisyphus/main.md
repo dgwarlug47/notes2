@@ -10,10 +10,9 @@ publishDate: 2025-11-27
 
 ![alt text](image.png)
 
-# DISCLAIMER: The content of this blog post might be wrong, since I am not a specialist, and most of the writing is my interpretation
 # Mind map of this blog post
 
-![[Pasted image 20251122153717.png]]
+![alt text](image-2.png)
 
 # The intro
 

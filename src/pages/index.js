@@ -47,6 +47,7 @@ const StartingPage = ({ data, location }) => {
         borderRadius: '8px',
         marginBottom: '20px'
       }}>
+        <h2>DISCLAIMER: I am not a specialist in any of the content I post about. All opinions are my own and they can be wrong.</h2>
         <h2>The Roots of My Curiosity</h2>
         <p style={{ lineHeight: '1.6' }}>
           My profound love for knowledge finds roots in my grandfather on my mother's side, 
