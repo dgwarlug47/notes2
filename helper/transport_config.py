@@ -16,6 +16,7 @@ relativeSourceFilePaths = [
     'Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Midnight in Paris',
     'Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza',
     'Arts/Performing arts/Music/Indie/Ok Computer',
+    'Arts/Performing arts/Music/Indie/Beirut',
     'Arts/Visual arts/Architecture/(1910 - 1950) Art Deco',
     'Arts/Visual arts/Painting/(1905 - 1920) Expressionism',
     'Arts/Visual arts/Painting/(1905 – 1908) Fauvism',
