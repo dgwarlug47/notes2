@@ -42,7 +42,7 @@ publishDate: 2025-03-08
 
 # Sad tropics
 
-![alt text](image.png)
+![alt text](image.png))
 
 
 ## Title

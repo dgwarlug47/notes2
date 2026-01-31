@@ -40,7 +40,7 @@ Central thesis
 Kuznet is a nobel prize that believes the opposite of Krugman
 - Kuznets put the theory that the relationship between income inequality and economic growth was a inverted U-curve shaped. Therefore after the economy grew a lot, the inequality would be low
 
-![alt text](image.png)
+![alt text](image.png))
 
 Recognition
 - At 1913 the 10% earners in the United States earned about half of the nantion's total annual income, but by the late 1940s that number plummeted to 35%. He even received a nobel prize of economics. During the 20st century it seemed that capitalism would naturally take care of inequality, Ricardo and Marx worries didn't materalize

@@ -7,7 +7,7 @@ publishDate: 2025-04-04
 ---
 
 
-![alt text](image.png)
+![alt text](image.png))
 
 
 OBSERVATION: This note is highly unstructed, it still needs to be rewritten

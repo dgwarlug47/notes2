@@ -7,7 +7,7 @@ publishDate: 2025-06-09
 ---
 
 
-![alt text](image.png)
+![alt text](image.png))
 
 O romance é considerado um marco do realismo brasileiro, inaugurando essa escola literária no país.
 - Machado de Assis não adere ao determinismo rígido característico de outros autores realistas.

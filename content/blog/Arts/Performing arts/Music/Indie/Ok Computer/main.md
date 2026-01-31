@@ -6,7 +6,7 @@ types: Music
 publishDate: 2025-05-04
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 # Memory trigger
 

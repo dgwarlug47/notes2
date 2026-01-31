@@ -6,7 +6,7 @@ types: Philosophy
 publishDate: 2025-03-01
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 # Memory Trigger
 

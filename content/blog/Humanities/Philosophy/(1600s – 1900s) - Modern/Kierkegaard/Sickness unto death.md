@@ -7,7 +7,7 @@ publishDate: 2025-03-30
 highlights: true
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 # Memory Trigger
 
@@ -15,12 +15,22 @@ highlights: true
 2. What is despair?
 3. Types of despair
 
-## Chapter 1
+# Chapter 1
 
-**The Self**
+## **The Self [existential definition]**
 - In Kierkegaard's philosophy, the self is a synthesis between the finite and the infinite, the temporal and the eternal.
 
-**Understanding Despair**
+### **The Finite**
+- Your body, your DNA, the facts of your birth, and your death.
+## **The Infinite** 
+- Your imagination, your thoughts, and your capacity to dream.
+## **The Temporal**
+- The "now," the passing moments, and the physical world
+## **The Eternal** 
+- Unchanging truths, moral certainties, and the spiritual core.
+
+
+## **Understanding Despair**
 - Despair emerges when there is an imbalance in the synthesis of finite and infinite aspects of the self.
 - For example, overemphasis on social roles and physical needs. On the other hand, overemphasis on abstract ideals and eternal truths can also lead to despair.
 - This resonates a lot with me, since I am constantly running away from the real world.
@@ -28,7 +38,7 @@ highlights: true
 
 # Chapter 2
 
-**Self-Realization**
+## **Self-Realization**
 - A.k.a. getting rid of despair, requires the person to achieve a balance between the infinite and finite aspects of the self.
 - Similar to the Hegelian dialectic, this process doesn't happen at once. In fact, it requires constant effort to achieve this wholeness, which is the equilibrium between those two forces.
 
@@ -43,12 +53,12 @@ highlights: true
 
 It's important that the same person can be suffering both types of despair at once, which is very important.
 
-**Despair of the Weakness**
+### **Despair of the Weakness**
 - "Not willing to be oneself"
 - Unable to reconcile their inner infinite potential to the finite reality of their existence.
-- This resonates with myself and lack of skill with girls.
 
-**Despair of Defiance**
+
+### **Despair of Defiance**
 - Are aware of their inner infinite potential but are not willing to accept the limitations of the finite nature.
 - For Kierkegaard, people on this type of despair are...
 - This resonates with myself when I thought I could just do my own thing, and become a GOD, and not having to program at all.
@@ -56,10 +66,10 @@ It's important that the same person can be suffering both types of despair at on
 
 # Chapter 4
 
-**Faith**
+## **Faith**
 - For Kierkegaard, faith is not about an intellectual assent to certain religious doctrines but a passionate commitment to God. This commitment involves a profound leap beyond rational evidence and worldly assurances, often referred to as the "leap of faith."
 
-**Relationship Between Self and Divine**
+## **Relationship Between Self and Divine**
 - Despair is basically a misalignment or not being able to be oneself, which is fundamentally a relationship with GOD, since he is the one that defined what your "self" is.
 - Kierkegaard argues that secular approaches to dealing with despair are fundamentally flawed because they fail to address the spiritual dimension of the human condition.
 - For Kierkegaard, no amount of human effort can truly overcome despair; it requires divine intervention and the individual's willingness to trust in that divine power.
@@ -68,7 +78,7 @@ It's important that the same person can be suffering both types of despair at on
 
 # Chapter 5 (The Dialectical Process of Despair and Faith)
 
-**Confronting Despair**
+## **Confronting Despair**
 - Kierkegaard describes this moment as the existential crossroads where one faces the ultimate anxiety of whether to continue living in a state of despair or to take what he terms the "leap of faith." This leap signifies movement away from self-reliance towards a reliance on something greater, namely, the divine.
 - Faith, in Kierkegaard's view, is not a passive acceptance but an active commitment that transcends rationality. It involves embracing the paradox of existence and the limitations of human understanding.
 
@@ -78,3 +88,7 @@ It's important that the same person can be suffering both types of despair at on
 2. Living authentically means making choices that align with one's true nature and values, rather than succumbing to societal pressures/external expectations or running away from its finite components.
 3. By recognizing and addressing despair with authenticity and faith, one can navigate existential crises and lead a life imbued with purpose and meaning.
 
+
+# Side analysis
+- Despair of the Temporal
+- Despair of the Ethernal

@@ -35,7 +35,7 @@ Prelude to Surrealism
 - Museum of modern art (2023)
 - Street, Dresden is Kirchner’s bold, discomfiting attempt to render the jarring experience of modern urban bustle. The scene radiates tension. Its packed pedestrians are locked in a constricting space; the plane of the sidewalk, in an unsettlingly intense pink (part of a palette of shrill and clashing colors), slopes steeply upward, and the exit to the rear is blocked by a trolley car. The street—Dresden’s fashionable Königstrasse—is crowded, even claustrophobically so, yet everyone seems alone. The women at right, one clutching her purse, the other her skirt, are holding themselves in, and their faces are expressionless, almost masklike. A little girl is dwarfed by her hat, one in a network of eddying, whorling shapes that entwine and enmesh the human figures
 
-![alt text](image.png)
+![alt text](image.png))
 
 ## Die Klosterser Berge
 ![alt text](image-4.png)

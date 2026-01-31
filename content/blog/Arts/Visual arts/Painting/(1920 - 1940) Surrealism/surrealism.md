@@ -36,7 +36,7 @@ highlights: true
 - [MYTAKE] I like this painting because it satirizes the corporate world and adult life. There appears to be a logical order, but the sight of people floating in the sky makes you question the purpose behind it all. It’s as if everything makes sense on the surface, but the deeper reason for our actions remains unclear.
 - The painting is part of the Menil Collection in Houston, Texas.
 
-![alt text](image.png)
+![alt text](image.png))
 
 ## The Lovers
 - When he was 14, he witnessed the body of his mother being taken out of the Sambre river, with her wet nightgown wrapped around her face. Some have speculated that the trauma of his mother's suicide inspired a series of works in which he obscured his subjects’ faces, but there's no evidence of this being true

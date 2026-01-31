@@ -19,13 +19,12 @@ https://unequalscenes.com/new-york-city
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | East Harlem (CD 11) | **≈ US $40,950** (2023) ([Data USA](https://datausa.io/profile/geo/nyc-manhattan-community-district-11-east-harlem-puma-ny?utm_source=chatgpt.com "NYC-Manhattan Community District 11--East Harlem PUMA, NY"))                      |
 | Manhattan (borough) | **≈ US $101,078** (2023) ([Census Data](https://data.census.gov/profile/Manhattan_borough%2C_New_York_County%2C_New_York?g=060XX00US3606144919&utm_source=chatgpt.com "Manhattan borough, New York County, New York - Census Data")) |
-### Lyrics
-
-Sound is the color I know
-Sound is what keeps me before your eyes
-And sound of your breath in the cold
-And oh, the sound will bring me home again
-- [MYTAKE] I think it's really beautiful his relationship with the sound. It as if sound for him it's not a sense, or even a medium of enjoyment such as music, it is where he actually feels at home, for me that is very profound.
+### **Lyrics**
+- "Sound is the color I know
+- Sound is what keeps me before your eyes
+- And sound of your breath in the cold
+- And oh, the sound will bring me home again"
+- [MYTAKE] I think it's really beautiful Zack's relationship with the sound. It as if sound for him it's not a sense, or even a medium of enjoyment such as music, it is where he actually feels at home, it's his happy place. For me that is so beautiful.
 
 # No No No (Their third album)
 - Came after the hospitalization of Zach due to Burnout and his divorce

@@ -6,7 +6,7 @@ types: Literature
 publishDate: 2025-07-04
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 Podias ter saído de uma música de Bruce Springsteen,  
 Freehold New Jersey num sabor pernambucano  

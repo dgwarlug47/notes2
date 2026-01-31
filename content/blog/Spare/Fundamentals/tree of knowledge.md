@@ -229,6 +229,8 @@ highlights: true
 - Islam
 - Judaism
 
+## Linguistics
+### Etymology
 
 ## Other
 

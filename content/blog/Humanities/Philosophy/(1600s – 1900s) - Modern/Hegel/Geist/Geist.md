@@ -15,7 +15,7 @@ highlights: true
 
 # Geist definition
 
-![alt text](image.png)
+![alt text](image.png))
 
 What is Geist
 - Geist is a central concept in Hegel's philosophy. According to most interpretations, the Weltgeist ("world spirit") is not an actual object or a transcendent, godlike thing, but a means of philosophizing about history

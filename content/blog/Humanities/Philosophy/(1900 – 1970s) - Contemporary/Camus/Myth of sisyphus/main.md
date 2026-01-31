@@ -8,7 +8,7 @@ publishDate: 2025-11-27
 
 
 
-![alt text](image.png)
+![alt text](image.png))
 
 # Mind map of this blog post
 

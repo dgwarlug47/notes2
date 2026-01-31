@@ -19,7 +19,7 @@ Tom learns through heartache that his perfect match isn't the enigmatic girl he'
 
 No matter how desperately Tom tries to make Summer value what he values, she maintains her autonomy. She doesn't listen to the Spearmint tape with the same reverence; she never validates his tastes in the way he craves. Summer's defining characteristic is her authenticity and independence, which reveals the fundamental flaw in the manic pixie dream girl fantasy: how can someone simultaneously be "perfect for you" while remaining fiercely independent? These contradictory expectations demonstrate how what we desire most passionately can sometimes be precisely what's wrong for us. Summer will never provide to you a key aspect of a relationship, comfort and security, something that Tom needs the most.
 
-![alt text](image.png)
+![alt text](image.png))
 
 ![alt text](image-1.png)
 

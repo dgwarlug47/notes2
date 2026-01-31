@@ -6,7 +6,7 @@ types: Literature
 publishDate: 2025-04-04
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 OBSERVATION: CONTAINS SPOILERS!!
 

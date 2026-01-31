@@ -7,7 +7,7 @@ publishDate: 2025-03-01
 highlights: true
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 A million feelings come rushing in when I think about Annie Hall. This film holds a special place in my life—it was my first truly cinematic experience, and to this day, it's my all-time favorite movie. Watching it again now, for the second time—after first seeing it with my brother—I feel even more connected to it.
 

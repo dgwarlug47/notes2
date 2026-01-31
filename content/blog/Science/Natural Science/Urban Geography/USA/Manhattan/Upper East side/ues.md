@@ -20,7 +20,7 @@ As commerce moved further and further up Fifth Avenue in the post-Civil War peri
 The rich people used to live in more south to upper east side, it was only in 1895 where Caroline Astor moved to upper east side that it became
 socially acceptable for those old money people to move there as well
 
-![alt text](image.png)
+![alt text](image.png))
 
 
 ## Personalities

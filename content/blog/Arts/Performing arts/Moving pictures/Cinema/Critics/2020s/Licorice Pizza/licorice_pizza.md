@@ -6,7 +6,7 @@ types: Cinema
 publishDate: 2025-03-12
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 Every good film — or at least almost every one — has her. Women carry the responsibility of lighting up the screen with their beauty, sweetness, and often a touch of madness. I love her face because there’s something tense about it — an irritation, an anger — but beneath that, a deep sensitivity layered with sorrow. It’s something very Jewish, really (and her nose doesn’t lie).
 

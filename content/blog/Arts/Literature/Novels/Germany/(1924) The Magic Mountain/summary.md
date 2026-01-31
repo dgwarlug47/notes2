@@ -28,4 +28,4 @@ publishDate: 2025-05-02
 ## Author  
 - Thomas Mann, the author of *The Magic Mountain*, was awarded the Nobel Prize in Literature in 1929 for his outstanding contributions to literature.  
 
-![Illustration related to The Magic Mountain](image.png)
+![alt text](image.png))

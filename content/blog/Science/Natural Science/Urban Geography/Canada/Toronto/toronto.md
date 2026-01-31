@@ -50,7 +50,7 @@ Eathon Center
 
 Dundas Square
 
-![alt text](image.png)
+![alt text](image.png))
 
 Old City Hall
 

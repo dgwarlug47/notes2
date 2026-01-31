@@ -6,7 +6,7 @@ types: Literature
 publishDate: 2025-03-20
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 # Characters
 

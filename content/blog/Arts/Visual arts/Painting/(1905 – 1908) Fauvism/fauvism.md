@@ -41,7 +41,7 @@ The woman with umbrella
 - "a tela eh quase um efeito de luz intensa que irradia em uma onda de cores
 projetada da figura neoimpressnista da mulher"
 
-![alt text](image.png)
+![alt text](image.png))
 
 
 View of Collioure

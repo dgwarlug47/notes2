@@ -7,7 +7,7 @@ publishDate: 2025-05-26
 highlights: true
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 Page 690
 

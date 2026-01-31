@@ -6,7 +6,7 @@ types: Literature
 publishDate: 2025-04-04
 ---
 
-![alt text](image.png)
+![alt text](image.png))
 
 ## Women and Gender Roles
 - [MYTAKE] It's truly insane to think that women during the war spent five years without seeing their husbands, like Carla's parents.

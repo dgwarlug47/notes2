@@ -1,15 +1,16 @@
 ---
 title: Beirut origins and their first album, The Gulag Orkestar
 order: 3
-description: One of my favourite albums
+description: One of my favourite bands
 types: Music
 publishDate: 2025-12-08
 ---
 
 
 # Beirut (Section 1, Origins)
+- Beirut is one of my 10 favorite bands
 
-![alt text](image.png)
+![alt text](image.png))
 - The band is named after Lebanon's capital, due to the city's history of conflict and as a place where cultures collide, Beirut's music combines elements of indie rock, Balkan folk, and world music.
 
 ![alt text](zack.png)
@@ -63,11 +64,15 @@ publishDate: 2025-12-08
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6SP4q0W1VrusEMfZRQIYXf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - **Lyrics**
-	- "Life, life is all right on the Rhine  
+	- "Life, life is all right on the Rhine
+	- I longed for your heart
 	- No, but I know, but I know  
 	- I would have nowhere to go  
-	- No, but there's nowhere to go, to go"
+	- No, but there's nowhere to go, to go
+	- I wasn't home"
 - [MYTAKE] It is one of the few songs that is not named after a place that wasn't a USSR satellite state. Therefore, maybe it symbolizes a dream/perfection. From the point of view of someone from a Gulag, all they could ever want is a place to chill with freedom, such as the Rhineland in Germany.
+- [MYTAKE] But if the Rhineland is great, why he seems to partially dislike it? "there's no where to go".  Probably because it's not his heartland. For us that live in big cities, this song is what the country side represents. We long for its heart, life is alright over there. But there is nowhere to go, and we are not at home over there.
+- [MYTAKE] This guy is an absolute genius.
 
 ## Postcards from Italy
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7H0UxIN751StFi2tznmHlg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
