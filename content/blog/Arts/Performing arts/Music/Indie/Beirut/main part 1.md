@@ -77,7 +77,7 @@ publishDate: 2025-12-08
 ## Postcards from Italy
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7H0UxIN751StFi2tznmHlg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
--[MYTAKE] I love the fact that Italy is only mentioned as a postcard. Once again, I interpret that the album Gulag Orkestar, is from a perspective of someone in a Gulag. Italy symbolizes a dream that is even more distant than the Rhineland, because the Rhineland is somewhere he at least considers living,  but Italy is just a place for his vacation, really. He probably only knows Italy from the postcards they receive inside the Gulag.
+- [MYTAKE] I love the fact that Italy is only mentioned as a postcard. Once again, I interpret that the album Gulag Orkestar, is from a perspective of someone in a Gulag. Italy symbolizes a dream that is even more distant than the Rhineland, because the Rhineland is somewhere he at least considers living,  but Italy is just a place for his vacation, really. He probably only knows Italy from the postcards they receive inside the Gulag.
 - **Lyrics**
 	- "And I will love to see that day  
 	- That day is mine  

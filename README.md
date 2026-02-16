@@ -101,3 +101,9 @@ The fastest way to combine your favorite tools and APIs to build the fastest sit
 1. Run python transport.py
 
 2. After you add too much posts, go to index.js and increase the limit of the number of posts
+
+## Contentful
+
+1. Log into the website
+
+2. Make a small change and do git push

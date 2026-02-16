@@ -7,19 +7,29 @@ publishDate: 2025-03-01
 highlights: true
 ---
 
+# Memory Trigger
+
+1. What do Beverly Hills, Santa Monica symbolize in American Society?
+2. What do you like so much about LA Downtown?
+
 # Prelude
 
 [MYTAKE] I personally really like the name, probably my favourite name in all cities of the world
 
-![alt text](image-2.png)
+![alt text](image-40.png)
 
-Los Angeles county has multiple cities
+los angeles administrative and political map
+Los Angeles Map. a major city in the California.
+Los Angeles and metropolitan area map
+los angeles county regions map
+
+## Los Angeles county has multiple cities
 - Malibu
 - Los Angeles
 - Beverly Hills
 - Manhattan Beach
 
-According to Woody Allen
+## According to Woody Allen
 - "I don't want to live in a city where the only cultural advantage is that you can make a right turn on a red light"
 
 ## Personality type of people
@@ -32,7 +42,7 @@ https://www.timeout.com/film/los-angeles-movies-57-films-that-best-capture-la
 
 https://giggster.com/blog/famous-los-angeles-filming-locations/
 
-The ones I like
+### The ones I like
 - 500 days of Summer
 - Pulp fiction
 - La la land
@@ -45,80 +55,81 @@ The ones I like
 
 
 # Beverly Hills
+- [Totem] Beverly Hills functions as a totem of aspirational wealth in American society.
 
-Rodeo drive
+**Rodeo drive**
 - House of Bijan well known as one of the most expensive mens wear in the world
 
-![alt text](image.png))
+![alt text](image.png)
 
 
-Beverly hills hotel
+**Beverly hills hotel**
 
 ![alt text](image-1.png)
 
-The graduate house
+**The graduate house**
 
 ![alt text](image-35.png)
 
 # Santa Monica
 
-Pier
+**Pier**
 
 ![alt text](image-8.png)
 
-Palisades park
+**Palisades park**
 
 ![alt text](image-11.png)
 
-Location of the snap headquarters
+**Location of the snap headquarters**
 
 ![alt text](image-9.png)
 
-Riot games headquarters (close by)
+**Riot games headquarters (close by)**
 
 ![alt text](image-10.png)
 
-# Los Angeles
+# Los Angeles (the city, not the county)
 
 ## Venice Beach
 
-Boardwalk
+**Boardwalk**
 
 ![alt text](image-24.png)
 
-Venice canals
+**Venice canals**
 - Valentines day movie
 
 ![alt text](image-25.png)
 
-Venice skate park
+**Venice skate park**
 
 ![alt text](image-27.png)
 
 ## Silver Lake
 
-Prelude
-- [MYTAKE] Often described as the “Brooklyn of Los Angeles,” there is nothing you can want in life. A hipster version of Los Angeles
+**Prelude**
+- [MYTAKE] Often described as the “Brooklyn of Los Angeles,” there is nothing else you can want in life. A hipster version of Los Angeles.
 
 
-Silver Lake Resoirvoir
+**Silver Lake Resoirvoir**
 - Very nice views around there
 
 ![alt text](image-5.png)
 
-Sunset junction
-- The name refers to the street junction of Sunset Boulevard and Santa Monica Boulevard, two of the largest streets in Los Angeles, both of which travel from Sunset Junction to the Pacific Ocean
-- Canonical
+**Sunset junction**
+- [Definition] The name refers to the street junction of Sunset Boulevard and Santa Monica Boulevard, two of the largest streets in Los Angeles, both of which travel from Sunset Junction to the Pacific Ocean
+
 
 ![alt text](image-34.png)
 
-Miniature libraries
+**Miniature libraries**
 
-Murals
+**Murals**
 
 ## Elysian Park
 
-Dodgers stadium
+**Dodgers stadium**
 
 
 ![alt text](image-38.png)
@@ -127,7 +138,7 @@ Dodgers stadium
 
 ### Mid-Wilshire
 
-Los Angeles County museum of art
+**Los Angeles County museum of art**
 - Public Art "Urban Light"
 - levitated mass
 - Famous for its large-scale public art sculpture
@@ -139,16 +150,16 @@ Los Angeles County museum of art
 
  ![alt text](image-15.png)
 
-Peterson museumx
+**Peterson museumx**
 ![alt text](image-13.png)
 
 ### Fairfax
 
-The Grove
+**The Grove**
 
 ### Koreatown
 
-Pellissier Building and Wiltern Theatre
+**Pellissier Building and Wiltern Theatre**
 - art deco landmark
 
 ![alt text](image-17.png)
@@ -156,7 +167,7 @@ Pellissier Building and Wiltern Theatre
 ### Downtown
 
 
-Bradbury building
+**Bradbury building**
 - Chinatown
 - 500 days of summer
 - Blade Runner
@@ -168,33 +179,32 @@ Bradbury building
 
 ![alt text](image-3.png)
 
-Eastern columbia building
+**Eastern columbia building**
 - Art deco landmark
 - turquoise terracotta with deep blue and gold trim
 
 ![alt text](image-18.png)
 
-Pershing square
-- Tony hawk
+**Pershing square**
+- The Los Angeles phase is my first memory of the Pershing Square (https://www.youtube.com/watch?v=whRlo118HMY)
 
 ![alt text](image-4.png)
 
 
-The last bookstore
+**The last bookstore**
 
 ![alt text](image-20.png)
 
-the broad
+**The Broad**
 
 ![alt text](image-21.png)
 
-Olive Street Parking Garage
+**Olive Street Parking Garage**
 
-Walt Disney Concert Hall
+**Walt Disney Concert Hall**
 
 ### Historic Core
-
-This a neighborhood where Tom (main character of 500 of days of summer)
+- This a neighborhood where Tom (main character of 500 of days of summer)
 - Angels Knoll Park
 
 ![alt text](image-22.png)
@@ -207,36 +217,36 @@ a lot of film noire happened here, because this neighborhood was run down even t
 
 ## Hollywood
 
-El Cabrillo
+**El Cabrillo**
 
 ![alt text](image-30.png)
 
 ## San Fernando Valley
 
-Dingbats
+**Dingbats**
 
-Licorice pizza
+**Licorice pizza**
 
 ### Sun valley
 
-Pink Motel
+**Pink Motel**
 - movie Drive
 
 ![alt text](image-29.png)
 
 ## Pasadena
 
-Bungalow
+**Bungalow**
 
-Mission revival
+**Mission revival**
 
 ## Los Feliz
 
-Lovell house
+**Lovell house**
 - L.A confidential
 - It is often described as the first steel frame house in the United States, and also an early example of the use of gunite (sprayed-on concrete). 
 - one of the first international style house
-- [MYTAKE] For me, nothing beats the Los Feliz. Because in the end of the day, Beverly Hills is not that cool, because the people that live there are the actors and actresses of the filming industry, the "testas de ferro". But in Los Feliz, you have the producers, the writers, the designers etc. The people that actually architect and think the movies we watch
+- [MYTAKE] For me, nothing beats the Los Feliz in the LA county. Because in the end of the day, Beverly Hills is not that cool, because the people that live there are the actors and actresses of the filming industry, the "testas de ferro". But in Los Feliz, you have the producers, the writers, the designers etc. The people that actually architect and think the movies we watch
 ![alt text](image-6.png)
 
 
@@ -244,19 +254,19 @@ Lovell house
 
 ## South Los Angeles
 
-Watts Towers
+**Watts Towers**
 
 ![alt text](image-36.png)
 
 ## Hollywood hills
 
-Muholland Drive
+**Muholland Drive**
 
 ![alt text](image-23.png)
 
 # West hollywood
 
-Mission revival
+**Mission revival**
 
 # Death valley
 
@@ -264,7 +274,7 @@ Mission revival
 
 # Malibu
 
-Getty villa
+**Getty villa**
 
 ![alt text](image-7.png)
 
@@ -276,15 +286,15 @@ Surf culture
 Celebrities
 - Many celebrities that dislike the beverly hills life live in Malibux
 
-El Matador state beach
+**El Matador state beach**
 
 ![alt text](image-32.png)
 
-Zuma beach
+**Zuma beach**
 ![alt text](image-33.png)
 
 # Brentwood
 
-The Getty
+**The Getty**
 
 ![alt text](image-37.png)
