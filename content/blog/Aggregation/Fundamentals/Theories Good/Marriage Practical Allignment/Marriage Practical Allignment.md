@@ -2,7 +2,7 @@
 title: Marriage Practical Allignment Math Formula
 order: 2
 description: My perspective on what is the practical allignment of marriage
-types: Social Sciences
+types: Personal Essays
 publishDate: 2026-01-30
 ---
 

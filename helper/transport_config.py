@@ -37,9 +37,9 @@ relativeSourceFilePaths = [
     'Science/Social Sciences/Economics/Piketty',
     'Science/Social Sciences/History/Rome/Republic/Fall of Republic',
     'Science/Social Sciences/Sociology/Zygmunt Bauman',
-    'Spare/Fundamentals',
-    'Spare/Games/Sports/Football/World cup',
-    'Spare/Games/Sports/Football/World cup',
+    'Aggregation/Fundamentals',
+    'Aggregation/Games/Sports/Football/World cup',
+    'Aggregation/Games/Sports/Football/World cup',
     "Arts/Literature/Novels/Brazil/(1881) Memorias Postumas de Bras Cubas",
     "Arts/Literature/Novels/Brazil/(1900) Dom Casmurro",
     "Arts/Literature/Novels/Canada/(1985) The Handmaid's Tale",
@@ -58,10 +58,11 @@ relativeSourceFilePaths = [
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Heidegger",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Camus/Myth of sisyphus",
     "Humanities/Religion/Christianism/Principles",
-    "Spare/Fundamentals/Theories Good",
-    "Spare/Games/Sports/Football/Champions League",
-    "Spare/Games/Sports/Football/Messi2",
-    "Spare/Fundamentals/Theories Good/Marriage Practical Allignment"
+    "Aggregation/Fundamentals/Theories Good",
+    "Aggregation/Games/Sports/Football/Champions League",
+    "Aggregation/Games/Sports/Football/Messi2",
+    "Aggregation/Fundamentals/Theories Good/Marriage Practical Allignment",
+    "Arts/Performing arts/Music/Indie/Geese/Heavy Metal"
 ]
 
 
