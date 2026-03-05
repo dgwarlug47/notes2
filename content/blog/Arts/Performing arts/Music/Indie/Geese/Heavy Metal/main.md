@@ -11,6 +11,8 @@ publishDate: 2026-02-28
 # Cancer of the Skull
 > **[MYTAKE]** This song explores the eternal existential dilemma of artistic ambition versus insufficient competence - the struggle of aspiring to greatness while lacking the competence to achieve it.
 
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1RkuN09alt0DLZ9PlplUcc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## Verse 1
 I am full of heavy metals  
 I am a heavy metal man
@@ -80,6 +82,8 @@ All these songs are a hundred ugly babies
 
 # Nina + Field of Cops
 > **[MYTAKE]** Nina represents clear-eyed awareness of harsh reality, while the "field of cops" symbolizes the overwhelming social forces and authority structures that crush innocence and individuality.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/78ugJH8q6W3kiGLwM2K7Lg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Verse 1
 Your building is full of people who hate you  
