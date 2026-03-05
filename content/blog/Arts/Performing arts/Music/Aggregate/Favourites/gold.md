@@ -1,7 +1,7 @@
 ---
 title: Gold Playlist
 order: 3
-description:  A collection of my favouriite songs that I discovered for the first time since 2016
+description:  A collection of my favouriite songs
 types: Music
 publishDate: 2025-04-04
 highlights: true

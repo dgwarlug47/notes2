@@ -8,7 +8,7 @@ publishDate: 2025-09-15
 
 The following statements hold true under the scope of Instagram
 
-# Smartphone Diminishes Happiness: A Syllogistic Analysis
+# Instagram Diminishes Happiness: A Syllogistic Analysis
 
 ## 📋 Premises
 
@@ -26,7 +26,7 @@ The following statements hold true under the scope of Instagram
 
 ## 🔗 Logical Chain
 
-**C1:** People choose to expand breadth of relationships through smartphones  
+**C1:** People choose to expand breadth of relationships through Instagram  
 *[From Premises 1, 2, and 3]*
 
 **C2:** Expanding breadth provides immediate gratification and pleasure  
@@ -48,5 +48,5 @@ The following statements hold true under the scope of Instagram
 
 ## ⚡ Final Conclusion
 
-**The smartphone made us unhappy**  
+**The Instagram made us unhappy**  
 *[From Conclusion 6 - trading long-term wellbeing for short-term gratification]*
