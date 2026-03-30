@@ -9,7 +9,7 @@ highlights: true
 
 ![alt text](image-2.png)
 
-# 500 Days of Summer: When Fantasy Meets Reality
+# When Fantasy Meets Reality. The thought experiment of a manic dream pixie girl, and the face of its harsh reality
 
 I've always been drawn to the unconventional. As a Brazilian who supports the Argentinian national team, I find something inherently stifling about following prescribed paths. There's beauty in adding unexpected color to our lives, in seeing what emerges when we deviate from expectations. "500 Days of Summer" embodies this spirit of contradiction.
 
@@ -19,7 +19,9 @@ Tom learns through heartache that his perfect match isn't the enigmatic girl he'
 
 No matter how desperately Tom tries to make Summer value what he values, she maintains her autonomy. She doesn't listen to the Spearmint tape with the same reverence; she never validates his tastes in the way he craves. Summer's defining characteristic is her authenticity and independence, which reveals the fundamental flaw in the manic pixie dream girl fantasy: how can someone simultaneously be "perfect for you" while remaining fiercely independent? These contradictory expectations demonstrate how what we desire most passionately can sometimes be precisely what's wrong for us. Summer will never provide to you a key aspect of a relationship, comfort and security, something that Tom needs the most.
 
-![alt text](image.png))
+# Shadows as an aesthetic symbolism of good and bad relationships
+
+![alt text](image.png)
 
 ![alt text](image-1.png)
 
@@ -31,10 +33,6 @@ This makes me think about my own ex girl friend. Coincidentally, I met Qiannan w
 
 There's a poignant irony in having visited Los Angeles with Qiannan, touring landmarks from the film like the Bradbury Building and Angeles Plaza, while she remained unaware of their significance to me. For her, these were mere tourist destinations. Perhaps what will distinguish a future partner isn't necessarily sharing identical interests, but understanding and honoring the meaning these things hold for me. In retrospect, Qiannan may have been my "Summer," and the closed Angeles Plaza seemed to symbolize the shadowy aspects of our connection, much like Tom and Summer's relationship. As Autumn wisely observed, "You must have not been looking"—Tom, like many idealistic INFJs and me, constructs an internal reality that doesn't always align with what exists before him.
 
-## The Architecture of Growth
+# Tom's growth in moving towards equilibrium from fantasy to reality
 
-"500 Days of Summer" functions as a modern Aristotelian narrative about virtue and growth. Aristotle's concept of eudaimonia—flourishing through virtuous action—is embodied in Tom's journey toward authentic self-improvement. The Bradbury Building featured in the final scene carries its own symbolic weight: once considered unremarkable in film noir's heyday, it has since been recognized for its distinctive beauty. Similarly, Tom himself transforms from someone defined by disappointment to someone open to genuine possibility.
-
-The film ultimately teaches us that personal growth often requires abandoning our carefully constructed fantasies. Tom's evolution doesn't come from finding someone who fits his predetermined idea of love, but from allowing his ideals to evolve through experience. In architecture, as in relationships, true beauty emerges not from rigid adherence to blueprints but from adaptation to the materials and circumstances at hand. 
-
-By the film's conclusion, we understand that Tom's journey isn't about finding the right person so much as becoming the right person—someone who can appreciate reality's imperfect splendor rather than chasing idealized fantasies. And perhaps that's the most romantic notion of all: that in learning to see the world as it truly is, we discover it's more beautiful than anything we could have imagined.
+As Aristotle would suggest, reality lies between cynicism and fantasy. In the movie, Tom is initially out of balance—lost in fantasy. After the breakup, he swings to the opposite extreme, falling into cynicism. Only later, with Autumn, does he return to reality and regain equilibrium.

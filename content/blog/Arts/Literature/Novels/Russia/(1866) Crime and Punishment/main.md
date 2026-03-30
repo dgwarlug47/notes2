@@ -114,7 +114,7 @@ https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3
 
 ## [Raskolnikov] Pride, theory, and guilt
 
-[Visual] ![Raskolnikov image](image-3.png)
+![Raskolnikov image](image-3.png)
 
 - [MYTAKE] [Inner Conflict] I really like how Dostoievisky critiques rationalism in this book. Basically he creates a super rational character, and instead of trying to contradicto him, or in other words defeat him on his own game. He simply let his emotions and his suffering to prove that he was wrong.
 - [Alienation] Alienation is central to his character: his pride cuts him off from society long before the murder does.
@@ -129,12 +129,12 @@ https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3
 - [Interpretation] These confessions make it clear that the murder is bound to pride, testing, and self-definition more than to material gain.
 
 ## Police Confession
-- [MYTAKE] The leadership/power of Sonya's love + Svidragailov's suicide as proof of the meaningless of life without morality
+- [MYTAKE] The materialization of god's love was strong enough in Sonya, to the point where that added by Svidragailov's suicide as the final consequence of the meaningless of hedonism, was strong enough to move Raskolnikov's belief system from rationalism and Nietzsche's will to power towards christianity
 
 
 ## [Svidrigailov] Hedonism and collapse
 
-[Visual] ![Svidrigailov image](image-2.png)
+![Svidrigailov image](image-2.png)
 
 - [Character Proof] Dostoevsky uses Svidrigailov to show the consequences of a life guided almost entirely by appetite and pleasure.
 - [Bad Acts] His history is marked by coercion, abuse, manipulation, and moral corruption.
@@ -144,7 +144,7 @@ https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3
 
 ## [Sonya] Love, contradiction, and grace
 
-[Visual] ![Sonya image](image-1.png)
+![Sonya image](image-1.png)
 
 - [Christ Figure] Sonya can be read as a Christ-like figure because she embodies unconditional love, suffering, receptivity, and mercy.
 - [Reality/Appearance Contrast] Internally she is pure and compassionate, while externally society reduces her to the role of a prostitute.

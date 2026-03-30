@@ -16,6 +16,8 @@ publishDate: 2026-03-15
 
 ## Social good
 - Social comparison creates artificial hierarchies. When people see others' possessions and status, they develop desires for "social goods" (wealth, prestige, luxury, mating status) and prioritize these over natural goods.
+- [MYTAKE] When you gain clear awareness of ranking criteria and see people positioned above you in social hierarchies, this exposure instantly generates a necessity to acquire more social goods and improve your ranking position.
+- [KEY] Degree of necessity of status improvement = Status Distance × Exposure Frequency x Belief Weight × Metric Intelligibility
 
 ## Why These Goods Conflict
 - This creates perpetual meaningless of life: because pursuing social goods end up (in practice) making you deprioritize and even forget the natural goods, for example a corporate leader that focus too much in their career and end up getting divorced
