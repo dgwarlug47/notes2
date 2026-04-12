@@ -1,5 +1,5 @@
 ---
-title: Why Bellevue has no soul
+title: Explaining the Seattle Freeze
 order: 3
 description: Exploring the Robert Putnam social capital to explain why Bellevue feels souless
 types: Social Sciences
@@ -8,6 +8,10 @@ publishDate: 2026-04-11
 
 
 ![alt text](image.png)
+
+# Memory Trigger
+- 1. Originating driver, imagine you are optimizing geographical location for the sake of happiness
+- 2. Can some place make you happy on all levels of Maslow hierarchy of needs?
 
 # **The Chain**
 **Maslow (4–5) → Turnover → Social Capital ↓ → Affection ↓ → Maslow (3)**
@@ -25,7 +29,7 @@ Places that strongly satisfy **Maslow levels 4–5 (esteem, self-actualization)*
 
 ## 2. **Premise (Putnam Mechanism)**
 [KEY CONCEPT] Per Robert Putnam (*Bowling Alone*):  
-**Social capital (networks, trust, norms)** requires **stable, repeated interaction**
+**Social capital (networks, trust, norms)** requires **stable, repeated interaction** of the same groups of people
 - IMPORTANT: THIS IS THE ONLY NON OBVIOUS STATEMENT OF THIS POST
 
 → High turnover **disrupts continuity of relationships**  
