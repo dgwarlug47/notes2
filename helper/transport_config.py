@@ -62,7 +62,8 @@ relativeSourceFilePaths = [
     "Aggregation/Games/Sports/Football/Champions League",
     "Aggregation/Games/Sports/Football/Messi2",
     "Aggregation/Fundamentals/Theories Good/Marriage Practical Allignment",
-    "Arts/Performing arts/Music/Indie/Geese/Heavy Metal"
+    "Arts/Performing arts/Music/Indie/Geese/Heavy Metal",
+    "Aggregation/Fundamentals/Theories Good/Why Bellevue has no soul"
 ]
 
 
