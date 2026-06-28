@@ -2,21 +2,21 @@
 # Contains all source and destination path mappings
 
 baseDownstream = "/Users/davisena/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/"
-baseUpstream = "/Users/davisena/Desktop/notes2/content/blog"
+baseUpstream = "/Users/davisena/Desktop/notes2/content/"
 
 
 relativeSourceFilePaths = [
 "Aggregation/Fundamentals",
     "Aggregation/Fundamentals/Theories Good",
     "Aggregation/Fundamentals/Theories Good/Marriage Practical Allignment",
-    "Aggregation/Fundamentals/Theories Good/Why Bellevue has no soul"
+    "Aggregation/Fundamentals/Theories Good/Why Bellevue has no soul",
     "Aggregation/Games/Sports/Football/Champions League",
     "Aggregation/Games/Sports/Football/Messi2",
     "Aggregation/Games/Sports/Football/World cup",
     "Aggregation/Games/Sports/Football/World cup",
     "Arts/Literature/Novels/Brazil/(1881) Memorias Postumas de Bras Cubas",
     "Arts/Literature/Novels/Brazil/(1900) Dom Casmurro",
-    "Arts/Literature/Novels/Canada/(1985) The Handmaid"s Tale",
+    "Arts/Literature/Novels/Canada/(1985) The Handmaid's Tale",
     "Arts/Literature/Novels/Germany/(1924) The Magic Mountain",
     "Arts/Literature/Novels/Italy/(1321) Divine Comedy/Inferno",
     "Arts/Literature/Novels/Russia/(1866) Crime and Punishment",
@@ -26,7 +26,7 @@ relativeSourceFilePaths = [
     "Arts/Literature/Novels/UK/(2012) Winter of the world",
     "Arts/Literature/Novels/United States of America/(1920) The Age of Innocence",
     "Arts/Literature/Novels/United States of America/(1953) Farenheit 451",
-    "Arts/Literature/Novels/United States of America/(1958) Breakfast at Tifanny"s",
+    "Arts/Literature/Novels/United States of America/(1958) Breakfast at Tifanny's",
     "Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis",
     "Arts/Literature/Poetry/Aggregation/Mine",
     "Arts/Performing arts/Moving pictures/Cinema/Aggregation/Rom-Coms based on what?",
@@ -53,7 +53,7 @@ relativeSourceFilePaths = [
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Camus/Myth of sisyphus",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Foucault/Discipline and punish",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Heidegger",
-    "Humanities/Religion/Christianism/Principles"
+    "Humanities/Religion/Christianism/Principles",
     "Mathematics/Logic/(1891) About an elementary question of the theory of diversity - Cantor",
     "Sciences/Natural Sciences/Psychology/Aggregation/MBTI",
     "Sciences/Social Sciences/Anthropology/Aggregation/Claude Levis Strauss",
