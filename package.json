@@ -8,10 +8,11 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "-": "^0.0.1",
     "@fontsource-variable/montserrat": "^5.0.17",
     "@fontsource/merriweather": "^5.0.8",
     "@formspree/react": "^3.0.0",
+    "ajv": "8.6.2",
+    "ajv-keywords": "3.5.2",
     "dotenv": "^17.2.0",
     "emailjs-com": "^3.2.0",
     "gatsby": "^5.14.1",
@@ -30,7 +31,8 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "resend": "^4.6.0",
-    "save": "^2.9.0"
+    "save": "^2.9.0",
+    "schema-utils": "3.0.0"
   },
   "devDependencies": {
     "prettier": "^2.8.8"

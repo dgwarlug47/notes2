@@ -1,4 +1,3 @@
-source /Users/davi/Desktop/Code/notes2/.venv/bin/activate
 python3 helper/transport.py
 sleep 3
 open -a "Google Chrome" "http://localhost:8000/"
