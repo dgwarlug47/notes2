@@ -64,15 +64,8 @@ https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3
 ## Consequences of Darwin and modernity
 
 - [Major Philosphical paradigm shift Historical Context] The book was written in a moment when religious certainty was weakening and modern theories were reshaping how people understood morality.
-- [MYTAKE] In my opinion this is the key of the book. My reading is that Dostoevsky sees moral relativism as spiritually destructive because it removes any stable frame of reference for good and evil.
+- - [MYTAKE] In my opinion this is the key of the book. My reading is that Dostoevsky sees moral relativism as spiritually destructive because it removes any stable frame of reference for good and evil.
 - [Soul Damage] The novel dramatizes what happens when someone tries to replace moral truth with private justification.
-
-## Philosophical archetypes in the characters
-
-- [Raskolnikov] [Will to Power] Raskolnikov represents revolt against Christian morality and a will to self-authorization.
-- [Sonya] [Christianism] Sonya represents Christian love, forgiveness, and moral objectivism.
-- [Svidrigailov] [Boundless hedonism] Svidrigailov represents hedonism and the exhaustion that follows a life of self-indulgence.
-- [Luzhin] [Bourgeois Utilitarianism] Luzhin represents rational egoism and self-interest dressed up as reason.
 
 ## [Theory] The extraordinary man theory
 
@@ -84,8 +77,19 @@ https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3
 
 ## [Christian Morality] Consequences of rejecting it
 
-- [MYTAKE] Dostoevsky suggests that trying to place oneself above morality destroys the soul and produces intense psychological consequences.
-- [Despair] Whether the person is visibly monstrous like Svidrigailov or apparently normal like Raskolnikov, rejection of moral absolutes leads toward despair.
+- [MYTAKE] [Christian Karma] Dostoevsky presents Christianity as the correct/true moral framework, and the novel suggests that rejecting it brings spiritual and psychological ruin. In this view, to turn away from Christian morality is not just a mistake but a form of moral self-destruction, producing inner disorder, despair, and a kind of bad spiritual karma.
+- [MYTAKE] [Evaluation of Philosophies by the Whole-Lives They Produce] In some sense, different people in the book have different philosphies, and during the book we don't know exactly which philosophy is correct, but by the end of the book we see the end result of people lives, and we kind of assume that the quality of the end of their lives is proportional to truthful/good quality their philosophies were
+
+### Philosophical archetypes in the characters
+
+- [Raskolnikov] [Will to Power/ Nietzsche] Raskolnikov represents revolt against Christian morality and a will to self-authorization.
+  - [End result] This path for Raskolnikov ended in collapse, guilt, confession, and a painful beginning of spiritual renewal.
+- [Sonya] [Christianism] Sonya represents Christian love, forgiveness, and moral objectivism.
+  - [End result] Through her love, she makes Raskolnikov go through a paradigm shift, and finalize the arch of redemption.
+- [Svidrigailov] [Boundless hedonism] Svidrigailov represents hedonism and the exhaustion that follows a life of self-indulgence.
+  - [End result] His philosophy leads to emptiness, despair, and suicide.
+- [Luzhin] [Bourgeois Utilitarianism] Luzhin represents rational egoism and self-interest dressed up as reason.
+  - [End result] He tries to use calculation, manipulation, and social strategy to secure Dunya and control the family’s future for his own advantage, but he fails because his schemes are exposed, his motives are seen through, and the people around him refuse to accept his moral pretenses.
 
 # Psychological Lens
 
@@ -168,10 +172,10 @@ https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3
 ## Raskolnikov and Sonya
 - [MYTAKE] I love them as couple. For sure one of my favourite couples in Literature.
 
-- [Crime Choice] Choice versus necessity: he chooses crime, while she is driven into prostitution by circumstance.
+- [Sin driven by choice vs necessity] He chooses crime, while she is driven into prostitution by circumstance.
 - [Ethics] Moral relativism versus moral objectivism.
 - [Salvation] He saves her socially at one moment, while she saves him spiritually over the longer arc of the novel.
-- [Epistemology] Rational and modern versus emotional and religious.
+- [Epistemology] Rational and modern versus religious and emotional.
 
 ## Raskolnikov and Razumikhin
 

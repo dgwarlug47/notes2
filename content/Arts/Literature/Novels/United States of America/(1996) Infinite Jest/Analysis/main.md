@@ -11,14 +11,14 @@ highlights: true
 
 # Memory Trigger
 
-1. Dense and Detailed Prose: The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
-2. Loneliness: Tennis as a Metaphor, The sport symbolizes the isolating nature of modern life, where individuals compete in solitude.
-3. Addiction: Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies. It expanded my understanding of addiction.
+1. [Dense and Detailed Prose] The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
+2. [Loneliness] Tennis as a Metaphor, The sport symbolizes the isolating nature of modern life, where individuals compete in solitude.
+3. [Addiction] Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies. It expanded my understanding of addiction.
 - For example the girl that kept her baby even though it was dead already
-4. Literary Significance: Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
-5. Hedonism and Its Consequences: The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
-6. I love how it relates to the whole history of mankind's philosophy
-7. Platos' dialogue mockery
+4. [Literary Significance] Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
+5. [Hedonism and Its Consequences] The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
+6. [E2E Philosophy] I love how it relates to the whole history of mankind's philosophy
+7. [Platos' dialogue] mockery
 - And the disbelief over american philosophy on present times (or any time really)
 
 # Basics
@@ -292,9 +292,8 @@ became obsessed with the state of its tongue, when people would no sooner leave 
 emergency backup tongue-scraper than they'd fail to wash and brush and spray. The year when the sink-and-mirror areas of public
 restrooms were such grim places to be."
 
-## American Culture
-- Did not both Iraq and Iran call U.S.A the Very Large Satan
-- "Marathe fazia pequenos círculos enfáticos e cortes no ar enquanto falava: “Esses fatos da
+## American Philosophy
+- [Quote] "Marathe fazia pequenos círculos enfáticos e cortes no ar enquanto falava: “Esses fatos da
 situação, que dizem com tanta clareza o medo do seu Bureau desse samizdat: agora é o que
 aconteceu quando um povo não escolhe nada mais para amar além de si próprio, cada um. Um
 EUA que morreria — e deixaria seus filhos morrerem, cada um — pelo suposto perfeito
@@ -307,17 +306,20 @@ sobreviver como uma nação de povos? De menos ainda exercer um domínio sobre o
 nações de outros povos? Se esses são outros povos que ainda sabem o que é escolher? que
 aceitam morrer por algo maior? Que sacrificam o lar quentinho, a mulher amada em casa, as
 pernas, até a vida, por uma coisa maior que os próprios desejos de sentimento deles? que
-escolheriam não morrer de prazer, sozinhos?”.
--  "Para manter vocês juntos, o ódio de um outro. Gentle é louco dentro da cabeça, mas nessa ‘culpa de alguém’ ele estava correto em dizer. Un ennemi commun. Mas não alguém fora de você, esse inimigo. Alguém ou algum povo dentro de sua própria história um dia matou já sua nação EUA, Hugh. Alguém que tinha autoridade, ou devia ter tido autoridade, e não exercitou autoridade. Eu não sei. Mas alguém em algum momento deixou vocês esquecerem como escolher, e o quê. Alguém deixou seus povos esquecerem que era a única coisa de importância, escolher. Tão completamente esquecendo que quando eu digo escolher para você você faz expressões com o rosto como que ‘Láááá se vamos nós’. Alguém ensinou que templos são para fanáticos só, tirou os templos e jurou que não havia necessidade de templos. E agora não há abrigo. E não há mapa para achar o abrigo de um templo. E vocês todos andam tateando no escuro, nessa confusão de permissões. A sem-fim busca da felicidade da qual alguém deixou vocês esquecerem as velhas coisas que
-possibilitam a felicidade. Como é que vocês dizem: ‘Está valendo tudo’?”
-- “Não existem escolhas sem liberdade pessoal, rapá. Não somos nós que estamos mortos por
+escolheriam não morrer de prazer, sozinhos?”."
+- [Analysis] Marathe argues that American culture may choose comfort and entertainment over sacrifice for something greater.
+- [Quote] [Social Crisis] [Anti-establishment political phenomenon] [Establishment] [Non-institutional moral formation] [Sartre Existentialism] [Hedonism] "Para manter vocês juntos, o ódio de um outro. Gentle é louco dentro da cabeça, mas nessa ‘culpa de alguém’ ele estava correto em dizer. Un ennemi commun. Mas não alguém fora de você, esse inimigo. Alguém ou algum povo dentro de sua própria história um dia matou já sua nação EUA, Hugh. Alguém que tinha autoridade, ou devia ter tido autoridade, e não exercitou autoridade. Eu não sei. Mas alguém em algum momento deixou vocês esquecerem como escolher, e o quê. Alguém deixou seus povos esquecerem que era a única coisa de importância, escolher. Tão completamente esquecendo que quando eu digo escolher para você você faz expressões com o rosto como que ‘Láááá se vamos nós’. Alguém ensinou que templos são para fanáticos só, tirou os templos e jurou que não havia necessidade de templos. E agora não há abrigo. E não há mapa para achar o abrigo de um templo. E vocês todos andam tateando no escuro, nessa confusão de permissões. A sem-fim busca da felicidade da qual alguém deixou vocês esquecerem as velhas coisas que possibilitam a felicidade. Como é que vocês dizem: ‘Está valendo tudo’?"
+- - [MYTAKE] Marathe's diagnosis is that American civilization is experiencing a civilizational crisis whose immediate symptoms are social fragmentation, addiction, and the inability to sustain meaningful commitments. Gentle proposes the ESTABLISHMENT as the crisis cause, but we know it's only a proximal cause. Marathe argues that the root cause is another. Over time, the cultural establishment—through education, media, public institutions, and broader social change—delegitimized the traditional "temples" that had historically formed individuals through shared moral and religious philosophies. Responsibility for constructing a philosophy of life shifted from institutions to the individual. Although this expansion of individual autonomy is not inherently harmful, in practice many people, lacking a compelling higher object of devotion, drift toward hedonism and the pursuit of pleasure. This leaves society without what might be called philosophical immunity: when confronted with the Entertainment (Infinite Jest), people possess no higher commitment capable of resisting infinite gratification, and the civilization becomes vulnerable to collapse.
+- - [MYTAKE] The establishment largely preserved a morality of justice while weakening a morality of virtue.
+- [Quote] [Vices are the price of freedom] “Não existem escolhas sem liberdade pessoal, rapá. Não somos nós que estamos mortos por
 dentro. Essas coisas que vocês acham tão fracas e desprezíveis em nós — elas são só os
 riscos da liberdade.”
+- - This is part of the philosophical conversation between Steeply and Marathe
+
 
 ## Politics
-
-Prediction of global need for anti establishment
-- "Johnny Gentle's campaign positions him as an outsider, rejecting traditional left or right political alignments. He claims that the real issue lies with the current political establishment and promises to bring entirely unconventional solutions. Interestingly, Johnny Gentle is a television personality, drawing parallels to figures like Donald Trump."
+- [Quote] [Prophetic fiction] [Need for anti establishment] "Johnny Gentle's campaign positions him as an outsider, rejecting traditional left or right political alignments. He claims that the real issue lies with the current political establishment and promises to bring entirely unconventional solutions."
+- - [Trump parallel] Interestingly, Johnny Gentle is a television personality, drawing parallels to figures like Donald Trump.
 
 # Statistics
 
