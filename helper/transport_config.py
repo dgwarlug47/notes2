@@ -29,7 +29,7 @@ relativeSourceFilePaths = [
     "Arts/Literature/Novels/United States of America/(1958) Breakfast at Tifanny's",
     "Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis",
     "Arts/Literature/Poetry/Aggregation/Mine",
-    "Arts/Performing arts/Moving pictures/Cinema/Aggregation/Rom-Coms based on what?",
+    "Arts/Performing arts/Moving pictures/Cinema/Aggregation/Rom Coms based on what",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/1970s/Annie Hall",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2000s/500 days of summer",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Begin Again",
