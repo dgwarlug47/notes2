@@ -7,6 +7,7 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 import CommentsForm from "../components/comments-form"
 import CommentsList from "../components/comments-list"
+import commentsData from "../../comments.json"
 import "../style.css" // Ensure you have the correct path to your CSS file
 
 const BlogPostTemplate = ({
@@ -48,7 +49,7 @@ const BlogPostTemplate = ({
         {/* Comments Section */}
         <section className="blog-comments">
           <h1>Comments</h1>
-          <CommentsList postTitle={post.frontmatter.title} />
+          <CommentsList postTitle={post.frontmatter.title} comments={commentsData} />
           <h1>Add your comments</h1>
           <CommentsForm postId={post.id} postTitle={post.frontmatter.title} />
         </section>

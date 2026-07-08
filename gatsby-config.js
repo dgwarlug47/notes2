@@ -128,7 +128,7 @@ module.exports = {
     title: `Notes`,
     author: {
       name: `Davi Cavalcanti Sena`,
-      summary: `who lives and works in Vancouver building useless things`,
+      summary: `who lives in Caruaru doing and thinking`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

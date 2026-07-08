@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-const CommentsList = ({ postTitle }) => {
+const CommentsList = ({ postTitle, comments: commentsData }) => {
   const [comments, setComments] = useState([]);
 
   const noCommentElement = () => {
@@ -15,6 +15,18 @@ const CommentsList = ({ postTitle }) => {
   };
   
   const loadComments = () => {
+    // If comments data prop is provided, use it
+    if (commentsData && Array.isArray(commentsData)) {
+      const postData = commentsData.find(
+        post => post.post_name === postTitle
+      )
+      if (postData && postData.comments) {
+        setComments(postData.comments)
+        return
+      }
+    }
+
+    // Otherwise fall back to localStorage
     if (typeof window === "undefined") {
       setComments([])
       return
