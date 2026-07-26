@@ -81,8 +81,7 @@ publishDate: 2025-03-01
 
 ![alt text](image-7.png)
 
-Personal
-- It's weird how I connect with DFW as a person through Hal Incandenza. 99.999% of people have no interest of accumulating all knowledge of mankind, all of these people don't have a Hal Incandenza inside themselves, and it's crazy that DFW also has a "Hal's urge" in him, and he wrote a book about it, and the main revelation even though it's highly tempting to become Hal, it's not worth it all KKKKKKKKKK. But of couse I exagerated everyone has some degree of Hal in themselves
+- [MYTAKE] [Knowledge acquisition as hedonism] It's weird how I existentially connect with DFW as a person through Hal Incandenza. 99.999% of people have no interest of accumulating all knowledge of mankind. Most people just care about social metrics such as money or job titles, or their own self pleasure such as having sex. All of these people don't have a Hal Incandenza inside themselves, and it's crazy that DFW also has a "Hal's urge" in him, and he wrote a book about it, and the main revelation even though it's highly tempting to become Hal, it's not worth it all KKKKKKKKKK. And since I have that "Hal's urge" I can totally relate that yes I feel the seduction to accumulate all knowledge of mankind, but I also relate that's not worth it.
 
 Autism
 - In the very first chapter we can see how autistic he really is, by the fact that he display/shows infinite knowledge, I love the fact that he has summarized all of the dictionary
@@ -145,8 +144,7 @@ Orin's role with Infinite Jest
 franqueza a gente acha que já chega de fazer merda aí.”
 “Oi, Orin.”
 - I am not sure if he is a terrible guy, but he acts like one, in fact he ignores completley his brother and even after his father killed himself he didn't go to the funeral. He clearly runs a lot from his inner problems
-- Schtitt supôs que
-Orin tinha dado acidentalmente com uma maneira, naquele jogo americano grotescamente
+- "Schtitt supôs que Orin tinha dado acidentalmente com uma maneira, naquele jogo americano grotescamente
 físico e territorial, de legitimar a mesma dependência do único golpe de lob que tinha evitado
 que ele desenvolvesse a coragem de desenvolver suas áreas mais fracas, que essa
 indisposição de arriscar um fracasso e uma fraqueza temporários em nome de ganhos de longo

@@ -31,14 +31,13 @@ Main painters
 - One of the critics labeled one of the monet's painting as an impression, unfinished, and that's where the name of movement came from
 - This exibhition had very different rules than the ones from the salon, like no jury
 
-![alt text](image.png))
+![alt text](image.png)
 
 ## Photography 
 - The fact that at the time photography started to exist, it became a bit meaningless to have paintings to be realistic, since photographies did a better job doing that
 - - Historical materialism once again
 
 # Why is good
-
 
 ## How an Impressionist painting is supposed to make you feel
 - [MYTAKE] Impressionist art evokes warmth, lightness, and immediacy. It captures the fleeting mood of a moment, inviting you to feel its atmosphere and emotion rather than focus on detail.

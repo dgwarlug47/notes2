@@ -2,18 +2,18 @@
 # Contains all source and destination path mappings
 
 baseDownstream = "/Users/davisena/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/"
-baseUpstream = "/Users/davisena/Desktop/notes2/content/"
+baseUpstream = "/Users/davisena/Desktop/Code/notes2/content/"
+
 
 
 relativeSourceFilePaths = [
-"Aggregation/Fundamentals",
-    "Aggregation/Fundamentals/Theories Good",
-    "Aggregation/Fundamentals/Theories Good/Marriage Practical Allignment",
-    "Aggregation/Fundamentals/Theories Good/Why Bellevue has no soul",
-    "Aggregation/Games/Sports/Football/Champions League",
-    "Aggregation/Games/Sports/Football/Messi2",
-    "Aggregation/Games/Sports/Football/World cup",
-    "Aggregation/Games/Sports/Football/World cup",
+    "Aggregation/E2E/Essays/Theories Good",
+    "Aggregation/E2E/Essays/Theories Good/Marriage Practical Allignment",
+    "Aggregation/E2E/Essays/Theories Good/Why Bellevue has no soul",
+    "Aggregation/Other/Games/Sports/Football/Champions League",
+    "Aggregation/Other/Games/Sports/Football/Messi2",
+    "Aggregation/Other/Games/Sports/Football/World cup",
+    "Aggregation/Other/Games/Sports/Football/World cup",
     "Arts/Literature/Novels/Brazil/(1881) Memorias Postumas de Bras Cubas",
     "Arts/Literature/Novels/Brazil/(1900) Dom Casmurro",
     "Arts/Literature/Novels/Canada/(1985) The Handmaid's Tale",
@@ -36,6 +36,7 @@ relativeSourceFilePaths = [
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Manchester by the sea",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Midnight in Paris",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza",
+    "Arts/Performing arts/Moving pictures/Series/Simpsons/References",
     "Arts/Performing arts/Music/Aggregation/Favourites/Indie Albums",
     "Arts/Performing arts/Music/Indie/Beirut",
     "Arts/Performing arts/Music/Indie/Geese/Heavy Metal",
