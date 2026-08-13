@@ -36,7 +36,6 @@ relativeSourceFilePaths = [
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Manchester by the sea",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Midnight in Paris",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza",
-    "Arts/Performing arts/Moving pictures/Series/Simpsons/References",
     "Arts/Performing arts/Music/Aggregation/Favourites/Indie Albums",
     "Arts/Performing arts/Music/Indie/Beirut",
     "Arts/Performing arts/Music/Indie/Geese/Heavy Metal",
