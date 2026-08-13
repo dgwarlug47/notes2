@@ -7,9 +7,9 @@ baseUpstream = "/Users/davisena/Desktop/Code/notes2/content/"
 
 
 relativeSourceFilePaths = [
-    "Aggregation/E2E/Essays/Theories Good",
-    "Aggregation/E2E/Essays/Theories Good/Marriage Practical Allignment",
-    "Aggregation/E2E/Essays/Theories Good/Why Bellevue has no soul",
+    "Aggregation/Interdisciplinary/Essays/In blog/Marriage Practical Allignment",
+    "Aggregation/Interdisciplinary/Essays/In blog/Why Bellevue has no soul",
+    "Aggregation/Interdisciplinary/Essays/In blog",
     "Aggregation/Other/Games/Sports/Football/Champions League",
     "Aggregation/Other/Games/Sports/Football/Messi2",
     "Aggregation/Other/Games/Sports/Football/World cup",
@@ -55,6 +55,7 @@ relativeSourceFilePaths = [
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Foucault/Discipline and punish",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Heidegger",
     "Humanities/Religion/Christianism/Principles",
+    "Humanities/Religion/Hinduism/Mahabharata/Bhishma Parva/Bhagavad Gita/Aggregation",
     "Mathematics/Logic/(1891) About an elementary question of the theory of diversity - Cantor",
     "Sciences/Natural Sciences/Psychology/Aggregation/MBTI",
     "Sciences/Social Sciences/Anthropology/Aggregation/Claude Levis Strauss",

@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+.markmap-dark {
+  background: #27272a;
+  color: white;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/index.js"></script><script>(r => {
+              setTimeout(r);
+            })(function renderToolbar() {
+  const {
+    markmap,
+    mm
+  } = window;
+  const {
+    el
+  } = markmap.Toolbar.create(mm);
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root2, jsonOptions) => {
+              const markmap = getMarkmap();
+              window.mm = markmap.Markmap.create(
+                "svg#mindmap",
+                (getOptions || markmap.deriveOptions)(jsonOptions),
+                root2
+              );
+              if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+                document.documentElement.classList.add("markmap-dark");
+              }
+            })(() => window.markmap,null,{"content":"","children":[{"content":"Story","children":[{"content":"Arjuna&#x2019;s dilemma","children":[],"payload":{"tag":"li","lines":"1,2"}},{"content":"moral","children":[],"payload":{"tag":"li","lines":"2,3"}},{"content":"practical","children":[],"payload":{"tag":"li","lines":"3,4"}},{"content":"Arjuna initial stance","children":[],"payload":{"tag":"li","lines":"4,6"}}],"payload":{"tag":"h1","lines":"0,1"}},{"content":"Metaphysics (What is reality?)","children":[{"content":"Soul","children":[{"content":"Consciousness","children":[],"payload":{"tag":"li","lines":"9,12"}}],"payload":{"tag":"h2","lines":"8,9"}},{"content":"Brahman","children":[{"content":"Om Tat Sat","children":[],"payload":{"tag":"h3","lines":"14,15"}}],"payload":{"tag":"h2","lines":"12,13"}},{"content":"Krishna","children":[{"content":"Krishna remembers all births","children":[],"payload":{"tag":"li","lines":"17,18"}},{"content":"Transcendent and immanent","children":[],"payload":{"tag":"li","lines":"18,20"}}],"payload":{"tag":"h2","lines":"16,17"}},{"content":"Three gunas","children":[{"content":"Sattva","children":[],"payload":{"tag":"li","lines":"21,22"}},{"content":"Rajas","children":[],"payload":{"tag":"li","lines":"22,23"}},{"content":"Tamas","children":[],"payload":{"tag":"li","lines":"23,25"}}],"payload":{"tag":"h2","lines":"20,21"}}],"payload":{"tag":"h1","lines":"6,7"}},{"content":"The Human condition","children":[{"content":"Karma","children":[{"content":"Laws of karma","children":[{"content":"Action is karma","children":[],"payload":{"tag":"li","lines":"30,31"}},{"content":"Quality of action &#x2192; corresponding quality of reaction","children":[],"payload":{"tag":"li","lines":"31,32"}},{"content":"Inexorability of karma","children":[],"payload":{"tag":"li","lines":"32,33"}},{"content":"The intricacies of action are very hard to understand","children":[],"payload":{"tag":"li","lines":"33,34"}},{"content":"Cumulative Karma","children":[],"payload":{"tag":"li","lines":"34,36"}}],"payload":{"tag":"h3","lines":"29,30"}},{"content":"Types of Karma","children":[{"content":"Vikarma","children":[],"payload":{"tag":"li","lines":"37,38"}},{"content":"Akarma","children":[],"payload":{"tag":"li","lines":"38,39"}},{"content":"punya","children":[],"payload":{"tag":"li","lines":"39,40"}},{"content":"papa","children":[],"payload":{"tag":"li","lines":"40,42"}}],"payload":{"tag":"h3","lines":"36,37"}}],"payload":{"tag":"h2","lines":"27,28"}},{"content":"Desire and attachment","children":[{"content":"Higher taste displaces lower desire","children":[],"payload":{"tag":"li","lines":"43,44"}},{"content":"Inverse Spiritual and Material Value Perception","children":[],"payload":{"tag":"li","lines":"44,46"}}],"payload":{"tag":"h2","lines":"42,43"}},{"content":"Suffering and bondage","children":[{"content":"Three Gates of Hell","children":[{"content":"Lust (k&#x101;ma)","children":[],"payload":{"tag":"li","lines":"52,53"}},{"content":"Anger (krodha)","children":[],"payload":{"tag":"li","lines":"53,54"}},{"content":"Greed (lobha)","children":[],"payload":{"tag":"li","lines":"54,56"}}],"payload":{"tag":"h3","lines":"50,51"}},{"content":"Karmic Bondage","children":[{"content":"Samsara -- large scale","children":[],"payload":{"tag":"li","lines":"57,58"}},{"content":"Bondage cycle -- small scale","children":[],"payload":{"tag":"li","lines":"58,59"}},{"content":"Web of Bondage -- interconnected bondage cycles among many people","children":[],"payload":{"tag":"li","lines":"59,61"}}],"payload":{"tag":"h3","lines":"56,57"}},{"content":"Samsara","children":[{"content":"Assignment of the Next Body","children":[],"payload":{"tag":"li","lines":"62,64"}}],"payload":{"tag":"h3","lines":"61,62"}}],"payload":{"tag":"h2","lines":"46,47"}},{"content":"Demoniac Nature (&#x100;sur&#x12b;)","children":[{"content":"[Sense gratification as highest good]","children":[],"payload":{"tag":"li","lines":"66,67"}},{"content":"[Material advancement &#x2260; true progress]","children":[],"payload":{"tag":"li","lines":"67,68"}},{"content":"[Invented religion]","children":[],"payload":{"tag":"li","lines":"68,70"}}],"payload":{"tag":"h2","lines":"64,65"}},{"content":"Dharma","children":[{"content":"Epistmic authority","children":[{"content":"Time-tested ethical and spiritual principles rather than acting solely according to personal desires.","children":[],"payload":{"tag":"li","lines":"74,76"}}],"payload":{"tag":"h3","lines":"73,74"}}],"payload":{"tag":"h2","lines":"70,71"}}],"payload":{"tag":"h1","lines":"25,26"}},{"content":"Yoga","children":[{"content":"Karma Yoga (selfless action)","children":[{"content":"[Central principle] Perform dharma without egoic attachment","children":[],"payload":{"tag":"li","lines":"78,80"}}],"payload":{"tag":"h2","lines":"77,78"}},{"content":"Jnana Yoga (knowledge and discernment)","children":[{"content":"S&#x101;&#x1e45;khya Yoga (philosophical knowledge)","children":[],"payload":{"tag":"li","lines":"81,82"}}],"payload":{"tag":"h2","lines":"80,81"}},{"content":"Bhakti Yoga (devotion and surrender)","children":[{"content":"[Pure bhakti includes and surpasses other paths]","children":[],"payload":{"tag":"li","lines":"83,84"}},{"content":"[Light of knowledge] K&#x1e5b;&#x1e63;&#x1e47;a gives sincere devotees the understanding/intelligence by which they can know and approach Him.","children":[],"payload":{"tag":"li","lines":"84,85"}},{"content":"Mah&#x101;-mantra","children":[],"payload":{"tag":"li","lines":"85,86"}}],"payload":{"tag":"h2","lines":"82,83"}},{"content":"Dhyana Yoga (meditation and mind discipline)","children":[{"content":"Permanent spiritual progress","children":[],"payload":{"tag":"h3","lines":"88,89"}}],"payload":{"tag":"h2","lines":"86,87"}},{"content":"Guru","children":[{"content":"Pedagogy of Elevation","children":[{"content":"Do not violently disrupt developing consciousness","children":[],"payload":{"tag":"li","lines":"93,95"}}],"payload":{"tag":"h3","lines":"92,93"}}],"payload":{"tag":"h2","lines":"90,91"}},{"content":"Stages / Milestones","children":[{"content":"equinamity","children":[],"payload":{"tag":"li","lines":"96,97"}},{"content":"yogi","children":[],"payload":{"tag":"li","lines":"97,98"}},{"content":"advanced yogi","children":[],"payload":{"tag":"li","lines":"98,99"}},{"content":"Advanced yog&#x12b;s may deliberately choose the time of departure","children":[],"payload":{"tag":"li","lines":"99,100"}},{"content":"sage","children":[],"payload":{"tag":"li","lines":"100,101"}},{"content":"sthita-praj&#xf1;a","children":[],"payload":{"tag":"li","lines":"101,102"}},{"content":"gosv&#x101;m&#x12b;","children":[],"payload":{"tag":"li","lines":"102,103"}}],"payload":{"tag":"h2","lines":"95,96"}}],"payload":{"tag":"h1","lines":"76,77"}}]},{})</script>
+</body>
+</html>
