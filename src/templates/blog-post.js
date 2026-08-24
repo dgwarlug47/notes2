@@ -17,14 +17,20 @@ const BlogPostTemplate = ({
   const siteTitle = site.siteMetadata?.title || `Title`
   const [processedHtml, setProcessedHtml] = useState(post.html)
   
-  // Process HTML to highlight MYTAKE
+  // Process HTML to highlight bracketed notes: [MYTAKE] in a soft purple and all other brackets in blue
   useEffect(() => {
     if (post.html) {
-      // Apply highlighting to "MYTAKE" text
-      const highlighted = post.html.replace(
-        /MYTAKE/g, 
-        '<span style="color: #6e76a8; font-weight: bold;">MYTAKE</span>'
-      )
+      const size = '1.08em'
+      const myTakeColor = '#7a72c5'
+      const otherColor = '#6e76a8'
+
+      const highlighted = post.html.replace(/\[([^\]]+)\]/g, (match, inner) => {
+        const normalized = inner.trim()
+        const isMyTake = normalized.toUpperCase() === 'MYTAKE'
+
+        return `<span style="font-size: ${size}; color: ${isMyTake ? myTakeColor : otherColor}; font-weight: 700;">${match}</span>`
+      })
+
       setProcessedHtml(highlighted)
     }
   }, [post.html])
