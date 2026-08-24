@@ -34,6 +34,7 @@ publishDate: 2025-03-01
 ### 2. Philosophical Suicide
 
 - [Definition] [Escape through metaphysical meaning] There are many types of philosophical suicide, but they all escape the absurd by affirming a metaphysical meaning: a meaning that exists beyond human consciousness, biological processes, and chemical reactions in the brain.
+- [Distinction] [Three forms of philosophical escape] Philosophical suicide can take at least three forms: believing that one’s personal meaning is grounded in a real metaphysical meaning; believing that a meaning without metaphysical grounding still possesses some nonphysical relevance; or simply ignoring the distinction between metaphysical meaning and meaning produced by physical processes.
 - [Definition] [The absurd] For Camus, the absurd arises when the human demand for metaphysical meaning confronts a universe that provides no knowable answer beyond the meanings generated within human life.
 
 - [MYTAKE] [Camus does not evade the question] IMPORTANT: I love this about Camus because he does not run from the main question—the question that got me into studying philosophy in the first place. In the end, Nietzsche commits philosophical suicide when he talks about the will to power, just as Sartre commits philosophical suicide when he talks about living an authentic life.
