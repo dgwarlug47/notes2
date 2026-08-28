@@ -6,7 +6,7 @@ types: Philosophy
 publishDate: 2025-03-01
 ---
 
-![Camus mind-map tree](camus_tree_v5.png)
+![alt text](image.png)
 
 
 # Personal

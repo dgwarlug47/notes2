@@ -1,36 +1,92 @@
-# *Being and Time* — 20 Takeaways in Plain Language vs. Heidegger's Language
-
-| # | Common language | How Heidegger would put it |
-|---|---|---|
-| **1** | We know that things exist, but it's surprisingly hard to explain what **“existing”** actually means. | The **meaning of Being** has been forgotten and must again become a question. |
-| **2** | Humans are unusual because **our own lives matter to us**. | **Dasein** is the entity for which, in its Being, that Being is an issue. |
-| **3** | We don't start as isolated minds and then discover the outside world. **We're already living in it.** | Dasein is essentially **Being-in-the-world**. |
-| **4** | We usually understand things by **using and dealing with them**, not by staring at them and thinking about them. | The **ready-to-hand** is more primordial than the **present-at-hand**. |
-| **5** | Things make sense because they're connected to other things and purposes. A hammer makes sense because of nails, wood, building, etc. | Equipment is encountered within a **referential totality** of significance. |
-| **6** | You were born into a life you didn't choose. | Dasein finds itself **thrown** into the world. |
-| **7** | But you still have to decide what to do with the life you've been given. | In its **thrownness**, Dasein **projects** itself upon possibilities. |
-| **8** | We understand ourselves partly through **what we could become**. | Dasein's Being is essentially **Being-possible**. |
-| **9** | Other people influence how we think about what is normal, successful, embarrassing, valuable, etc. | Everyday Dasein exists under the domination of **the They (*das Man*)**. |
-| **10** | We often do things simply because **“that's what people do.”** | Dasein tends toward **falling** into the They and everydayness. |
-| **11** | Following the crowd can make us forget that **we are choosing** how to live. | The They relieves Dasein of responsibility for its own Being. |
-| **12** | Sometimes anxiety makes ordinary life suddenly feel strange or meaningless. | In **anxiety (*Angst*)**, the familiar significance of the world collapses. |
-| **13** | That uncomfortable anxiety can reveal that no social rule can completely tell you **what to do with your life**. | Anxiety discloses Dasein as **free for its ownmost possibilities**. |
-| **14** | You can't escape the fact that **your life will end**. | Dasein is essentially **Being-toward-death**. |
-| **15** | Death matters now because it means **you don't have unlimited time or unlimited possibilities**. | Death is Dasein's **ownmost, non-relational, and unsurpassable possibility**. |
-| **16** | Nobody else can live your life—or die your death—for you. | In anticipating death, Dasein is **individualized** from the They. |
-| **17** | Living authentically doesn't mean finding some magical “true self.” It means **taking responsibility for the life you're actually living**. | **Authenticity (*Eigentlichkeit*)** consists in Dasein's resolute appropriation of its own possibilities. |
-| **18** | Your past isn't simply gone. It continues to shape who you are and what you can become. | Dasein always already **has-been**; its thrownness belongs to its temporality. |
-| **19** | Your future matters now because what you're trying to become determines what your present actions mean. | Dasein **projects itself toward possibilities**; futurity is fundamental to its temporality. |
-| **20** | **You aren't a finished thing. You're a life that has to be lived.** | The “essence” of Dasein **lies in its existence**. |
-
+---
+title: Being and Time by Heidegger
+order: 3
+description: a true existentialist, he describes very well what it means to be a being
+types: Philosophy
+publishDate: 2025-05-02
 ---
 
-## The whole book in one contrast
+![Being and Time book cover](image-1.png)
 
-**Common language:**
+![Being and Time note tree](note-tree.png)
 
-> You arrive in a world you didn't choose. You inherit ways of thinking from other people. You spend most of your life absorbed in everyday activities. But you are always becoming something through the possibilities you pursue. Anxiety and awareness of death can reveal that your time is finite and that, ultimately, you have to take responsibility for how you live it.
 
-**Heidegger's language:**
+# Being-in-the-World
 
-> **Dasein**, as **Being-in-the-world**, is **thrown** into a world of significance, ordinarily **falls** into **the They**, and **projects** itself toward possibilities. Through **anxiety** and **Being-toward-death**, Dasein can become individualized and **resolutely** appropriate its ownmost possibilities, revealing the fundamentally **temporal** structure of its Being.
+- [Definition] [The world is a structure of meaning rather than a geometric arrangement] Being-in-the-world understands the world not as a geometric disposition of objects, but through the meaning of each part of the world.
+
+- - [MYTAKE] [People sharing a world can share a similar existence] I think this is very interesting. For example, in Vancouver, my friends and I at the timet had a very similar existence because we lived in the same spatial world and attached the same meanings to things: Panorama Ridge, visas, the same *Sorge* (concern), team onboarding, learning Azure, and the same meaning for things in general.
+
+# Facticity and Thrownness
+
+- [Definition] [Facticity] Facticity is the given conditions of your existence. Whether it is objective facts like your nationality, or the current meaning of things to you
+
+- [Definition] [Thrownness] Thrownness is finding yourself already in those conditions.
+
+- [Example] [Nationality and native language distinguish facticity from thrownness] Facticity: you are Brazilian, and Portuguese is your native language. Thrownness: you find yourself already Brazilian and Portuguese-speaking without having chosen your birth or first language.
+
+# Modes of Being
+
+- [Definition] [The They] *The They* (*Das Man*) is the anonymous social force that shapes our beliefs, values, and behaviors. It is the collective voice of society that tells us what is normal, acceptable, and desirable.
+
+- - [MYTAKE] [Das Man can explain why people act as they do] For any person doing anything, if you ask, “Why did they do X?”, one answer is that they did X because *Das Man* expected it. It's one of the most common reason why anyone did anything.
+
+## Fallenness
+
+- [Definition] [Fallenness] Fallenness (*Verfallen*) is letting what *Das Man* defines as normal determine your goals and interpretations without personally examining and owning them.
+
+- - [MYTAKE] [Is is interesting when an opinion reveals whether it is fallen or authentic] When talking with someone and hearing their opinion, I think the most interesting thing is determining whether they hold it because of fallenness or authenticity. Example when brazilians hate Argentina because *Das Man* says so, or when someone hates a political party because *Das Man* says so, or when someone hates a political party because they have personally examined and owned their opinion.
+
+### Symptoms 
+- [Definition] [Idle talk] Idle talk (*Gerede*) consists of speaking in clichés, unexamined opinions, or gossip.
+
+- [Definition] [Curiosity] Curiosity (*Neugier*) is a superficial interest in things that does not lead to understanding.
+- - [EXAMPLE] [Doom scrolling is a form of curiosity] Doom scrolling is a form of curiosity because it is a superficial interest in things that does not lead to understanding.
+
+- [Definition] [Ambiguity] Ambiguity (*Zweideutigkeit*) is a lack of clarity about what is important, what to do, and what to expect.
+- - [EXAMPLE] [Overthinking about marriage without going on dates is a form of ambiguity] Overthinking about marriage without going on dates is a form of ambiguity because it is a lack of clarity about what is important, what to do, and what to expect.
+
+## Authenticity
+
+- [Definition] [Authenticity] Authenticity (*Eigentlichkeit*) is the ability to take ownership of your own existence your world and to live in accordance with your own values and goals.
+
+- [Definition] [Resoluteness is authenticity enacted in a concrete situation] Commit to a life project that reflects your own values. Take decisive, clear action even amid uncertainty. Do not be swayed by the anonymous voice of “the They” (*Das Man*).
+
+
+# Care and Projection
+
+- [Definition] [Care] Care (*Sorge*) is the structure of being that makes it possible to be concerned about the world and to have a meaningful existence
+
+- [Definition] [Projection] Projection is understanding yourself through what you could become.
+
+- [Principle] [The scope of projection determines how much of the meaningful world it reorganizes] Projection exists at every level; its scope determines how much of the meaningful world it reorganizes.
+
+- [Relationship] [A governing possibility determines the situation's relevance structure] Governing possibility → relevance structure of the situation. For example, if you are a high school student, the governing possibility is which university you will attend, and that determines the relevance structure of your situation, if you go to Dartmouth instead of Pomona, then East Coast will be home, instead of West Coast, more academic will be your identity instead of relaxed, and so on.
+
+# Anxiety
+
+- [Definition] [Anxiety] Heideggerian anxiety occurs when the familiar network of meanings that normally tells me what matters and what to do loses its authority—not merely when I doubt one particular choice.
+
+# Modes of Encounter
+- [Definition] [Ready-to-hand] Ready-to-hand (*Zuhanden*) is the mode of encountering things as tools in use, where their significance is derived from their role in a meaningful context.
+
+- [Definition] [Present-at-hand] Present-at-hand (*Vorhanden*) is the mode of encountering things as objects, where their significance is derived from their properties and relations.
+
+- [Relationship] [Ready-to-hand dominance leads to habituation]
+
+- [Relationship] [Present-at-hand dominance leads to examination]
+- - [MYTAKE] This is very similar to the concept of mindfulness 
+
+## Equipment (*Zeug*)
+
+- [Definition] [Equipment] We engage with things as tools in use, not merely as objects.
+
+- [Definition] [Referencial totality] Equipment is part of a referential totality, which is a network of meaning that gives the equipment its significance. In other words, the its meaning is downstream of the world.
+
+# Language
+
+- [Quote] [Language remains the master of man] “Man acts as though he were the shaper and master of language, while in fact language remains the master of man.”
+
+- [Interpretation] [Language mediates the deeper factors that dominate us] Language is usually the medium through which deeper factors dominate us—not the independent master. Examples of dominant factors would be our family, country and what not.
+
+

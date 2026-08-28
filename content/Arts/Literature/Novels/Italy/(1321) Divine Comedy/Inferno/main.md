@@ -6,91 +6,94 @@ types: Literature
 publishDate: 2025-03-18
 --- 
 
-# Memory Trigger
+<img src="image.png" alt="Inferno note tree" width="600"/>
 
-1. Sins of each level
-2. Definition of each sin
-3. The punishment
-4. Conselours of fraud
-5. Details about the cocito
-6. Legacy/Importance
 
 # Importance
 
 <img src="image-17.png" alt="drawing" width="600"/>
 
-Kickstarter of renaissance
+## Historical Importance
+
+[MYTAKE] [A starting point for the Renaissance]
+
 - Written even before the renaissance (1300)
 - We can see that much of the western thought is a continuation of the greek thought, this book is a starting point of re integration with the greek culture, which would include the greek thought as well
 
-Artistic Impact
-- Several representations of hell in modern culture, from T.S Elliot to video games whenever hell exists, it's based on Dante's
+## Artistic and Cultural Impact
 
-Culture
+[Legacy]
+
+- Several representations of hell in modern culture, from T.S Elliot to video games whenever hell exists, it's based on Dante's
 - Touchstone of medieval/antiquity culture of morality through greek/roman mythology
 
-Quality
+## Quality
+
+[MYTAKE]
+
 - Dante’s Inferno has become a cultural touchstone, representing the archetypal journey through darkness to enlightenment
 
 # Virgilio
 
 <img src="image-9.png" alt="drawing" width="600"/>
 
-Author meets his idol
+[Relationship] [The author meets his idol]
 
 Virgílio (70 a 19 a.C.) foi grande poeta da antiguidade e autor de várias obras 
 entre as quais as Geórgicas e a Eneida. Esta última conta a história da fundação de 
 Roma pelo troiano Enéas (veja nota 4.11). Dante conhecia as obras de Virgílio e 
 louva-o por ter influenciado seu estilo poético. De acordo com vários dantólogos, 
-Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do peregrino Dante (veja nota 1.1). É a razão “que apagada estivera, talvez por excessivo silêncio” que pode guiá-lo para fora da selva escura. 
+Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do peregrino Dante (veja nota 1.1). É a razão “que apagada estivera, talvez por excessivo silêncio” que pode guiá-lo para fora da selva escura.
 
 # Contrapasso
 
-Definition
-- Is the punishment of souls by a process either resembling or contrasting with the sin itself.
+[Definition] [Contrapasso] The punishment of souls through a process that either resembles or contrasts with the sin itself.
 
 # Visualization
-
-<img src="image.png" alt="drawing" width="600"/>
-
 
 <img src="image-21.png" alt="drawing" width="600"/>
 - Botticelli
 
 <img src="sins architecture.png" alt="drawing" width="600"/>
-- The main focus is on the intent of the sin, rather than what it was done
-- incontinencia eh melhor porque tem culpa mais nao tem dolo
-- violencia nao eh tao ruim porque eh de ocasiao, e nao premeditado.
-- a traicao eh o pior de todos porque tira a confianca de alguem que voce conhece ao em
-vez de um desconhecido
-- segue a etica de nico a nicomanico 
+
+[MYTAKE] [The architecture of sin]
+
+- The main focus is on the intent behind the sin rather than on what was done.
+- Incontinência é menos grave porque tem culpa, mas não tem dolo.
+- Violência não é tão grave porque é de ocasião e não premeditada.
+- A traição é o pior de todos porque destrói a confiança de alguém que você conhece, em vez de um desconhecido.
+- Segue a Ética a Nicômaco.
 
 
 # Limbo (Level 1)
 
 <img src="image-10.png" alt="drawing" width="600"/>
 
-The first level of Inferno is called Limbo. It is home to the unbaptized and virtuous pagans who lived and died before the birth of Christ.
+[Definition] [Limbo] The first level of Inferno, home to the unbaptized and virtuous pagans who lived and died before the birth of Christ.
 
 # Lust (Level 2)
 
 ![alt text](image-22.png)
 
-Punishment
-- Lustful sinners, regardless of the duration of their sin, are tossed about eternally by violent winds in the Second Circle. This represents how their desires carried them away uncontrollably in life
-- Could also the opposite of what their sin, instead of expansion, into desires, retractions
+## Punishment
 
-Cleopatra and Mark Anthony
+- [Punishment] [Lustful sinners are tossed by violent winds] Lustful sinners, regardless of the duration of their sin, are tossed about eternally by violent winds in the Second Circle. This represents how their desires carried them away uncontrollably in life.
+- [MYTAKE] This could also be the opposite of their sin: instead of expanding into their desires, they are forced into retraction.
+
+## Cleopatra and Mark Antony
+
 - Even though the killed themselves, they negotiated with the devil in order to have their own space in hell
 
-# Glutonny (Level 3)
+# Gluttony (Level 3)
 
 ![alt text](image-23.png)
 
-Punishment
+## Punishment
+
 - Forced to wallow in disgusting smelling mud, are constantly pelted by endless rain, sleet, snow, and hail, and are attacked by Cerberus.
 
-Cerberus
+## Cerberus
+
 - Cerberus (described as il gran vermo, literally 'the great worm', line 22), the monstrous three-headed beast of Hell
 
 <img src="image-16.png" alt="drawing" width="600"/>
@@ -100,11 +103,12 @@ Cerberus
 
 <img src="image-11.png" alt="drawing" width="600"/>
 
-Pluto (similar to hades) deus infernal da riqueza
+[Definition] [Pluto] Similar to Hades; deus infernal da riqueza.
 
-La vi mais almas que eu todos o circulos precedentes
+[Quote] “Lá vi mais almas que em todos os círculos precedentes.”
 
-Punishment
+## Punishment
+
 - Divisao entre os que gastaram demais, e os avarentos
 - Neste círculo repleto de montanhas, suas riquezas materiais se transformaram em grandes pesos de barras e moedas de ouro que um grupo deve empurrar contra o outro e também trocarem-se injúrias, pois suas atitudes em relação à riqueza foram opostas
 
@@ -113,27 +117,31 @@ Punishment
 <img src="image-12.png" alt="drawing" width="600"/>
 
 
-Rancor 
+## Rancor
+
 — Filho — disse o bom mestre —, aqui tu vês as almas dos 
 vencidos pela ira, e vou dizer-te ainda, se me crês, que embaixo 
 d'água há gente que suspira, fazendo-a borbulhar. São aqueles vencidos pelo rancor, a ira contida e passiva, porém igualmente destrutiva. Eles gorgolam o lodo e formam as bolhas que pipocam sobre esta lama fétida
 
-Rage
+## Rage
+
 - Being in a constant physical battle with one another that takes place on the surface of the River Estige
 
-Medusa
+## Medusa
 
 <img src="image-18.png" alt="drawing" width="600"/>
 - Eugène Delacroix - The Barque of Dante, 1822
 
-# Hereges (Level 6)
+# Heretics (Level 6)
 
 <img src="image-13.png" alt="drawing" width="600"/>
 
-Definition
-- Teoria, ideia, prática etc. que nega ou contraria a doutrina estabelecida (por um grupo, no caso a igreja)
+[Definition] [Heresy] Teoria, ideia, prática etc. que nega ou contraria a doutrina estabelecida por um grupo — neste caso, a Igreja.
 
-Start the city of dite
+## City of Dis
+
+[Structure] [The beginning of the City of Dis]
+
 - Divides between inner parts of hell, and outer parts. Which is divided between the people that performed sins due to lack of self control and people that performed sins deliberately betraying god's directions, it makes sense to punish those people more because they are a bigger threat to the church
 
 
@@ -141,7 +149,8 @@ São os hereges e seus seguidores
 — Em cada tumba repousam os réus de uma mesma seita, que são 
 torturados pelo fogo eterno
 
-Epicuro (341-270)
+## Epicurus (341–270 BC)
+
 - Interesting Epicuro is here because materialism is the most convincing doctrine that explains the world against it
 - filósofo grego que ensinou em Samos e Atenas. Sua filosofia materialista defende que todas as coisas são formadas por átomos cujas 
 combinações dão ao mundo sua estrutura particular. 
@@ -157,11 +166,13 @@ alma e da vida após a morte. [Larrousse 98]
 
 <img src="image-14.png" alt="drawing" width="600"/>
 
-Rio Flegetone
+### River Phlegethon
+
 - River of fire
 - Quanto mais grave o crime, maior a parte imersa. Como sua função era torturar as "almas" ele tinha que preservá-las, para torturá-las por mais tempo. Entretanto, para isso ele possuía águas curativas, e por isso, é chamado por alguns, de "Rio da Cura"
 
-Niveis de submerso no rio flegetone
+### Níveis de submersão no rio Flegetonte
+
 - Os violentos contra pessoas e seus bens, estão mergulhados no rio de sangue daqueles que oprimiram, quanto mais grave o crime, maior a parte imersa
 - Os assaltantes dentro do rio têm apenas o peito de fora, eles são punidos por terem praticado violência contra os bens de suas vítimas
 - Os homicidas só mantêm fora a cabeça. Também estão aqui Átila
@@ -171,23 +182,27 @@ Niveis de submerso no rio flegetone
 
 <img src="image-15.png" alt="drawing" width="600"/>
 
-Woods of the suicides
+### Wood of the Suicides
+
 - The souls are transformed into the gnarled, disfigured and brittle trees
 
-## Terceiro giro (Violencias contra Deus)
+## Terceiro giro (Violências contra Deus)
 
-The third round of the seventh circle is a great Plain of Burning Sand scorched by great flakes of flame falling slowly down from the sky, an image derived from the fate
-- The punishment resembles the world without god, supposed they have killed god, what would world would they get? That's the punishment they get, hell, itself burning flames. They are attacked by what person they attacked protect them from
+[Punishment] The third round of the seventh circle is a great Plain of Burning Sand, scorched by great flakes of flame falling slowly from the sky.
+
+- [MYTAKE] The punishment resembles a world without God. Supposing they have killed God, what world would they get? They receive that punishment: Hell itself, with burning flames. They are attacked by what the person they attacked would have protected them from.
 
 # Fraud (Level 8)
 
 <img src="image-4.png" alt="drawing" width="600"/>
 
-Definition
+[Definition] [Fraud]
+
 - Abuse of intellect
 - Since fraud can only be done by human beigns [betrayed a gift from god], it displeases god more, and therefore it has a higher hell than Violence
 
-Maleboge
+## Malebolge
+
 - It is a large, funnel-shaped cavern, itself divided into ten concentric circular trenches or ditches
 
 
@@ -198,10 +213,10 @@ Maleboge
 
 Panderers and seducers are punished here. They are forced to march, single file around the circumference of their circle, constantly lashed (whipped) by horned demons.
 
-Panderer
-- A panderer is a person who takes advantage of others' weaknesses or vices, especially for personal gain
+[Definition] [Panderer] A person who takes advantage of others' weaknesses or vices, especially for personal gain.
 
-Went to buy cigarettes
+### Went to Buy Cigarettes
+
 - Fathers that seduced woman and then left them to raise by themselves are in this part of hell
 
 ## Second Bolgia (Flatterers)
@@ -217,14 +232,15 @@ The robes are golden and resemble a monk's cowl but are lined with heavy lead, s
 Also, Caiaphas, the Pharisee who insisted on the execution of Jesus, and all of the Sanhedrin are crucified in this circle, 
 staked to the ground so that the ranks of the lead-weighted hypocrites march across him
 
-The Pharisee who insisted on the execution of Jesus
+### The Pharisee Who Insisted on the Execution of Jesus
+
 - They taught the law but did not practice some of the most important parts of the law: justice, mercy, faithfulness to God
 
 ## Seventh Bolgia (Thieves)
 
 In Inferno 24, the thieves are trapped in a self-perpetuating cycle of being bitten and bound by serpents, dragons and other vengeful reptiles.
 
-## Eigth Bolgia (Counselors of Fraud)
+## Eighth Bolgia (Counselors of Fraud)
 
 <img src="image-7.png" alt="drawing" width="600"/>
 
@@ -243,19 +259,20 @@ Among those who are tormented here is Muhammad, prophet of Islam and his son-in-
 
 ## Tenth Bolgia (Falsifiers)
 
-Falsificadores da materia punishment
-- Covered with sardas, and suffer uma coceira incessante
-- Cheiro forte de carne podre por conta da lepra
-- Pessoas se cocando uma as outras, esfregando seus corpos
+### Falsificadores da matéria
 
-Falsificadores de identidade
+- Covered with sardas, and suffer uma coceira incessante, Cheiro forte de carne podre por conta da lepra, Pessoas se cocando uma as outras, esfregando seus corpos
+
+### Falsificadores de identidade
+
 - sofrem com insanidade e ficam correndo como loucos por esse bolgia
 
-Falsificadores de palavra
-- febre tao intensa que ficam imoveis
-- Falso sinon em Troia
+### Falsificadores da palavra
 
-Falsificadores de dinheiro
+- febre tao intensa que ficam imoveis
+
+### Falsificadores de dinheiro
+
 - sentem uma sede incassiavel, mas nos seus sonhos so veem rios, lagos e mares
 
 # Treachery (Level 9, Cocito)
@@ -264,16 +281,19 @@ Falsificadores de dinheiro
 
 - Gustave Dore
 
-Definition
+[Definition] [Treachery]
+
 - Treachery involves a conscious and premeditated act of betrayal. It is not driven by passion or impulse but by a calculated decision to violate trust for personal gain, harm, or other selfish motives.
 - Calculated betrayal, malice in their heart
 
-Punishment
+## Punishment
+
 - It's is a contradiction because the very deep of hell is basically ice
 - The sinners stay with their whole body under ice except for their heads and chests
 - This reflects how cold the hearts of the sinners were
 
-Geography
+## Geography
+
 - This part of hell is divided in outerior circumferences, whereas the Caina is outer one
 
 Long causeway bridges run from the outer circumference of Malebolge to its center, 
@@ -290,7 +310,7 @@ Punishment
 Name
 - Inspired on Antenor, the prince of troy that betrayed his country by creating a conspiracy with the greeks against his own country
 
-## Judeca (Betrayed their benefeitores)
+## Judecca (Betrayed Their Benefactors)
 
 Punishment
 - The sinners stay with their whole body under ice including their heads
@@ -299,9 +319,10 @@ Punishment
 
 <img src="image-20.png" alt="drawing" width="600"/>
 
-Giant
+### Lucifer
+
 - There is a giant so large, that even its arm has the size of a giant
-- The giant eats three heads, Cassius, Brtus, and Judas
+- The giant eats three heads: Cassius, Brutus, and Judas
 - Lucifer himself has three mouths to chew every single one of his heads
 - The Giant cries with his six eyes for all eternity
 - Lucifer's virilha is the center of the earth

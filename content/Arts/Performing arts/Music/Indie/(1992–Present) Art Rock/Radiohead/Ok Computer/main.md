@@ -6,273 +6,168 @@ types: Music
 publishDate: 2025-05-04
 ---
 
-![alt text](image.png))
+![Cover of OK Computer](image.png)
 
-# Memory trigger
+![OK Computer note tree — overview and appearances](proposal-note-tree-overview.png)
 
-1. OK Computer ~= Classic Rock - Humanity + Computers
-2. Paranoid Android [Bohemian Rhapsody] - us not accepting being replaced by robots
-3. No surprises [Wouldn't it be nice] - us after accepting being replaced by robots
-4. Karma Police - us rebelling against robots [My interpretation, Thom York never said that]
+![OK Computer note tree — Paranoid Android](proposal-note-tree-paranoid-android.png)
+
+![OK Computer note tree — No Surprises](proposal-note-tree-no-surprises.png)
+
+![OK Computer note tree — Karma Police, Let Down, and Electioneering](proposal-note-tree-remaining-songs.png)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6dVIqQ8qmQ5GBnJ9shOYGE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-# Best songs
 
-https://www.theguardian.com/music/2020/jan/23/radioheads-40-greatest-songs-ranked
+# Album Overview
 
-# OK Computer
+## Sources
 
-https://www.youtube.com/watch?v=nYYMIYWEdwQ
+- [Reference] [The Guardian's ranking of Radiohead songs] https://www.theguardian.com/music/2020/jan/23/radioheads-40-greatest-songs-ranked
+- [Reference] [Video about OK Computer] https://www.youtube.com/watch?v=nYYMIYWEdwQ
 
+## Themes and Context
 
-## **What is it about**
-- Thom Yorke had anxiety and depression while he was producing OK COMPUTER, the album has a lot to do with his personal struggles
-- This album is about a criticism of late capitalism and its relationship to technology
-- At the time it launched, it sounded like it had dropped from a another planet
-- [MYTAKE] The title OK Computer is taken from the 1978 radio series Hitchhiker's Guide to the Galaxy, in which the character Zaphod Beeblebrox speaks the phrase "Okay, computer, I want full manual control now."
--  [MYTAKE] This is somewhat how maybe we would like to live our lives, but we can't because we are so addicted to Instagram, internet and all of this bullshit
+- [Context] [Thom Yorke experienced anxiety and depression while producing OK Computer] The album is closely connected to his personal struggles.
+- [Theme] [The album criticizes late capitalism and its relationship with technology]
+- [Reception] [OK Computer sounded as though it had arrived from another planet]
+- [Title origin] [OK Computer refers to The Hitchhiker's Guide to the Galaxy] The title comes from the 1978 radio series, in which Zaphod Beeblebrox says, “Okay, computer, I want full manual control now.”
+- [MYTAKE] [We desire control but remain dependent on digital systems] We might like to demand full manual control of our lives, but addiction to Instagram, the internet, and related technologies prevents it.
 
+## Rolling Stone
 
-## Rolling stone
+- [Ranking] [Rolling Stone ranked OK Computer 42nd among the 500 greatest albums]
+- [Critical assessment] [Radiohead stretched rock into a slow and haunting new form] Rolling Stone describes the band pulling its sound “like taffy” without worrying whether the result remained rock, producing a slow, haunting album with unforgettable tracks such as “Karma Police.”
+- [Production] [Strings create frightening white noise rather than conventional ornament] Jonny Greenwood contrasted the album's string arrangements with the model of “Eleanor Rigby” and cited the final chord of “Climbing Up the Walls.”
+- [MYTAKE] [The Rolling Stone assessment remains unclear to me] I do not yet understand exactly what the magazine means, but I enjoy seeing an album I love receive such strong recognition.
 
-42th best album on the 500 best albums all time
-- Rolling Stone comments: "OK is where the band began pulling at its sound like taffy, seeing what happened, not worrying if it was still “rock.” What resulted is a slow, haunting album with unforgettable tracks such as “Karma Police.” Guitarist Jonny Greenwood said, “I got very excited at the prospect of doing string parts that didn’t sound like ‘Eleanor Rigby,’ which is what all string parts have sounded like for the past 30 years.… We used violins to make frightening white-noise stuff, like the last chord of ‘Climbing Up the Walls.’”
-- [MYTAKE] I haven't understood yet what Rolling Stone said. But it's nice to see that they think the album I like is really good
-
-
-## Paranoid Android
+# Paranoid Android
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6LgJvl0Xdtc73RJ1mmpotq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-![alt text](image-1.png)
+![Paranoid Android](image-1.png)
 
-Android = an automaton that resembles a human being
+## Basics
 
-### Basics
-- People and their loss of their individuality
-- Progressive rock
-- https://www.youtube.com/watch?v=TGmh_6Yf5GI
-- Its title and lyrics are a reference to Marvin the Paranoid Android from The Hitchhiker’s Guide to the Galaxy
+- [Definition] [An android is an automaton resembling a human being]
+- [Theme] [People lose their individuality]
+- [Genre] [Progressive rock]
+- [Reference] [Video about Paranoid Android] https://www.youtube.com/watch?v=TGmh_6Yf5GI
+- [Title reference] [The title invokes Marvin the Paranoid Android] The reference comes from *The Hitchhiker's Guide to the Galaxy*.
+- [Origin] [The song was inspired by superficial people Thom Yorke encountered in Los Angeles]
+- [Reduction] [The human being is reduced to a paranoid android]
 
-### Comparison with bohemian rapsody
-- [MYTAKE] In some ways this song is the opposite of bohemian rapsody. Whatever happens in bohemian rapsody, the same is translated to paranoid android by replacing the human by the machine. For example, instead of talking about us being angry about what we have done, it's about us being angry about the system. It's about the human being transformed in the supporting actor
-- "This song is about some people that he met in Los Angeles, that were superficial"
-- The reduction of the human being to a paranoid android
+## Comparison with Bohemian Rhapsody
 
-### Lyrics
+- [MYTAKE] [Paranoid Android replaces Bohemian Rhapsody's human protagonist with the machine] The songs are opposites: where *Bohemian Rhapsody* centers anger about one's own act, *Paranoid Android* directs anger toward the system and transforms the human being into a supporting actor.
 
-### Section one (Revolt)
+## Section One: Revolt
 
-Prelude
-- In bohemian rapsody this is the stage of confession, which is in some ways symmetrical to revolt
+- [Structural comparison] [Confession in Bohemian Rhapsody becomes revolt in Paranoid Android]
+- [Lyrics] [The speaker seeks relief from mass noise] “Please could you stop the noise? / I'm tryna get some rest.”
+- [MYTAKE] [Anger at the system replaces guilt about the self] This is the key contrast with *Bohemian Rhapsody*: its character kills someone and becomes angry with himself, whereas this speaker is angry with the system.
+- [Lyrics] [The speaker may be paranoid but rejects being an android] “I may be paranoid, but not an android.”
 
-Desperate to find some solace in a world of mass  
-Please could you stop the noise?  
-I'm tryna get some rest    
-- [MYTAKE] That's the key the difference compared to Bohemian Rhapsody. He is angry about the system. This is the opposite of bohemain rhapsody
-when the character kills someone, thus he is angry about hiself, not the system
+## Section Two: Rage
 
-From all the unborn chicken  
-Voices in my head    
-What's that? (I may be paranoid, but not an android)     
-What's that? (I may be paranoid, but not an android)            
+- [Lyrics] [The fantasy of power directs punishment outward] “When I am king / You will be first against the wall.”
+- [MYTAKE] [Outward punishment replaces the guilt of Bohemian Rhapsody] The contrast again suggests that humankind has lost the protagonist's role.
+- [Lyrics] [Ambition and luxury become grotesque] “Ambition makes you look pretty ugly / Kicking, squealing, Gucci little piggy.”
+- [Critique] [The song attacks bourgeois superficiality]
+- [Lyrics] [The speaker demands recognition while ordering decapitation] “Why don't you remember my name? / Off with his head, man.”
 
+## Section Three: Resignation
 
-### Section two (Rage)
+- [Lyrics] [The speaker asks the rain to fall] “Rain down, rain down / Come on, rain down on me / From a great height.”
+- [MYTAKE] [Rain represents the problems of capitalist society] Capitalism may separate humanity from God and then replace God itself; because capitalism ultimately exists within a world created by God, the rain can still be imagined as coming from God.
+- [Lyrics] [The departure may signal divine abandonment] “That's it, sir, you're leaving.”
+- [MYTAKE] [God may have abandoned humanity to a dystopian society]
+- [Lyrics] [Networking, panic, and vomit culminate in a claim of divine love] “The yuppies networking / The panic, the vomit / God loves his children.”
+- [MYTAKE] [The claim that God loves his children is met with disbelief] If God truly loved humanity, why would he leave it in a world like this?
 
-
-When I am king  
-You will be first against the wall
-- This is opposite of bohemain rhapsody where the character has guilty, once again showing that mankind has lost the protagnoism
-
-With your opinion     
-Which is of no consequence at all                       
-What's that? (I may be paranoid, but no android)        
-What's that? (I may be paranoid, but no android)        
-La-la-la-la-la-la       
-La-la-la-la-la-la       
-La-la-la-la-la-la       
-La, la      
-Ambition makes you look pretty ugly     
-Kicking, squealing, Gucci little piggy      
-- Critique of the superficiality in burgeousie society      
-
-La-la-la-la-la-la           
-La-la-la-la-la-la       
-La-la-la-la-la-la       
-La-la-la                
-You don't remember, you don't remember      
-Why don't you remember my name?         
-Off with his head, man, off with his head, man      
-Why don't you remember my name?     
-I guess he does     
-
-
-### Section three (Resignation)
-
-
-Rain down, rain down        
-- [MYTAKE] Rain would be the problems in ok computer society, rain comes from capitalism, but capitalism comes from god, so in the end the rain comes from god. It could be that capitalism is separating us from god, from our own humanity, and replcaing god itself
-
-Come on, rain down on me        
-From a great height         
-From a great height, height     
-Rain down, rain down        
-Come on, rain down on me            
-From a great height     
-From a great height, height     
-that's it, sir, you're leaving      
-- That's probably mentioning that god has abondoned us into this distopic society
-
-The crackle of pigskin (rain down)      
-(Come on rain down) the dust and the screaming      
-The yuppies networking      
-The panic, the vomit (from a great height)      
-The panic, the vomit (from a great height)      
-God loves his children      
-God loves his children, yeah            
-- Presents a disbelief on God's love after all, after all if he really loved, why would he leave us in a world like this
-
-
-## No surprises
+# No Surprises
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/10nyNJ6zNy2YVYLrcwLccB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-![alt text](image-3.png)
+![No Surprises](image-3.png)
 
-- [MYTAKE] The feels a bit like the last level hell in Dante's Aligheri Inferno, the cocito because it's so cold in there with no promise of emotion
+- [MYTAKE] [No Surprises resembles the frozen Cocytus in Dante's Inferno] The song feels cold and without the promise of emotion.
 
-### Prelude
+## Prelude
 
-[MYTAKE] It's a reference to "Wouldn't it be nice" by the Beach Boys, but it is a very smooth predictable version of it, which is a metaphor by our lives being programmed by computers
-- [MYTAKE] I love the symmetry opposition of Wouldn't it be nice and No Surprises, specially in the sound intro. One is about hope, and the other is about monotone
-- Wouldn't it be nice is a very old song, which kind of makes us very nostalgic, in a way that oh my god, back then we life was good
-- Wouldn't it be nice is a lot about a possible future, about surprises, about what good things could happen, whereas no surprises is about our loss of our humanity
-- It's interesting the contrast of band's name: beach boys versus radiohead, and wouldn't it be nice vs no surprises, it's all a reference between the contrast between rationality and humanity
-- For me this song feels a bit like what happens after paranoid android, because in paranoid android there is a revolt, a rebellion, but here they have already given up
+- [MYTAKE] [No Surprises transforms Wouldn't It Be Nice into programmed predictability] Its smooth and predictable version of the older song becomes a metaphor for lives programmed by computers.
+- [MYTAKE] [The introductions form a symmetrical opposition between hope and monotony] *Wouldn't It Be Nice* evokes hope, whereas *No Surprises* evokes monotony.
+- [Nostalgia] [Wouldn't It Be Nice evokes an earlier time when life seemed better]
+- [Contrast] [A surprising possible future becomes the loss of humanity] *Wouldn't It Be Nice* imagines good things that could happen, whereas *No Surprises* depicts humanity's disappearance.
+- [MYTAKE] [Beach Boys versus Radiohead symbolizes humanity versus rationality] The contrast between the band names and between *Wouldn't It Be Nice* and *No Surprises* reinforces the opposition.
+- [Sequence] [No Surprises follows the failed revolt of Paranoid Android] The earlier song stages rebellion; here, the people have already surrendered.
 
+## Lyrics
 
+- [Lyrics] [Work produces exhaustion rather than life] “A heart that's full up like a landfill / A job that slowly kills you.”
+  - [MYTAKE] [The description of a job that slowly kills is painfully accurate] KKKKKKKKKKKKK.
+- [Lyrics] [Private frustration becomes political anger] “Bring down the government.”
+  - [MYTAKE] [People redirect frustration with their lives toward government] This pattern appears during every election cycle in Brazil.
+- [Lyrics] [The speaker requests a quiet life without alarms or surprises] The desired escape includes “a handshake of carbon monoxide,” transforming safety and predictability into death.
+- [Lyrics] [Material beauty coexists with inner emptiness] “Such a pretty house / And such a pretty garden.”
+  - [MYTAKE] [Material abundance cannot replace humanity]
+  - [MYTAKE] [The speaker resembles Hal Incandenza] Like the character from *Infinite Jest*, he possesses everything required for material happiness but remains unhappy.
+- [Lyrics] [Get me out of here is a silent scream of despair]
 
-### Lyrics
-
-A heart that's full up like a landfill      
-A job that slowly kills you     
-- KKKKKKKKKKKKKK, that's so true
-Bruises that won't heal     
-You look so tired, unhappy      
-Bring down the government       
-- KKKKKKKKKKKKKKKKKKK, we attempt to put our frustration of our lives to the governmnent. This happens in every election cycle in Brazil
-
-They don't, they don't speak for us     
-I'll take a quiet life      
-A handshake of carbon monoxide      
-And no alarms and no surprises      
-No alarms and no surprises              
-No alarms and no surprises      
-Silent, silent      
-This is my final fit        
-My final bellyache with     
-No alarms and no surprises              
-No alarms and no surprises      
-No alarms and no surprises, please      
-Such a pretty house     
-And such a pretty garden        
-- [MYTAKE] We have everyhing materially but we don't have our own humanity which is something much more important
-- [MYTAKE] This reminds me a lot of Hal Incandenza from Infinite Jest (as one would expect), because he has everything single thing materially to he happy but he isn't
-
-No alarms and no surprises (get me out of here)     
-No alarms and no surprises (get me out of here)             
-No alarms and no surprises, please (get me out of here)     
-- "get me out of here" is a silent scream of despair     
-
-
-## Karma Police
+# Karma Police
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/63OQupATfueTdZMWTxW03A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-![alt text ](image-5.png)
+![Karma Police](image-5.png)
 
-### Prelude
+## Prelude
 
-Thom Yorke quote        
-- Karma is important. The idea that something like karma exists makes me happy. It makes me smile. “Karma Police” is dedicated to everyone who works for a big firm. It’s a song against bosses
-- [MYTAKE] For me this song is about hope, because it could mean that finally the people that created the OK COMPUTER society will be punished. But tha's a personal interpretation.
-- [MYTAKE] Thom Yorke himself said that this song is about coroporate life: “It’s for someone who has to work for a large company… This is a song against bosses. Fuck the middle-management!”
+- [Thom Yorke] [Belief in karma brings happiness] Yorke described “Karma Police” as a song dedicated to people who work for large companies and as a song against bosses.
+- [MYTAKE] [Karma Police offers hope that the creators of OK Computer's society will be punished] This is a personal interpretation.
+- [Thom Yorke] [The song attacks corporate bosses and middle management] “It's for someone who has to work for a large company… This is a song against bosses. Fuck the middle-management!”
 
+## Lyrics
 
-### Lyrics
-Karma police, arrest this man       
-He talks in maths, he buzzes like a fridge      
-- The use of rationality to use evil        
-He's like a detuned radio       
-Karma police, arrest this girl      
-Her Hitler hairdo is making me feel ill     
-And we have crashed her party      
+- [Lyrics] [The targeted man speaks in mathematics and buzzes like a refrigerator]
+  - [Interpretation] [Rationality is used for evil]
+- [Lyrics] [The Karma Police threaten consequences] “This is what you'll get / When you mess with us.”
+- [Lyrics] [Giving everything remains insufficient under the payroll] “I've given all I can / It's not enough / But we're still on the payroll.”
+- [Lyrics] [For a minute there I lost myself]
+  - [MYTAKE] [The final loss of self is deliberately ambiguous] The speaker may be relieved because the guilty were punished, or he may have lost himself because the punishment never occurred and was only a dream.
 
-This is what you'll get             
-This is what you'll get             
-This is what you'll get             
-When you mess with us       
+# Let Down
 
-Karma police, I've given all I can      
-It's not enough, I've given all I can       
-But we're still on the payroll      
-
-This is what you'll get             
-This is what you'll get     
-This is what you'll get     
-When you mess with us     
-
-For a minute there      
-I lost myself, I lost myself        
-Phew, for a minute there        
-I lost myself, I lost myself        
-For a minute there          
-I lost myself, I lost myself        
-Phew, for a minute there        
-I lost myself, I lost myself
-- [MYTAKE] For me this sentence is ambiguous, and that's the mystery and suspense of the track, is he happy because those that deserved finally got their punishment? or did he loose his self in the sense that this punishment never really happened, and it was all just a dream
-
-
-## Let Down
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2fuYa3Lx06QQJAm0MjztKr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+## Lyrics
 
-### Lyrics
-- "I' m gonna go grow wings, a chemical reaction, hysterical and useless"
-- [MYTAKE] This is a very interesting deception on depression. Because it recognizes it's just a chemical reaction, in the of the day, the struggle is mostly just psychological unless you are going through poverty or something more serious. On the other hand, it feel's hysterical so even though things are okay, it feels terrible. And in the end it's uselss it provides no reasonable purpose, which is somewhat ironic.
+- [Lyrics] [Growing wings is a hysterical and useless chemical reaction] “I'm gonna grow wings / A chemical reaction / Hysterical and useless.”
+- [MYTAKE] [The lyric captures the contradiction of depression] Depression can be understood as a chemical reaction and a primarily psychological struggle when no severe material deprivation is present, yet it still feels terrible. Its suffering feels hysterical while serving no reasonable purpose, which makes the experience ironic.
 
-## Electioneering
-### Lyrics
+# Electioneering
 
-**"When I go forwards, you go backwards"** 
-- KKKKKKKKKKKK, reference to class struggle
-**"And somewhere we will meet"** 
-- It's funny because it makes no sense, but that's the joke, what they argue makes no sense beyond rhethoric.
+## Lyrics
 
-"**It's life, it's life"**        
-- Probably a reference to "Manufacturing consent from Chomsky", since it indicates that there is nothing we can do about it.
-
-It's just business      
-Cattle prods and the I.M.F      
-- KKKKKKKKKKKKKKKKKKKK
-
-I trust I can rely on your vote     
-When I go forwards, you go backwards        
-And somewhere we will meet      
-When I go forwards, you go backwards        
-And somewhere we will meet      
+- [Lyrics] [When I go forwards, you go backwards]
+  - [MYTAKE] [The opposing movement evokes class struggle] KKKKKKKKKKKK.
+- [Lyrics] [And somewhere we will meet]
+  - [MYTAKE] [The promised meeting is rhetoric without logic] The claim makes no sense, and that is the joke: the argument contains nothing beyond rhetoric.
+- [Lyrics] [It's life]
+  - [Interpretation] [The phrase may invoke Manufacturing Consent] It suggests that political conditions are natural and that nothing can be done about them.
+- [Lyrics] [Business is enforced through cattle prods and the IMF]
+  - [MYTAKE] [The juxtaposition of business, coercion, and the IMF is darkly comic] KKKKKKKKKKKKKKKKKKKK.
+- [Lyrics] [The candidate trusts that the voter can be relied upon]
 
 # Appearances
 
-https://www.youtube.com/watch?v=1wIkL0tPi-o
+- [Reference] [Video compiling appearances of OK Computer songs] https://www.youtube.com/watch?v=1wIkL0tPi-o
 
-## Movies
-- Clueless
-- black mirror
-- 50/50
-- Vanilla Sky
-- Children men
-- It's kind of a funny story
-	- [MYTAKE] The biggest red flag a girl can have is liking Radiohead.
-- There will be blood
+## Movies and Television
+
+- [Appearance] [Clueless]
+- [Appearance] [Black Mirror]
+- [Appearance] [50/50]
+- [Appearance] [Vanilla Sky]
+- [Appearance] [Children of Men]
+- [Appearance] [It's Kind of a Funny Story]
+  - [MYTAKE] [Liking Radiohead is the biggest red flag a girl can have]
+- [Appearance] [There Will Be Blood]
