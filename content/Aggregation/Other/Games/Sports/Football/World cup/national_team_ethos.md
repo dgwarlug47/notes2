@@ -6,10 +6,6 @@ description: Love of my life
 types: Sports
 publishDate: 2025-04-12
 ---
-# When people ask me about it
-
-Interesting how the ethos of each country are manifested in the national team
-
 
 ### 🌍 **National Football Teams: Jekyll & Hyde Edition**
 

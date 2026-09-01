@@ -8,12 +8,6 @@ publishDate: 2025-03-01
 
 ![alt text](image-79.png)
 
-# Memory Trigger
-
-1. What are the 4 dimensions of MBIT
-- Example: INTJ
-2. What is MBTI used for?
-3. Messi's MBTI and your MBTI
 
 
 DISCLAIMER: THIS IS CONSIDERED PSEUDOSCIENCE

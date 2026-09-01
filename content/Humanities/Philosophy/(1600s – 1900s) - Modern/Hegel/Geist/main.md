@@ -7,12 +7,6 @@ publishDate: 2025-03-17
 highlights: true
 ---
 
-# Memory Trigger
-- Geist definition is hard. Just see as something that moves all mankind
-- Metaphysics
-
-1. What is Freedom
-2. Geist goals
 
 # Geist Definition
 

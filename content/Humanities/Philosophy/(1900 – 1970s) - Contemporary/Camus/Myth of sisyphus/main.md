@@ -1,167 +1,199 @@
 ---
 title: The Myth of Sisyphus
 order: 3
-description: A very complicated book, that underneath has simple and useful insights of our existences
+description: A complicated book with simple, useful insights about human existence
 types: Philosophy
 publishDate: 2025-11-27
 ---
 
+![Cover of The Myth of Sisyphus](image.png)
 
+![The Myth of Sisyphus note tree — Introduction and premise](tree-introduction.png)
 
-![alt text](image.png)
+![The Myth of Sisyphus note tree — Main argument](tree-main-argument.png)
 
-# Mind map of this blog post
+![The Myth of Sisyphus note tree — Philosophical suicide, part 1](tree-philosophical-suicide-1.png)
 
-![alt text](image-2.png)
+![The Myth of Sisyphus note tree — Philosophical suicide, part 2](tree-philosophical-suicide-2.png)
 
-# The intro
+![The Myth of Sisyphus note tree — Consequences, part 1](tree-consequences-1.png)
 
-[MYTAKE] My interpretation is that Camus's philosophy (Absurdism) has three ethical principles: 
-- Principle 1: Live as close as possible to the most fundamental truth of the human condition, without escape.
-- Principle 2: The most fundamental truth is that life has no objective meaning
-- Principle 3: Live according to all logical consequences of Principles 2 and 3
-- Obviously, one needs to understand the book to verify or falsify my interpretation
-- [MYTAKE] Interesting that religions have Principle 1 in common with Absurdism, but they don't agree with Principle 2. Therefore, they both go all in, in opposite directions
+![The Myth of Sisyphus note tree — Consequences, part 2](tree-consequences-2.png)
 
-[MYTAKE] It's crazy how influential Kant is, because one could argue that the critique of pure reason basically made this whole book possible. Kant is completely insane. Every philosophy after Kant just seems like a trivial consequence of his ideas, in the same way that all of software engineering since Chat GPT 3.0 is a trivial consequence of the paper 'Attention is all you need.'
+![The Myth of Sisyphus note tree — The myth of Sisyphus](tree-myth-of-sisyphus.png)
 
-# The main argument
-## Nostalgia for unity
-- [Camus Definition] humanity's deep desire for coherence, meaning, and rational explanation in a universe that offers none.
-- [Dictionary Definition] Nostalgia is a bittersweet longing for the past, often idealizing former times, places, or experiences that feel irretrievably lost.
+![The Myth of Sisyphus note tree — Art, part 1](tree-art-1.png)
 
-## Silence/irrational
-- We demand meaning from the universe, but the universe doesn't respond, doesn't explain itself, doesn't provide the coherence we desperately seek. It just is - indifferent, mute, absurd.
-- [MYTAKE] Using a client-server metaphor. It is as if our consciousness is a client, and the server is reality (the World beyond our consciousness). We constantly send an API request for any reason or whatsoever, and the API keeps sending a 404 response.
+![The Myth of Sisyphus note tree — Art and takeaway, part 2](tree-art-2.png)
 
+# Introduction
 
-## Absurd
-- The absurd is the irreconcilable confrontation between humanity's nostalgia for unity and the World's silence/irrational refusal to provide it.
-- [MYTAKE] It's interesting because the absurd only exists when there is a human being seeing the gap.
-- [MYTAKE] Something interesting is the fact that only we humans can see the absurd. For example, animals live in the absurd, but they are not aware of it; therefore, they don't suffer any pain from it.
+- [MYTAKE] [Absurdism begins with truth and follows its consequences without escape]
+  - [Ethical principle] [Live as close as possible to the fundamental truth of the human condition]
+  - [Metaphysical premise] [Life has no objective meaning]
+  - [Ethical principle] [Live according to every logical consequence of meaninglessness]
+  - [Qualification] [This interpretation should be tested against Camus's complete argument]
+- [MYTAKE] [Religion and Absurdism share a commitment to truth but identify opposite truths] Both demand total commitment, but religion affirms transcendent meaning while Absurdism denies it.
+- [MYTAKE] [Kant's critique made later Absurdism possible] Kant's influence on subsequent philosophy resembles the influence of the paper *Attention Is All You Need* on software engineering after GPT-3: much of what follows can feel like a consequence of the original breakthrough.
 
-## Odd trinity
-- The irrational (the World’s silence).
-- The nostalgia (man’s longing).
-- The absurd (their encounter).
+# The Main Argument
 
-# Philosophical suicide
+## Nostalgia for Unity
 
-## Leaps or philosophical suicide
-- Is the assumption of any irrational statement that solves the absurd
-- [MYTAKE] Most of them will simply mishear the silence/irrationality of the World, basically hearing meaning where there is none
+- [Camus's definition] [Nostalgia for unity is humanity's desire for coherence, meaning, and rational explanation in a universe that offers none]
+- [Dictionary definition] [Nostalgia is a bittersweet longing for an idealized and irretrievable past]
 
-## Most common ways Americans choose to escape the meaninglessness of life (and philosophically suicide)
+## The World's Silence
 
-| Escape Route (Camus)                             | Modern Equivalent                                         | Examples in U.S. Life                                                      | Rough % of Adults (2025)                            |
-| ------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Physical suicide**                             | Actual withdrawal from life                               | Suicide rates (~14 deaths per 100k/year; ~1.3M attempts annually)          | ~0.5–1% lifetime prevalence in a given year         |
-| **Philosophical suicide: Religion**              | Transcendent leap to God / salvation                      | Christianity, Judaism, Islam, etc. (churchgoing down but still central)    | ~60% identify religious; ~40% “actively practicing” |
-| **Philosophical suicide: Secular transcendence** | Ideologies or systems that give “absolute” meaning        | Political nationalism, utopian ideologies, cult-like devotion to movements | ~15–20% (varies, overlaps with religion)            |
-| **Diversion / Distraction**                      | Filling life with entertainment, consumerism, workaholism | Streaming, sports, shopping, hustle culture                                | ~50–60% lean heavily on this daily                  |
-| **Nihilism / Resignation**                       | “Nothing matters, so why try” (passive escape)            | Chronic disengagement, depressive withdrawal, fatalism                     | ~10–15% at any given time                           |
+- [Premise] [Humans demand meaning, but the world offers no explanation] The universe simply exists: indifferent, mute, and resistant to the coherence people seek.
+- [MYTAKE] [Consciousness asks reality for meaning and receives a 404 response] In a client-server metaphor, consciousness is the client, reality is the server, and every request for a reason returns “not found.”
 
-## Lies
-- [MYTAKE] I think that this book changed a lot of my perspectives on society's myths, such as school, universities, and corporate jobs. It seems that there is something really important about making us believe in myths. Otherwise, no one will do anything, and society will collapse
-- [MYTAKE] Sisyphus needs a myth
+## The Absurd
 
-## The human needs to philosophically commit suicide
-- “We are all dying to give our lives away to something, maybe. God or Satan, politics or grammar, topology or philately - the object seemed incidental to this will to give ourselves away, utterly. To games or needles, to some other person. Something pathetic about it. A flight in the form of a plunge. Flight from exactly what? These rooms, blandly filled with excrement and heat? To what purpose?” David Foster Wallace
-- [MYTAKE] This quote is from Infinite Jest, and it summarizes the book of Infinite Jest very well
-## Revolt/Philosophical courage
-- "The real 'danger' is not the leap itself but the instant before it, when you’re looking into the void and could go either way. Integrity = staying there, not leaping. All else is 'subterfuge' (self-deception)." - Quote from the book Myth of Sisyphus
-- This is Camus’s definition of philosophical courage: remaining on that dizzying ridge between nostalgia and silence without reconciling them.
-	- [MYTAKE] For me, it was a little odd why Camus defined Revolt in such a way. It's because you are revolting against your own intense will to conciliate the nostalgia for unity and the silence
-- Why does he think revolt is a good choice to live life? “What I believe to be true I must therefore preserve.”
+- [Definition] [The absurd is the irreconcilable confrontation between humanity's longing for unity and the world's silence]
+- [Condition] [The absurd exists only when human consciousness perceives the gap]
+- [MYTAKE] [Animals may inhabit the absurd without suffering it] They are not conscious of the confrontation between the demand for meaning and the world's silence.
 
-# Consequences of living the Absurdism
+## The Odd Trinity
 
-## Ethic
-- To Live without appeal
-	- Means to accept a world stripped of ultimate purpose
-- Absence of hope (not despair, but lucidity: no ultimate meaning is waiting).
-- Continual rejection (refusal of consolations, myths, leaps).
-- Feeling the absence of nostalgia(staying awake to the contradiction, not closing it off).
-- Living in the moment (Intensity)
-- Quantity
-	- The actor is the perfect example. An actor would live all the absurdities listed below with high intensity. Don Juan does the same, but in terms of loving women.
-	- Important to mention that Don Juan and actors don't live the absurd fully, since they don't feel the pain of the nostalgia for unity, for example
+- [Structure] [The absurd consists of the world, humanity, and their confrontation]
+  - [World] [The irrational is the world's silence]
+  - [Humanity] [Nostalgia is humanity's longing for unity]
+  - [Encounter] [The absurd arises where longing meets silence]
 
-## Quantity vs Quality
-- For Camus, in order to live in accordance with Absurdism, one must face as many absurdities as possible, and that can be achieved with more experiences and more flavours of absurd, so we have a full grasp of the absurd as a whole
-- [MYTAKE] The previous statement can be proved by my axioms, because not only do we want to live in accordance with the existential truths, but we also want to maximize them, which makes it more dramatic
+# Philosophical Suicide
 
-### Types of Absurd (Numbered from 2)
+## Leaps
 
-| #   | Absurd Type      | Clash Description                                                              | Everyday example                                                                                                  |
-| --- | ---------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------- |
-| 1   | Moral Absurd     | Need for justice vs. apparent injustice of the world                           | Politics in the US or Brazil (Lula, Bolsonaro, Trump)                                                                 |
-| 2   | Practical Absurd | Human effort vs. futility of tasks                                             | Spend a whole year writing code to create a service, when that same service will be deprecated in 3 years at most |
-| 3   | Romantic Absurd  | Desire for perfect, eternal love vs. the fragility of human relationships      | 50% divorce rates in the US                                                                                           |
-| 4   | Exilic Absurd    | Nostalgia for belonging vs. foreign indifference                               | Missing the Brazilian culture and family, while the US pays money                                                     |
-| 5   | Artistic Absurd  | Passion to create meaning vs. awareness that art changes nothing of death      | ?                                                                                                                 |
-| 6   | Parental Absurd  | Dream of protecting one’s child vs. the inevitability of their suffering and death | Every parent faces that absurdity |
-| 7   | Senescent Absurd | Lifetime of projects vs. the void of retirement and approaching death          | Every retired person                                                                                              |
+- [Definition] [Philosophical suicide assumes an irrational answer that dissolves the absurd]
+- [MYTAKE] [The leap hears meaning in the world's silence] It treats an indifferent universe as if it had supplied the answer consciousness wanted.
 
-# Myth of Sisyphus
+## Modern Escape Routes
+
+- [Taxonomy] [Modern life offers physical, metaphysical, ideological, and psychological escapes from meaninglessness] The proportions below are rough 2025 estimates recorded in the source note and may overlap.
+
+| Escape route | Modern equivalent | Examples in U.S. life | Rough share of adults recorded in the source note |
+| --- | --- | --- | --- |
+| **Physical suicide** | Withdrawal from life | Suicide deaths (~14 per 100,000 annually) and attempts (~1.3 million annually) | ~0.5–1% lifetime prevalence in a given year |
+| **Philosophical suicide: religion** | A transcendent leap toward God or salvation | Christianity, Judaism, Islam, and other religions | ~60% identify as religious; ~40% actively practice |
+| **Philosophical suicide: secular transcendence** | An ideology or system treated as a source of absolute meaning | Nationalism, utopian ideologies, and cult-like devotion to movements | ~15–20%; overlaps with religion |
+| **Diversion or distraction** | Filling life with entertainment, consumption, or work | Streaming, sports, shopping, and hustle culture | ~50–60% rely heavily on it each day |
+| **Nihilism or resignation** | Passive escape through the belief that nothing matters | Disengagement, depressive withdrawal, and fatalism | ~10–15% at a given time |
+
+## Social Myths
+
+- [MYTAKE] [Social myths motivate participation in institutions] Belief in school, university, and corporate careers may help society function by giving people reasons to act.
+- [MYTAKE] [Sisyphus needs a myth]
+
+## The Desire to Give Life Away
+
+- [Literary parallel] [People try to surrender themselves to something larger as a form of escape] In *Infinite Jest*, David Foster Wallace describes the urge to give life away completely to God or Satan, politics or grammar, topology or philately, games or needles, or another person. What appears to be a plunge is actually a form of flight.
+- [MYTAKE] [Wallace's passage summarizes the central concern of Infinite Jest]
+
+## Revolt and Philosophical Courage
+
+- [Claim] [Integrity means remaining before the leap without escaping] Camus locates the danger in the instant before the leap, when one faces the void and can still choose either direction; every evasion after that point is self-deception.
+- [Definition] [Philosophical courage remains between nostalgia and silence without reconciling them]
+- [MYTAKE] [Revolt resists one's own desire to reconcile longing and silence]
+- [Justification] [Revolt preserves what one believes to be true] “What I believe to be true I must therefore preserve.”
+
+# Consequences of Living with the Absurd
+
+## Ethics
+
+- [Ethic] [Live without appeal] Accept a world stripped of ultimate purpose.
+- [Ethic] [Live without ultimate hope but not in despair] Lucidity means recognizing that no final meaning is waiting to be discovered.
+- [Ethic] [Continually reject consolation, myth, and metaphysical leaps]
+- [Ethic] [Remain conscious of the unfulfilled longing for unity] Stay awake to the contradiction instead of closing it.
+- [Ethic] [Live intensely in the present]
+- [Ethic] [Prefer quantity of experience]
+  - [Example] [The actor inhabits many lives with high intensity]
+  - [Example] [Don Juan multiplies experiences of love]
+  - [Qualification] [The actor and Don Juan do not fully embody the absurd if they do not feel the pain of longing for unity]
+
+## Quantity and Quality
+
+- [Principle] [Living absurdly means encountering as many forms of the absurd as possible] A greater variety of experiences reveals more of the absurd as a whole.
+- [MYTAKE] [The author's axioms turn lucidity into a maximization problem] If one should live according to existential truth, one should also maximize contact with that truth.
+
+### Types of Absurd
+
+- [Taxonomy] [Different human longings produce distinct absurd clashes]
+
+| # | Absurd type | Clash | Everyday example |
+| --- | --- | --- | --- |
+| 1 | Moral absurd | The need for justice vs. the world's apparent injustice | Politics in the United States or Brazil, including Lula, Bolsonaro, and Trump |
+| 2 | Practical absurd | Human effort vs. the futility of tasks | Spending a year building a software service that may be deprecated within three years |
+| 3 | Romantic absurd | The desire for perfect, eternal love vs. the fragility of relationships | Divorce rates of roughly 50% in the United States |
+| 4 | Exilic absurd | Nostalgia for belonging vs. foreign indifference | Missing Brazilian culture and family while earning money in the United States |
+| 5 | Artistic absurd | The passion to create meaning vs. the knowledge that art does not prevent death | ? |
+| 6 | Parental absurd | The wish to protect a child vs. the inevitability of the child's suffering and death | Every parent confronts this clash |
+| 7 | Senescent absurd | A lifetime of projects vs. retirement and approaching death | Every retired person confronts this clash |
+
+# The Myth of Sisyphus
 
 ## Punishment
-- He got that punishment because he sought to **outwit death and control fate**, so his punishment was a task that **denies progress and control**.
-- Disobedience
-- Relationship with the absurd
-	- Camus interprets this as an affirmation of the absurd: the refusal to yield to higher powers even under these dire consequences
-	- Maybe Sisyphus doesn't take the same principles as the absurdists, but he takes actions that an absurdist should take, thus becoming a role model in some sense
-	- Key: Moment of descent of the ball, because it becomes extremely obvious that his efforts are meaningless, but he doesn't care, he accepts life as meaningless, and he continues doing this shit
 
+- [Cause and consequence] [Sisyphus tried to outwit death and control fate, so his punishment denies progress and control]
+- [Theme] [Sisyphus's punishment turns disobedience into endless futility]
+- [Interpretation] [Camus reads Sisyphus as affirming the absurd through refusal to yield to higher powers]
+- [Role model] [Sisyphus acts as an absurdist should even if he does not begin from absurdist principles]
+- [Key moment] [The descent makes the futility of Sisyphus's labor unmistakable] He sees that his effort has no final meaning, accepts this condition, and returns to the stone.
+- [Sequence] [Sisyphus's cycle moves from revolt through temporary unity to lucid continuation]
 
-| **Stage**                          | **Literal action**       | **Psychological state**     | **Philosophical meaning**                      |
-| ---------------------------------- | ------------------------ | --------------------------- | ---------------------------------------------- |
-| 1. **He begins to push the stone** | The climb starts         | Revolt, striving            | Man acting despite knowing there is no goal    |
-| 2. **He approaches the summit**    | Moment before completion | Illusion of meaning         | “Maybe it _does_ matter.” The feeling of unity |
-| 3. **The stone reaches the top**   | Temporary pause          | Ephemeral unity             | The emotional high — sense of fulfillment      |
-| 4. **The stone rolls back down**   | Collapse of the illusion | Encounter with indifference | The world’s silence returns                    |
-| 5. **He walks back down**          | Acceptance, awareness    | Lucidity                    | Realizes absurdity and continues, freely       |
+| Stage | Literal action | Psychological state | Philosophical meaning |
+| --- | --- | --- | --- |
+| 1. He begins to push the stone | The climb starts | Revolt and striving | A person acts despite knowing there is no final goal |
+| 2. He approaches the summit | Completion appears near | Illusion of meaning | The task begins to feel as if it might matter |
+| 3. The stone reaches the top | A temporary pause | Ephemeral unity | Fulfillment briefly creates a sense of coherence |
+| 4. The stone rolls down | The illusion collapses | Encounter with indifference | The world's silence returns |
+| 5. He walks back down | He knowingly returns | Lucidity | He recognizes the absurd and freely continues |
 
-## Ephemeral unity
-- [MYTAKE] For a moment, we interpret the World's silence incorrectly, and we start to see meaning where there is none. This happens when we start reaching the end of the summit, and that creates ephemeral unity KKKKKKKKKKKKKKKK, for example, when you fall in love. But when the ball rolls down, we get back to reality, and we see that our interpretation of the World was wrong.
+## Ephemeral Unity
 
-## Diregressions
-- The everyday person watches plays to glimpse other lives without suffering them. They want to see the absurd, but not live it.
-- For Camus, there is an enormous nobility in living the absurd, due to its logical coherence, and facing every consequence for not philosophically suiciding yourself
+- [MYTAKE] [The summit creates a temporary illusion of meaning] Near fulfillment, people may misread the world's silence as an answer and briefly experience unity, as when falling in love. When the stone rolls down, indifference becomes visible again.
+
+## Digressions
+
+- [Observation] [People watch plays to glimpse other lives without suffering them] They want to witness the absurd without having to live it.
+- [Claim] [Camus finds nobility in living the absurd without philosophical suicide] Its nobility comes from logical coherence and the willingness to face every consequence of refusing escape.
 
 # Art
 
-## Artistic creation as the supreme response to the absurd
-- By replicating your experiences through art, you are kind of eternalizing the absurdity of that moment in some sense, or at least partially
+## Artistic Creation as a Response to the Absurd
 
+- [Claim] [Artistic creation is the supreme response to the absurd] Recreating an experience through art partially preserves the absurdity of the original moment.
 
-## Art is the opposite of Philosophy with respect to the absurd
-- Philosophy (or at least most philosophers) attempts to narrow the gap of the absurd
-- Whereas art attempts to make you live it
-- [MYTAKE] So our life is a lot based on trying to escape the absurd, to find meaning for our lives, climbing the social ladder, college, marriage, kids. But for some reason we voluntarily look for the absurd in the arts, which is contradictory, for me it doesn't make much sense yet.
-- 
+## Art and Philosophy
 
-## Feeling -> type of absurd
+- [Contrast] [Philosophy tries to narrow the absurd gap, while art makes people experience it] This contrast applies to most philosophy rather than every philosophical project.
+- [MYTAKE] [People flee the absurd in life yet voluntarily seek it in art] People pursue careers, education, marriage, and family partly to establish meaning, then choose artworks that return them to the very contradiction they otherwise avoid.
 
-| #   | **Feeling / Mood** | **Type of Absurd Gap**                          | **Description**                                              | **Typical Artistic Expression**                    |
-| --- | ------------------ | ----------------------------------------------- | ------------------------------------------------------------ | -------------------------------------------------- |
-| 1   | **Awe**            | Finite mind ↔ Infinite cosmos                   | The mind glimpses immensity it cannot contain.               | Sublime art, cosmic poetry, metaphysical painting. |
-| 2   | **Melancholy**     | Desire for unity ↔ Fragmented world             | The self longs for coherence amid disjointed experience.     | Romanticism, elegy, slow cinema.                   |
-| 3   | **Irony**          | Human seriousness ↔ World’s indifference        | The World refuses to match our moral or emotional gravity.   | Comedy, satire, postmodern fiction.                |
-| 4   | **Revolt**         | Awareness of absurd ↔ Refusal of resignation    | Conscious resistance without illusion.                       | Existential heroism, punk, Camus’s _The Rebel_.    |
-| 5   | **Tenderness**     | Isolation of self ↔ Need for connection         | Compassion that arises from knowing everyone’s exile.        | Chekhovian realism, quiet humanist film.           |
-| 6   | **Ecstasy**        | Limited body ↔ Boundless being                  | Momentary dissolution of boundaries in love, art, or nature. | Mystical music, dance, Rilke.                      |
-| 7   | **Anxiety**        | Consciousness of freedom ↔ Lack of ground       | The vertigo of infinite possibilities with no foundation.    | Existentialism, Kierkegaard, expressionism.        |
-| 8   | **Absurd Joy**     | Knowledge of futility ↔ Continuation of effort  | Sisyphus smiling as he pushes the stone.                     | Beckett, minimalist repetition, and absurdist theater. |
-| 9   | **Nostalgia**      | Memory of meaning ↔ Present void                | Yearning for a lost harmony — childhood, God, ideal love.    | Proust, melancholic pop, impressionism.            |
-| 10  | **Wonder**         | Habitual perception ↔ Revelation of strangeness | Suddenly seeing the ordinary as miraculous or alien.         | Surrealism, magical realism, childlike gaze.       |
+## Feelings and Forms of the Absurd
 
-## Dostoevisky
-- [MYTAKE] He is mentioned multiple times in the book, the name of Dostoevsky. Because Doestoevisky goes deep into the psychology of the absurd, but it always resolves through the path of faith, as in Camus's language. It is as if he "fica na cara do gol, e chuta para fora"
+- [Taxonomy] [Artistic moods reveal different forms of the absurd gap]
+
+| # | Feeling or mood | Absurd gap | Description | Typical artistic expression |
+| --- | --- | --- | --- | --- |
+| 1 | Awe | Finite mind vs. infinite cosmos | The mind glimpses an immensity it cannot contain | Sublime art, cosmic poetry, and metaphysical painting |
+| 2 | Melancholy | Desire for unity vs. fragmented world | The self longs for coherence amid disjointed experience | Romanticism, elegy, and slow cinema |
+| 3 | Irony | Human seriousness vs. the world's indifference | The world does not match human moral or emotional gravity | Comedy, satire, and postmodern fiction |
+| 4 | Revolt | Awareness of the absurd vs. refusal of resignation | Conscious resistance without illusion | Existential heroism, punk, and Camus's *The Rebel* |
+| 5 | Tenderness | Isolation of self vs. need for connection | Compassion arises from recognizing everyone's exile | Chekhovian realism and quiet humanist film |
+| 6 | Ecstasy | Limited body vs. boundless being | Boundaries briefly dissolve in love, art, or nature | Mystical music, dance, and Rilke |
+| 7 | Anxiety | Consciousness of freedom vs. lack of ground | Infinite possibilities have no final foundation | Existentialism, Kierkegaard, and expressionism |
+| 8 | Absurd joy | Knowledge of futility vs. continuation of effort | Sisyphus smiles while pushing the stone | Beckett, minimalist repetition, and absurdist theater |
+| 9 | Nostalgia | Memory of meaning vs. present void | The self yearns for a lost harmony such as childhood, God, or ideal love | Proust, melancholic pop, and impressionism |
+| 10 | Wonder | Habitual perception vs. revelation of strangeness | The ordinary suddenly appears miraculous or alien | Surrealism, magical realism, and the childlike gaze |
+
+## Dostoevsky
+
+- [MYTAKE] [Dostoevsky approaches the absurd deeply but resolves it through faith] Camus mentions him repeatedly because he enters the psychology of the absurd but ultimately takes the religious leap—as if he “fica na cara do gol e chuta para fora.”
 
 ## Kafka
-- For Camus, he described the despair well. But we couldn't resist the temptation of the stubborn hope.
+
+- [Interpretation] [Kafka describes despair but cannot resist stubborn hope]
 
 # Takeaway
-- One must imagine Sisyphus happy
 
+- [Conclusion] [One must imagine Sisyphus happy]

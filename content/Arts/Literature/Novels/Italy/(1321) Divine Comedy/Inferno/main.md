@@ -6,8 +6,6 @@ types: Literature
 publishDate: 2025-03-18
 --- 
 
-<img src="image.png" alt="Inferno note tree" width="600"/>
-
 
 # Importance
 

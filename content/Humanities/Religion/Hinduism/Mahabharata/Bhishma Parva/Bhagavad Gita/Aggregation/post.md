@@ -6,107 +6,126 @@ types: Philosophy
 publishDate: 2026-08-13
 ---
 
-![alt text](image-3.png)
+![Book cover](image-3.png)
 
-![alt text](image-4.png)
+![Bhagavad Gita note tree — Metaphysics](note-tree-metaphysics.png)
 
-# Metaphysics (What is reality?)
+![Bhagavad Gita note tree — The Human Condition, part 1](note-tree-human-condition-1.png)
+
+![Bhagavad Gita note tree — The Human Condition, part 2](note-tree-human-condition-2.png)
+
+![Bhagavad Gita note tree — The Spiritual Path, part 1](note-tree-spiritual-path-1.png)
+
+![Bhagavad Gita note tree — The Spiritual Path, part 2](note-tree-spiritual-path-2.png)
+
+# Metaphysics: What Is Reality?
 
 ## Soul
-- [Definition] [Eternal and distinct from matter] In Hinduism, the soul is eternal, conscious, and distinct from the material body; it is the true self of every living being, the absolute and unchanging core beneath the changing body and mind, untouched by decay, pleasure, pain, and death. Even across many lifetimes, the soul does not fundamentally change; only the body and conditioning change.
-- - [MYTAKE] [I praise absolute anchors] Since so many things in life are ephemeral, I praise the search of a human component that is absolute, it makes me take the human being more serious, otherwise it seems completely meaningless, like a wind that comes and goes.
-- [Souls are not good or bad] In the Bhagavad Gita, the soul (ātman) itself is not morally good or bad in the ordinary sense. Its intrinsic nature is spiritual and pure; moral corruption belongs to its conditioned consciousness and actions, not to the essence of the soul. A useful distinction is: Soul ≠ character
-- - [MYTAKE] [Differences with chrsitianity] In Christianity the soul itself can be spiritually and morally transformed—affected by sin, grace, and sanctification. After death the soul is judged and sent to heaven or hell. Whereas in Hinduism the soul itself is immutable. I can't see any practical difference in the way people live their lives given these two different premises, but I think it's an interesting metaphysical difference.
-- [Metaphor] The body is compared to garments for a soul that are cast off and replaced after death.
-- - [MYTAKE] I love this metaphor, it helps mentalize the the difference between the body and the soul.
-- [Relationship of consciousness to the soul] The soul (ātman) is the conscious self, and consciousness (cetanā) is the soul’s manifested awareness.
-- - [MYTAKE] [Relationship to improving other lives and metaphysics] Improving someone's life doesn't impact their soul, but it does impact their consciousness, which is the soul's manifested awareness. So the impact is not that large because it's not absolute (soul impacting), but it's also not that small because it's not only material.
-- [Soul Destiny after death] The soul is eternal and continues to exist after the death of the body. It is reborn in a new body according to its karma, until it achieves liberation (moksha) from the cycle of birth and death (saṃsāra).
-- - [MYTAKE] [Comparing mercy in Hinduism and Christianity] I’m not sure which religion is more merciful. Hinduism offers repeated chances through saṃsāra, but moksha is rarely reached in practice. Christianity offers one life, but if one is saved, salvation is permanent; if not, damnation is final. Both are merciful in different ways, but in very different senses. I find it hard to evaluate which is more merciful.
 
-# The Human condition
+- [Definition] [The soul is eternal, conscious, immutable, and distinct from matter] In Hinduism, the soul is the true self of every living being: the absolute core beneath the changing body and mind, untouched by decay, pleasure, pain, and death. Across lifetimes, the body and conditioning change, but the soul does not.
+  - [MYTAKE] [I value an absolute anchor within the human being] Because so much in life is ephemeral, I value the search for an absolute human component. It makes me take the human being more seriously; otherwise, human existence can seem meaningless, like a wind that comes and goes.
+- [Moral nature] [The soul is neither good nor bad] The soul (*ātman*) is intrinsically spiritual and pure. Moral corruption belongs to conditioned consciousness and action, not to the soul's essence: soul ≠ character.
+  - [MYTAKE] [Christianity allows transformation of the soul while Hinduism treats it as immutable] In Christianity, the soul can be spiritually and morally transformed by sin, grace, and sanctification; after death, it is judged and sent to heaven or hell. In Hinduism, the soul itself is immutable. I cannot see a practical difference in how people live from these premises, but the metaphysical difference interests me.
+- [Metaphor] [The body is a garment the soul replaces after death]
+  - [MYTAKE] [The garment metaphor clarifies the distinction between body and soul]
+- [Relationship] [Consciousness is the soul's manifested awareness] The soul (*ātman*) is the conscious self, while consciousness (*cetanā*) is its manifested awareness.
+  - [MYTAKE] [Improving a life affects consciousness rather than the immutable soul] Improving someone's life does not affect their soul, but it does affect consciousness, the soul's manifested awareness. The impact is therefore not absolute, but it is more than merely material.
+- [Afterlife] [Karma directs rebirth until the soul achieves moksha] The eternal soul continues after bodily death and is reborn according to its karma until liberation (*moksha*) ends the cycle of birth and death (*saṃsāra*).
+  - [MYTAKE] [Hinduism and Christianity express mercy in different ways] Hinduism offers repeated chances through *saṃsāra*, although *moksha* is rarely reached in practice. Christianity offers one life, followed by permanent salvation or final damnation. I find it difficult to judge which is more merciful.
 
-## Demoniac Nature (Āsurī)
+# The Human Condition
 
-- [Sense gratification as highest good] The demoniac orientation treats sense gratification as life's highest goal.
-- - [MYTAKE] [Similarities with modern day hedonism] The philosophical traditions more dominant in today's secular society are the expressive individualism and hedonism ("o culto a felicidade" specially among young people), and both of them are very similar to the demoniac orientation, because they treat senses as the source of truth, not as a reference, as life's highest goal. Whereas in Hinduism the senses can be as much as an illusion as a signal. Pure conscioussness is the source of truth, senses are references.
-- [Material advancement ≠ true progress] Material and technological advancement are mistaken for genuine human progress when they do not produce spiritual advancement.
-- - [MYTAKE] [GDP is a historical invention] This is a very important point, people take for granted the idea that GDP is a great political and social indicator, when that is far from obvious, the only reason why it's a good indicator is because people believe a lot in money, so it becomes a self-fulfilling prophecy.
+## Demoniac Nature (*Āsurī*)
 
-## Karma
+- [Demoniac orientation] [Sense gratification is treated as life's highest good]
+  - [MYTAKE] [Modern hedonism resembles the demoniac orientation] Expressive individualism and hedonism—especially the contemporary “cult of happiness” among young people—treat the senses as the source of truth and life's highest goal. Hinduism instead treats the senses as fallible references and pure consciousness as the source of truth.
+- [False progress] [Material advancement without spiritual advancement is not genuine progress]
+  - [MYTAKE] [GDP works partly because belief in money makes it self-reinforcing] People often assume GDP is a sound political and social indicator, although that is far from obvious. Its usefulness depends in part on widespread faith in money, making it a self-fulfilling measure.
 
-## Desire and attachment
-- Higher taste displaces lower desire
-- - [MYTAKE] [Friends doing debauchery me studying math] This is something I highly agree with because meanwhile some of my friends focused on debauchery during their 20s, I was still studying math, since I had a higher taste I didn't want to engage in these lower desires, similarly if you truly see Krishna then you will not want to engage in materially lower desires.
-- Inverse Spiritual and Material Value Perception
-- - [MYTAKE] [Spiritual depth > perks] I agree with this so much, for example when I started to work in person in the Microsoft headquarters, I saw so many Hindu people, and for me their religion, and their knowledge regarding ultimate reality was much more interesting than the material compensation and other wordly things. Whereas other peers were way more interested in sking, and the money. My experience is an example that spiritual value and material value have inverse perceptions
+## Desire and Attachment
 
-## Suffering and bondage
-- Māyā as misdirection of intelligence
-- - [MYTAKE] [Wrong premises create suffering and increase with intelligence] This is so important. Intelligence is only useful when it is guided by the right premises. Without enough emotional intelligence, a person can make a profoundly wrong decision—like chasing more money despite already having plenty, while neglecting their family—creating suffering for themselves and others.
+- [Principle] [Higher taste displaces lower desire]
+  - [MYTAKE] [A higher pursuit can make lower desires unattractive] While some of my friends focused on debauchery in their twenties, I studied mathematics. Because I had a higher taste, the lower desires did not appeal to me; similarly, truly seeing Kṛṣṇa makes materially lower desires unattractive.
+- [Value perception] [Spiritual and material value can be perceived inversely]
+  - [MYTAKE] [Spiritual depth matters more to me than material perks] At Microsoft headquarters, the Hindu religion and its account of ultimate reality interested me more than compensation and other worldly benefits, while some peers cared more about skiing and money. My experience illustrates an inverse perception of spiritual and material value.
 
+## Suffering and Bondage
+
+- [Māyā] [Misdirected intelligence amplifies suffering]
+  - [MYTAKE] [Intelligence magnifies errors when its premises are wrong] Intelligence helps only when guided by sound premises. Without emotional intelligence, someone may pursue more money despite already having plenty and neglect their family, producing suffering for themselves and others.
 
 ### Karmic Bondage
-- [Bondage Cycle] [Definition] A self-reinforcing causal loop in which a response to pressure produces an immediate benefit that strengthens the tendency/capacity to repeat that response, while simultaneously generating latent costs that later create additional pressure for further responses.
 
+- [Definition] [Karmic bondage is a self-reinforcing cycle of pressure, immediate benefit, latent cost, and renewed pressure] A response to pressure creates an immediate benefit that strengthens the tendency or capacity to repeat it, while also generating latent costs that later produce further pressure.
 
-![alt text](image.png)
+![Karmic bondage cycle](image.png)
 
-[MYTAKE] [Example of systemic suffering] This is probably my favourite part of Hinduism. When I look at the suffering in society, I see a large web of interconnected bondage cycles, not just isolated acts of individuals. For example, in Caruaru, I see women in unstable families without solid father figures; those women often turn to debauchery, which then contributes to more unstable families. At the same time, the men lack meaningful projects, such as stable work, so they also fall into debauchery. One reason they lack direction is that the government does not plan the economy well. This creates a self-reinforcing cycle of suffering that connects many people. To solve it, we cannot simply punish the debauched youth; we must create meaningful projects, stable families, and broader social conditions that support people. Ultimately, the suffering of the whole society is interconnected, by each individual's bondage cycle, one bondage cycle doesn't cause so much suffering, but the summation of 400 000 people in bondage cycles creates a lot of suffering
+- [MYTAKE] [Social suffering emerges from interconnected individual bondage cycles] In Caruaru, unstable families, absent father figures, debauchery, lack of meaningful work, and weak economic planning reinforce one another. Punishing debauched youth alone cannot solve this network; meaningful projects, stable families, and supportive social conditions are also needed. A single bondage cycle may cause limited harm, but the aggregation of 400,000 people's cycles creates extensive suffering.
+- [MYTAKE] [Composure under pressure helps interrupt bondage cycles] Composure makes a considered response possible in place of a reactive one. In this sense, Brazilian jiu-jitsu can contribute to a good life because it trains composure under pressure.
 
-[MYTAKE] [Composure under pressure is key] Composure under pressure is the most critical skill for avoiding the bondage cycle, since it allows one to respond to pressure with a more considered and less reactive approach. In other words, BJJ can be key to a good life, because it teaches how to get rid of the bondage cycles.
+## Saṃsāra
 
-## Samsara
-- Assignment of the Next Body
-- [MYTAKE] [Scary] I will never see a plant in the same way again given that it could be a human soul in a previous life.
+- [Rebirth] [Karma assigns the soul's next body]
+  - [MYTAKE] [A plant may contain a soul that previously had a human life] This possibility changes how I see plants.
 
-### Consequences of Demoniac Behavior [Assignment of the next body]
+### Consequences of Demoniac Behavior
 
-| Type of birth                              | Relative status            | Typical experience                                            | What leads there                                                                                                 |
-| ------------------------------------------ | -------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| **Liberated soul** (beyond saṃsāra)        | Highest                    | Eternal existence, knowledge, and bliss; no rebirth           | Pure devotion (bhakti), complete surrender to Kṛṣṇa                                                              |
-| **Celestial being (Deva)**                 | Very high                  | Long life, refined pleasures, higher intelligence             | Great piety (puṇya), charity, sacrifice, self-control, virtue—but often mixed with desire for heavenly enjoyment |
-| **Human**                                  | High (best for liberation) | Mixture of pleasure and suffering; greatest freedom to choose | Mixed karma; sufficient piety and consciousness to receive a human birth                                         |
-| **Higher animals** (elephants, cows, etc.) | Medium                     | Limited reasoning; instinct-driven                            | Mixed karma with predominance of ignorance or attachment                                                         |
-| **Ordinary animals**                       | Lower                      | Survival, fear, instinct                                      | Strong ignorance (tamas), violence, uncontrolled desires                                                         |
-| **Plants and trees**                       | Very low                   | Minimal awareness; highly restricted activity                 | Heavy tamasic karma and deep unconsciousness                                                                     |
-| **Hellish conditions** (temporary)         | Lowest experience          | Intense suffering before another rebirth                      | Extremely harmful karma (cruelty, severe violence, exploitation, etc.)  
+- [Hierarchy of rebirth] [Karmic and devotional conditions shape the next form of existence]
 
-### Epistmic authority
-- Time-tested ethical and spiritual principles rather than acting solely according to personal desires.
-- - [MYTAKE] [Long term good emotions optimization] This reminds me a lot of Crime and Punishment
+| Type of birth | Relative status | Typical experience | What leads there |
+| --- | --- | --- | --- |
+| **Liberated soul** (beyond *saṃsāra*) | Highest | Eternal existence, knowledge, and bliss; no rebirth | Pure devotion (*bhakti*) and complete surrender to Kṛṣṇa |
+| **Celestial being (*deva*)** | Very high | Long life, refined pleasures, and higher intelligence | Great piety (*puṇya*), charity, sacrifice, self-control, and virtue, often mixed with desire for heavenly enjoyment |
+| **Human** | High; best for liberation | A mixture of pleasure and suffering, with the greatest freedom to choose | Mixed karma and sufficient piety and consciousness to receive a human birth |
+| **Higher animals** | Medium | Limited reasoning and instinct-driven life | Mixed karma dominated by ignorance or attachment |
+| **Ordinary animals** | Lower | Survival, fear, and instinct | Strong ignorance (*tamas*), violence, and uncontrolled desires |
+| **Plants and trees** | Very low | Minimal awareness and highly restricted activity | Heavy tamasic karma and deep unconsciousness |
+| **Hellish conditions** (temporary) | Lowest experience | Intense suffering before another rebirth | Extremely harmful karma, such as cruelty, severe violence, or exploitation |
+
+## Epistemic Authority
+
+- [Authority] [Time-tested ethical and spiritual principles should guide action rather than personal desire alone]
+  - [MYTAKE] [This resembles the moral psychology of *Crime and Punishment*] It evokes the long-term optimization of good emotions.
 
 # The Spiritual Path
 
-# Yoga
-- [MYTAKE] [Wrong definition of Yoga by me] Before reading the book I was so ignorant that I thought yoga was just a physical exercise, but now I understand that it is a spiritual discipline that encompasses action, knowledge, devotion, and meditation.
+## Yoga
 
-## Karma Yoga (selfless action)
-- [Central principle] Perform dharma without egoic attachment
+- [Definition] [Yoga is a spiritual discipline encompassing action, knowledge, devotion, and meditation]
+  - [MYTAKE] [I previously mistook yoga for only physical exercise]
 
-## Jnana Yoga (knowledge and discernment)
+### Karma Yoga: Selfless Action
 
+- [Central principle] [Perform *dharma* without egoic attachment]
 
-## Bhakti Yoga (devotion and surrender)
-- [Pure bhakti includes and surpasses other paths]
-- - [MYTAKE] [Mantra skepticism] I am still quite skeptical that chanting this mantra can have as much effect as the book says.
-- [Light of knowledge] Kṛṣṇa gives sincere devotees the understanding/intelligence by which they can know and approach Him.
+### Jñāna Yoga: Knowledge and Discernment
 
+- [Path] [Jñāna yoga pursues spiritual knowledge through discernment]
 
-## Stages / Milestones
+### Bhakti Yoga: Devotion and Surrender
 
-## Equinamity
-- [Definition] Steady inner balance in success/failure, pleasure/pain, praise/blame; acting without being emotionally thrown off by opposites.
+- [Relationship] [Pure *bhakti* includes and surpasses the other paths]
+  - [MYTAKE] [I remain skeptical that chanting a mantra can have the effect the book describes]
+- [Divine guidance] [Kṛṣṇa gives sincere devotees the intelligence to know and approach Him]
 
-## Yogi
-- [Definition] One who is disciplined in yoga: controls mind and senses and links consciousness to the Divine through sustained practice.
+## Stages and Milestones
 
-## Sage
-- [Definition] A spiritually mature knower (muni/ṛṣi-like) who sees reality clearly and lives by wisdom rather than impulse.
+### Equanimity
 
-## Sthita-prajña
-- [Definition] Literally "one of steady wisdom": a person firmly established in spiritual knowledge, free from restless desires, and stable in devotion.
-- - [MYTAKE] [Emotional intelligence] I love this emphasis that hinduism has in emotional intelligence and controlling the senses even more than mere supression of them, because people's life philosophies are so much based on justifying their desires and impulses, whereas we know that it creates suffering to them.
-- - [MYTAKE] This reminds me a lot of a CEO, or a BJJ black belt. All of them need to keep composure under great pressure.
+- [Definition] [Equanimity is steady inner balance amid opposites] It is the ability to act without being emotionally destabilized by success and failure, pleasure and pain, or praise and blame.
 
-[Thanks] A special thanks to Kanika Jindal for leading me to this great religion with so many philosphical breakthroughs. I will always be grateful to her for that.
+### Yogi
+
+- [Definition] [A yogi disciplines mind and senses and links consciousness to the Divine through sustained practice]
+
+### Sage
+
+- [Definition] [A sage sees reality clearly and lives by wisdom rather than impulse]
+
+### Sthita-prajña
+
+- [Definition] [A *sthita-prajña* is established in steady spiritual wisdom] Such a person is free from restless desires and stable in devotion.
+  - [MYTAKE] [Hinduism emphasizes emotional intelligence and governance of the senses] Many life philosophies rationalize desire and impulse even when these create suffering. I appreciate Hinduism's emphasis on governing the senses rather than merely suppressing them.
+  - [MYTAKE] [Steady wisdom resembles the composure of a CEO or BJJ black belt] Each must remain composed under intense pressure.
+
+- [Thanks] [Kanika Jindal introduced me to a religion rich in philosophical breakthroughs] I will always be grateful to her.

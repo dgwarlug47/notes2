@@ -6,198 +6,120 @@ types: Music
 publishDate: 2026-02-28
 ---
 
-![alt text](h.png)
+![Heavy Metal](h.png)
+
+![Heavy Metal note tree — Cancer of the Skull, part 1](note-tree-cancer-of-the-skull-1.png)
+
+![Heavy Metal note tree — Cancer of the Skull, part 2](note-tree-cancer-of-the-skull-2.png)
+
+![Heavy Metal note tree — Nina + Field of Cops, part 1](note-tree-nina-field-of-cops-1.png)
+
+![Heavy Metal note tree — Nina + Field of Cops, part 2](note-tree-nina-field-of-cops-2.png)
+
+![Heavy Metal note tree — Nina + Field of Cops, part 3](note-tree-nina-field-of-cops-3.png)
 
 # Cancer of the Skull
-> **[MYTAKE]** This song explores the eternal existential dilemma of artistic ambition versus insufficient competence - the struggle of aspiring to greatness while lacking the competence to achieve it.
+
+- [MYTAKE] [The song examines artistic ambition exceeding artistic competence] The narrator aspires to greatness while believing he lacks the ability to achieve it.
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1RkuN09alt0DLZ9PlplUcc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Verse 1
-I am full of heavy metals  
-I am a heavy metal man
-> **[MYTAKE]** [KEY] This brilliant metaphor captures the narrator's essence perfectly. Heavy metals possess high energy, bind to organic matter, and resist chemical reactions. Similarly, a "heavy metal man" is toxic to social norms - his stubborn character prevents normal behavior and cultural assimilation. Yet this very "heavy metalness" becomes the source of his creative power. The deep root of his virtues and vices.
 
-I have work in the morning  
-I have two bags over each hand, mm  
-I came up the stairs  
-I came to meet your cigarettes  
-You'd like to keep my salesman teeth, wouldn't you, baby?  
-Well, I'm on a pirate's crazy-eyed quest, mm
+- [Lyrics] [The narrator calls himself a heavy metal man]
+  - “I am full of heavy metals / I am a heavy metal man”
+  - “I have work in the morning / I have two bags over each hand”
+  - “I came up the stairs / I came to meet your cigarettes”
+  - “You'd like to keep my salesman's teeth, wouldn't you, baby?”
+  - “Well, I'm on a pirate's crazy-eyed quest”
+- [MYTAKE] [KEY: Heavy metal is both the narrator's toxicity and creative power] Heavy metals possess high energy, bind to organic matter, and resist chemical reactions. Likewise, the “heavy metal man” resists social norms and assimilation; the same stubborn nature becomes the root of both his virtues and vices.
 
 ## Verse 2
-I am wired to the man
-> **[MYTAKE]** The narrator is literally "wired" to his boss and the corporate system, forced to fulfill societal expectations despite his artistic nature.
 
-I take the train at dawn for him  
-I threw the horrible secret out, mm  
-I bring the front door into our house, mm  
-> **[MYTAKE]** He brings a "good" appearance to his family amidst society through his job I assume.
-
-I came up here freeze  
-I came up here to sleep in your infamous kitchen  
-You're holding out your baby's shoes, I can't take 'em  
-I pray to a pirate's maniac religion
+- [Lyrics] [The narrator is wired to a man and commutes for him at dawn]
+- [MYTAKE] [Being wired to the man means dependence on a boss and corporate system] He fulfills social expectations despite his artistic nature.
+- [Lyrics] [The narrator brings the front door into the house]
+- [MYTAKE] [The job may give his family a socially respectable appearance]
+- [Lyrics] [He seeks refuge in an infamous kitchen and follows a pirate's maniac religion]
 
 ## Chorus
-Oh, cancer of the fingers  
-And the hands of a beginner  
-These songs are meant for bad singers  
-I can't reach cancer of the '80s  
-I was beat with ukuleles  
-These songs are a hundred replay  
-I can't feed, mm
+
+- [Lyrics] [Cancer afflicts the fingers and beginner's hands] The songs are for bad singers; the narrator cannot reach the music of the 1980s and cannot feed what he creates.
 
 ## Verse 3
-My face is on the daughters  
-I am one dollar in your hand  
-I'd write a hell of a letter  
-And anyone who doesn't know any better would tell you  
-I am that zero dollar man
-- In a capitalist society where social hierarchies are determined by income and capital, the narrator recognizes his complete lack of value.
-> **[MYTAKE]** In some sense, he has high artistic qualities. But since they were insufficient to make a career, he had to settle to a "zero dollar man" job, and now anyone that sees him thinks he is a "zero dollar man" and nothing beyond that, that's why he mentions "And anyone who doesn't know any better would tell you".
 
-Oh, I painted over the perfect nose  
-That touches something you learned in 2000 with it  
-I buckled up for the fatal crash  
-Took a bullet through the bulletproof glass
-- This darkly humorous image of invulnerability being defeated captures the absurdity of the narrator's feelings.
+- [Lyrics] [The narrator is seen as a zero-dollar man]
+- [Social valuation] [Capitalist hierarchy equates low income with low personal value]
+- [MYTAKE] [Unrealized artistic qualities are invisible to people who see only his occupation] Because his art could not become a career, observers reduce him to a “zero-dollar man.”
+- [Lyrics] [Images of defaced perfection and defeated invulnerability culminate in a fatal crash]
+- [Interpretation] [A bullet through bulletproof glass makes invulnerability absurdly vulnerable]
+- [Lyrics] [The narrator kisses the emptiest car on the road]
 
-I kissed the emptiest car on the road
+## Chorus: Outro
 
-## Chorus (Outro)
-Oh, cancer of the fingers
-> **[MYTAKE]** The compulsive need to create music becomes a destructive force - a cancer that consumes him.
-
-And the hands of a beginner  
-> **[MYTAKE]** [KEY] The "fingers" represent the high aspiration, whereas the hands represent the competence. Here he perfectly communicates the root of the situation. A visceral aspiration, and the competence of a beginner.
-
-Those songs of legendary swingers
-> **[MYTAKE]** This is also very important in the song's central revelation: the narrator cannot match the skill of legendary musicians such as the Beatles or Led Zeppelin and must therefore resign himself to mundane employment. The gap between artistic ambition and actual ability becomes unbridgeable.
-
-I can't keep cancer of the '80s  
-I've been getting spanked with everybody lately  
-All these songs are a hundred ugly babies
-> [MYTAKE] The babies are his songs. After creating hundreds of them, he can't nurture them. He doesn't have the competence to actually make them blossom into high quality music.
+- [Lyrics] [Cancer returns to the fingers and the hands of a beginner]
+- [MYTAKE] [The compulsion to create becomes a destructive cancer]
+- [MYTAKE] [KEY: The fingers signify aspiration while the beginner's hands signify competence] The image compresses the song's central conflict into a visceral ambition constrained by novice ability.
+- [Lyrics] [The narrator cannot match legendary performers or nurture hundreds of ugly songs]
+- [MYTAKE] [The gap between ambition and ability forces the narrator toward mundane employment] He cannot equal musicians such as the Beatles or Led Zeppelin.
+- [MYTAKE] [The ugly babies are songs he created but cannot develop] After making hundreds, he lacks the competence to help them blossom.
 
 # Nina + Field of Cops
-> **[MYTAKE]** Nina represents clear-eyed awareness of harsh reality, while the "field of cops" symbolizes the overwhelming social forces and authority structures that crush innocence and individuality.
+
+- [MYTAKE] [Nina sees harsh reality while the field of cops embodies forces that crush individuality]
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/78ugJH8q6W3kiGLwM2K7Lg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Verse 1
-Your building is full of people who hate you  
-And bite off fingers and eat from piles
-> **[MYTAKE]** Opens with a cynical perspective on society's inherent hostility and competitiveness.
 
-And someone's knocking  
-All things spit towards and stutter at you  
-Closer and closer until the whole city falls over  
-While the music breaks a window
-> **[MYTAKE]** Music serves as escapism from reality's cynicism, offering retreat into comfortable fantasy.
-
-You're suspicious of treasures and plastic covers
-> **[MYTAKE]** Nina possesses clear-eyed awareness - she sees reality without the distortion of either fantasy of things that look good on appearance.
-
-All things flop over, the oven is open  
-And the kitchen is lying  
-My name is gonna sound old to you  
-But names are donuts on the sea  
-Names are peanuts in the trees  
-Names bid you to beg for trash
-> **[MYTAKE]** This passage brilliantly illustrates Lévi-Strauss's concept that in any given society, denotation and connotation are inseparable from the act of naming itself. Names carry cultural baggage that shapes our reality. Cultural naming creates ideologies that incentivize us to live our lives begging for trash.
-
-Oh, I walk on everything  
-On lucky dollars, baskets in the sand  
-Sunglasses in the rain, tire tracks in caves  
-I'll never send one more empty box  
-I'll talk to every crowded room  
-I'll go to the great carnivals of pain  
-And fight entire fields of cops  
-And keep a coconut in my hand
+- [Lyrics] [A hostile building and encroaching city surround the addressee]
+- [MYTAKE] [The opening depicts society as intrinsically hostile and competitive]
+- [Lyrics] [Music breaks a window as the city falls]
+- [MYTAKE] [Music offers escape from cynical reality into fantasy]
+- [Lyrics] [Nina distrusts treasures and plastic covers]
+- [MYTAKE] [Nina sees through attractive appearances without retreating into fantasy]
+- [Lyrics] [Names become absurd objects that make people beg for trash]
+- [MYTAKE] [Naming joins denotation to cultural connotation] The passage recalls Lévi-Strauss: names carry ideological baggage that shapes reality and incentivizes people to pursue trash.
+- [Lyrics] [The narrator vows to cross carnivals of pain and fight fields of cops]
 
 ## Refrain 1
-Nina knows the reason, and she's seen into the mouth  
-Of what it is to be a mountain  
-And she's seen all the good pigeon-like people shot down
-And bones be kicked to powder by the insane wild horses 
-> **[MYTAKE]** Nina possesses profound awareness of reality's brutality and the systematic destruction of innocence.
 
-Nina I'm not nothing, but when you lie on the piano  
-> **[MYTAKE]** [KEY] From a musical perspective, my favourite line of the song.
-
-I am reminded I am stupid, and in every upstairs room  
-A tall and daughterless Russian is kicking robins eggs to powder  
-While the music breaks a window
+- [Lyrics] [Nina sees innocence destroyed by insane wild horses]
+- [MYTAKE] [Nina has profound awareness of reality's brutality and systematic destruction of innocence]
+- [Lyrics] [When Nina lies on the piano, the narrator is reminded he is stupid]
+- [MYTAKE] [KEY: Nina lying on the piano is my favorite line musically]
+- [Lyrics] [A daughterless Russian destroys robins' eggs while music breaks a window]
 
 ## Verse 2
-Cavemen are kissing, walking on logs  
-Low enough to limbo cobwebs  
-And watch the clouds blow away  
-Drunk driving towards the sea
-- Another cynical portrayal of society's primitive and self-destructive tendencies.
 
-I'll be at your feet in every lifeboat
-> **[MYTAKE]** Given the harsh reality Nina perceives and her tranquility while facing it, perhaps the wisest response is to follow her guidance and awareness.
-
-I'll hold these lemons in my mouth and run  
-One of the important people standing on your chest  
-I'll love whatever kicks me hardest in the mouth  
-I'm gonna eat my keys  
-I've met a little bit of who I am  
-- I can definitely relate to that, understanding more about who I am in these trivial tasks of life.
-Backpacking upon the fingers of the real  
-Barricading every garden gate  
-Smiling into every cup of grapes  
-I safari across the neighbor's yard  
-Pushing groceries past pyramids of teeth  
-With my hands on my hips  
-Oh, this idiot festival, I man these cornfields for the banana-growing masses  
-Getting naked on the plane, sunburned to shit in the rain  
-Tomatoes in the missing barrels all have met many-handed boys  
-With laughing brains and know gorilla-fingered yapping dogs  
-The ugly kidney-needing kitten sees that the empty chairs want somebody
+- [Lyrics] [Cavemen behave primitively and drive drunk toward the sea]
+- [Interpretation] [The cavemen provide another cynical image of social primitivism and self-destruction]
+- [Lyrics] [The narrator promises to remain at Nina's feet in every lifeboat]
+- [MYTAKE] [Nina's clear sight and tranquility make her guidance worth following]
+- [Lyrics] [The narrator embraces what hurts, eats his keys, and meets part of himself]
+- [MYTAKE] [Trivial tasks can reveal part of one's identity]
+- [Lyrics] [An extended procession of grotesque everyday images becomes an idiot festival] The passage moves through gardens, groceries, cornfields, planes, tomatoes, dogs, a kitten, and empty chairs.
 
 ## Refrain 2
-Nina isn't listening and she's seen into the mouth  
-Of what is really in the fountain  
-And she's seen all the good pigeon-like people shot down  
-And bones be kicked to powder by the insane wild horses  
-Nina I'm not nothing but when you check under cabinets  
-I'm reminded someone's calling  
-And in every upstairs room a dirty old man is blushing  
-And the neighbors lose their power while the music breaks the window
+
+- [Lyrics] [Nina sees what is really in the fountain and the destruction of good people]
+- [Lyrics] [Domestic searching evokes an unanswered call and hidden shame upstairs]
+- [Lyrics] [The neighbors lose power while music breaks the window]
 
 ## Verse 3
-These great spirals, diagrams, and vegetables and talking red trees  
-Throw it all away  
-- No ideology seems to be very useful anymore.
-Stupid paper gifts offered with both hands are  
-Sadder than bald-headed haircut dreams
-> **[MYTAKE]** Social rituals and gestures are revealed as hollow, meaningless performances.
 
-Sadder than a paper-flat puppy in your pad  
-Sadder than any featherless doer of math  
-Sadder than the sad  
-Microwave everything, add to the puddles  
-Give me an answer, die for baseball
-> **[MYTAKE]** Philosophical suicide as escape from Camus's "nostalgia for unity" - choosing death over confronting society's cynicism and fragmentation.
+- [Lyrics] [Spirals, diagrams, vegetables, and talking trees should all be discarded]
+- [Interpretation] [No ideology appears useful anymore]
+- [Lyrics] [Social gifts and dreams become increasingly absurd emblems of sadness]
+- [MYTAKE] [Social rituals are exposed as hollow performances]
+- [Lyrics] [The demand for an answer culminates in dying for baseball]
+- [MYTAKE] [Death becomes philosophical escape from fragmentation] This resembles Camus's account of philosophical suicide as flight from the “nostalgia for unity.”
+- [Lyrics] [The sole survivor is instructed to discard papers and return the way he came]
 
-Motorcycle made of rocks eat this hotel key and ride away  
-Stuff these papers down your pants  
-And do the sole survivor's walk back down the way you came
+## Refrain 3: Outro
 
-## Refrain 3 (Outro)
-- [MYTAKE] From a musical perspective, my favorite part of the song
-Nina knows the reason that she's seen into the mouth  
-Of what it is to be a mountain  
-And she's seen all the good pigeon-like people shot down  
-And bones be kicked to powder by the insane wild horses  
-Nina, I'm not nothing but when you lie on the piano
-I am reminded I am stupid, and in every upstairs room  
-The deep and smiling voice is shushing
-> **[MYTAKE]** Suggests the sinister presence of those that control the world (upstrairs room). Figures engaging in corrupt activities while maintaining public facades.
-
-Kicking everything to powder  
-Throwing music out the window  
-Woah, woah
+- [MYTAKE] [The final refrain is my favorite part musically]
+- [Lyrics] [Nina again sees innocence destroyed and leaves the narrator feeling stupid]
+- [Lyrics] [A deep smiling voice shushes while everything is kicked to powder]
+- [MYTAKE] [The upstairs voice suggests hidden controllers maintaining respectable public faces]
+- [Lyrics] [Music is thrown out the window]

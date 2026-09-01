@@ -7,15 +7,6 @@ publishDate: 2025-04-05
 highlights: true
 ---
 
-# Memory Trigger
-
-I like to interpret the world cup in terms of:
-
-1. Anthropology
-- ethos/rituals
-2. Hegel
-3. Doctor Jekyll and Mr Hyde
-
 # FIFA World Cup Summary (1958 - Present)
 
 ## 1958 FIFA World Cup (Sweden)

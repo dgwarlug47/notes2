@@ -8,6 +8,8 @@ publishDate: 2025-03-01
 
 ![alt text](image.png)
 
+![Camus note tree — absurdism and the big question](note-tree.png)
+
 
 # Personal
 

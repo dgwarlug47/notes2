@@ -13,19 +13,6 @@ highlights: true
 
 https://www.dropbox.com/scl/fi/6ahpzqfslasey5co2u20i/CP.mp4?rlkey=2qek1vagzit9t3faj99d4ktd6&st=1z6ahvay&dl=0
 
-# [Memory Trigger] Core Questions
-
-## [Philosophy] What is a crime?
-
-- [Relativism] The novel explores crime through the lens of modern moral relativism.
-- [Victim Question] Raskolnikov's victim, the old pawnbroker, is portrayed as unpleasant and exploitative, which raises the question of whether her character changes the moral weight of the act.
-- [Moral Ambiguity] Dostoevsky keeps pressing on whether morality is absolute or subjective.
-
-## [Psychology] What is a punishment?
-
-- [Inner Punishment] Punishment is tied to crime, but the novel suggests that conscience can punish even before society does.
-- [Psychological Cost] The deepest punishment in the book is internal suffering rather than legal judgment.
-- [Justice Question] The story blends philosophy and psychology to challenge simple ideas of justice and retribution.
 
 # [Characters] Main Characters
 

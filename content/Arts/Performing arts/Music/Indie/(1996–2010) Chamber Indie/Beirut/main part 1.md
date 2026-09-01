@@ -6,95 +6,101 @@ types: Music
 publishDate: 2025-12-08
 ---
 
+![Beirut origins note tree](tree-origins.png)
 
-# Beirut (Section 1, Origins)
-- Beirut is one of my 10 favorite bands
+![Gulag Orkestar note tree — part 1](tree-gulag-orkestar.png)
 
-![alt text](image.png))
-- The band is named after Lebanon's capital, due to the city's history of conflict and as a place where cultures collide, Beirut's music combines elements of indie rock, Balkan folk, and world music.
+![Gulag Orkestar note tree — part 2](tree-gulag-orkestar-2.png)
 
-![alt text](zack.png)
+![Gulag Orkestar note tree — part 3](tree-gulag-orkestar-3.png)
 
-# Zach Condon
-- He (the lead artist of the band) worked at a cinema showing international films, piqued his interest in Fellini arias, Sicilian funeral brass, and Balkan music.
-- Returning from Europe, Condon enrolled at the University of New Mexico, where he studied Portuguese and photography.
-- [MYTAKE] The relationship between his personal history and Europe, helps explain how and how Beirut's sounds got its european influences.
+![Beirut](image.png)
 
-## What is Brass?
-- Brass-driven songs are those that are driven by brass instruments, a few of them shown below. Note that in those songs, the brass is not a supporting actor, but a lead.
-- Many Beirut songs are "brass-driven", which makes their sound unique.
-- Zack Condon said multiple times, that Balkan music (which is brass-driven) is one of this major influences
+# Beirut: Origins
+
+- [MYTAKE] [Beirut is one of my ten favorite bands]
+- [Name origin] [The band takes its name from a city where cultures and conflicts collide] Beirut's music combines indie rock, Balkan folk, and world music.
+
+![Zach Condon](zack.png)
+
+## Zach Condon
+
+- [Influence] [Work at an international cinema exposed Condon to Fellini arias, Sicilian funeral brass, and Balkan music]
+- [Education] [After returning from Europe, Condon studied Portuguese and photography at the University of New Mexico]
+- [MYTAKE] [Condon's personal history helps explain Beirut's European influences]
+
+## Brass
+
+- [Definition] [Brass-driven music places brass instruments in a leading rather than supporting role]
+- [Distinctive sound] [Many Beirut songs are brass-driven]
+- [Influence] [Condon repeatedly identified brass-driven Balkan music as a major influence]
+
 ### Trumpet
 
-![alt text](trumpet.png)
+- [Instrument] [The trumpet contributes to Beirut's brass palette]
+
+![Trumpet](trumpet.png)
 
 ### Trombone
 
-![alt text](brass2.png)
+- [Instrument] [The trombone contributes to Beirut's brass palette]
+
+![Trombone](brass2.png)
 
 ### Tuba
 
-![alt text](tuba.png)
+- [Instrument] [The tuba contributes to Beirut's brass palette]
 
+![Tuba](tuba.png)
 
-# Gulag Orkestar: Their First Album (Section 2)
+# Gulag Orkestar: The First Album
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4yP7cyoeE3F6EyJPZ9v47V?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-## The album name
+## Album Name
 
-### Gulag
-- Definition: A Gulag was the Soviet Union's system of forced-labor prison camps used to punish and control millions of people, especially under Stalin.
+- [Definition] [A gulag was the Soviet forced-labor prison-camp system] It was used to punish and control millions of people, especially under Stalin.
+- [Translation] [Orkestar means orchestra in Serbo-Croatian]
+- [MYTAKE] [The title evokes an orchestra flowering under dire conditions] I enjoy the album's dramatic theme: a flower growing in a gulag.
 
-### Orkestar
-- Orchestra in 'Serbo-Croatian'
+## Interesting Fact
 
-[MYTAKE] I enjoy the album's overall theme. The idea of creating an orchestra in a gulag. It's pretty dramatic. The classic idea that a flower can grow in the most dire conditions.
-
-## Interesting fact
-- Zach Condon has said in multiple interviews that **he wrote most of _Gulag Orkestar_ before ever going to Eastern Europe**.
-- [MYTAKE] This adds to the dream-like atmosphere of the album. Because after all, all of his understanding of Europe is just his imagination.
+- [Composition history] [Condon wrote most of *Gulag Orkestar* before visiting Eastern Europe]
+  - [MYTAKE] [The imagined Europe strengthens the album's dreamlike atmosphere] His understanding of Europe was, after all, largely imagined.
 
 ## Map
-- https://www.google.com/maps/d/edit?mid=1V3z98ZN6Ti67hXb6I39wbnGrDk5jhI4&usp=sharing
-- The above map has the cities that the songs of Beirut are named after. Including the album Gulag Orkestar.
+
+- [Resource] [The linked map locates cities after which Beirut songs are named] It includes places connected to *Gulag Orkestar*: https://www.google.com/maps/d/edit?mid=1V3z98ZN6Ti67hXb6I39wbnGrDk5jhI4&usp=sharing
 
 ## Rhineland
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6SP4q0W1VrusEMfZRQIYXf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- **Lyrics**
-	- "Life, life is all right on the Rhine
-	- I longed for your heart
-	- No, but I know, but I know  
-	- I would have nowhere to go  
-	- No, but there's nowhere to go, to go
-	- I wasn't home"
-- [MYTAKE] It is one of the few songs that is not named after a place that wasn't a USSR satellite state. Therefore, maybe it symbolizes a dream/perfection. From the point of view of someone from a Gulag, all they could ever want is a place to chill with freedom, such as the Rhineland in Germany.
-- [MYTAKE] But if the Rhineland is great, why he seems to partially dislike it? "there's no where to go".  Probably because it's not his heartland. For us that live in big cities, this song is what the country side represents. We long for its heart, life is alright over there. But there is nowhere to go, and we are not at home over there.
-- [MYTAKE] This guy is an absolute genius.
+- [Lyrics] [The narrator longs for life on the Rhine but does not feel at home there]
+  - “Life, life is all right on the Rhine”
+  - “I longed for your heart”
+  - “No, but I know, but I know / I would have nowhere to go”
+  - “No, but there's nowhere to go, to go”
+  - “I wasn't home”
+- [MYTAKE] [The Rhineland may symbolize an attainable dream of freedom] Unlike most places named on the album, it was not in a Soviet satellite state. From a gulag prisoner's imagined perspective, it could be a place to rest freely.
+- [MYTAKE] [The Rhineland offers peace without belonging] The narrator longs for it, yet “there's nowhere to go” because it is not his homeland. It resembles what the countryside represents to city dwellers: peaceful and desirable, but neither eventful nor home.
+- [MYTAKE] [Condon's construction of this tension is ingenious]
 
 ## Postcards from Italy
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7H0UxIN751StFi2tznmHlg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- [MYTAKE] I love the fact that Italy is only mentioned as a postcard. Once again, I interpret that the album Gulag Orkestar, is from a perspective of someone in a Gulag. Italy symbolizes a dream that is even more distant than the Rhineland, because the Rhineland is somewhere he at least considers living,  but Italy is just a place for his vacation, really. He probably only knows Italy from the postcards they receive inside the Gulag.
-- **Lyrics**
-	- "And I will love to see that day  
-	- That day is mine  
-	- When she will marry me outside with the willow trees  
-	- And play the songs we made  
-	- They made me so  
-	- And I would love to see that day  
-	- Her day was mine"
-- [MYTAKE] We can clearly see that this "day" in Italy is just a delusion. It never happened, and probably never will. That's why he says "I will love to see that day."
-- [MYTAKE] When he says "That day is mine", I think he means so something very deep. As if that day is a moment of personal triumph, clarity, love, or fulfillment. Maybe something to his happy place.
-- [MYTAKE] For sure, one of my favourite songs. In 2025 it was the song i listened the most according to Spotify.
+- [MYTAKE] [Italy exists only as a distant dream represented by a postcard] From the imagined perspective of someone in a gulag, the Rhineland remains a possible place to live, while Italy is so remote that it can only be visited in fantasy.
+- [Lyrics] [The narrator imagines a wedding day beneath willow trees]
+- [MYTAKE] [The promised day appears to be a delusion that may never happen]
+- [MYTAKE] [“That day is mine” suggests personal triumph, clarity, love, or fulfillment]
+- [MYTAKE] [This was my most-listened song of 2025 and remains one of my favorites]
 
 ## Bunker
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/27eX7w4g7cJErljKpiH1YK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- "I would sooner go than fade away."
-- [MYTAKE] Reflects the idea that in dire conditions, such as the Bunker, it's better to simply die than keep suffering
-- "My cities dead, my cities gone. I'll stay away."
-- [MYTAKE] The Bunker has this Schrodinger effect. Is everyone outside dead or not? Since the doubt, it's better to stay away
+- [Lyrics] [The narrator would rather leave than fade away]
+- [MYTAKE] [Under dire conditions, death can seem preferable to prolonged suffering]
+- [Lyrics] [The narrator stays inside because his city is dead and gone]
+- [MYTAKE] [The bunker creates uncertainty about whether anyone outside remains alive]

@@ -9,17 +9,6 @@ highlights: true
 
 <img src ="image.png" width=300/>
 
-# Memory Trigger
-
-1. [Dense and Detailed Prose] The narrative is packed with intricate descriptions and an "encyclopedic display of knowledge," incorporating themes like media theory, addiction, and national identity.
-2. [Loneliness] Tennis as a Metaphor, The sport symbolizes the isolating nature of modern life, where individuals compete in solitude.
-3. [Addiction] Addiction is a central theme, explored not just in terms of substances but also behaviors, entertainment, and societal dependencies. It expanded my understanding of addiction.
-- For example the girl that kept her baby even though it was dead already
-4. [Literary Significance] Frequently cited as one of the most difficult books to read of the 20th century due to its complexity and depth.
-5. [Hedonism and Its Consequences] The book exaggerates—or perhaps accurately portrays—the dangers of hedonism through "The Entertainment," a film so pleasurable it renders viewers incapable of doing anything else.
-6. [E2E Philosophy] I love how it relates to the whole history of mankind's philosophy
-7. [Platos' dialogue] mockery
-- And the disbelief over american philosophy on present times (or any time really)
 
 # Basics
 

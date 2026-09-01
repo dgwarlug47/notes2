@@ -8,21 +8,26 @@ publishDate: 2026-08-27
 
 ![Note tree for myths and their impact in society](note-tree.png)
 
+# Definitions
+- [Definition] [Myth] myth is a traditional narrative that explains the origins of the world, humanity, and cultural practices while establishing moral and social models for a community
+- - [MYTAKE] [Basically an answer to the unanswereable]
+- [Relationship with Culture] Myth and culture share a deeply interconnected, cyclical relationship where they constantly shape and mirror each other. Myth serves as the symbolic blueprint of a culture, while culture provides the living context that keeps myths relevant.
+- - [KEY] the key word here is symbolic blueprint
 
-# Scholars and Works Most Associated with Each Section
 
-- [Section] [Social Utility of Myths across Society] [Émile Durkheim] [The Elementary Forms of Religious Life] This section fits Durkheim most closely because it treats myth as a social institution that stabilizes collective life, channels contradiction, and maintains emotional equilibrium.
-- [Section] [Which Myth is believed?] [Karl Marx] [The German Ideology] The claim that the dominant myth is the one most useful to the ruling class aligns with Marx's account of ideology and the material interests of dominant groups.
-- [Section] [Shared Structures Across Myths] [Joseph Campbell] [The Hero with a Thousand Faces] The emphasis on recurring mythic patterns and universal structures is closest to Campbell's theory of archetypal hero narratives.
-- [Section] [Social Contradictions and Their Solving Myths] [Claude Lévi-Strauss] [Structural Anthropology] and also [Émile Durkheim] [The Elementary Forms of Religious Life] This section is broader than social inequality: it concerns any hard social contradiction—such as sacred/profane, nature/culture, order/chaos, or life/death—that myth resolves by giving the conflict a symbolic and narratively intelligible form.
-- [Section] [Existential Functions of Myth] [Carl Jung] [The Archetypes and the Collective Unconscious] The emphasis on myths as symbolic forms for inexpressible emotional and existential experiences fits Jung particularly well.
+# Individual perspective
+- [Function] [Myths reduce psychich conflict] Unconscious conflict produces overwhelming, undifferentiated affect. Myth converts it into differentiated symbolic experience, allowing consciousness to relate to it without either repressing it completely or being possessed by it
+- - [KEY] keywords are undifferentiated, repression and possession
+- - [MYTAKE] [Seeing it from a distance] You are able to see your internal contradictions/conflicts from a distance. One example that I really like is Cancer of the Skull, because it shows the internal conflict of a person who aspires for a certain type of greatness but doesn't have the talent to achieve it.
+- - [Scholar] [Carl Jung] Symbols of Transformation (1912; substantially revised in 1952)
 
 # Social Utility of Myths accross Society
 
-- [Function] [Myths keep unresolved contradictions from becoming psychologically overwhelming] By transforming contradictions and existential problems into characters, symbols, and stories, myths give people a concrete form through which to experience and think about conflicts that cannot be fully resolved. In this sense, myths prevent people from going crazy: they make otherwise intolerable tensions narratable and psychologically manageable.
 - [KEY] Emotional conflict unders scales turns into social conflict
 - [Function] [Myths stabilizes social conflicts] The relevant contradiction is not a harmless inconsistency, such as liking both warm and cold food. It is an experienced conflict, such as believing that people are equal while seeing one person possess extraordinary wealth and another possess nothing.
-- [KEY] [Myths provide comfort when social causation is complex and change is frightening] Economic outcomes can arise from work, disciplined investment, inheritance, luck, skill, and structural advantage in combinations that are difficult to disentangle. Correcting injustice may require slow reform or frightening conflict against groups that defend their advantages, so myths provide a simpler and more comforting answer.
+- - [Scholar] [Roland Banthers] Mythologies, 1968
+- [Myths provide comfort when social causation is complex almost impossible for the human to understand] When thinking how to approach social inequality. We can see from so many angles, and change is frightening Economic outcomes can arise from work, disciplined investment, if nothing is done social inequality continues, if you try to make a revolution, people will probably get killed, but thinking long term it might be worth it, but only if the revolution succeeds, it's hard to test prepare a revolution that has empirical proof that it will succeed, and if it fails. If you try to do through social democratic manners, it might take forever and since the bourgeoisie is so powerful, it might never happen because they can always elect a fascist and overdo everything you did. Social inequality impacts so many people, criminality, bad health due to bad education, people get addicted to drugs because they didn't receive a good education. Given this complexity of this issue, it might be easier to just believe that free market is the best answer but it never solves the problem because not enough people believe in it.
+- - [Scholar] [Ernst Cassirer]
 
 # Which Myth is believed?
 - The myth that is most beneficial/compatible to the dominant social group is the most believed under a specific group of people
@@ -43,6 +48,14 @@ publishDate: 2026-08-27
   - [Example] [Inside Out makes invisible emotional conflict narratable] *Inside Out* transforms a child's internal emotional life into characters, places, and journeys. By personifying Joy, Sadness, Fear, Anger, and Disgust, the film gives visible narrative form to grief, emotional ambivalence, and the loss involved in growing up.
 
 # Social Contradictions and Their Solving Myths
+
+## Template
+- [Contradiction]
+- [Solving Myth]
+- [Logic on why it solves the contradiction]
+- [Myth]
+- [Transmission]
+- [Concrete example]
 
 ## Example 1: The American Dream
 

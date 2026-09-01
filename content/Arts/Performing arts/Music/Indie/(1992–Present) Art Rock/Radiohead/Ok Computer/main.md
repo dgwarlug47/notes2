@@ -8,13 +8,13 @@ publishDate: 2025-05-04
 
 ![Cover of OK Computer](image.png)
 
-![OK Computer note tree — overview and appearances](proposal-note-tree-overview.png)
+![OK Computer note tree — overview and appearances](note-tree-overview.png)
 
-![OK Computer note tree — Paranoid Android](proposal-note-tree-paranoid-android.png)
+![OK Computer note tree — Paranoid Android](note-tree-paranoid-android.png)
 
-![OK Computer note tree — No Surprises](proposal-note-tree-no-surprises.png)
+![OK Computer note tree — No Surprises](note-tree-no-surprises.png)
 
-![OK Computer note tree — Karma Police, Let Down, and Electioneering](proposal-note-tree-remaining-songs.png)
+![OK Computer note tree — Karma Police, Let Down, and Electioneering](note-tree-remaining-songs.png)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6dVIqQ8qmQ5GBnJ9shOYGE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

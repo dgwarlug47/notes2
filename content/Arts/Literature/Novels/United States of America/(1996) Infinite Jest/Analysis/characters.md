@@ -6,13 +6,6 @@ types: Literature
 publishDate: 2025-03-01
 ---
 
-# Memory Trigger
-
-1. Hal Incandenza as a metaphor that the enlightment didn't bring what it promised
-2. Don Gately and Hal Incandenza symmetry as a conclusion that someone's heart is more important than someone's brain
-3. Emotional detatchment at the Incandenza family. For example the problems that James had interacting with this son, and his death
-4. James Incandenza and the unfulfilled genius
-
 # Infinite Jest – Key Characters
 
 ## Incandenza Family

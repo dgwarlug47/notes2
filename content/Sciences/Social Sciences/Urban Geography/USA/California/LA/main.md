@@ -7,11 +7,6 @@ publishDate: 2025-03-01
 highlights: true
 ---
 
-# Memory Trigger
-
-1. What do Beverly Hills, Santa Monica symbolize in American Society?
-2. What do you like so much about LA Downtown?
-
 # Prelude
 
 [MYTAKE] I personally really like the name, probably my favourite name in all cities of the world

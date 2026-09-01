@@ -6,20 +6,15 @@ types: Literature
 publishDate: 2025-04-04
 ---
 
-
-![alt text](image-2.png)
-
-# Memory Trigger
-
-1. Why Capitu is one of my favourite female characters in Literature
-2. Bentinho's trajectory as a metaphor for life and growing old: "joltin joe has left and gone away". Relacionmamento "irreconhecivel"
-
+![alt text](image.png)
 
 ## Playlist inspired in the book
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3jEjdddMHaoNmCyHNOmtfN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-# Characters
+# Characters Introduction
+
+![alt text](image-2.png)
 
 🧔‍♂️ Bentinho / Dom Casmurro
 - Narrator and protagonist of the novel.
