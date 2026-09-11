@@ -7,13 +7,13 @@ publishDate: 2025-05-26
 highlights: true
 ---
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 Page 690
 
 # 👩‍🦰 Anna Arkadyevna Karenina – The Passionate / Tragic Woman
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 | Dr. Jekyll (Light Side)                                                        | Mr. Hyde (Dark Side)                                                      |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ this is my unhappiness.
 
 # 🕺 Stiva Oblonsky – The Hedonist / Social Man (ESFP)
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 | Dr. Jekyll                                     | Mr. Hyde                                                            |
 | ---------------------------------------------- | ------------------------------------------------------------------- |
@@ -128,7 +128,7 @@ thousand.”
 
 # 🌾 Konstantin Dmitrievich Levin – The Seeker / Integrated Man
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 | Dr. Jekyll                                                              | Mr. Hyde                                                               |
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------- |
@@ -195,7 +195,7 @@ now to me but a painful and humiliating reminiscence.”
 
 # 🏇 Count Alexei Kirillovich Vronsky - The Romantic / Ambitious Man
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 | Dr. Jekyll                                            | Mr. Hyde                                                                     |
 | ----------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -286,7 +286,7 @@ for long in his heart, the cruelest and bitterest memory of his life.
 
 # 👧 Kitty Shcherbatsky – The Innocent / Growing Woman
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 | Dr. Jekyll                                               | Mr. Hyde                                                  |
 | -------------------------------------------------------- | --------------------------------------------------------- |
@@ -315,7 +315,7 @@ her faith in another.
 
 # 🧊 Alexei Alexandrovich Karenin – The Rationalist / Bureaucratic Man
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 | Dr. Jekyll                                                         | Mr. Hyde                                                                  |
 | ------------------------------------------------------------------ | ------------------------------------------------------------------------- |
@@ -374,7 +374,7 @@ happen. He’s not a man, but a machine, and a spiteful machine when he’s angr
 
 # 👩‍👧‍👦 Darya Alexandrovna (Dolly) – The Dutiful / Resigned Woman
 
-![alt text](image-8.png)
+![alt text](Images/image-8.png)
 
 ## Low self esteem
 - Dolly could not help sighing. Her dearest friend, her sister, was going away.

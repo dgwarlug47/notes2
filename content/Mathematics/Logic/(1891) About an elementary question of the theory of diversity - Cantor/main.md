@@ -12,11 +12,11 @@ Cardinal number
 - https://en.wikipedia.org/wiki/Cardinal_number
 - Cardinal numbers are a group of object, where their order (greater or equal to) and arithmetic are all defined by operations of the seat each of them represent
 
-![alt text](<Screen Shot 2025-01-24 at 3.28.00 PM.png>)
+![alt text](<Images/Screen Shot 2025-01-24 at 3.28.00 PM.png>)
 
 ## Ordinal numbers
 
-![alt text](<Screen Shot 2025-01-25 at 8.47.50 AM.png>)
+![alt text](<Images/Screen Shot 2025-01-25 at 8.47.50 AM.png>)
 
 # Axiom of choice
 Definition
@@ -29,7 +29,7 @@ Definition
 
 # Cantor's theorem
 
-![alt text](<Screen Shot 2025-01-24 at 3.33.31 PM.png>)
+![alt text](<Images/Screen Shot 2025-01-24 at 3.33.31 PM.png>)
 
 - Consequently, the theorem implies that there is no largest cardinal number (colloquially, "there's no largest infinity")
 
@@ -37,4 +37,4 @@ Definition
 
 Proof that the real numbers are uncountable
 
-![alt text](<Screen Shot 2025-01-25 at 8.42.26 AM.png>)
+![alt text](<Images/Screen Shot 2025-01-25 at 8.42.26 AM.png>)

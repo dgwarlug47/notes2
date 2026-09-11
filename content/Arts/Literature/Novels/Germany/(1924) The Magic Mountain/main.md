@@ -7,7 +7,7 @@ types: Literature
 publishDate: 2025-05-02
 ---
 
-![Cover of The Magic Mountain](image-2.png)
+![Cover of The Magic Mountain](Images/image-2.png)
 
 ## Setting
 
@@ -32,4 +32,4 @@ publishDate: 2025-05-02
 
 - [Recognition] [Thomas Mann received the 1929 Nobel Prize in Literature] Thomas Mann, the author of *The Magic Mountain*, was awarded the Nobel Prize in Literature in 1929 for his outstanding contributions to literature.
 
-![Thomas Mann](image-1.png)
+![Thomas Mann](Images/image-1.png)

@@ -6,9 +6,9 @@ types: Literature
 publishDate: 2025-06-09
 ---
 
-![Capa de Memórias Póstumas de Brás Cubas](image.png)
+![Capa de Memórias Póstumas de Brás Cubas](Images/image.png)
 
-![Árvore da nota de Memórias Póstumas de Brás Cubas](proposal-note-tree.png)
+![Árvore da nota de Memórias Póstumas de Brás Cubas](Images/note-tree.png)
 
 # Importância Literária
 
@@ -42,12 +42,17 @@ publishDate: 2025-06-09
 - [Caracterização] [Brás Cubas é um beneficiário cínico da propriedade herdada] Brás Cubas seria um beneficiário cínico que, como escreve no capítulo final, não trabalhou nem pagou o pão com o suor do rosto,[45] em alusão ao Gênesis: “No suor do teu rosto comerás o teu pão”.[46]
 - [Interpretação] [O romance retrata o liberalismo de fachada em uma sociedade escravocrata] Roberto Schwarz descreve a obra como um retrato do liberalismo de fachada que convivia com o regime escravocrata.[48]
 
+# Final
+- [Quote] [Pequeno saldo] “Este último capítulo é todo de negativas. Não alcancei a celebridade do emplasto, não fui ministro, não fui califa, não conheci o casamento. Verdade é que, ao lado dessas faltas, coube-me a boa fortuna de não comprar o pão com o suor do meu rosto. Mais; não padeci a morte de D. Plácida, nem a semidemência do Quincas Borba. Somadas umas coisas e outras, qualquer pessoa imaginará que não houve míngua nem sobra, e conseguintemente que saí quite com a vida. E imaginará mal; porque ao chegar a este outro lado do mistério, achei-me com um pequeno saldo, que é a derradeira negativa deste capítulo de negativas: — Não tive filhos, não transmiti a nenhuma criatura o legado da nossa miséria.”
+
+
+# Estilo
+
 ## Narrador Defunto
 
 - [Função narrativa] [A morte concede ao narrador liberdade para julgar a sociedade] Críticos sociológicos entendem que a condição de protagonista morto permite a Brás narrar sua vida com “total isenção” e inteiramente “desvinculado de qualquer relação com a sociedade”. O descomprometimento proporcionado pela morte lhe dá o poder de dizer, falar, zombar e criticar quem e o que quiser.
-- - [MYTAKE] [Acho engracado e contraditorio o narrador defunto]
-
-# Estilo
+- [Quote] [Dedicacao ao verme] “Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas memórias póstumas”
+- - [MYTAKE] [Acho engracado e contraditorio um narrador defunto]
 
 ## Ironia e Escrita
 
@@ -62,4 +67,3 @@ publishDate: 2025-06-09
 - [Ruptura] [O narrador subjetivo e irônico rompe com o realismo tradicional] Diferentemente da objetividade característica do narrador em obras de Flaubert, Machado rompe com essa tradição por meio de um narrador subjetivo e irônico.
 - [Metalinguagem] [O narrador comenta o próprio ato de narrar] Machado comenta frequentemente o ato de narrar, estabelece uma relação direta com o leitor e evidencia a artificialidade da narrativa.
 - [MYTAKE] [A pateticidade de Brás Cubas lembra personagens de Woody Allen] A pateticidade de Brás Cubas lembra, em certa medida, os personagens de Woody Allen: suas reflexões irônicas e autodepreciativas expõem as fragilidades humanas de maneira cômica e melancólica. Muitas vezes preferio personagens assim do que personagens que se levam a sério demais, como os de Dostoiévski, por exemplo. Da um tom mais leve e divertido a vida.
-

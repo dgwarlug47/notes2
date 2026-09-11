@@ -11,7 +11,7 @@ highlights: true
 
 [MYTAKE] I personally really like the name, probably my favourite name in all cities of the world
 
-![alt text](image-40.png)
+![alt text](Images/image-40.png)
 
 los angeles administrative and political map
 Los Angeles Map. a major city in the California.
@@ -55,34 +55,34 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 **Rodeo drive**
 - House of Bijan well known as one of the most expensive mens wear in the world
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
 **Beverly hills hotel**
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 **The graduate house**
 
-![alt text](image-35.png)
+![alt text](Images/image-35.png)
 
 # Santa Monica
 
 **Pier**
 
-![alt text](image-8.png)
+![alt text](Images/image-8.png)
 
 **Palisades park**
 
-![alt text](image-11.png)
+![alt text](Images/image-11.png)
 
 **Location of the snap headquarters**
 
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
 
 **Riot games headquarters (close by)**
 
-![alt text](image-10.png)
+![alt text](Images/image-10.png)
 
 # Los Angeles (the city, not the county)
 
@@ -90,16 +90,16 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 
 **Boardwalk**
 
-![alt text](image-24.png)
+![alt text](Images/image-24.png)
 
 **Venice canals**
 - Valentines day movie
 
-![alt text](image-25.png)
+![alt text](Images/image-25.png)
 
 **Venice skate park**
 
-![alt text](image-27.png)
+![alt text](Images/image-27.png)
 
 ## Silver Lake
 
@@ -110,13 +110,13 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 **Silver Lake Resoirvoir**
 - Very nice views around there
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 **Sunset junction**
 - [Definition] The name refers to the street junction of Sunset Boulevard and Santa Monica Boulevard, two of the largest streets in Los Angeles, both of which travel from Sunset Junction to the Pacific Ocean
 
 
-![alt text](image-34.png)
+![alt text](Images/image-34.png)
 
 **Miniature libraries**
 
@@ -127,7 +127,7 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 **Dodgers stadium**
 
 
-![alt text](image-38.png)
+![alt text](Images/image-38.png)
 
 ## Central LA
 
@@ -139,14 +139,14 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 - Famous for its large-scale public art sculpture
 - Rain room
 
-![alt text](image-12.png)
+![alt text](Images/image-12.png)
 
- ![alt text](image-14.png)
+ ![alt text](Images/image-14.png)
 
- ![alt text](image-15.png)
+ ![alt text](Images/image-15.png)
 
 **Peterson museumx**
-![alt text](image-13.png)
+![alt text](Images/image-13.png)
 
 ### Fairfax
 
@@ -157,7 +157,7 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 **Pellissier Building and Wiltern Theatre**
 - art deco landmark
 
-![alt text](image-17.png)
+![alt text](Images/image-17.png)
 
 ### Downtown
 
@@ -172,27 +172,27 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 - https://www.exp1.com/blog/inside-the-bradbury-building-victorian-charm-meets-sci-fi-in-la/
 - [MYTAKE] I can't believe I already had the honor of visiting the Bradbury building. I love this building because it has symultaneously classic and modern. And it is the end of one of my favourie scenes on all cinema, the last scene of 500 days of Summer, I have watched so many times at this point that I probably already summarized it
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 **Eastern columbia building**
 - Art deco landmark
 - turquoise terracotta with deep blue and gold trim
 
-![alt text](image-18.png)
+![alt text](Images/image-18.png)
 
 **Pershing square**
 - The Los Angeles phase is my first memory of the Pershing Square (https://www.youtube.com/watch?v=whRlo118HMY)
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 
 **The last bookstore**
 
-![alt text](image-20.png)
+![alt text](Images/image-20.png)
 
 **The Broad**
 
-![alt text](image-21.png)
+![alt text](Images/image-21.png)
 
 **Olive Street Parking Garage**
 
@@ -202,7 +202,7 @@ https://giggster.com/blog/famous-los-angeles-filming-locations/
 - This a neighborhood where Tom (main character of 500 of days of summer)
 - Angels Knoll Park
 
-![alt text](image-22.png)
+![alt text](Images/image-22.png)
 
 ### Bunker hill
 
@@ -214,7 +214,7 @@ a lot of film noire happened here, because this neighborhood was run down even t
 
 **El Cabrillo**
 
-![alt text](image-30.png)
+![alt text](Images/image-30.png)
 
 ## San Fernando Valley
 
@@ -227,7 +227,7 @@ a lot of film noire happened here, because this neighborhood was run down even t
 **Pink Motel**
 - movie Drive
 
-![alt text](image-29.png)
+![alt text](Images/image-29.png)
 
 ## Pasadena
 
@@ -242,22 +242,22 @@ a lot of film noire happened here, because this neighborhood was run down even t
 - It is often described as the first steel frame house in the United States, and also an early example of the use of gunite (sprayed-on concrete). 
 - one of the first international style house
 - [MYTAKE] For me, nothing beats the Los Feliz in the LA county. Because in the end of the day, Beverly Hills is not that cool, because the people that live there are the actors and actresses of the filming industry, the "testas de ferro". But in Los Feliz, you have the producers, the writers, the designers etc. The people that actually architect and think the movies we watch
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
 
-![alt text](<Screen Shot 2025-02-28 at 1.30.54 PM.png>)
+![alt text](Images/<Screen Shot 2025-02-28 at 1.30.54 PM.png>)
 
 ## South Los Angeles
 
 **Watts Towers**
 
-![alt text](image-36.png)
+![alt text](Images/image-36.png)
 
 ## Hollywood hills
 
 **Muholland Drive**
 
-![alt text](image-23.png)
+![alt text](Images/image-23.png)
 
 # West hollywood
 
@@ -265,31 +265,31 @@ a lot of film noire happened here, because this neighborhood was run down even t
 
 # Death valley
 
-![alt text](image-28.png)
+![alt text](Images/image-28.png)
 
 # Malibu
 
 **Getty villa**
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 Surf culture
 - Hollywood & Pop Culture Influence: Malibu’s surf scene was immortalized in movies, TV shows, and music, from the 1959 film Gidget to The Beach Boys’ songs. This exposure helped introduce surfing to mainstream America and beyond
 
-![alt text](image-31.png)
+![alt text](Images/image-31.png)
 
 Celebrities
 - Many celebrities that dislike the beverly hills life live in Malibux
 
 **El Matador state beach**
 
-![alt text](image-32.png)
+![alt text](Images/image-32.png)
 
 **Zuma beach**
-![alt text](image-33.png)
+![alt text](Images/image-33.png)
 
 # Brentwood
 
 **The Getty**
 
-![alt text](image-37.png)
+![alt text](Images/image-37.png)

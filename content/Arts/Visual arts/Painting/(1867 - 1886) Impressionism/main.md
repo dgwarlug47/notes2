@@ -31,7 +31,7 @@ Main painters
 - One of the critics labeled one of the monet's painting as an impression, unfinished, and that's where the name of movement came from
 - This exibhition had very different rules than the ones from the salon, like no jury
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 ## Photography 
 - The fact that at the time photography started to exist, it became a bit meaningless to have paintings to be realistic, since photographies did a better job doing that
@@ -50,38 +50,38 @@ Main painters
 
 # Monet
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 ## Japanese Bridge over a Pond of Water Lilies’ (1899)
 - Metropolitan museum of art
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 ## Charing Cross Bridge, London
 - Today, the Charing Cross Bridge paintings are scattered in museums around the world. These include the Art Institute of Chicago,[3] the Baltimore Museum of Art,[4] the Museum of Fine Arts, Boston,[5] the Art Gallery of Ontario[6] and the Thyssen-Bornemisza Museum in Madrid
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 ## ‘San Giorgio Maggiore at Dusk’ (1908 – 1912)
 - National Museum Cardiff
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 ## Study of a Figure Outdoors: Woman with a Parasol, Facing Left
 - Musée d'Orsay
 
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
 
 
 ## La Gare Saint-Lazare
 - Today, the Gare Saint-Lazare paintings are scattered in institutions all over the world, including Musée d'Orsay, Fogg Art Museum, Art Institute of Chicago, National Gallery, Musée Marmottan Monet, Pola Museum of Art, Lower Saxony State Museum, and other private collections
 
-![alt text](image-10.png)
+![alt text](Images/image-10.png)
 
 ## Rouen Cathedral
 - Metropolitan
 
-![alt text](image-11.png)
+![alt text](Images/image-11.png)
 
 # Camille Pisarro
 
@@ -97,20 +97,20 @@ Main painters
 
 ## The Garden of the Tuileries on a Winter Afternoon,
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 
 ## La Place du Théâtre Français
 
-![alt text](image-8.png)
+![alt text](Images/image-8.png)
 
 # Renoir
 
 
 ## Portrait of Jeanne Samary, 1877
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 ## Young Girl with Red Hair
 
-![alt text](image-6.png)
+![alt text](Images/image-6.png)

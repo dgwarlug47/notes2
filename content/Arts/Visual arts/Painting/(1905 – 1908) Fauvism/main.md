@@ -27,7 +27,7 @@ Why I like it
 
 # Matisse
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 Observation
 - His most important paintings
@@ -41,7 +41,7 @@ The woman with umbrella
 - "a tela eh quase um efeito de luz intensa que irradia em uma onda de cores
 projetada da figura neoimpressnista da mulher"
 
-![alt text](image.png))
+![alt text](Images/image.png)
 
 
 View of Collioure
@@ -56,20 +56,20 @@ e exclusivamente uma busca pela harmonia na expressao. Dessa forma, as cores abi
 e verossimeis (o laranja nas telhas)
 - "as cores se tornam um veiculo expressov priveligado e o caminho em direcao a abstracao"
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 The open window
 - National Gallery of Washington (DC)
 - For him the windows were like an escape of a prison, so he very commonly used window
 in his painting
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 Seated woman back turned to the open window
 - Musée des beaux-arts de Montréal
 - Reminds me of Recife
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 
 # André Derain
@@ -79,7 +79,7 @@ Charing Cross Bridge, London
 - National Gallery of art
 - There is part in Moma
 
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
 # Maurice Vlamik
 
@@ -87,4 +87,4 @@ The River Seine at Chatou
 - Very strong impasto, reminds me of Van Gogh
 - Metropolitan museum
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)

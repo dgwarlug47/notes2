@@ -7,12 +7,11 @@ publishDate: 2025-04-04
 ---
 
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
-OBSERVATION: This note is highly unstructed, it still needs to be rewritten
 
-# Main Characters in *Fahrenheit 451*
+# Character Introduction
 
 ## 1. **Guy Montag**
 - The protagonist of the novel.

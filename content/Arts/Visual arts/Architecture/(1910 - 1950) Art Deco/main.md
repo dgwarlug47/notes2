@@ -8,8 +8,6 @@ publishDate: 2025-03-02
 
 
 
-
-
 Impact
 - American skyscrapers marked the summit of the Art Deco style; they became the tallest and most recognizable modern buildings in the world
 

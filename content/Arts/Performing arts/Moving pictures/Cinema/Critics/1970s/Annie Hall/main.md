@@ -7,7 +7,7 @@ publishDate: 2025-03-01
 highlights: true
 ---
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 A million feelings come rushing in when I think about Annie Hall. This film holds a special place in my life—it was my first truly cinematic experience, and to this day, it's my all-time favorite movie. Watching it again now, for the second time—after first seeing it with my brother—I feel even more connected to it.
 
@@ -27,27 +27,27 @@ One of the most fascinating aspects of Annie Hall is its metalinguistic playfuln
 
 What makes Annie Hall truly timeless is its flawless dissection of romantic relationships. I’ve only had one real relationship in my life, and yet this film captures it all better than I ever could. Before I saw it, I didn’t even know how to define what a relationship was. And now? I feel like I do. That’s why it resonates so deeply. Because love hasn’t changed in a thousand years—and it won’t change in a thousand more. No matter how many books we read, or how many versions of ChatGPT get released… we’ll always need the eggs.
 
-![alt text](1.png)
+![alt text](Images/1.png)
 
-![alt text](2.png)
+![alt text](Images/2.png)
 
-![alt text](4.png)
+![alt text](Images/4.png)
 
-![alt text](5.png)
+![alt text](Images/5.png)
 
-![alt text](6.png)
+![alt text](Images/6.png)
 
-![alt text](7.png)
+![alt text](Images/7.png)
 
-![alt text](9.jpeg)
+![alt text](Images/9.jpeg)
 
-![alt text](10.jpg)
+![alt text](Images/10.jpg)
 
-![alt text](11.jpg)
+![alt text](Images/11.jpg)
 
-![alt text](12.jpeg)
+![alt text](Images/12.jpeg)
 
-![alt text](13.jpg)
+![alt text](Images/13.jpg)
 
 # Roger ebert
 

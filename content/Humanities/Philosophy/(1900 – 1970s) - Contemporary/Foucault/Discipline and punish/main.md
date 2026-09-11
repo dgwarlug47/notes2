@@ -6,9 +6,9 @@ types: Philosophy
 publishDate: 2025-03-02
 ---
 
-![Discipline and Punish note tree](note-tree.png)
+![Discipline and Punish note tree](Images/note-tree.png)
 
-![Discipline and Punish book cover](image.png)
+![Discipline and Punish book cover](Images/image.png)
 
 # Core Thesis
 
@@ -72,7 +72,7 @@ publishDate: 2025-03-02
 
 ## Panopticon
 
-![Panopticon](image-1.png)
+![Panopticon](Images/image-1.png)
 
 - [Illustration] [The Panopticon demonstrates normalizing power] The Panopticon is a strong illustration of normalizing power because the mind is controlled completely by psychological stimuli rather than actual physical effort.
 

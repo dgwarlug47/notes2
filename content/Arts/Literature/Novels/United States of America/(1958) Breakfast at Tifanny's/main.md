@@ -6,7 +6,9 @@ types: Literature
 publishDate: 2025-03-12
 ---
 
-![alt text](image.png))
+![alt text](image-1.png)
+
+![alt text](image.png)
 
 # Metadata
 

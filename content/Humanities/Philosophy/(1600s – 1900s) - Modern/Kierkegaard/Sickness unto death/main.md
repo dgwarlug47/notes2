@@ -7,7 +7,7 @@ publishDate: 2025-03-30
 highlights: true
 ---
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 
 # Chapter 1

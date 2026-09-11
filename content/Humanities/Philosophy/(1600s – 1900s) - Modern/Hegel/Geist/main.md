@@ -10,7 +10,7 @@ highlights: true
 
 # Geist Definition
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 ## What is Geist
 
@@ -39,7 +39,7 @@ highlights: true
   - This is to a certain extent our ultimates goals (the end itself), for example capitalist ethic is a type of absolute spirit
   - Since it's the end itself it displayes the ultimate expression of our freedom
 
-![alt text](hegel.png)
+![alt text](Images/hegel.png)
 
 ## World Historical Individual
 
@@ -47,7 +47,7 @@ highlights: true
 - - For me that makes a lot of sense when I think of Bolsonaro, for example he satisfies: "That people's Spirit is unconscious until it is brought to consciousness by the world-historical individual", also that he is the concrete and universal because the absolute spirit is something abstract because it's universal, but Bolsonaro is concrete, even though he represents something very abstract which is the right wing in Brazil, he is still concrete
 - For Hegel, the great hero is unwittingly utilized by Geist or absolute spirit, by a "ruse of reason" as he puts it, and is irrelevant to history once his historic mission is accomplished; he is thus subjected to the teleological principle of history, a principle which allows Hegel to reread the history of philosophy as culminating in his philosophy of history
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 # Concrete and Universal
 

@@ -6,9 +6,9 @@ types: Social Sciences
 publishDate: 2025-04-02
 ---
 
-![Cover of Liquid Modernity by Zygmunt Bauman](image.png)
+![Cover of Liquid Modernity by Zygmunt Bauman](Images/image.png)
 
-![Note tree for the Liquid Modernity proposal](note-tree.png)
+![Note tree for the Liquid Modernity proposal](Images/note-tree.png)
 
 # Liquid Modernity
 

@@ -7,7 +7,7 @@ publishDate: 2025-04-13
 ---
 
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 This movie really carries a strong theme of redemption. Even though Mark Ruffalo’s character starts off as a pretty awful person—lacking self-control and direction—there’s still the possibility of growth. He begins to adopt a "growth mindset," moving from terrible to simply "not that bad." And because his ex-wife and daughter are so used to his worst, even this modest improvement feels remarkable. It’s a testament to how change, however small, can still mean a lot.
 

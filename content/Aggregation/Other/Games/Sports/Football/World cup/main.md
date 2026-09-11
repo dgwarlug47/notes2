@@ -41,8 +41,8 @@ highlights: true
 ### Final
 - Brazil 3–1 Czechoslovakia
 
-![alt text](Amarildo.png)
-![alt text](<Amarildo 2.png>)
+![alt text](Images/Amarildo.png)
+![alt text](<Images/Amarildo 2.png>)
 
 ## 1966 FIFA World Cup (England)
 
@@ -64,8 +64,8 @@ highlights: true
 ### Quarter-finals
 - Brazil 4–2 Peru  
 
-![alt text](<1970 rivelino.png>)
-![alt text](<1970 brazil 2.png>)
+![alt text](<Images/1970 rivelino.png>)
+![alt text](<Images/1970 brazil 2.png>)
 - Uruguay 1–0 Soviet Union (AET)  
 - West Germany 3–2 England (AET)  
 - Italy 4–1 Mexico  
@@ -73,15 +73,15 @@ highlights: true
 ### Semi-finals
 - Brazil 3–1 Uruguay
 
-![alt text](<1970 brazil 3.png>)
-![alt text](<Rivelino goal 2.png>)
+![alt text](<Images/1970 brazil 3.png>)
+![alt text](<Images/Rivelino goal 2.png>)
 
 - Italy 4–3 West Germany (AET)  
 
 ### Final
 - Brazil 4–1 Italy  
 
-![alt text](<Brazil vs Italy.png>)
+![alt text](<Images/Brazil vs Italy.png>)
 
 ## 1974 FIFA World Cup (West Germany)
 
@@ -92,13 +92,13 @@ Argentina vs Netherlands (4-0)
 ### Semi-finals (Second Group Stage Winners)
 - Netherlands 2–0 Brazil
 -  - Arguably one of the most important goals of Cruyff's career
-![alt text](CRUYYF.png)
+![alt text](Images/CRUYYF.png)
 
 - West Germany 1–0 Poland
 
 ### Final
 - West Germany 2–1 Netherlands 
-![[Pasted image 20251221104558.png]]
+![[Images/Pasted image 20251221104558.png]]
 
 ## 1978 FIFA World Cup (Argentina)
 
@@ -107,13 +107,13 @@ Argentina vs Netherlands (4-0)
 - Netherlands 2–1 Italy  
 - - A very stunning goal
 
-![alt text](1978-3.png)
+![alt text](Images/1978-3.png)
 ### Final
 - Argentina 3–1 Netherlands (AET)
 - - It's funny because the goals from argentina are disorganized. Whereas Holland had a football philosophy, theory, structure and all of that
 
-![alt text](1978-1.png)
-![alt text](1978-2.png)
+![alt text](Images/1978-1.png)
+![alt text](Images/1978-2.png)
 
 ## 1982 FIFA World Cup (Spain)
 
@@ -125,11 +125,11 @@ On the group stage, Italy had three draws, no one could ever imagine that they w
 - Italy 3–2 Brazil  
 - [MYTAKE] Most brazilian defeats make me angry, but this one I can't help it but find it funny
 - [MYTAKE] I find this game magical, because Brazil's strange case of Dr Jekyll and Mr Hyde. How come a team can be so absolutely beautiful on the offense, but so careless and pathethic on the defense
-![alt text](rossi1.png)
-![alt text](rossi2.png)
-![alt text](socrates.png)
-![alt text](falcao.png)
-![alt text](1982.png)
+![alt text](Images/rossi1.png)
+![alt text](Images/rossi2.png)
+![alt text](Images/socrates.png)
+![alt text](Images/falcao.png)
+![alt text](Images/1982.png)
 - West Germany 5–4 France (Penalties, after 3–3 AET)  
 
 ### Semi-finals
@@ -140,21 +140,21 @@ On the group stage, Italy had three draws, no one could ever imagine that they w
 - Italy 3–1 West Germany  
 - Paolo Rossi said in an interview that this goal epitomizes his football style
 
-![alt text](1982-1.png)
+![alt text](Images/1982-1.png)
 
 ## 1986 FIFA World Cup (Mexico)
 
 ### Quarter-finals
 - Argentina 2–1 England 
-![[Pasted image 20251221104045.png]]
-![[Pasted image 20251221104138.png]]
+![[Images/Pasted image 20251221104045.png]]
+![[Images/Pasted image 20251221104138.png]]
 - West Germany 0–0 Mexico (West Germany won on penalties)  
 - France 1–1 Brazil (France won on penalties)
 	- There was a driver that taught me how to drive that, was named after this defeat. His father promised that if France won, he would name his kid after Michel Platini, airgo his name is Michel Platini
 
-![alt text](<Screen Shot 2025-03-29 at 3.21.40 PM.png>)
-![alt text](<Screen Shot 2025-03-29 at 3.22.34 PM.png>)
-![alt text](1986.png)
+![alt text](<Images/Screen Shot 2025-03-29 at 3.21.40 PM.png>)
+![alt text](<Images/Screen Shot 2025-03-29 at 3.22.34 PM.png>)
+![alt text](Images/1986.png)
 
 
 
@@ -181,11 +181,11 @@ This world cup was so ugly
 - Argentina 1–1 Italy (Argentina won on penalties)
 - West Germany 1–1 England (West Germany won on penalties)
 
-![alt text](1990.png)
+![alt text](Images/1990.png)
 
 ### Final
 - West Germany 1–0 Argentina  
-![[Pasted image 20251221105232.png]]
+![[Images/Pasted image 20251221105232.png]]
 
 ## 1994 FIFA World Cup (USA)
 
@@ -198,29 +198,29 @@ This world cup was so ugly
 ### Semi-finals
 - Brazil 1–0 Sweden  
 
-![alt text](<Brazil vs Sweden.png>)
+![alt text](<Images/Brazil vs Sweden.png>)
 - Italy 2–1 Bulgaria  
 
-![alt text](<Baggio magic goal.png>)
-![alt text](<Baggio second goal.png>)
+![alt text](<Images/Baggio magic goal.png>)
+![alt text](<Images/Baggio second goal.png>)
 
 ### Final
 - Brazil 0–0 Italy (Brazil won on penalties)  
 
-![[Pasted image 20251221103642.png]]
+![[Images/Pasted image 20251221103642.png]]
 
 ## 1998 FIFA World Cup (France)
 
 ### Quarter-finals
 - Brazil 3–2 Denmark
 
-![alt text](1998-3.png)
+![alt text](Images/1998-3.png)
 
-![alt text](1998-2.png)
+![alt text](Images/1998-2.png)
 
 - Netherlands 2–1 Argentina
 
-![alt text](image.png))
+![alt text](Images/image.png))
 
 - France 0–0 Italy (France won on penalties)  
 - Croatia 3–0 Germany  
@@ -228,25 +228,25 @@ This world cup was so ugly
 ### Semi-finals
 - Brazil 1–1 Netherlands (Brazil won on penalties)
 
-![alt text](1998-1.png)
+![alt text](Images/1998-1.png)
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 - France 2–1 Croatia  
 	- [MYTAKE] Thuram only scored 13 goals in his life, and two on his international career. Turns out that both of them were in the most crucial moment, in a World Cup Semi finals.
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 ### Final
 - France 3–0 Brazil
 
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
 ## 2002 FIFA World Cup (South Korea/Japan)
 
 ### Quarter-finals
 - Germany 1–0 USA
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 - South Korea 0–0 Spain (South Korea won on penalties)  
 - Brazil 2–1 England
@@ -256,7 +256,7 @@ This world cup was so ugly
 - Germany 1–0 South Korea  
 - A very typical Germany win, boring as fuck
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 - Brazil 1–0 Turkey  
 
 ### Final
@@ -272,39 +272,39 @@ This world cup was so ugly
 - - [MYTAKE] epic masterclass by Zidane vs Brazil, we had 4 great players and France had done. But that one great player was named Zidane
 - - Great assist by Zidane
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
-![alt text](<Zidane assist.png>)
+![alt text](<Images/Zidane assist.png>)
 
 ### Semi-finals
 - Italy 2–0 Germany (AET)  
 - France 1–0 Portugal
 
-![alt text](<France vs Portugal.png>)
+![alt text](<Images/France vs Portugal.png>)
 
 ### Final
 - Italy 1–1 France (Italy won on penalties)  
 - - [MYTAKE] it's ironic that Zidane used his head to score twice against Brazil 8 years ago, but now he used his head to be sent off
 
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 ## 2010 FIFA World Cup (South Africa)
 
 ### Quarter-finals
 - Netherlands 2–1 Brazil
-![[Pasted image 20251221103051.png]]
+![[Images/Pasted image 20251221103051.png]]
 - Uruguay 1–1 Ghana (Uruguay won on penalties)  
 - Germany 4–0 Argentina
 
 ### Semi-finals
 - Netherlands 3–2 Uruguay  
 
-![alt text](<Holland vs Uruguay.png>)
+![alt text](<Images/Holland vs Uruguay.png>)
 - Spain 1–0 Germany  
 
 ### Final
 - Spain 1–0 Netherlands (AET)  
-![[Pasted image 20251221103419.png]]
+![[Images/Pasted image 20251221103419.png]]
 ## 2014 FIFA World Cup (Brazil)
 
 ### Quarter-finals
@@ -314,13 +314,13 @@ This world cup was so ugly
 ### Semi-finals
 - Germany 7–1 Brazil  
 - Argentina 0–0 Netherlands (Argentina won on penalties)  
-![[Pasted image 20251221103813.png]]
+![[Images/Pasted image 20251221103813.png]]
 
 ### Final
 - Germany 1–0 Argentina (AET)  
 	-  [MYTAKE] For Messi, we were able to see his Mr Hyde first, whereas for Maradona we see his Mr Hyde later. After all, the more social skills one has the more he can postpone the revelation from his Mr Hyde, this also resonates with Pride and Prejudice
 
-![[Pasted image 20251221105602.png]]
+![[Images/Pasted image 20251221105602.png]]
 ## 2018 FIFA World Cup (Russia)
 
 ### Quarter-finals
@@ -333,7 +333,7 @@ This world cup was so ugly
 
 ### Final
 - France 4–2 Croatia  
-![[Pasted image 20251221104713.png]]
+![[Images/Pasted image 20251221104713.png]]
 
 ## 2022 FIFA World Cup (Qatar)
 

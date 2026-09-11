@@ -6,9 +6,9 @@ types: Philosophy
 publishDate: 2025-05-02
 ---
 
-![Being and Time book cover](image-1.png)
+![Being and Time book cover](Images/image-1.png)
 
-![Being and Time note tree](note-tree.png)
+![Being and Time note tree](Images/note-tree.png)
 
 
 # Being-in-the-World
@@ -48,7 +48,7 @@ publishDate: 2025-05-02
 
 ## Authenticity
 
-- [Definition] [Authenticity] Authenticity (*Eigentlichkeit*) is the ability to take ownership of your own existence your world and to live in accordance with your own values and goals.
+- [Definition]  Authenticity (*Eigentlichkeit*) is the ability to take ownership of your own existence your world and to live in accordance with your own values and goals.
 
 - [Definition] [Resoluteness is authenticity enacted in a concrete situation] Commit to a life project that reflects your own values. Take decisive, clear action even amid uncertainty. Do not be swayed by the anonymous voice of “the They” (*Das Man*).
 
@@ -65,12 +65,12 @@ publishDate: 2025-05-02
 
 # Anxiety
 
-- [Definition] [Anxiety] Heideggerian anxiety occurs when the familiar network of meanings that normally tells me what matters and what to do loses its authority—not merely when I doubt one particular choice.
+- [Definition] [Possibility of collapse in the network of meanings] Heideggerian anxiety occurs when the familiar network of meanings that normally tells me what matters and what to do loses its authority—not merely when I doubt one particular choice.
 
 # Modes of Encounter
-- [Definition] [Ready-to-hand] Ready-to-hand (*Zuhanden*) is the mode of encountering things as tools in use, where their significance is derived from their role in a meaningful context.
+- [Definition] Ready-to-hand (*Zuhanden*) is the mode of encountering things as tools in use, where their significance is derived from their role in a meaningful context.
 
-- [Definition] [Present-at-hand] Present-at-hand (*Vorhanden*) is the mode of encountering things as objects, where their significance is derived from their properties and relations.
+- [Definition]  Present-at-hand (*Vorhanden*) is the mode of encountering things as objects, where their significance is derived from their properties and relations.
 
 - [Relationship] [Ready-to-hand dominance leads to habituation]
 
@@ -90,3 +90,42 @@ publishDate: 2025-05-02
 - [Interpretation] [Language mediates the deeper factors that dominate us] Language is usually the medium through which deeper factors dominate us—not the independent master. Examples of dominant factors would be our family, country and what not.
 
 
+Human being, in Heideggerian terms, can be formalized as care operating inside a disclosed world: Dasein always finds
+  itself already thrown into facticity, public meanings, and practical involvements, while also projecting itself
+  toward possible ways of being.
+
+  The key variable is what governs care. When care is governed mainly by Das Man, unexamined facticity, and thrown
+  meanings, Dasein falls into fallenness: it speaks through idle talk, seeks stimulation through curiosity, and lives
+  in ambiguity, where things seem understood because public meanings are available but nothing is genuinely
+  appropriated.
+
+  The authentic route begins when anxiety weakens the authority of those inherited/public meanings and exposes Dasein
+  to the fact that its life is its own to take up. Authenticity is care reorganized around owned projection: Das Man
+  and facticity still condition life, but they no longer function as the primary source of meaning, action, and self-
+  understanding.
+
+  Resoluteness is authenticity enacted in a concrete situation: Dasein takes an owned possibility and acts through it
+  under uncertainty, instead of waiting for public permission or perfect clarity.
+
+  The modes of encounter describe how the world appears within this structure of care. In ready-to-hand encounter,
+  things show up practically, as tools embedded in projects; in present-at-hand encounter, things show up
+  theoretically, as objects with properties. A fallen life usually inherits these meanings passively from the public
+  world, while an authentic life reappropriates them through owned projection
+
+
+
+  IMPORTANT: Verfallen is the pull of everyday existence, he thinks we are for the most part, always already falling, LIKE A GRAVITATIONAL FORCE.
+
+  Living as Das Man vs being-a self
+
+  KEY Deciding factor: who is answerable for the choice? Is it your owned judgement, is it das man, is it the facticity, is it your autopilot?
+
+resolve or owned decision
+
+KEY OF LIFE: Gewissen-haben-wollen
+
+Fallenness is being carried along—either by one’s everyday routines or by the anonymous norms of das Man—rather than owning one’s possibilities.
+
+Eigenste Möglichkeit ("ownmost possibility") — the possibility that is authentically yours, as opposed to one handed to you by das Man. This is the key qualifier: not just any possibility counts, only the one you've made your own by facing it resolutely.
+
+so Eigenste Möglichkeit  leaves out of falleness

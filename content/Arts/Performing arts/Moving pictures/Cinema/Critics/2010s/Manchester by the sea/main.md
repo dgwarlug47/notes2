@@ -6,7 +6,7 @@ types: Cinema
 publishDate: 2025-03-02
 ---
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
 I didn’t plan to write anything about this movie, but it’s impossible not to. Manchester by the Sea got under my skin—it lingers. It opens quietly, introducing us to Lee. From the beginning, there’s something off, something unresolved. He seems uninterested in women—is he gay? (Not that it matters.) His behavior feels unusual, and the film skillfully builds a sense of mystery around him. We’re invited to ask: what’s wrong with this man?
 

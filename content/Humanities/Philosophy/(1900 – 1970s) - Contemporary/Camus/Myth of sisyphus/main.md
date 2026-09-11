@@ -6,25 +6,25 @@ types: Philosophy
 publishDate: 2025-11-27
 ---
 
-![Cover of The Myth of Sisyphus](image.png)
+![Cover of The Myth of Sisyphus](Images/image.png)
 
-![The Myth of Sisyphus note tree — Introduction and premise](tree-introduction.png)
+![The Myth of Sisyphus note tree — Introduction and premise](Images/tree-introduction.png)
 
-![The Myth of Sisyphus note tree — Main argument](tree-main-argument.png)
+![The Myth of Sisyphus note tree — Main argument](Images/tree-main-argument.png)
 
-![The Myth of Sisyphus note tree — Philosophical suicide, part 1](tree-philosophical-suicide-1.png)
+![The Myth of Sisyphus note tree — Philosophical suicide, part 1](Images/tree-philosophical-suicide-1.png)
 
-![The Myth of Sisyphus note tree — Philosophical suicide, part 2](tree-philosophical-suicide-2.png)
+![The Myth of Sisyphus note tree — Philosophical suicide, part 2](Images/tree-philosophical-suicide-2.png)
 
-![The Myth of Sisyphus note tree — Consequences, part 1](tree-consequences-1.png)
+![The Myth of Sisyphus note tree — Consequences, part 1](Images/tree-consequences-1.png)
 
-![The Myth of Sisyphus note tree — Consequences, part 2](tree-consequences-2.png)
+![The Myth of Sisyphus note tree — Consequences, part 2](Images/tree-consequences-2.png)
 
-![The Myth of Sisyphus note tree — The myth of Sisyphus](tree-myth-of-sisyphus.png)
+![The Myth of Sisyphus note tree — The myth of Sisyphus](Images/tree-myth-of-sisyphus.png)
 
-![The Myth of Sisyphus note tree — Art, part 1](tree-art-1.png)
+![The Myth of Sisyphus note tree — Art, part 1](Images/tree-art-1.png)
 
-![The Myth of Sisyphus note tree — Art and takeaway, part 2](tree-art-2.png)
+![The Myth of Sisyphus note tree — Art and takeaway, part 2](Images/tree-art-2.png)
 
 # Introduction
 

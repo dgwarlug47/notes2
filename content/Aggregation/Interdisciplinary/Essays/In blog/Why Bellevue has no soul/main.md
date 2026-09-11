@@ -6,9 +6,9 @@ types: Social Sciences
 publishDate: 2026-04-11
 ---
 
-![Note tree](tree.png)
+![Note tree](Images/tree.png)
 
-![Bellevue](image.png)
+![Bellevue](Images/image.png)
 
 # Why Bellevue Has No Soul
 

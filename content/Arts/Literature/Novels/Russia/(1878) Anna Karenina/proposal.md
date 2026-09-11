@@ -6,17 +6,17 @@ types: Literature
 publishDate: 2025-04-04
 ---
 
-![Book cover](image-9.png)
+![Book cover](Images/image-9.png)
 
-![Why the novel is great tree](tree-main-greatness.png)
+![Why the novel is great tree](Images/tree-main-greatness.png)
 
-![Government, policy, and urban-rural society tree](tree-main-society-part-1.png)
+![Government, policy, and urban-rural society tree](Images/tree-main-society-part-1.png)
 
-![Rules and customs tree](tree-main-society-part-2.png)
+![Rules and customs tree](Images/tree-main-society-part-2.png)
 
-![Family tree](tree-main-family.png)
+![Family tree](Images/tree-main-family.png)
 
-![Philosophy tree](tree-main-philosophy.png)
+![Philosophy tree](Images/tree-main-philosophy.png)
 
 # Why It Is Great
 

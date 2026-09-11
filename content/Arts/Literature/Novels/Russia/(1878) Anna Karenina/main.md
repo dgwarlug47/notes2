@@ -6,7 +6,7 @@ types: Literature
 publishDate: 2025-04-04
 ---
 
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
 
 
 # Why it's great

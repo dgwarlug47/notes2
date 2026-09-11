@@ -1,6 +1,8 @@
 # Configuration file for transport.py
 # Contains all source and destination path mappings
 
+import os
+
 baseDownstream = "/Users/davisena/Library/CloudStorage/GoogleDrive-davisena145@gmail.com/My Drive/Desktop/Knowledge/"
 baseUpstream = "/Users/davisena/Desktop/Code/notes2/content/"
 
@@ -12,7 +14,6 @@ relativeSourceFilePaths = [
     "Aggregation/Interdisciplinary/Essays/In blog",
     "Aggregation/Other/Games/Sports/Football/Champions League",
     "Aggregation/Other/Games/Sports/Football/Messi2",
-    "Aggregation/Other/Games/Sports/Football/World cup",
     "Aggregation/Other/Games/Sports/Football/World cup",
     "Arts/Literature/Novels/Brazil/(1881) Memorias Postumas de Bras Cubas",
     "Arts/Literature/Novels/Brazil/(1900) Dom Casmurro",
@@ -27,7 +28,8 @@ relativeSourceFilePaths = [
     "Arts/Literature/Novels/United States of America/(1920) The Age of Innocence",
     "Arts/Literature/Novels/United States of America/(1953) Farenheit 451",
     "Arts/Literature/Novels/United States of America/(1958) Breakfast at Tifanny's",
-    "Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Analysis",
+    "Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Story",
+    "Arts/Literature/Novels/United States of America/(1996) Infinite Jest/Characters",
     "Arts/Literature/Poetry/Aggregation/Mine",
     "Arts/Performing arts/Moving pictures/Cinema/Aggregation/Rom Coms based on what",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/1970s/Annie Hall",
@@ -37,10 +39,10 @@ relativeSourceFilePaths = [
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2010s/Midnight in Paris",
     "Arts/Performing arts/Moving pictures/Cinema/Critics/2020s/Licorice Pizza",
     "Arts/Performing arts/Music/Aggregation/Favourites/Indie Albums",
-    "Arts/Performing arts/Music/Indie/(1996–2010) Chamber Indie/Beirut",
-    "Arts/Performing arts/Music/Indie/(2015–Present) Experimental Post-Internet/Geese/Heavy Metal",
-    "Arts/Performing arts/Music/Indie/(1992–Present) Art Rock/Radiohead/Ok Computer",
-    "Arts/Performing arts/Music/Indie/(2008–2018) Jangle Revival/Real Estate/Beach Comber",
+    "Arts/Performing arts/Music/Indie/(1996 – 2010) Chamber Indie/Beirut",
+    "Arts/Performing arts/Music/Indie/(2015 – Present) Experimental Post-Internet/Geese/Heavy Metal",
+    "Arts/Performing arts/Music/Indie/(1992 – Present) Art Rock/Radiohead/Ok Computer",
+    "Arts/Performing arts/Music/Indie/(2008 – 2018) Jangle Revival/Real Estate/Beach Comber",
     "Arts/Visual arts/Architecture/(1910 - 1950) Art Deco",
     "Arts/Visual arts/Painting/(1867 - 1886) Impressionism",
     "Arts/Visual arts/Painting/(1905 - 1920) Expressionism",
@@ -53,14 +55,14 @@ relativeSourceFilePaths = [
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Camus/Myth of sisyphus",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Foucault/Discipline and punish",
     "Humanities/Philosophy/(1900 – 1970s) - Contemporary/Heidegger/Being and time",
-    "Humanities/Religion/Christianism/Principles",
-    "Humanities/Religion/Hinduism/Mahabharata/Bhishma Parva/Bhagavad Gita/Aggregation",
+    "Humanities/Religion/Hinduism/Mahabharata/Bhishma Parva/Bhagavad Gita/Aggregation/Post",
     "Mathematics/Logic/(1891) About an elementary question of the theory of diversity - Cantor",
     "Sciences/Natural Sciences/Psychology/Aggregation/MBTI",
     "Sciences/Social Sciences/Sociology/Aggregation/Myths and Their Impact in Society",
     "Sciences/Social Sciences/Economics/Economics of Inequality/Piketty/Capital in the 21st century",
     "Sciences/Social Sciences/History/Rome/Republic/Fall of Republic/The Caesarian Civil War and Dictatorship",
     "Sciences/Social Sciences/Sociology/Cultural Sociology/Zygmunt Bauman (Liquid Modernity, 2000)",
+    "Sciences/Social Sciences/Sociology/Cultural Sociology/Zygmunt Bauman (Liquid Love, 2003)",
     "Sciences/Social Sciences/Urban Geography/Canada/Toronto",
     "Sciences/Social Sciences/Urban Geography/USA/California/LA",
     "Sciences/Social Sciences/Urban Geography/USA/California/SF",
@@ -70,6 +72,15 @@ relativeSourceFilePaths = [
 
 def generateAbsoluteDownstreamAndUpstreamFilePaths():
     """Generate absolute paths for upstream and downstream files based on relative paths"""
-    # If x is a known value
-    result = [(baseDownstream + item, baseUpstream + item) for item in relativeSourceFilePaths]
+    result = []
+    for item in relativeSourceFilePaths:
+        downstream_path = baseDownstream + item
+        upstream_path = baseUpstream + item
+
+        result.append((downstream_path, upstream_path))
+
+        downstream_images_path = downstream_path + "/Images"
+        if os.path.exists(downstream_images_path):
+            result.append((downstream_images_path, upstream_path + "/Images"))
+
     return result

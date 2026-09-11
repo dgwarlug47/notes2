@@ -6,7 +6,7 @@ types: Literature
 publishDate: 2025-07-04
 ---
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 Brazsil,  
 Filho de pais portugueses  

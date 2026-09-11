@@ -6,13 +6,13 @@ types: Literature
 publishDate: 2025-04-04
 ---
 
-![Cover of Mrs Dalloway](image.png)
+![Cover of Mrs Dalloway](Images/image.png)
 
-![Characters introduction and plot note tree for Mrs Dalloway](note-tree-characters-plot2.png)
+![Characters introduction and plot note tree for Mrs Dalloway](Images/note-tree-characters-plot2.png)
 
-![Style, intimacy, and ending note tree for Mrs Dalloway](note-tree-style-intimacy-ending2.png)
+![Style, intimacy, and ending note tree for Mrs Dalloway](Images/note-tree-style-intimacy-ending2.png)
 
-![Character analysis note tree for Mrs Dalloway](note-tree-character-analysis2.png)
+![Character analysis note tree for Mrs Dalloway](Images/note-tree-character-analysis2.png)
 
 # Characters Introduction
 

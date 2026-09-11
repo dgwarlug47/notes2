@@ -10,17 +10,17 @@ publishDate: 2026-01-30
 ## Practical Alignment Defined
 - In this post, practical alignment means being long-term aligned on which decisions are best and having the ability to implement those decisions together.
 
-![altext](1.png)
+![altext](Images/1.png)
 
-![altext](2.png)
+![altext](Images/2.png)
 
-![altext](3.png)
+![altext](Images/3.png)
 
-![altext](4.png)
-![altext](5.png)
+![altext](Images/4.png)
+![altext](Images/5.png)
 
-![altext](6.png)
-![altext](7.png)
-![altext](8.png)
+![altext](Images/6.png)
+![altext](Images/7.png)
+![altext](Images/8.png)
 
-![altext](9.png)
+![altext](Images/9.png)

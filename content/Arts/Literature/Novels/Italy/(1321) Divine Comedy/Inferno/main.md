@@ -9,7 +9,7 @@ publishDate: 2025-03-18
 
 # Importance
 
-<img src="image-17.png" alt="drawing" width="600"/>
+<img src="Images/image-17.png" alt="drawing" width="600"/>
 
 ## Historical Importance
 
@@ -33,7 +33,7 @@ publishDate: 2025-03-18
 
 # Virgilio
 
-<img src="image-9.png" alt="drawing" width="600"/>
+<img src="Images/image-9.png" alt="drawing" width="600"/>
 
 [Relationship] [The author meets his idol]
 
@@ -49,10 +49,10 @@ Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do 
 
 # Visualization
 
-<img src="image-21.png" alt="drawing" width="600"/>
+<img src="Images/image-21.png" alt="drawing" width="600"/>
 - Botticelli
 
-<img src="sins architecture.png" alt="drawing" width="600"/>
+<img src="Images/sins architecture.png" alt="drawing" width="600"/>
 
 [MYTAKE] [The architecture of sin]
 
@@ -65,13 +65,13 @@ Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do 
 
 # Limbo (Level 1)
 
-<img src="image-10.png" alt="drawing" width="600"/>
+<img src="Images/image-10.png" alt="drawing" width="600"/>
 
 [Definition] [Limbo] The first level of Inferno, home to the unbaptized and virtuous pagans who lived and died before the birth of Christ.
 
 # Lust (Level 2)
 
-![alt text](image-22.png)
+![alt text](Images/image-22.png)
 
 ## Punishment
 
@@ -84,7 +84,7 @@ Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do 
 
 # Gluttony (Level 3)
 
-![alt text](image-23.png)
+![alt text](Images/image-23.png)
 
 ## Punishment
 
@@ -94,12 +94,12 @@ Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do 
 
 - Cerberus (described as il gran vermo, literally 'the great worm', line 22), the monstrous three-headed beast of Hell
 
-<img src="image-16.png" alt="drawing" width="600"/>
+<img src="Images/image-16.png" alt="drawing" width="600"/>
 
 
 # Greed (Level 4)
 
-<img src="image-11.png" alt="drawing" width="600"/>
+<img src="Images/image-11.png" alt="drawing" width="600"/>
 
 [Definition] [Pluto] Similar to Hades; deus infernal da riqueza.
 
@@ -112,7 +112,7 @@ Virgílio também tem um sentido alegórico: simboliza o intelecto, a razão do 
 
 # Anger (Level 5)
 
-<img src="image-12.png" alt="drawing" width="600"/>
+<img src="Images/image-12.png" alt="drawing" width="600"/>
 
 
 ## Rancor
@@ -127,12 +127,12 @@ d'água há gente que suspira, fazendo-a borbulhar. São aqueles vencidos pelo r
 
 ## Medusa
 
-<img src="image-18.png" alt="drawing" width="600"/>
+<img src="Images/image-18.png" alt="drawing" width="600"/>
 - Eugène Delacroix - The Barque of Dante, 1822
 
 # Heretics (Level 6)
 
-<img src="image-13.png" alt="drawing" width="600"/>
+<img src="Images/image-13.png" alt="drawing" width="600"/>
 
 [Definition] [Heresy] Teoria, ideia, prática etc. que nega ou contraria a doutrina estabelecida por um grupo — neste caso, a Igreja.
 
@@ -162,7 +162,7 @@ alma e da vida após a morte. [Larrousse 98]
 
 ## Primeiro giro (Assassinos)
 
-<img src="image-14.png" alt="drawing" width="600"/>
+<img src="Images/image-14.png" alt="drawing" width="600"/>
 
 ### River Phlegethon
 
@@ -178,7 +178,7 @@ alma e da vida após a morte. [Larrousse 98]
 
 ## Segundo giro (Suicidas)
 
-<img src="image-15.png" alt="drawing" width="600"/>
+<img src="Images/image-15.png" alt="drawing" width="600"/>
 
 ### Wood of the Suicides
 
@@ -192,7 +192,7 @@ alma e da vida após a morte. [Larrousse 98]
 
 # Fraud (Level 8)
 
-<img src="image-4.png" alt="drawing" width="600"/>
+<img src="Images/image-4.png" alt="drawing" width="600"/>
 
 [Definition] [Fraud]
 
@@ -206,7 +206,7 @@ alma e da vida após a morte. [Larrousse 98]
 
 ## First Bolgia (Panderers and Seducers)
 
-<img src="image-5.png" alt="drawing" width="600"/>
+<img src="Images/image-5.png" alt="drawing" width="600"/>
 - Botticelli
 
 Panderers and seducers are punished here. They are forced to march, single file around the circumference of their circle, constantly lashed (whipped) by horned demons.
@@ -223,7 +223,7 @@ Sinners guilty of excessive flattery are punished in this bolgia, immersed forev
 
 ## Sixth Bolgia (Hypocrites)
 
-<img src="image-8.png" alt="drawing" width="600"/>
+<img src="Images/image-8.png" alt="drawing" width="600"/>
 
 They are forced to wear heavy lead robes as they walk around the circumference of their circle. 
 The robes are golden and resemble a monk's cowl but are lined with heavy lead, symbolically representing hypocrisy. 
@@ -240,7 +240,7 @@ In Inferno 24, the thieves are trapped in a self-perpetuating cycle of being bit
 
 ## Eighth Bolgia (Counselors of Fraud)
 
-<img src="image-7.png" alt="drawing" width="600"/>
+<img src="Images/image-7.png" alt="drawing" width="600"/>
 
 Here, the souls are burned in brilliant flames.
 
@@ -248,7 +248,7 @@ Ulysses is guilty of fraudulent counsel: in Dante's account he urges his men to 
 
 ## Ninth Bolgia (Sowers of Discord)
 
-<img src="image-6.png" alt="drawing" width="600"/>
+<img src="Images/image-6.png" alt="drawing" width="600"/>
 
 They are forced to walk around the circumference of the circle bearing horrible, disfiguring wounds inflicted on them by a great demon with a sword.
 - in portuguese: Os semeadores de discórdias são esfaqueados pela espada de um demônio, que os pune causando mutilações em partes do corpo representativas do tipo de discórdia que provocaram. Eles estão com as entranhas para fora, aparecendo seus estômagos; alguns têm a cabeça cortada; outros, os braços e as pernas; outros, a língua, as orelhas ou o nariz.
@@ -275,7 +275,7 @@ Among those who are tormented here is Muhammad, prophet of Islam and his son-in-
 
 # Treachery (Level 9, Cocito)
 
-<img src="image-19.png" alt="drawing" width="600"/>
+<img src="Images/image-19.png" alt="drawing" width="600"/>
 
 - Gustave Dore
 
@@ -315,7 +315,7 @@ Punishment
 
 ## Fosso do Cocito (Dite, center of the earth)
 
-<img src="image-20.png" alt="drawing" width="600"/>
+<img src="Images/image-20.png" alt="drawing" width="600"/>
 
 ### Lucifer
 

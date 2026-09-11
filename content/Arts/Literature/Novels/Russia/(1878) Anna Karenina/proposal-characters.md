@@ -7,29 +7,29 @@ publishDate: 2025-05-26
 highlights: true
 ---
 
-![Book cover](image.png)
+![Book cover](Images/image.png)
 
-![Anna character tree](tree-character-anna.png)
+![Anna character tree](Images/tree-character-anna.png)
 
-![Stiva character tree](tree-character-stiva.png)
+![Stiva character tree](Images/tree-character-stiva.png)
 
-![Levin character tree](tree-character-levin.png)
+![Levin character tree](Images/tree-character-levin.png)
 
-![Vronsky character tree, part 1](tree-character-vronsky-part-1.png)
+![Vronsky character tree, part 1](Images/tree-character-vronsky-part-1.png)
 
-![Vronsky character tree, part 2](tree-character-vronsky-part-2.png)
+![Vronsky character tree, part 2](Images/tree-character-vronsky-part-2.png)
 
-![Kitty and Dolly character tree](tree-character-kitty-dolly.png)
+![Kitty and Dolly character tree](Images/tree-character-kitty-dolly.png)
 
-![Karenin character tree](tree-character-karenin.png)
+![Karenin character tree](Images/tree-character-karenin.png)
 
-![Character relationships tree](tree-character-relationships.png)
+![Character relationships tree](Images/tree-character-relationships.png)
 
 - [Reading progress] [Page 690]
 
 # Anna Arkadyevna Karenina: The Passionate and Tragic Woman
 
-![Anna Karenina](image-1.png)
+![Anna Karenina](Images/image-1.png)
 
 - [Light side] [Anna is loving, passionate, deeply feeling, and willing to defy social hypocrisy]
 - [Dark side] [Anna becomes jealous, self-destructive, unstable, and detached from reality]
@@ -81,7 +81,7 @@ highlights: true
 
 # Stiva Oblonsky: The Hedonist and Social Man
 
-![Stiva Oblonsky](image-2.png)
+![Stiva Oblonsky](Images/image-2.png)
 
 - [Light side] [Stiva is charming, generous, sociable, affectionate, and easygoing]
 - [Dark side] [Stiva is irresponsible, adulterous, shallow, self-indulgent, and incapable of growth]
@@ -119,7 +119,7 @@ highlights: true
 
 # Konstantin Dmitrievich Levin: The Seeker and Integrated Man
 
-![Konstantin Levin](image-3.png)
+![Konstantin Levin](Images/image-3.png)
 
 - [Light side] [Levin is sincere, hardworking, morally serious, introspective, and capable of growth]
 - [Dark side] [Levin is proud, socially awkward, obsessive, self-critical, and prone to despair]
@@ -167,7 +167,7 @@ highlights: true
 
 # Count Alexei Kirillovich Vronsky: The Romantic and Ambitious Man
 
-![Count Vronsky](image-4.png)
+![Count Vronsky](Images/image-4.png)
 
 - [Light side] [Vronsky is brave, loyal, initially idealistic, and deeply in love]
 - [Dark side] [Vronsky is self-centered, shallow, and unable to sustain responsibility]
@@ -230,7 +230,7 @@ highlights: true
 
 # Kitty Shcherbatsky: The Innocent and Growing Woman
 
-![Kitty Shcherbatsky](image-7.png)
+![Kitty Shcherbatsky](Images/image-7.png)
 
 - [Light side] [Kitty is innocent, kind, nurturing, and emotionally mature]
 - [Dark side] [Kitty begins superficial, naive, and vulnerable to social rejection]
@@ -251,7 +251,7 @@ highlights: true
 
 # Alexei Alexandrovich Karenin: The Rationalist and Bureaucratic Man
 
-![Alexei Karenin](image-5.png)
+![Alexei Karenin](Images/image-5.png)
 
 - [Light side] [Karenin is dutiful, rational, controlled, and committed to moral order]
 - [Dark side] [Karenin is cold, repressed, prideful, and more concerned with reputation than compassion]
@@ -291,7 +291,7 @@ highlights: true
 
 # Darya Alexandrovna: The Dutiful and Resigned Woman
 
-![Dolly](image-8.png)
+![Dolly](Images/image-8.png)
 
 ## Low Self-Esteem
 

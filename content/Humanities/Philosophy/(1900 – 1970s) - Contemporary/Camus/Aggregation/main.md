@@ -6,9 +6,9 @@ types: Philosophy
 publishDate: 2025-03-01
 ---
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
-![Camus note tree — absurdism and the big question](note-tree.png)
+![Camus note tree — absurdism and the big question](Images/note-tree.png)
 
 
 # Personal
@@ -53,6 +53,6 @@ publishDate: 2025-03-01
 
 # The Myth of Sisyphus
 
-![Sisyphus](image-1.png)
+![Sisyphus](Images/image-1.png)
 
 - [Example] [Conscious persistence without metaphysical appeal] For Camus, this myth encapsulates the big question. Sisyphus performs his task without any metaphysical purpose that redeems it, fully aware that no transcendent meaning guarantees its value, yet he continues. This lucid persistence epitomizes the absurdity of our lives.

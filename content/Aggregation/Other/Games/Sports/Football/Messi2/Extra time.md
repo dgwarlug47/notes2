@@ -1,6 +1,6 @@
 # Childhood
 
-<img src="image-56.png" alt="drawing" width="600"/>
+<img src="Images/image-56.png" alt="drawing" width="600"/>
 
 ## Background
 - Messi was born in 1987, a year after Maradona's World Cup victory.
@@ -36,7 +36,7 @@
 - After scoring his first goal, Messi climbed on Ronaldinho's back, symbolizing how much Ronaldinho valued the moment.
     - [MYTAKE] This goal is legendary. Ronaldinho, the best player at the time, asking a 16-year-old to climb on his back shows his humility and vision. Also, Messi's first goal being a chip, his trademark, is poetic.
 
-![alt text](image-24.png)
+![alt text](Images/image-24.png)
 
 # 2005/2006
 
@@ -48,7 +48,7 @@
 - A masterpiece during the Copa del Rey semi-final.
     - [MYTAKE] My second favorite Messi goal of all time. Truly beautiful and amazing.
 
-<img src="image.png" alt="drawing" width="600"/>
+<img src="Images/image.png" alt="drawing" width="600"/>
 
 ## Comparisons with Maradona
 - Early in his career, Messi scored a goal with his hand and another where he dribbled past everyone. These goals were scored in a short period, drawing comparisons to Maradona's iconic performances in the 1986 World Cup against England.
@@ -57,7 +57,7 @@
 ## Copa América
 - Runner-up, losing to Brazil in the final 3-0. Notably, Brazil's best players, like Ronaldinho, Roberto Carlos, and Kaká, were absent.
 
-![alt text](image-25.png)
+![alt text](Images/image-25.png)
 
 # 2007/2008
 
@@ -77,4 +77,4 @@
 - Barcelona won 4-0.
 - Messi scored 2 goals and provided 1 assist.
 
-<img src="image-37.png" alt="drawing" width="600"/>
+<img src="Images/image-37.png" alt="drawing" width="600"/>

@@ -7,7 +7,7 @@ publishDate: 2025-05-19
 highlights: true
 ---
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 # When Fantasy Meets Reality. The thought experiment of a manic dream pixie girl, and the face of its harsh reality
 
@@ -21,9 +21,9 @@ No matter how desperately Tom tries to make Summer value what he values, she mai
 
 # Shadows as an aesthetic symbolism of good and bad relationships
 
-![alt text](image.png)
+![alt text](Images/image.png)
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 The final scenes have captivated me countless times. I'm particularly struck by the visual and emotional asymmetry between Tom's interactions with Summer versus Autumn. When Tom meets Summer at the end, they present the dark side of their faces to each other, while in his encounter with Autumn the bright side of their faces face each other. This light contrast illustrates how one relationship brought out the worst in both parties, while the new possibility promises to elicit their best selves.
 

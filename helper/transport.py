@@ -39,6 +39,11 @@ def copy_folder(source_folder, destination_folder, timeout=100):
             for filename in os.listdir(source_folder):
                 source_path = os.path.join(source_folder, filename)
                 destination_path = os.path.join(destination_folder, filename)
+
+                if filename.lower().endswith(".png") and os.path.basename(destination_folder) != "Images":
+                    raise ValueError(
+                        f"Invalid PNG destination path (parent must be 'Images'): {destination_path}"
+                    )
                 
                 if os.path.isfile(source_path):
                     shutil.copy(source_path, destination_path)

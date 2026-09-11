@@ -5,7 +5,7 @@ description: I miss Toronto
 types: Urban Geography
 publishDate: 2025-03-02
 ---
-![alt text](image-4.png)
+![alt text](Images/image-4.png)
 
 # Ranking
 
@@ -42,74 +42,74 @@ From bottom up
 
 Little Canada
 
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 Eathon Center
 
-![alt text](image-1.png)
+![alt text](Images/image-1.png)
 
 Dundas Square
 
-![alt text](image.png))
+![alt text](Images/image.png)
 
 Old City Hall
 
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 Nathan Philips Square
 
-![alt text](image-5.png)
+![alt text](Images/image-5.png)
 
 Brookfield place
 
-![alt text](image-6.png)
+![alt text](Images/image-6.png)
 
 Hockey Hall of fame
 
-![alt text](image-7.png)
+![alt text](Images/image-7.png)
 
 Royal york
 
-![alt text](image-21.png)
+![alt text](Images/image-21.png)
 
 College park
 
-![alt text](image-22.png)
+![alt text](Images/image-22.png)
 
 
 # Church-Yonge Corridor
 
 Gooderham building
 
-![alt text](image-8.png)
+![alt text](Images/image-8.png)
 
 St. Michael's Cathedral Basilica
 - has a nice park too
 
-![alt text](image-9.png)
+![alt text](Images/image-9.png)
 
 Church Wellesley Village
 - where the gays are
 
-![alt text](image-10.png)
+![alt text](Images/image-10.png)
 
 # Kensigton-Chinatown
 
 AGO
 
-![alt text](image-11.png)
+![alt text](Images/image-11.png)
 
 OACD university
 
-![alt text](image-12.png)
+![alt text](Images/image-12.png)
 
 Grafitti Alley
 
-![alt text](image-13.png)
+![alt text](Images/image-13.png)
 
 Chinatown
 
-![alt text](image-14.png)
+![alt text](Images/image-14.png)
 
 ## Kensigton Market
 
@@ -120,7 +120,7 @@ Otto’s Berlin Döner (restaurant)
 
 Trinity Bellwoods Park
 
-![alt text](image-15.png)
+![alt text](Images/image-15.png)
 
 # Palmerson-Little Italy
 
@@ -129,7 +129,7 @@ Perla
 
 Korean Town
 
-![alt text](image-23.png)
+![alt text](Images/image-23.png)
 
 # Annex
 - borders Bloor
@@ -138,42 +138,42 @@ Yorkville village
 - Ferrari of Toronto
 - very nice village
 
-![alt text](image-24.png)
+![alt text](Images/image-24.png)
 
 Annex Pawn
 
-![alt text](image-25.png)
+![alt text](Images/image-25.png)
 
 Madison Avenue Pub
 - bar in victorian house
 
-![alt text](image-26.png)
+![alt text](Images/image-26.png)
 
 # University
 
 University of Toronto
 
-![alt text](image-19.png)
+![alt text](Images/image-19.png)
 
 Royal Ontario Museum
 
-![alt text](image-18.png)
+![alt text](Images/image-18.png)
 
 BMV Books
 
-![alt text](image-27.png)
+![alt text](Images/image-27.png)
 
 Philosopher’s Walk
-![alt text](image-28.png)
+![alt text](Images/image-28.png)
 
 John P. Robarts Research Library
-![alt text](image-29.png)
+![alt text](Images/image-29.png)
 
 # Moss Park
 
 Allan Gardens
 
-![alt text](image-17.png)
+![alt text](Images/image-17.png)
 
 # Little Portugal
 
@@ -182,40 +182,40 @@ Allan Gardens
 
 Revue R Cinema
 
-![alt text](image-30.png)
+![alt text](Images/image-30.png)
 
 Museum of Contemporary art
 
-![alt text](image-31.png)
+![alt text](Images/image-31.png)
 
 # Waterfront Communities-The Island
 
 Toronto Islands
 
-![alt text](image-32.png)
+![alt text](Images/image-32.png)
 
 Lake
 - Toronto Music Garden
 
-![alt text](image-33.png)
+![alt text](Images/image-33.png)
 
 ## West (of spadina)
 
 CN Tower
 
-![alt text](image-34.png)
+![alt text](Images/image-34.png)
 
 Rogers Center
 
-![alt text](image-35.png)
+![alt text](Images/image-35.png)
 
 Rec Room
 
-![alt text](image-36.png)
+![alt text](Images/image-36.png)
 
 Ripley's Aquarium of Canada
 
-![alt text](image-37.png)
+![alt text](Images/image-37.png)
 
 
 ## East (of spadina)
@@ -223,11 +223,11 @@ Ripley's Aquarium of Canada
 Distellery District
 - Victorian industrial buildings
 
-![alt text](image-20.png)
+![alt text](Images/image-20.png)
 
 Sugar beach
 
-![alt text](image-16.png)
+![alt text](Images/image-16.png)
 
 Corktown Common
 

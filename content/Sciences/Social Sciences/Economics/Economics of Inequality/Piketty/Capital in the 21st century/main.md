@@ -26,10 +26,10 @@ Central thesis
 
 # Graphs
 
-![alt text](<Inncome inequality in US.png>)
+![alt text](<Images/Inncome inequality in US.png>)
 - How can people still think Reagan was a good president. Was it worth it selling your soul for less inflation?
 
-![alt text](<ROC VS GDP global.png>)
+![alt text](<Images/ROC VS GDP global.png>)
 - The 20th century is one of the few moments in the history of man kind where GDP increases was larger than ROC (return of capital). Maybe that's why people remember so highly of that time, for example they refer to so many self made men
 - This graph shows how interesting is the difference between feudalism and capitalism, because in feudalism g = 0, which is crazy. This is an evidence that burgeousie and proletariat and not 100% against each other, because both improved their own growth metrics at least
 - I think this graph might be a bit misleading, because the people that own the capital is changing, which can lead to problems of interpretation. The owners of the means of production increasingly become more and more rich compared to the rest, but the persons that belong to that group change
@@ -40,7 +40,7 @@ Central thesis
 Kuznet is a nobel prize that believes the opposite of Krugman
 - Kuznets put the theory that the relationship between income inequality and economic growth was a inverted U-curve shaped. Therefore after the economy grew a lot, the inequality would be low
 
-![alt text](image.png))
+![alt text](Images/image.png)
 
 Recognition
 - At 1913 the 10% earners in the United States earned about half of the nantion's total annual income, but by the late 1940s that number plummeted to 35%. He even received a nobel prize of economics. During the 20st century it seemed that capitalism would naturally take care of inequality, Ricardo and Marx worries didn't materalize
